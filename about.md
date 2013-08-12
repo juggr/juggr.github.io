@@ -5,9 +5,10 @@ title: About
 
 #About
 
-Die Java User Group Görlitz ist eine Gruppe von Java Entwickler, die seit Anfang 2011 regelmäßig Treffen mit Vorträgen und anschließenden Diskussionen rund um das Thema "Java" organisiert und dazu alle Interessierten recht herlich einlädt.
 
-Egal ob Anfänger oder Profi, ob Berufstätiger Softwareentwickler oder Student/Schüler - Alle sind bei den Vorträgen und der anschließenden Diskussion gern gesehen.
+Die Java User Group Görlitz ist eine Gruppe von Java Entwicklern, die seit Anfang 2011 regelmäßig Treffen mit Vorträgen und anschließenden Diskussionen rund um das Thema "Java" organisiert und dazu alle Interessierten recht herlich einlädt.
+
+Egal ob Anfänger oder Profi, ob berufstätiger Softwareentwickler oder Student/Schüler - Alle sind bei den Vorträgen und der anschließenden Diskussion gern gesehen.
 
 Das Themen-Spektrum reicht dabei von JavaEE-Frameworks über mobile Anwendungen
 wie Android bis hin zu alternativen Programmiersprachen für die Java VM. Aber auch allgemeine Themen abseits von Java aber mit Bezug zur Softwareentwicklung wurden schon behandelt. Wir freuen uns immer über neue Themenvorschläge und natürlich Vortragende, die zu einem Thema sprechen möchten.
