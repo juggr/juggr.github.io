@@ -8,6 +8,8 @@
     <meta name="author" content="Manuel Mauky">
 
     <title>{{ page.title }}</title>
+    
+    <script src="/js/jquery-2.0.3.min.js"></script>
     <!-- Bootstrap -->
     <script src="/js/bootstrap.min.js"></script>
 
@@ -16,15 +18,15 @@
     <link href="/css/juggr.css" rel="stylesheet">
   </head>
   <body>
-     <div class="navbar navbar-inverse navbar-fixed-top">
+     <div class="navbar navbar-fixed-top">
       <div class="container">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="/">Java User Group Görlitz</a>
-        <div class="nav-collapse collapse">
+        <div class="nav-collapse collapse navbar-responsive-collapse">
           <ul class="nav navbar-nav">
             <li {%if page.url == '/index.html' %} class="active" {% endif %}><a href="/">Home</a></li>
             <li {%if page.url == '/themen.html' %} class="active" {% endif %}><a href="/themen.html">Bisherige Themen</a></li>
