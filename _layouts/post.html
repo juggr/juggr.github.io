@@ -2,8 +2,8 @@
 layout: default
 ---
 <h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_long_string }}</p>
+<p class="lead">von {{ page.speaker }} | {{ page.date | date_to_long_string }}</p>
 
-<div class="post">
+<article>
 {{ content }}
-</div>
+</article>
