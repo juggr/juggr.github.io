@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: talk
 title: "JavaEE und JBoss"
 date: 2011-06-29
 tags: javaee

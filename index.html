@@ -6,10 +6,14 @@ title: Startseite
 
 {% assign firstPost = site.posts.first %}
 
+{% if firstPost.layout == 'talk' %}
+
 <h3>Nächstes Treffen:</h3>
 
+{% endif %}
+
 <h2><a href="{{site.posts.first.url}}">{{ firstPost.title }}</a></h2>
-<p class="lead">von {{ firstPost.speaker }} | {{ firstPost.date | date_to_long_string }}</p>
+<p class="lead"> {% if firstPost.speaker %}von {{ firstPost.speaker }} | {% endif %} {{ firstPost.date | date_to_long_string }}</p>
 
 <p> {{firstPost.content}}</p>
 

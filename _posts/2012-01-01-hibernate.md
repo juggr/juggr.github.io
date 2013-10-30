@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: talk
 title: "JPA - Hibernate"
 date: 2012-01-04
 tags: backend javaee

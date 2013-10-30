@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: talk
 title: "Advanced JSF und CDI"
 date: 2012-01-25
 tags: frontend web javaee
