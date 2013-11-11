@@ -16,3 +16,29 @@ wie Android bis hin zu alternativen Programmiersprachen für die Java VM. Aber a
 Unser Ziel ist der Wissens-, Ideen- und Erfahrungsaustausch über Themen, die mit der Java-Softwareentwicklung zu tun haben.
 
 Die Treffen finden in der Regel alle zwei Monate jeweils am letzten Mittwoch im Monat an wechselnden Orten statt.
+
+## Ansprechpartner
+
+### Manuel Mauky
+
+![Manuel Mauky](http://www.lestard.eu/files/picture.png)
+
+**Saxonia Systems AG**
+
+Software-Entwickler
+
+[manuel.mauky@saxsys.de](mailto:manuel.mauky@saxsys.de)
+
+---
+
+### Prof. Dr. sc. hum. Wilfried Honekamp
+
+![Wilfried Honekamp](https://www.hszg.de/fileadmin/user_upload/Redakteure/PRIVAT/whonekamp/hon_hs.jpg)
+
+**Hochschule Zittau/Görlitz**
+
+Fachbereich Informatik
+
+[whonekamp@hs-zigr.de](mailto:whonekamp@hs-zigr.de)
+
+---
