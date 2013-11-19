@@ -13,6 +13,7 @@ Konversionsraten sind besser. Ab einer halben Sekunde gingen die
 Umsätze pro Nutzer messbar zurück, ab 2 Sekunden waren es über 4%.
 Es lohnt sich also, in die Performance einer Webanwendung zu investieren.
 
+Datum: 27.11.2013 - 19:00 uhr
 
 Treffpunkt: DSER (Steinstr. 11, 02826 Görlitz)
  
