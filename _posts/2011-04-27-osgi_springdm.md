@@ -12,6 +12,11 @@ Spring-DM (DM steht für Dynamic Modules) ist eine auf OSGi basierende Plattform
 
 Im Vortrag wird neben den theoretischen Grundlagen vor allem an praktischen Beispielen inklusive Live-Coding gezeigt, wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch zur Laufzeit getauscht werden können. 
 
+**Materialien:**
+
++ [Vortragsfolien](/downloads/juggr_osgi_spring_dm.pdf)
+
+
 Datum: 27.04.2011 - 19:00 uhr
 
 Treffpunkt: DSER (Steinstr. 11, 02826 Görlitz) 
