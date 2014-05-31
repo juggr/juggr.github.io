@@ -14,6 +14,11 @@ Ein Validator kann dann anhand dieser Metainformationen prüfen, ob der Zustand 
 Im Vortrag wird zunächst allgemein auf das Thema Validierung eingegangen und anschließend Beispiele für BeanValidation-Annotationen gezeigt. Ebenfalls behandelt wird, wie BeanValidation im Frontend mit JavaServer Faces und im Backend mit JPA kombiniert werden kann.
 
 
+**Materialien:**
+
++ [Vortragsfolien](/downloads/juggr_beanvalidation.pdf)
++ [Beispiel-Code](https://github.com/lestard/juggr_BeanValidation)
+
 Datum: 26. September 2013 - 19:00 uhr
 
 Treffpunkt: Saxonia Systems AG, Berliner Straße 63

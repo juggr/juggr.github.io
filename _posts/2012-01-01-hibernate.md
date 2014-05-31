@@ -8,6 +8,10 @@ speaker: Marko modsching
 
 **JPA - Hibernate** von Marko Modsching 
 
+**Materialien:**
+
++ [Vortragsfolien](/downloads/juggr_orm_hibernate.pdf)
++ [Beispiel-Code](/downloads/code_hibernate.zip)
 
 Datum: 04.01.2012 - 19:00 uhr
 
