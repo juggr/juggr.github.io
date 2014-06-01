@@ -21,7 +21,7 @@ Die Treffen finden in der Regel alle zwei Monate jeweils am letzten Mittwoch im 
 
 ### Manuel Mauky
 
-![Manuel Mauky](http://www.lestard.eu/files/picture.png)
+![Manuel Mauky](http://lestard.eu/files/pics/me.png)
 
 **Saxonia Systems AG**
 
