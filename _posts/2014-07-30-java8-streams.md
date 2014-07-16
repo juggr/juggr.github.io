@@ -17,4 +17,4 @@ Paul Weinhold ist Master-Student im Studiengang Informatik an der Hochschule in 
 
 Datum: 30.07.2014 - 19:00 uhr
 
-Treffpunkt: Wird noch bekannt gegeben.
+Treffpunkt: Hochschule Zittau/Görlitz, Haus GIII (Obermarkt 17, 02826 Görlitz), Raum 105.
