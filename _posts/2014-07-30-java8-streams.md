@@ -14,7 +14,10 @@ Im Vortrag wird **Paul Weinhold** die praktische Anwendung von Lambdas vorstelle
 
 Paul Weinhold ist Master-Student im Studiengang Informatik an der Hochschule in Görlitz. Daneben arbeitet er als Werksstudent bei der Deutschen Bahn AG und setzt dort seit einiger Zeit aktiv die neuen Möglichkeiten von Java 8 ein.
 
+**Materialien:**
+
++ [Vortragsfolien](/downloads/juggr_java8.pdf)
 
 Datum: 30.07.2014 - 19:00 uhr
 
-Treffpunkt: Wird noch bekannt gegeben.
+Treffpunkt: Hochschule Zittau/Görlitz, Haus GIII (Obermarkt 17, 02826 Görlitz), Raum 105.
