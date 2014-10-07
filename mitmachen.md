@@ -27,7 +27,7 @@ Kein Problem. Auch wenn du selbst keinen Vortrag halten möchtest, darfst du ger
 Wünsche für Vorträge einbringen. Wir werden dann versuchen, einen passenden Vortragenden
 dafür zu finden. 
 
-Komm mit deinem Wünschen einfach direkt auf uns zu oder benutze den [Issue-Tracker auf unserer Github-Seite](https://github.com/juggr/Planung/issues). 
+Komm mit deinem Wünschen einfach direkt auf uns zu, schreibe eine E-Mail an einen der [Organisatoren](/about) oder, noch besser: Benutze den [Issue-Tracker auf unserer Github-Seite](https://github.com/juggr/Planung/issues). 
 
 
 ### Halte selbst einen Vortrag
