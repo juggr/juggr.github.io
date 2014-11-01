@@ -29,16 +29,21 @@ Software-Entwickler
 
 [manuel.mauky@saxsys.de](mailto:manuel.mauky@saxsys.de)
 
+[Blog](http://www.lestard.eu)
+
 ---
 
-### Prof. Dr. sc. hum. Wilfried Honekamp
+### Prof. Dr. Jörg Lässig
 
-![Wilfried Honekamp](https://www.hszg.de/fileadmin/user_upload/Redakteure/PRIVAT/whonekamp/hon_hs.jpg)
+![Jörg Lässig](http://www.enterprise-application-development.org/fileadmin/user_upload/Redakteure/PRIVAT/jlaessig/laessig.jpg)
 
 **Hochschule Zittau/Görlitz**
 
-Fachbereich Informatik
+Fachbereich Informatik/EAD-Group
 
-[whonekamp@hszg.de](mailto:whonekamp@hszg.de)
+[jlaessig@hszg.de](mailto:jlaessig@hszg.de)
+
+[Enterprise-Application-Development-Group](http://www.enterprise-application-development.org/)
+
 
 ---
