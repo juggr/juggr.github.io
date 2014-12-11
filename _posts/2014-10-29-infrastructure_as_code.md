@@ -14,6 +14,10 @@ This concept is increasingly important today when the number of environments and
 
 In this session we will showcase a few popular tools used to implement this concept: `Vagrant`, `Puppet` and `Docker`.
 
+**Materialien:**
+
++ [Vortragsfolien](/downloads/infrastructure_as_code/slides-infrastructure-as-code.html)
++ [Demos](/downloads/infrastructure_as_code/infrastructure_as_code_demo.zip)
 
 
 Datum: 29.10.2014 - 19:00 uhr
