@@ -13,6 +13,9 @@ Es wird dabei auch auf Aspekte wie *Testbarkeit*, *Koppelung* und *Wiederverwend
 
 Der Vortragende ist Softwareentwickler bei der Saxonia Systems AG und ist dort vor allem im UI-Bereich tätig. Er hat Erfahrungen gesammelt mit *JavaServer-Faces*, *HTML(5)+JavaScript* sowie im Bereich Desktop-Oberflächen mit JavaFX. Aktuell arbeitet er als Hauptentwickler an dem OpenSource-Framework [MvvmFX](https://github.com/sialcasa/mvvmFX), welches Komponenten zur Umsetzung des Design-Patterns *Model-View-ViewModel* für JavaFX bereitstellt.
 
++ [Vortragsfolien](https://github.com/lestard/model-view-star/raw/master/jug_slides.pdf)
++ [Code auf Github](https://github.com/lestard/model-view-star)
+
 
 Datum: 03.12.2014 - 19:00 uhr
 
