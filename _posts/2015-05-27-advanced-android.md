@@ -6,7 +6,7 @@ tags: java, android
 speaker: Max Wielsch
 ---
 
-Aufbauend auf dem letzten Beitrag der Java User Group Görlitz ([Einstieg in die Android-App-Entwicklung](http://www.jug-gr.de/2015/03/25/android.html)) soll das Beispiel der Notiz App life weiterentwickelt werden, um Konzepte und deren Umsetzung für die fortgeschrittene Android-Programmierung zu zeigen.
+Aufbauend auf dem letzten Beitrag der Java User Group Görlitz ([Einstieg in die Android-App-Entwicklung](http://www.jug-gr.de/2015/03/25/android.html)) soll das Beispiel der Notiz App live weiterentwickelt werden, um Konzepte und deren Umsetzung für die fortgeschrittene Android-Programmierung zu zeigen.
 
 Mit dem Ziel, eine testbare und entkoppelte Applikationsarchitektur zu erreichen wird der Einsatz geeigneter Patterns und Frameworks diskutiert.
 
