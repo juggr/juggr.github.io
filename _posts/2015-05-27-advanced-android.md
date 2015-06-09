@@ -10,6 +10,11 @@ Aufbauend auf dem letzten Beitrag der Java User Group Görlitz ([Einstieg in die
 
 Mit dem Ziel, eine testbare und entkoppelte Applikationsarchitektur zu erreichen wird der Einsatz geeigneter Patterns und Frameworks diskutiert.
 
+**Materialien:**
+
++ [Vortragsfolien](/downloads/juggr_advanced_android.pdf)
++ [Beispiel-Code](https://github.com/muxmax/JugGrNotesApp)
+
 Datum: 27.05.2015 - 19:00 uhr
 
 Treffpunkt: Saxonia Systems AG, Berliner Str. 63
