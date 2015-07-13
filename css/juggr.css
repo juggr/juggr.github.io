@@ -1,3 +1,7 @@
 body {
     padding-top: 50px;
 }
+
+#sidebar  ul{
+  font-size: 1.2em;
+}
