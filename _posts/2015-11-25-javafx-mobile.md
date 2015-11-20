@@ -33,4 +33,5 @@ Um an der Verlosung teilzunehmen bitte in dieser Online-Teilnehmerliste eintrage
 
 
 Datum: 25.11.2015, 19:00 uhr 
+
 Veranstaltungsort: Saxonia Systems AG, Berliner Str. 63, 02826 Görlitz
