@@ -20,3 +20,5 @@ die zu Java-Sourcecode kompiliert. Damit steht nun auch auf der JVM eine rein fu
 Datum: 30.03.2016, 19:00 Uhr
 
 Ort: Hochschule Görlitz, Campus, Haus GII, Raum 0.10
+
+![Plakat](https://raw.githubusercontent.com/juggr/grafiken/master/Plakate/Plakat_03_2016/Plakat03_2016v2.png)
