@@ -18,4 +18,5 @@ Haskell selbst läuft nicht auf der Java-VM, allerdings existiert mit der Progra
 die zu Java-Sourcecode kompiliert. Damit steht nun auch auf der JVM eine rein funktionale Sprache bereit. 
 
 Datum: 30.03.2016, 19:00 Uhr
-Ort: Hochschule Görlitz, Campus
+
+Ort: Hochschule Görlitz, Campus, Haus GII, Raum 0.10
