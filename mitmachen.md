@@ -3,7 +3,7 @@ layout: default
 title: Mitmachen
 ---
 
-##Mitmachen
+## Mitmachen
 
 Das Motto der Java User Group Görlitz lautet "**Von Anwendern, für Anwender**".
 Damit dieses Motto mit Leben gefüllt werden kann, ist jeder Einzelne 
