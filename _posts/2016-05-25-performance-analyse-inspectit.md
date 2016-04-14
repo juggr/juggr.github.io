@@ -41,8 +41,8 @@ die Unterstützung der DevOps Performance Arbeitsgruppe der Standard Performance
 und diversen Unternehmen erreicht wurde.
 
 
-1. https://www.github.com/inspectit
-2. https://diagnoseit.github.io
+1. [https://www.github.com/inspectit](https://www.github.com/inspectit)
+2. [https://diagnoseit.github.io](https://diagnoseit.github.io)
 
 
 Datum: 25.05.2016, 19:00 Uhr
