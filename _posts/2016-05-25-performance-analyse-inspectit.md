@@ -40,8 +40,9 @@ wodurch eine Förderung (2) durch das Bundesministerium für Bildung und Forschu
 die Unterstützung der DevOps Performance Arbeitsgruppe der Standard Performance Evaluation Corporation (SPEC) 
 und diversen Unternehmen erreicht wurde.
 
-(1) https://www.github.com/inspectit
-(2) https://diagnoseit.github.io
+
+1. https://www.github.com/inspectit
+2. https://diagnoseit.github.io
 
 
 Datum: 25.05.2016, 19:00 Uhr
