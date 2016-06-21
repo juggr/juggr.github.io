@@ -28,4 +28,4 @@ Er hat in den letzten Jahren in Projekten unterschiedlicher fachlicher Domänen
 
 Datum: 27.07.2016, 19:00 Uhr
 
-Ort: Wird noch festgelegt
+Ort: Hochschule Görlitz, Haus GIII (Obermarkt 17, 02826 Görlitz)
