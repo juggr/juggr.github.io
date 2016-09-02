@@ -6,9 +6,9 @@ speaker: Daniel Sernow
 tags: testing
 ---
 
-Kommunikationskultur im Softwareentwicklungsprozess (Kommunikation zwischen Auftraggeber, Entwicklung, Test)
+Im Vortrag von Daniel Sernow wird die Kommunikation in Software-Projekten und mit den Projekt-Partnern thematisiert. Er wird uns an seinen Erfahrungen und Erkenntnissen aus langjähriger Praxis im Projektgeschäft teilhaben lassen. Für Entwickler dürfte dabei vor allem auch die Perspektive der Qualitätssicherung interessante neue Einblicke bereithalten.
 
-Infos folgen
+Eine Besonderheit: Wir werden eine neuen Veranstaltungsort einweihen - siehe unten.
 
 Datum: 21.09.2016, 19:00 Uhr
 
