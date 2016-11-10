@@ -29,8 +29,25 @@ Software-Entwickler
 
 [manuel.mauky@saxsys.de](mailto:manuel.mauky@saxsys.de)
 
-[Blog](http://www.lestard.eu)
+[Blog: http://www.lestard.eu](http://www.lestard.eu)
 
+[Twitter: @manuel_mauky](https://twitter.com/manuel_mauky)
+
+---
+
+### Max Wielsch
+
+![Max Wielsch](/images/max_wielsch.jpg)
+
+**Saxonia Systems AG**
+
+Software-Entwickler
+
+[max.wielsch@saxsys.de](mailto:max.wielsch@saxsys.de)
+
+[Blog: http://max-wielsch.blogspot.de](http://max-wielsch.blogspot.de)
+
+[Twitter: @simawiel](https://twitter.com/simawiel)
 ---
 
 ### Prof. Dr. Jörg Lässig
