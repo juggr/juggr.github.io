@@ -48,6 +48,7 @@ Software-Entwickler
 [Blog: http://max-wielsch.blogspot.de](http://max-wielsch.blogspot.de)
 
 [Twitter: @simawiel](https://twitter.com/simawiel)
+
 ---
 
 ### Prof. Dr. Jörg Lässig
