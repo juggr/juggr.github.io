@@ -51,6 +51,20 @@ Software-Entwickler
 
 ---
 
+### Marlene Knoche
+
+![Marlene Knoche](http://www.sanguinik.de/files/marlene.jpg)
+
+Freischaffende Künstlerin und Illustratorin
+
+[info@sanguinik.de](mailto:info@sanguinik.de)
+
+[Blog: http://www.sanguinik.de](http://www.sanguinik.de)
+
+[Twitter: @SanguinikDE](https://twitter.com/SanguinikDE)
+
+---
+
 ### Prof. Dr. Jörg Lässig
 
 ![Jörg Lässig](http://www.enterprise-application-development.org/fileadmin/user_upload/Redakteure/PRIVAT/jlaessig/laessig.jpg)
