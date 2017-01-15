@@ -15,7 +15,7 @@ wie [Android](https://de.wikipedia.org/wiki/Android_(Betriebssystem)) bis hin zu
 
 Unser Ziel ist der Wissens-, Ideen- und Erfahrungsaustausch über Themen, die mit der Softwareentwicklung zu tun haben.
 
-Die Treffen finden in der Regel alle zwei Monate jeweils am letzten Mittwoch im Monat an wechselnden Orten statt.
+Die Treffen finden in der Regel monatlich jeweils am letzten Mittwoch im Monat an wechselnden Orten statt.
 
 ## Ansprechpartner
 
