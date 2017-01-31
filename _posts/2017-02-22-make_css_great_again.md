@@ -13,5 +13,3 @@ Vortragsbeschreibung wird demnächst ergänzt.
 Datum: 22.02.2017, 19:00 Uhr
 
 Ort: Hochschule Zittau/Görlitz, Obermarkt 17, 02826 Görlitz
-
-<a href="http://jug-gr.de/downloads/juggr_jUnit5.pdf"/>Folien zum Vortrag</a>
