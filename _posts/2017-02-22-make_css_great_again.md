@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Make CSS GreaT Again"
+title: "Modernes CSS und Style-Preprozessoren"
 date: 2017-02-22
 speaker: Uwe Manteuffel
 tags: java
