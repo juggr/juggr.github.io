@@ -5,3 +5,22 @@ body {
 #sidebar  ul{
   font-size: 1.2em;
 }
+
+
+.speaker-info {
+  display: flex
+}
+
+.speaker-info .short-info {
+  min-width: 15rem;
+}
+
+.speaker-info .description {
+  margin-left: 2rem;
+}
+
+.speaker-info .short-info img {
+  height: 15rem;
+  max-width: 15rem;
+  margin-bottom: 1rem;
+}

@@ -4,15 +4,20 @@ title: Startseite
 ---
 
 
-{% assign firstPost = site.posts.first %}
+{% for post in site.posts  %}
+  {% if post.show_on_frontpage %}
+    {% if post.layout == 'talk' %}
+      <h3>Nächstes Treffen:</h3>
 
-{% if firstPost.layout == 'talk' %}
+      <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
+      <p class="lead"> {% if post.speaker %}von {{ post.speaker }} | {% endif %} {{ post.date | date_to_long_string }}</p>
 
-<h3>Nächstes Treffen:</h3>
+      <div> {{post.content}}</div>
 
-{% endif %}
+    {% else %}
+      <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
+      <div> {{ post.content }}</div>
+    {% endif %}
 
-<h2><a href="{{site.posts.first.url}}">{{ firstPost.title }}</a></h2>
-<p class="lead"> {% if firstPost.speaker %}von {{ firstPost.speaker }} | {% endif %} {{ firstPost.date | date_to_long_string }}</p>
-
-<p> {{firstPost.content}}</p>
+  {% endif %}
+{% endfor %}
