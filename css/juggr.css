@@ -1,8 +1,8 @@
 body {
-    padding-top: 50px;
+    padding-top:50px;
 }
 
-#sidebar  ul{
+#sidebar  ul {
   font-size: 1.2em;
 }
 
@@ -23,4 +23,13 @@ body {
   height: 15rem;
   max-width: 15rem;
   margin-bottom: 1rem;
+}
+
+.event-poster {
+  height: 40rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
