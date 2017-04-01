@@ -32,14 +32,14 @@ Komm mit deinem Wünschen einfach direkt auf uns zu, schreibe eine E-Mail an ein
 
 ### Halte selbst einen Vortrag
 Du hast vor kurzem ein neues Framework ausprobiert und möchtest von deinen ersten Geh-Versuchen berichten? 
-Du hast dich im Studium/Auf Arbeit mit einem bestimmten Thema aus dem Java-Umfeld beschäftigt? 
+Du hast dich im Studium / auf Arbeit mit einem bestimmten Thema aus dem Java-Umfeld beschäftigt? 
 Egal ob du Profi in dem Gebiet bist oder erst gerade damit begonnen hast: Wir freuen uns 
 auf deinen Vortrag. 
 
 Vieleicht findest du ja auch in unserem [Vortrags-Issue-Tracker](https://github.com/juggr/Planung/issues) einen Themenwunsch, zu 
 dem du einen Vortrag beisteuern könntest. 
 
-Und ganz nebenbei gibt es keine bessere Möglichkeit um deine Vortrags-Skills zu trainieren und dir dazu auch Feedback zu holen.
+Und ganz nebenbei gibt es keine bessere Möglichkeit, um deine Vortrags-Skills zu trainieren und dir dazu auch Feedback zu holen.
 
 ### Veranstalte das nächste Treffen bei dir
 
