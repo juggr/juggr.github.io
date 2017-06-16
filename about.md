@@ -55,13 +55,32 @@ Software-Entwickler
 
 ![Marlene Knoche](http://www.sanguinik.de/files/marlene.jpg)
 
-Freischaffende Künstlerin und Illustratorin
+**Uni-Klinikum Dresden**
+
+IT-Administratorin und Entwicklerin,  
+freischaffende Künstlerin und Illustratorin
 
 [info@sanguinik.de](mailto:info@sanguinik.de)
 
 [Blog: http://www.sanguinik.de](http://www.sanguinik.de)
 
 [Twitter: @SanguinikDE](https://twitter.com/SanguinikDE)
+
+---
+
+### Markus Ullrich
+
+<img alt="Markus Ullrich" src="/images/markus_ullrich.jpg" style="width:200px"/>
+
+**Hochschule Zittau/Görlitz**
+
+Wissenschaftlicher Mitarbeiter
+
+[mullrich@hszg.de](mailto:mullrich@hszg.de)
+
+[Webseite: www.ead-group.org/group/core-team/markus-ullrich.html](http://www.ead-group.org/group/core-team/markus-ullrich.html)
+
+[Twitter: @ead_markus](https://twitter.com/ead_markus)
 
 ---
 
