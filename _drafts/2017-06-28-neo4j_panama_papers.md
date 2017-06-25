@@ -4,7 +4,7 @@ title: "Neo4J - Panama Papers"
 date: 2017-06-28
 speaker: Michael Hunger
 tags: java datenbank
-show_on_frontpage: true
+show_on_frontpage: false
 ---
 
 Im letzten Jahr waren die Panama Papers in aller Munde, die Journalisten der Süddeutschen Zeitung und des ICIJ untersuchten und publizierten die breite Nutzung von Briefkastenfirmen durch Politiker, Geschäftsleute, Banken usw. Für die Untersuchung des größten Leaks einer Geldwäschefirma wurde unter anderem auch Neo4j genutzt. Heute werde ich demonstrieren, wie solche Daten in einem Graph modelliert, importiert und abgefragt werden können. Da die Informationen öffentlich verfügbar sind, kann jetzt jeder zum Journalisten werden.
