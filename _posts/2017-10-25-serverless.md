@@ -35,3 +35,7 @@ einiger anderer Akronyme, Mobile und Enterpriese Anwendungen implementieren lass
 Datum: 25.10.2017, 19:00 Uhr
 
 Ort: TBA
+
+---
+Bei bei diesem Treffen verlosen wir unter den Teilnehmern ein Tutorial von [https://tutorials.entwickler.de/](https://tutorials.entwickler.de/). Mit freundlicher Unterstützung durch **Software & Support Media GmbH**.
+
