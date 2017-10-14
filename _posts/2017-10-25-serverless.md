@@ -13,6 +13,8 @@ taucht am Horizont mit Serverless Applications bzw. Architectures schon die näc
 Was bitte ist das jetzt schon wieder? Und wer braucht so etwas? Die Session zeigt, wie sich dank BaaS, FaaS und 
 einiger anderer Akronyme, Mobile und Enterpriese Anwendungen implementieren lassen - ganz ohne Server! Ganz ohne? Naja, fast.
 
+<img class="event-poster" src="/images/plakat_2017_10.png">
+
 ---
 <div class="speaker-info">
   <div class="short-info">
