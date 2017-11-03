@@ -4,7 +4,7 @@ title: "Serverless Application - Who the heck needs a Server?"
 date: 2017-10-25
 speaker: Lars Röwekamp
 tags: architektur
-show_on_frontpage: true
+show_on_frontpage: false
 ---
 
 Kaum haben wir uns von dem klassischen Monolithen und der zugehörigen Ablaufumgebung namens Application Server, 
