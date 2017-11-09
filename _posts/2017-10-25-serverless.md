@@ -15,6 +15,8 @@ einiger anderer Akronyme, Mobile und Enterpriese Anwendungen implementieren lass
 
 <img class="event-poster" src="/images/plakat_2017_10.png">
 
+<p><a href="https://www.dropbox.com/s/nrt9jb5mtwkxh2s/se_serverless.pdf">Folien zum Vortrag</a></p>
+
 ---
 <div class="speaker-info">
   <div class="short-info">
