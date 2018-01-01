@@ -4,7 +4,7 @@ title: "Refactoring to a System of Systems"
 date: 2018-01-31
 speaker: Oliver Gierke
 tags: architektur
-show_on_frontpage: false
+show_on_frontpage: true
 ---
 
 
@@ -30,4 +30,4 @@ Der Vortrag betrachtet ein konkretes Beispiel von Modulinteraktion in einem mono
 
 Datum: 31.01.2018, 19:00 Uhr
 
-Ort: tbd
+Ort: Saxonia Systems AG, Berliner Str. 63, 02826 Görlitz
