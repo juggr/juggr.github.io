@@ -36,4 +36,4 @@ Im Vortrag wird illustriert, wie die Verbindung aus einer Java EE Applikation zu
 
 Datum: 31.01.2018, 19:00 Uhr
 
-Ort: Saxonia Systems AG, Berliner Str. 63, 02826 Görlitz
+Ort: CIDEON Software GmbH & Co. KG, Untermarkt 25, 02826 Görlitz
