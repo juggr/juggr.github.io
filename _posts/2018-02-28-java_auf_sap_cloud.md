@@ -34,6 +34,6 @@ Im Vortrag wird illustriert, wie die Verbindung aus einer Java EE Applikation zu
 </div>
 ---
 
-Datum: 31.01.2018, 19:00 Uhr
+Datum: 28.02.2018, 19:00 Uhr
 
 Ort: CIDEON Software GmbH & Co. KG, Untermarkt 25, 02826 Görlitz
