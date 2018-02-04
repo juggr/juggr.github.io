@@ -4,7 +4,7 @@ title: "Refactoring to a System of Systems"
 date: 2018-01-31
 speaker: Oliver Gierke
 tags: architektur
-show_on_frontpage: true
+show_on_frontpage: false
 ---
 
 

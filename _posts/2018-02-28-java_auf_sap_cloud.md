@@ -4,7 +4,7 @@ title: "Entwicklung von Java Applikationen auf der SAP Cloud Platform"
 date: 2018-02-28
 speaker: Jens Leuschner, Mariusz Zienkiewicz
 tags: cloud
-show_on_frontpage: false
+show_on_frontpage: true
 ---
 
 
