@@ -15,6 +15,8 @@ Der Vortrag betrachtet ein konkretes Beispiel von Modulinteraktion in einem mono
 
 <img class="event-poster" src="/images/plakat_2018_01.png">
 
+<p><a href="https://speakerdeck.com/olivergierke/refactoring-to-a-system-of-systems">Folien zum Vortrag</a></p>
+
 ---
 <div class="speaker-info">
   <div class="short-info">
