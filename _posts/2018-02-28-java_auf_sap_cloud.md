@@ -11,6 +11,7 @@ show_on_frontpage: false
 Die SAP Cloud Platform (SCP) beschreibt ein „Platform as a Service“ (PaaS) Angebot der SAP. Mit der SCP liefert SAP sowohl die Entwicklungsumgebung als auch die Laufzeitumgebung zur Realisierung kundenindividueller Erweiterungen von Cloud- und On-Premise-Lösungen (z.B. SAP S/4HANA). Basierend auf der In-Memory-Plattform SAP HANA stellt die SCP eine Vielzahl an Datenbank- und Cloud-Services zur Verfügung, welche das PaaS Angebot erweitern und die Integration von SAP- und Non-SAP-Lösungen ermöglichen.
 Im Vortrag wird illustriert, wie die Verbindung aus einer Java EE Applikation zu einem SAP On-Premise System hergestellt und dessen Funktionalität in der Cloud genutzt wird.
 
+<img class="event-poster" src="/images/plakat_2018_02.png">
 
 ---
 <div class="speaker-info">
