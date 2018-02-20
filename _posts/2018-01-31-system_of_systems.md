@@ -4,7 +4,7 @@ title: "Refactoring to a System of Systems"
 date: 2018-01-31
 speaker: Oliver Gierke
 tags: architektur
-show_on_frontpage: true
+show_on_frontpage: false
 ---
 
 
@@ -14,6 +14,8 @@ Beim Bauen monolithischer Systeme nutzen Entwicklerteams eine Reihe typischer Mu
 Der Vortrag betrachtet ein konkretes Beispiel von Modulinteraktion in einem monolithischen System und identifiziert die Problemstellungen die sich ergeben, wenn man dieses System in exakt dem gleichen Interaktionsstil aufteilt. Danach wird eine alternative Implementierungsstrategie für das monolithische System diskutiert, die die Modularität des Ursprungssystems stark verbessert und im Falle einer Aufteilung in unabhängige Teilsysteme zu einer besseren Architektur führt.
 
 <img class="event-poster" src="/images/plakat_2018_01.png">
+
+<p><a href="https://speakerdeck.com/olivergierke/refactoring-to-a-system-of-systems">Folien zum Vortrag</a></p>
 
 ---
 <div class="speaker-info">
