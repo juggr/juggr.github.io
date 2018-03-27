@@ -55,9 +55,9 @@ Software-Entwickler
 
 ![Marlene Knoche](http://www.sanguinik.de/files/marlene.jpg)
 
-**Uni-Klinikum Dresden**
+**CIDEON Software & Services GmbH & Co. KG**
 
-IT-Administratorin und Entwicklerin,  
+Software-Entwicklerin,  
 freischaffende Künstlerin und Illustratorin
 
 [info@sanguinik.de](mailto:info@sanguinik.de)
