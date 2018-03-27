@@ -13,6 +13,8 @@ Im Vortrag wird illustriert, wie die Verbindung aus einer Java EE Applikation zu
 
 <img class="event-poster" src="/images/plakat_2018_02.png">
 
+<p><a href="https://github.com/juggr/juggr.github.io/blob/master/downloads/juggr_java_auf_sap_cloud.pdf">Folien zum Vortrag</a></p>
+
 ---
 <div class="speaker-info">
   <div class="short-info">
