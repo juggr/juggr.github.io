@@ -19,6 +19,8 @@ Denn natürlich müssen auch in funktionalen Programmen letztlich Veränderungen
 
 Im Vortrag möchte ich neben einer grundsätzlichen Einführung in die Thematik auch einige dieser Techniken vorstellen und ihre Vor- und Nachteile besprechen.
 
+<img class="event-poster" src="/images/plakat_2018_06.png">
+
 ---
 
 <div class="speaker-info">
