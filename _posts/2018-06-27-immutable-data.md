@@ -4,7 +4,7 @@ title: "Immutable Data - Unveränderliche Daten im Griff"
 date: 2018-06-27
 speaker: Manuel Mauky
 tags: programmiersprachen
-show_on_frontpage: true
+show_on_frontpage: false
 ---
 
 Unveränderliche Datenstrukturen sind ein wichtiges Werkzeug der funktionalen Programmierung.
