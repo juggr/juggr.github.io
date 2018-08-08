@@ -2,7 +2,7 @@
 layout: default
 title: "JUG Sommerpause: Grillen"
 date: 2018-07-31
-show_on_frontpage: true
+show_on_frontpage: false
 ---
 
 <br/>
