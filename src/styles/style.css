@@ -1,0 +1,10 @@
+
+
+/* Override default style for links of typography-theme-fairy-gate */
+.navbar a {
+    background-image: none
+}
+
+.navbar li {
+    margin-bottom: 0
+}
