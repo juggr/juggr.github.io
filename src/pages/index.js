@@ -4,21 +4,11 @@ import Layout from "../components/layout"
 
 export default () => (
   <Layout>
-    <h1>Richard Hamming on Luck</h1>
-    <div>
-      <p>
-        From Richard Hamming’s classic and must-read talk, “
-        <a href="http://www.cs.virginia.edu/~robins/YouAndYourResearch.html">You and Your Research</a>
-        ”.
-      </p>
-      <blockquote>
-        <p>
-          There is indeed an element of luck, and no, there isn’t. The prepared mind sooner or later finds something
-          important and does it. So yes, it is luck.{" "}
-          <em>The particular thing you do is luck, but that you do something is not.</em>
-        </p>
-      </blockquote>
-    </div>
-    <p>Posted April 09, 2011</p>
+    <h1>H1 Überschrift</h1>
+    <h2>H2 Überschrift</h2>
+    <h3>H3 Überschrift</h3>
+    <h4>H4 Überschrift</h4>
+    <h5>H5 Überschrift</h5>
+    <p>p normaler text</p>
   </Layout>
 )

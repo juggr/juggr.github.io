@@ -1,10 +1,50 @@
-
-
 /* Override default style for links of typography-theme-fairy-gate */
+.navbar {
+  border-color: #e7e7e7;
+  border-width: 0 0 1px;
+  border-style: solid;
+}
+
 .navbar a {
-    background-image: none
+  background-image: none;
 }
 
 .navbar li {
-    margin-bottom: 0
+  margin-bottom: 0;
+}
+
+.sidebar h3 {
+  font-size: 1.2em;
+}
+
+.sidebar ul {
+  font-size: 1.1em;
+}
+
+.sidebar li {
+    margin-bottom: 0;
+}
+
+a {
+  color: #337ab7;
+  text-decoration: none;
+  background-image: none;
+}
+
+a:hover {
+  color: #23527c;
+  text-decoration: none;
+
+  /* 
+    this adds a line under the link that (other then text-decoration: underline) will also
+     be below the icons
+     */
+  background-image: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0) 1px,
+    #23527c 1px,
+    #23527c 2px,
+    rgba(0, 0, 0, 0) 2px
+  );
 }

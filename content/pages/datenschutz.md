@@ -1,18 +1,12 @@
 ---
-title: Impressum
+title: Datenschutz
 ---
 
-# Impressum
+# Datenschutz
 
-## Angaben gemäß § 5 TMG:
-## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+Der Webserver dieser Webseite speichert IP-Adressen der Besucher in Logdateien. Diese dienen der Fehlersuche im
+Krisenfall und werden ansonsten nicht ausgewertet.
 
-Manuel Mauky  
-Demianiplatz 34  
-02826 Görlitz  
+Diese Webseite benutzt keine Tracking-Tools oder Cookies. Es werden keine weiteren Daten erhoben, gespeichert oder
+ausgewertet.
 
-## Kontakt:
-
-Telefon: +49 (0) 1525 6322383  
-E-Mail: [manuel.mauky@gmail.com](mailto:manuel.mauky@gmail.com)  
-[PGP-Schlüssel](/gpgkey.asc) ([vom PGP Keyserver](https://pgp.key-server.io/0x07E2565BFCE02305)).

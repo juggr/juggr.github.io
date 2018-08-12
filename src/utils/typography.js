@@ -1,6 +1,8 @@
 import Typography from "typography"
-import fairyGatesTheme from "typography-theme-fairy-gates"
+import theme from "typography-theme-bootstrap"
 
-const typography = new Typography(fairyGatesTheme)
+theme.baseFontSize = "14px"
+
+const typography = new Typography(theme)
 
 export default typography

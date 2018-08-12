@@ -1,7 +1,7 @@
 import React from "react"
 import Link from "gatsby-link"
 
-import { Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink, Collapse } from "reactstrap"
+import { Container, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink, Collapse } from "reactstrap"
 
 const LinkItem = ({ to, children }) => {
   return (
@@ -35,8 +35,9 @@ class PageHeader extends React.Component {
 
   render() {
     return (
-      <div>
         <Navbar color="light" light expand="sm">
+          <Container>
+
           <NavbarBrand to="/" tag={props => <Link {...props} />} >
             Java User Group Görlitz
           </NavbarBrand>
@@ -46,13 +47,13 @@ class PageHeader extends React.Component {
             <Nav className="ml-auto" navbar>
               <LinkItem to="/">Aktuell</LinkItem>
               <LinkItem to="/talks">Vorträge</LinkItem>
-              <LinkItem to="/supporter">Unterstützer</LinkItem>
+              <LinkItem to="/unterstuetzer">Unterstützer</LinkItem>
               <LinkItem to="/about">About</LinkItem>
               <LinkItem to="/mitmachen">Mitmachen</LinkItem>
             </Nav>
           </Collapse>
+          </Container>
         </Navbar>
-      </div>
     )
   }
 }

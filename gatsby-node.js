@@ -44,3 +44,98 @@ const createSlug = ({ node, getNode, actions, basePath, prefix }) => {
     value: prefix ? `/${prefix}${path}` : path,
   })
 }
+
+exports.createPages = ({graphql, actions}) => {
+  const {createPage} = actions
+
+  const talksPromise = createTalkPages({createPage, graphql})
+  const staticPagesPromise = createStaticPages({createPage, graphql})
+
+  return Promise.all([
+    talksPromise
+  ])
+}
+
+const createTalkPages = ({ createPage, graphql}) => {
+  return new Promise((resolve, reject) => {
+    graphql(`
+      {
+        allMarkdownRemark(
+          sort: { fields: [frontmatter___date], order: DESC }
+          filter: { fields: { sourceName: { eq: "talks" } } }
+        ) {
+          edges {
+            node {
+              id
+              frontmatter {
+                title
+                date
+                tags
+              }
+              html
+              fields {
+                slug
+              }
+            }
+          }
+        }
+      }    
+    `).then(result => {
+      const edges = result.data.allMarkdownRemark.edges
+
+      edges.forEach(({node}) => {
+        createPage({
+          path: node.fields.slug,
+          component: path.resolve("./src/templates/talk-page.js"),
+          context: {
+            slug: node.fields.slug
+          }
+        })
+      })
+
+      resolve()
+    })
+  })
+}
+
+
+
+const createStaticPages = ({ createPage, graphql}) => {
+  return new Promise((resolve, reject) => {
+    graphql(`
+      {
+        allMarkdownRemark(
+          sort: { fields: [frontmatter___date], order: DESC }
+          filter: { fields: { sourceName: { eq: "pages" } } }
+        ) {
+          edges {
+            node {
+              id
+              frontmatter {
+                title
+              }
+              html
+              fields {
+                slug
+              }
+            }
+          }
+        }
+      }    
+    `).then(result => {
+      const edges = result.data.allMarkdownRemark.edges
+
+      edges.forEach(({node}) => {
+        createPage({
+          path: node.fields.slug,
+          component: path.resolve("./src/templates/static-page.js"),
+          context: {
+            slug: node.fields.slug
+          }
+        })
+      })
+
+      resolve()
+    })
+  })
+}

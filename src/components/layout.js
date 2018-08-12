@@ -2,12 +2,15 @@ import React from "react"
 import Helmet from "react-helmet"
 import { StaticQuery, graphql } from "gatsby"
 
+import {Container, Row, Col} from "reactstrap"
+
 import "bootstrap/dist/css/bootstrap.min.css"
 
 import "../styles/style.css"
 
 import PageHeader from "./page-header"
 import PageFooter from "./page-footer"
+import Sidebar from "./sidebar"
 
 const Layout = ({ children, data }) => {
   return (
@@ -36,8 +39,19 @@ const Layout = ({ children, data }) => {
           />
 
           <PageHeader />
+          <Container style={{
+            marginTop: "1em"
+          }}>
+            <Row>
+              <Col md="9">
+                {children}
+              </Col>
 
-          <div className="container main-content">{children}</div>
+              <Col md="3">
+                  <Sidebar/>
+              </Col>
+            </Row>
+          </Container>
 
           <PageFooter />
         </>
