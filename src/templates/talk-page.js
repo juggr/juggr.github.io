@@ -4,6 +4,7 @@ import { graphql} from "gatsby"
 
 import Layout from "../components/layout"
 
+import formatDate from "../utils/format-date"
 
 export default ({data}) => {
 
@@ -14,7 +15,7 @@ export default ({data}) => {
 
       <h2>{talk.frontmatter.title}</h2>
       <p className="lead">
-        von {talk.frontmatter.speaker} | {talk.frontmatter.date }
+        von {talk.frontmatter.speaker} | {formatDate(talk.frontmatter.date)}
       </p>
 
       <article>
