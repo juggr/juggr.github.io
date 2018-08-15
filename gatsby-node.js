@@ -1,6 +1,5 @@
-const {createFilePath} = require("gatsby-source-filesystem")
+const { createFilePath } = require("gatsby-source-filesystem")
 const path = require("path")
-
 
 exports.onCreateNode = params => {
   const { node, getNode } = params
@@ -21,6 +20,7 @@ exports.onCreateNode = params => {
 
       case "speakers": {
         createSlug({ ...params, basePath: "content/speakers", prefix: "speakers" })
+        createNodeId({ ...params, idFieldName: "speakerId" })
         break
       }
 
@@ -30,8 +30,9 @@ exports.onCreateNode = params => {
       }
 
       case "locations": {
-        createSlug({ ...params, basePath: "content/locations", prefix: "locations"})
-        break;
+        createSlug({ ...params, basePath: "content/locations", prefix: "locations" })
+        createNodeId({ ...params, idFieldName: "locationId" })
+        break
       }
     }
   }
@@ -42,7 +43,6 @@ const createSlug = ({ node, getNode, actions, basePath, prefix }) => {
 
   const path = createFilePath({ node, getNode, basePath })
 
-
   createNodeField({
     node,
     name: "slug",
@@ -50,24 +50,33 @@ const createSlug = ({ node, getNode, actions, basePath, prefix }) => {
   })
 }
 
-exports.createPages = ({graphql, actions}) => {
-  const {createPage} = actions
+const createNodeId = ({ node, getNode, actions, idFieldName }) => {
+  const { createNodeField } = actions
 
-  const talksPromise = createTalkPages({createPage, graphql})
-  const staticPagesPromise = createStaticPages({createPage, graphql})
-  const speakersPagesPromise = createSpeakersPages({createPage, graphql})
-  const locationPagesPromise = createLocationPages({createPage, graphql})
+  const fileNode = getNode(node.parent)
 
+  // we use the filename (without file extension) as id
+  const path = fileNode.name
 
-  return Promise.all([
-    talksPromise,
-    staticPagesPromise,
-    speakersPagesPromise,
-    locationPagesPromise,
-  ])
+  createNodeField({
+    node,
+    name: idFieldName,
+    value: path,
+  })
 }
 
-const createTalkPages = ({ createPage, graphql}) => {
+exports.createPages = ({ graphql, actions }) => {
+  const { createPage } = actions
+
+  const talksPromise = createTalkPages({ createPage, graphql })
+  const staticPagesPromise = createStaticPages({ createPage, graphql })
+  const speakersPagesPromise = createSpeakersPages({ createPage, graphql })
+  const locationPagesPromise = createLocationPages({ createPage, graphql })
+
+  return Promise.all([talksPromise, staticPagesPromise, speakersPagesPromise, locationPagesPromise])
+}
+
+const createTalkPages = ({ createPage, graphql }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
@@ -92,19 +101,19 @@ const createTalkPages = ({ createPage, graphql}) => {
             }
           }
         }
-      }    
+      }
     `).then(result => {
       const edges = result.data.allMarkdownRemark.edges
 
-      edges.forEach(({node}) => {
+      edges.forEach(({ node }) => {
         createPage({
           path: node.fields.slug,
           component: path.resolve("./src/templates/talk-page.js"),
           context: {
             slug: node.fields.slug,
             speakerSlugs: node.frontmatter.speaker.map(speaker => `/speakers/${speaker}/`),
-            locationSlug: `/locations/${node.frontmatter.location}/`
-          }
+            locationSlug: `/locations/${node.frontmatter.location}/`,
+          },
         })
       })
 
@@ -113,9 +122,7 @@ const createTalkPages = ({ createPage, graphql}) => {
   })
 }
 
-
-
-const createStaticPages = ({ createPage, graphql}) => {
+const createStaticPages = ({ createPage, graphql }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
@@ -136,17 +143,17 @@ const createStaticPages = ({ createPage, graphql}) => {
             }
           }
         }
-      }    
+      }
     `).then(result => {
       const edges = result.data.allMarkdownRemark.edges
 
-      edges.forEach(({node}) => {
+      edges.forEach(({ node }) => {
         createPage({
           path: node.fields.slug,
           component: path.resolve("./src/templates/static-page.js"),
           context: {
             slug: node.fields.slug,
-          }
+          },
         })
       })
 
@@ -155,16 +162,72 @@ const createStaticPages = ({ createPage, graphql}) => {
   })
 }
 
-createSpeakersPages = ({createPage, graphql}) => {
+createSpeakersPages = ({ createPage, graphql }) => {
   return new Promise((resolve, reject) => {
+    graphql(`
+      {
+        allMarkdownRemark(filter: { fields: { sourceName: { eq: "speakers" } } }) {
+          edges {
+            node {
+              id
+              fields {
+                slug
+                speakerId
+              }
+            }
+          }
+        }
+      }
+    `).then(result => {
+      const edges = result.data.allMarkdownRemark.edges
 
-    resolve()
+      edges.forEach(({ node }) => {
+        createPage({
+          path: node.fields.slug,
+          component: path.resolve("./src/templates/speaker-page.js"),
+          context: {
+            speakerSlug: node.fields.slug,
+            speakerId: node.fields.speakerId,
+          },
+        })
+      })
+
+      resolve()
+    })
   })
 }
 
-createLocationPages = ({createPage, graphql}) => {
+createLocationPages = ({ createPage, graphql }) => {
   return new Promise((resolve, reject) => {
+    graphql(`
+      {
+        allMarkdownRemark(filter: { fields: { sourceName: { eq: "locations" } } }) {
+          edges {
+            node {
+              id
+              fields {
+                slug
+                locationId
+              }
+            }
+          }
+        }
+      }
+    `).then(result => {
+      const edges = result.data.allMarkdownRemark.edges
 
-    resolve()
+      edges.forEach(({ node }) => {
+        createPage({
+          path: node.fields.slug,
+          component: path.resolve("./src/templates/location-page.js"),
+          context: {
+            locationSlug: node.fields.slug,
+            locationId: node.fields.locationId,
+          },
+        })
+      })
+
+      resolve()
+    })
   })
 }
