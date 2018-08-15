@@ -19,7 +19,7 @@ const getUpcomingEvent = ({ allEvents, extractDate, today }) => {
     return undefined
   }
 
-  const extractor = extractDate ? extractDate : edge => edge.node.frontmatter.date
+  const extractor = extractDate ? extractDate : edge => edge.frontmatter.date
 
   const sortedEvents = R.sortBy(extractor)(allEvents)
 

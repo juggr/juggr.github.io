@@ -3,10 +3,8 @@ import React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 
-export default ({ data }) => {
+const SpeakerPage = ({ data }) => {
   const { speaker, talks } = data
-
-  console.log("talks", talks)
 
   return (
     <Layout>
@@ -41,6 +39,8 @@ export default ({ data }) => {
     </Layout>
   )
 }
+
+export default SpeakerPage
 
 export const query = graphql`
   query($speakerSlug: String!, $speakerId: String!) {

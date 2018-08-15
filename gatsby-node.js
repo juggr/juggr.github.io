@@ -72,8 +72,9 @@ exports.createPages = ({ graphql, actions }) => {
   const staticPagesPromise = createStaticPages({ createPage, graphql })
   const speakersPagesPromise = createSpeakersPages({ createPage, graphql })
   const locationPagesPromise = createLocationPages({ createPage, graphql })
+  const postsPagesPromise = createPostsPages({ createPage, graphql })
 
-  return Promise.all([talksPromise, staticPagesPromise, speakersPagesPromise, locationPagesPromise])
+  return Promise.all([talksPromise, staticPagesPromise, speakersPagesPromise, locationPagesPromise, postsPagesPromise])
 }
 
 const createTalkPages = ({ createPage, graphql }) => {
@@ -162,7 +163,7 @@ const createStaticPages = ({ createPage, graphql }) => {
   })
 }
 
-createSpeakersPages = ({ createPage, graphql }) => {
+const createSpeakersPages = ({ createPage, graphql }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
@@ -197,7 +198,7 @@ createSpeakersPages = ({ createPage, graphql }) => {
   })
 }
 
-createLocationPages = ({ createPage, graphql }) => {
+const createLocationPages = ({ createPage, graphql }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
@@ -223,6 +224,40 @@ createLocationPages = ({ createPage, graphql }) => {
           context: {
             locationSlug: node.fields.slug,
             locationId: node.fields.locationId,
+          },
+        })
+      })
+
+      resolve()
+    })
+  })
+}
+
+
+const createPostsPages = ({createPage, graphql}) => {
+  return new Promise((resolve, reject) => {
+    graphql(`
+      {
+        allMarkdownRemark(filter: { fields: { sourceName: { eq: "posts" } } }) {
+          edges {
+            node {
+              id
+              fields {
+                slug
+              }
+            }
+          }
+        }
+      }
+    `).then(result => {
+      const edges = result.data.allMarkdownRemark.edges
+
+      edges.forEach(({ node }) => {
+        createPage({
+          path: node.fields.slug,
+          component: path.resolve("./src/templates/static-page.js"),
+          context: {
+            slug: node.fields.slug,
           },
         })
       })

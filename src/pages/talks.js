@@ -9,28 +9,12 @@ import formatDate from "../utils/format-date"
 import * as R from "ramda"
 
 import getUpcomingEvent from "../utils/get-upcoming-event"
-
-/**
- * For each talk we cannot directly query the speaker info (especially the name) but only the speakerSlugs (not the full slug but the important
- * speaker-identifier with which we can create the slug)
- * we have to query all speakers in a separate query. Then we need to extract from this allSpeakers-list
- * only those speaker info objects that belong to a given talk. This is what this method is doing.
- *
- * @param allSpeakers an array of all speaker objects
- * @param talk a talk object
- */
-const findSpeakersForTalk = ({ allSpeakers, talk }) => {
-  return R.innerJoin(
-    (speaker, slug) => speaker.node.fields.slug === `/speakers/${slug}/`,
-    allSpeakers,
-    talk.frontmatter.speaker
-  )
-}
+import findSpeakersForTalk from "../utils/find-speakers-for-talk"
 
 const TalksPage = ({ data }) => {
-  const talks = data.talks.edges
+  const talks = data.talks.edges.map(edge => edge.node)
 
-  const allSpeakers = data.speakers.edges
+  const allSpeakers = data.speakers.edges.map(edge => edge.node)
 
   const today = new Date()
 
@@ -41,14 +25,13 @@ const TalksPage = ({ data }) => {
       <h2>Alle Vortragsthemen</h2>
 
       <ul>
-        {talks.map(talkEdge => {
-          const talk = talkEdge.node
+        {talks.map(talk => {
 
           const speakersOfTalk = findSpeakersForTalk({ allSpeakers, talk })
 
-          const speakersString = R.join(", ")(speakersOfTalk.map(speaker => speaker.node.frontmatter.name))
+          const speakersString = R.join(", ")(speakersOfTalk.map(speaker => speaker.frontmatter.name))
 
-          const isNextTalk = upcomingEvent && talk.frontmatter.date === upcomingEvent.node.frontmatter.date
+          const isNextTalk = upcomingEvent && talk.frontmatter.date === upcomingEvent.frontmatter.date
 
           const style = isNextTalk ? { backgroundColor: "rgb(231, 231, 231)" } : undefined
 
