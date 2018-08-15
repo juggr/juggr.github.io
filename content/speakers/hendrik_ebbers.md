@@ -1,6 +1,6 @@
 ---
 name: Hendrik Ebbers
-pic: https://lestard.eu/files/pics/me.png
+pic: /images/hendrik_ebbers.png
 twitter_name: hendrikEbbers
 ---
 

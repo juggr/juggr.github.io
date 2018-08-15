@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Fortgeschrittene Android-Entwicklung"
 date: 2015-05-27
 speaker: [max_wielsch]

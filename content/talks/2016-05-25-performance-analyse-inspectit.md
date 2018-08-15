@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Performance-Analyse mit inspectIT"
 date: 2016-05-25
 speaker: [mario_mann]

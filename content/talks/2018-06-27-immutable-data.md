@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Immutable Data - Unveränderliche Daten im Griff"
 date: 2018-06-27
 speaker: [manuel_mauky]

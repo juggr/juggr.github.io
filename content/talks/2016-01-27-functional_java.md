@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Funktionale Programmierung mit Java"
 date: 2016-01-27
 speaker: [manuel_mauky, max_wielsch]

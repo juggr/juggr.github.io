@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Testwerkzeuge für JavaFX"
 date: 2016-07-27
 speaker: [kay_grebenstein]

@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Inside JVM"
 date: 2016-11-30
 speaker: [michael_wiedeking]

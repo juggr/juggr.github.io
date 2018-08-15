@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Mikro- vs. Makroarchitektur – Spielraum und Spielregeln"
 date: 2018-03-20
 speaker: [stefan_zoerner]

@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Webentwicklung mit Scala"
 date: 2012-02-29
 tags: frontend web programmiersprachen

@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "JMonkeyEngine 3 - 3D-Applikationen in Java"
 date: 2012-05-30
 tags: frontend

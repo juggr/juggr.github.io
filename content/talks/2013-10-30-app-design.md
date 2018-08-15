@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Modernes App-Design am Beispiel von Android"
 date: 2013-10-30
 speaker: [max_wielsch]

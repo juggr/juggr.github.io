@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Performance-Optimierung im Web"
 date: 2013-11-27
 speaker: [maik_wagner]

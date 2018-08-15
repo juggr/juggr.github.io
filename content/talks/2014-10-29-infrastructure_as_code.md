@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Infrastructure as Code"
 date: 2014-10-29
 tags: java

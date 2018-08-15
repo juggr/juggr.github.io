@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Haskell und Frege"
 date: 2016-03-30
 speaker: [manuel_mauky]

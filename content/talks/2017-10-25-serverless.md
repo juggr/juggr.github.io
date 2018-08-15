@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Serverless Application - Who the heck needs a Server?"
 date: 2017-10-25
 speaker: [lars_roewekamp]

@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Single Sign-On mit JAAS und JGSS"
 date: 2011-09-28
 tags: security

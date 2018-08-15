@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Java8 - Streams und Lambdas"
 date: 2014-07-30
 speaker: [paul_weinhold]

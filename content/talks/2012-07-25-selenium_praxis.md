@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Selenium/Webdriver in der Praxis"
 date: 2012-07-25
 tags: web frontend

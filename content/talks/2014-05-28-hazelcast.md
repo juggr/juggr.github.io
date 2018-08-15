@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Hazelcast - Synchronisation von In-Memory-Daten"
 date: 2014-05-28
 speaker: [steffen_seidler]

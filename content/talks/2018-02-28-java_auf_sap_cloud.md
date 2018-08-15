@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Entwicklung von Java Applikationen auf der SAP Cloud Platform"
 date: 2018-02-28
 speaker: [jens_leuschner, mariusz_zienkiewicz]

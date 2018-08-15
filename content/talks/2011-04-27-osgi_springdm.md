@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "OSGi mit SpringDM"
 date: 2011-04-27
 speaker: [manuel_mauky]

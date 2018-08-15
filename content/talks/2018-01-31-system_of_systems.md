@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Refactoring to a System of Systems"
 date: 2018-01-31
 speaker: [oliver_gierke]

@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "Kommunikationskultur im Softwareentwicklungsprozess"
 date: 2016-09-21
 speaker: [daniel_sernow]

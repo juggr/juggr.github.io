@@ -1,5 +1,4 @@
 ---
-layout: talk
 title: "JavaFX auf Mobile"
 date: 2015-11-25
 speaker: [stefan_heinze, stefan_barth]
