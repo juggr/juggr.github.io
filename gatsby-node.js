@@ -28,6 +28,11 @@ exports.onCreateNode = params => {
         createSlug({ ...params, basePath: "content/talks", prefix: "talks" })
         break
       }
+
+      case "locations": {
+        createSlug({ ...params, basePath: "content/locations", prefix: "locations"})
+        break;
+      }
     }
   }
 }
@@ -50,9 +55,15 @@ exports.createPages = ({graphql, actions}) => {
 
   const talksPromise = createTalkPages({createPage, graphql})
   const staticPagesPromise = createStaticPages({createPage, graphql})
+  const speakersPagesPromise = createSpeakersPages({createPage, graphql})
+  const locationPagesPromise = createLocationPages({createPage, graphql})
+
 
   return Promise.all([
-    talksPromise
+    talksPromise,
+    staticPagesPromise,
+    speakersPagesPromise,
+    locationPagesPromise,
   ])
 }
 
@@ -71,6 +82,8 @@ const createTalkPages = ({ createPage, graphql}) => {
                 title
                 date
                 tags
+                speaker
+                location
               }
               html
               fields {
@@ -88,7 +101,9 @@ const createTalkPages = ({ createPage, graphql}) => {
           path: node.fields.slug,
           component: path.resolve("./src/templates/talk-page.js"),
           context: {
-            slug: node.fields.slug
+            slug: node.fields.slug,
+            speakerSlugs: node.frontmatter.speaker.map(speaker => `/speakers/${speaker}/`),
+            locationSlug: `/locations/${node.frontmatter.location}/`
           }
         })
       })
@@ -130,12 +145,26 @@ const createStaticPages = ({ createPage, graphql}) => {
           path: node.fields.slug,
           component: path.resolve("./src/templates/static-page.js"),
           context: {
-            slug: node.fields.slug
+            slug: node.fields.slug,
           }
         })
       })
 
       resolve()
     })
+  })
+}
+
+createSpeakersPages = ({createPage, graphql}) => {
+  return new Promise((resolve, reject) => {
+
+    resolve()
+  })
+}
+
+createLocationPages = ({createPage, graphql}) => {
+  return new Promise((resolve, reject) => {
+
+    resolve()
   })
 }

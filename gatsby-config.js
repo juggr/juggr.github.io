@@ -35,6 +35,13 @@ module.exports = {
         path: `${__dirname}/content/talks`
       }
     },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "locations",
+        path: `${__dirname}/content/locations`
+      }
+    },
     "gatsby-transformer-remark",
     "gatsby-remark-source-name",
     "gatsby-plugin-catch-links",

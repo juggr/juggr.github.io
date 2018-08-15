@@ -2,7 +2,8 @@
 layout: talk
 title: "JavaFX auf Mobile"
 date: 2015-11-25
-speaker: Stefan Heinze & Stefan Barth
+speaker: [stefan_heinze, stefan_barth]
+location: saxsys
 tags: java mobile
 ---
 
@@ -27,8 +28,3 @@ Vorgestellt wird der aktuelle Entwicklungsstand mit einer offenen Diskussion üb
 **Materialien:**
 
 + [Vortragsfolien](/downloads/juggr_javafx_on_mobile.pdf)
-
-
-Datum: 25.11.2015, 19:00 uhr
-
-Veranstaltungsort: Saxonia Systems AG, Berliner Str. 63, 02826 Görlitz
