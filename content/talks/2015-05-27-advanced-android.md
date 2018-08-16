@@ -3,7 +3,7 @@ title: "Fortgeschrittene Android-Entwicklung"
 date: 2015-05-27
 speaker: [max_wielsch]
 location: saxsys
-tags: java, android
+tags: [mobile, android]
 ---
 
 Aufbauend auf dem letzten Beitrag der Java User Group Görlitz

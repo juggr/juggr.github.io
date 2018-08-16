@@ -1,7 +1,7 @@
 ---
 title: "JMonkeyEngine 3 - 3D-Applikationen in Java"
 date: 2012-05-30
-tags: frontend
+tags: [frontend]
 speaker: [hans_markwart]
 location: hochschule_obermarkt
 ---

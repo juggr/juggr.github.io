@@ -3,7 +3,7 @@ title: "Performance-Analyse mit inspectIT"
 date: 2016-05-25
 speaker: [mario_mann]
 location: saxsys
-tags: performance
+tags: [performance, monitoring]
 ---
 
 In vielen Software-Projekten wissen häufig nicht nur Anwender sondern auch Entwickler nicht, warum sich ihre Anwendung

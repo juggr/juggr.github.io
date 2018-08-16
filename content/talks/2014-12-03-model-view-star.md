@@ -1,7 +1,7 @@
 ---
 title: "Model-View-*: UI-Design-Patterns im Detail"
 date: 2014-12-03
-tags: java
+tags: [frontend, patterns]
 speaker: [manuel_mauky]
 location: saxsys
 ---

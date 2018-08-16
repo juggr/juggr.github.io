@@ -4,7 +4,7 @@ date: 2016-09-21
 speaker: [daniel_sernow]
 location: sqs
 poster: /images/plakat_2016_09.png
-tags: testing
+tags: [testen, softwareentwicklung]
 ---
 
 Im Vortrag von Daniel Sernow wird die Kommunikation in Software-Projekten und mit den Projekt-Partnern thematisiert. Er

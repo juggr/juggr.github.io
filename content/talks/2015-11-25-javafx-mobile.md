@@ -3,7 +3,7 @@ title: "JavaFX auf Mobile"
 date: 2015-11-25
 speaker: [stefan_heinze, stefan_barth]
 location: saxsys
-tags: java mobile
+tags: [frontend, javafx, mobile, android]
 ---
 
 JavaFX ist die neue Java-Technologie im Desktop-Bereich und somit die Ablösung von Swing.

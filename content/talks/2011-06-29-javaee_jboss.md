@@ -1,7 +1,7 @@
 ---
 title: "JavaEE und JBoss"
 date: 2011-06-29
-tags: javaee
+tags: [javaee]
 speaker: [michael_foerster]
 location: dser_steinstrasse
 ---

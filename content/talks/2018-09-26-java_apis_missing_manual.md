@@ -2,7 +2,7 @@
 title: "Java APIs - the missing manual"
 date: 2018-09-26
 speaker: [hendrik_ebbers]
-tags: java
+tags: [java]
 ---
 
 Anstelle über Microservices, NO-SQL Lösungen oder Container-Management zu reden werden im Workshop Bestandteile des

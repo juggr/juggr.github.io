@@ -1,7 +1,7 @@
 ---
 title: "Advanced JSF und CDI"
 date: 2012-01-25
-tags: frontend web javaee
+tags: [frontend, web, javaee, jsf]
 speaker: [manuel_mauky]
 location: hochschule_obermarkt
 ---

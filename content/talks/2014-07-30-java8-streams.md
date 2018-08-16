@@ -3,7 +3,7 @@ title: "Java8 - Streams und Lambdas"
 date: 2014-07-30
 speaker: [paul_weinhold]
 location: hochschule_obermarkt
-tags: java
+tags: [java, functional programming]
 ---
 
 Seit April ist die neue Version 8 von Java offiziell verfügbar. Dieses Update ist sicherlich das bedeutendste Update

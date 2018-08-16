@@ -1,7 +1,7 @@
 ---
 title: "JPA - Hibernate"
 date: 2012-01-04
-tags: backend javaee
+tags: [database, javaee]
 speaker: [marko_modsching]
 location: dser_steinstrasse
 ---

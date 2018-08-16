@@ -1,7 +1,7 @@
 ---
 title: "Selenium/Webdriver in der Praxis"
 date: 2012-07-25
-tags: web frontend
+tags: [web, frontend, testen]
 speaker: [maik_wagner]
 location: dser_steinstrasse
 ---

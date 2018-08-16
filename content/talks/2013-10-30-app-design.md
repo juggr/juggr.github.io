@@ -3,7 +3,7 @@ title: "Modernes App-Design am Beispiel von Android"
 date: 2013-10-30
 speaker: [max_wielsch]
 location: hochschule_campus
-tags: frontend mobile
+tags: [frontend, mobile, android]
 ---
 
 Die Android-Plattform hat sich in den letzten 2 Jahren sehr stark weiterentwickelt. Sie wurde nicht nur um

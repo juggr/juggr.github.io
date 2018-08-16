@@ -4,7 +4,7 @@ date: 2018-03-20
 speaker: [stefan_zoerner]
 location: hochschule_campus
 poster: /images/plakat_2018_03.png
-tags: architektur
+tags: [architektur]
 ---
 
 Während in einer klassischen Konzern-IT Standards und Blaupausen für immer gleiche Anwendungsarchitekturen sorgen,

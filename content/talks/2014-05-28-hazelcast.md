@@ -3,7 +3,7 @@ title: "Hazelcast - Synchronisation von In-Memory-Daten"
 date: 2014-05-28
 speaker: [steffen_seidler]
 location: dser_steinstrasse
-tags: java
+tags: [cluster]
 ---
 
 Hazelcast ist ein vielseitiges Framework zur einfachen Synchronization von Daten, die sich In-Memory innerhalb einer

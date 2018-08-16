@@ -1,7 +1,7 @@
 ---
 title: "Infrastructure as Code"
 date: 2014-10-29
-tags: java
+tags: [devops]
 speaker: [bruno_devic]
 location: hochschule_obermarkt
 ---

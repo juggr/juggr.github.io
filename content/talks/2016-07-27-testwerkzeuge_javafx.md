@@ -3,7 +3,7 @@ title: "Testwerkzeuge für JavaFX"
 date: 2016-07-27
 speaker: [kay_grebenstein]
 location: hochschule_obermarkt
-tags: javafx testing
+tags: [javafx, testen]
 ---
 
 Softwareentwicklungsprojekte leben vom Einsatz von modernen Werkzeugen, die die Projektbeteiligten bei ihrer Arbeit

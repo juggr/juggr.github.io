@@ -4,7 +4,7 @@ date: 2017-10-25
 speaker: [lars_roewekamp]
 poster: /images/plakat_2017_10.png
 location: hochschule_campus
-tags: architektur
+tags: [architektur]
 ---
 
 Kaum haben wir uns von dem klassischen Monolithen und der zugehörigen Ablaufumgebung namens Application Server,

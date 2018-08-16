@@ -2,7 +2,7 @@
 title: "Immutable Data - Unveränderliche Daten im Griff"
 date: 2018-06-27
 speaker: [manuel_mauky]
-tags: programmiersprachen
+tags: [programmiersprachen, functional programming]
 location: hochschule_campus
 poster: /images/plakat_2018_06.png
 ---

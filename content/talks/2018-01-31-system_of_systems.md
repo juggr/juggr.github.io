@@ -3,7 +3,7 @@ title: "Refactoring to a System of Systems"
 date: 2018-01-31
 speaker: [oliver_gierke]
 location: saxsys
-tags: architektur
+tags: [architektur]
 poster: /images/plakat_2018_01.png
 ---
 
