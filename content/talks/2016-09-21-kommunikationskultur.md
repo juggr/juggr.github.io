@@ -3,7 +3,7 @@ title: "Kommunikationskultur im Softwareentwicklungsprozess"
 date: 2016-09-21
 speaker: [daniel_sernow]
 location: sqs
-poster: /images/plakat_2016_09.png
+poster: ../images/plakat_2016_09.png
 tags: [testen, softwareentwicklung]
 ---
 

@@ -8,14 +8,14 @@ const SpeakerProfile = ({ speaker }) => {
     <Container>
       <Row>
         {speaker.frontmatter.pic && (
-          <Col>
+          <Col sm="6" xs="12" style={{textAlign: "center"}}>
             <Link to={speaker.fields.slug}>
-              <img alt="speaker" src={speaker.frontmatter.pic} />
+              <img alt="speaker" className="img-responsive" src={speaker.frontmatter.pic} />
             </Link>
           </Col>
         )}
 
-        <Col>
+        <Col sm="6" xs="12">
           <div>
             <p>
               <Link to={speaker.fields.slug}>

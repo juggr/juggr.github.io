@@ -4,7 +4,7 @@ date: 2018-01-31
 speaker: [oliver_gierke]
 location: saxsys
 tags: [architektur]
-poster: /images/plakat_2018_01.png
+poster: ../images/plakat_2018_01.png
 ---
 
 Beim Bauen monolithischer Systeme nutzen Entwicklerteams eine Reihe typischer Muster um die Interaktion verschiedener

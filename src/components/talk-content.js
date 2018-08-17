@@ -9,6 +9,8 @@ import { Link } from "gatsby"
 import * as R from "ramda"
 import SpeakerProfile from "./speaker-profile"
 
+import Img from "gatsby-image"
+
 const SpeakerHeadline = ({ speakerList }) => (
   <span className="lead">
     von{" "}
@@ -85,7 +87,7 @@ const TalkContent = ({ talk, speakerList, location, linkToDetailsPage }) => (
     <article>
       <div dangerouslySetInnerHTML={{ __html: talk.html }} />
 
-      {talk.frontmatter.poster && <img alt="event poster" src={talk.frontmatter.poster} />}
+      {talk.frontmatter.poster && <Img sizes={talk.frontmatter.poster.childImageSharp.sizes} />}
 
       <hr />
 

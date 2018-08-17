@@ -2,6 +2,10 @@ body {
   font-family: "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 }
 
+h2 {
+  margin-bottom: 0.5rem;
+}
+
 /* Override default style for links of typography-theme-fairy-gate */
 .navbar {
   border-color: #e7e7e7;

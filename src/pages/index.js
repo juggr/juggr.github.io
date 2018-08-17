@@ -28,11 +28,7 @@ const IndexPage = ({ data }) => {
   const posts = data.posts ? data.posts.edges.map(edge => edge.node) : []
 
   if (posts.length > 0) {
-
-    const sortedPosts =
-      R.sortWith([
-        R.descend(post => post.frontmatter.date)
-      ])(posts)
+    const sortedPosts = R.sortWith([R.descend(post => post.frontmatter.date)])(posts)
 
     return (
       <Layout>
@@ -51,8 +47,10 @@ const IndexPage = ({ data }) => {
     const allSpeakers = speakers.edges.map(edge => edge.node)
     const allLocations = locations.edges.map(edge => edge.node)
 
-    const location =  R.filter(location => location.fields.locationId === upcomingEvent.frontmatter.location)(allLocations)[0]
-    const speakersOfTalk = findSpeakersForTalk({ allSpeakers, talk:upcomingEvent })
+    const location = R.filter(location => location.fields.locationId === upcomingEvent.frontmatter.location)(
+      allLocations
+    )[0]
+    const speakersOfTalk = findSpeakersForTalk({ allSpeakers, talk: upcomingEvent })
 
     return (
       <Layout>
@@ -76,6 +74,13 @@ export const query = graphql`
             date
             speaker
             location
+            poster {
+              childImageSharp {
+                sizes {
+                  ...GatsbyImageSharpSizes
+                }
+              }
+            }
           }
           fields {
             slug
@@ -86,10 +91,7 @@ export const query = graphql`
     }
 
     posts: allMarkdownRemark(
-      filter: { 
-        fields: { sourceName: { eq: "posts" } } 
-        frontmatter: { show_on_frontpage: { eq: true } } 
-      }
+      filter: { fields: { sourceName: { eq: "posts" } }, frontmatter: { show_on_frontpage: { eq: true } } }
     ) {
       edges {
         node {

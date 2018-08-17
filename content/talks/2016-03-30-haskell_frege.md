@@ -3,7 +3,7 @@ title: "Haskell und Frege"
 date: 2016-03-30
 speaker: [manuel_mauky]
 location: hochschule_campus
-poster: https://raw.githubusercontent.com/juggr/grafiken/master/Plakate/Plakat_03_2016/Plakat03_2016v2.png
+poster: ../images/plakat_2016_03.png
 tags: [programmiersprachen, functional programming]
 ---
 

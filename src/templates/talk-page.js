@@ -31,7 +31,13 @@ export const query = graphql`
         title
         date
         tags
-        poster
+        poster {
+          childImageSharp {
+            sizes {
+              ...GatsbyImageSharpSizes
+            }
+          }
+        }
       }
     }
 

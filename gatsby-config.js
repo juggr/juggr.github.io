@@ -42,7 +42,26 @@ module.exports = {
         path: `${__dirname}/content/locations`
       }
     },
-    "gatsby-transformer-remark",
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "poster",
+        path: `${__dirname}/content/images`
+      }
+    },
+    {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [
+          {
+            resolve: "gatsby-remark-images",
+            options: {
+              maxWidth: 600
+            }
+          }
+        ]
+      }
+    },
     "gatsby-remark-source-name",
     "gatsby-plugin-catch-links",
     {
@@ -51,5 +70,7 @@ module.exports = {
         pathToConfigModule: "src/utils/typography.js",
       },
     },
+    "gatsby-transformer-sharp",
+    "gatsby-plugin-sharp"
   ],
 }

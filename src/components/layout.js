@@ -23,6 +23,15 @@ const Layout = ({ children, data }) => {
               description
             }
           }
+
+          logo: file(relativePath:{eq: "logo.png"}) {
+            id
+            childImageSharp {
+              fluid {
+                ...GatsbyImageSharpFluid
+              }
+            }
+          }
         }
       `}
       render={data => (
@@ -48,7 +57,7 @@ const Layout = ({ children, data }) => {
               </Col>
 
               <Col md="3">
-                  <Sidebar/>
+                  <Sidebar logo={data.logo}/>
               </Col>
             </Row>
           </Container>
