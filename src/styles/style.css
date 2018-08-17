@@ -1,3 +1,7 @@
+body {
+  font-family: "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
 /* Override default style for links of typography-theme-fairy-gate */
 .navbar {
   border-color: #e7e7e7;
@@ -6,6 +10,10 @@
 }
 
 .navbar a {
+  background-image: none;
+}
+
+.navbar a:hover {
   background-image: none;
 }
 
@@ -22,7 +30,7 @@
 }
 
 .sidebar li {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 a {

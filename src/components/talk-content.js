@@ -7,6 +7,7 @@ import { faTag } from "@fortawesome/free-solid-svg-icons"
 import { Link } from "gatsby"
 
 import * as R from "ramda"
+import SpeakerProfile from "./speaker-profile"
 
 const SpeakerHeadline = ({ speakerList }) => (
   <span className="lead">
@@ -19,32 +20,6 @@ const SpeakerHeadline = ({ speakerList }) => (
       ))
     )}
   </span>
-)
-
-const SpeakerInfo = ({ speaker }) => (
-  <div className="speaker-info">
-    <div className="short-info">
-      {speaker.frontmatter.pic && (
-        <Link to={speaker.fields.slug}>
-          <img className="event-poster" alt="speaker" src={`${speaker.frontmatter.pic}`} />
-        </Link>
-      )}
-      <p>
-        <Link to={speaker.fields.slug}>
-          <strong>{speaker.frontmatter.name}</strong>
-        </Link>
-      </p>
-      {speaker.frontmatter.twitter_name && (
-        <p>
-          Twitter:{" "}
-          <a href={`https://twitter.com/${speaker.frontmatter.twitter_name}`}>{`@${
-            speaker.frontmatter.twitter_name
-          }`}</a>
-        </p>
-      )}
-    </div>
-    <div className="description" dangerouslySetInnerHTML={{ __html: speaker.html }} />
-  </div>
 )
 
 const LocationInfo = ({ location }) => {
@@ -115,7 +90,7 @@ const TalkContent = ({ talk, speakerList, location, linkToDetailsPage }) => (
       <hr />
 
       {speakerList.map(speaker => (
-        <SpeakerInfo key={speaker.id} speaker={speaker} />
+        <SpeakerProfile key={speaker.id} speaker={speaker} />
       ))}
 
       <hr />

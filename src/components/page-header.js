@@ -35,10 +35,9 @@ class PageHeader extends React.Component {
 
   render() {
     return (
-        <Navbar color="light" light expand="sm">
-          <Container>
-
-          <NavbarBrand to="/" tag={props => <Link {...props} />} >
+      <Navbar color="light" light expand="sm">
+        <Container>
+          <NavbarBrand to="/" tag={props => <Link {...props} />}>
             Java User Group Görlitz
           </NavbarBrand>
           <NavbarToggler onClick={this.toggle} />
@@ -52,8 +51,8 @@ class PageHeader extends React.Component {
               <LinkItem to="/mitmachen">Mitmachen</LinkItem>
             </Nav>
           </Collapse>
-          </Container>
-        </Navbar>
+        </Container>
+      </Navbar>
     )
   }
 }
