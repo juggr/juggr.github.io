@@ -71,6 +71,19 @@ module.exports = {
       },
     },
     "gatsby-transformer-sharp",
-    "gatsby-plugin-sharp"
+    "gatsby-plugin-sharp",
+    {
+      resolve: "gatsby-plugin-manifest",
+      options: {
+        name: "JUG Görlitz",
+        short_name: "JUG Görlitz",
+        start_url: "/",
+        background_color: "#fff",
+        theme_color: "pink",
+        display: "minimal-ui",
+        icon: "content/images/icon.png"
+      }
+    },
+    "gatsby-plugin-offline"
   ],
 }
