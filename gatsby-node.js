@@ -1,6 +1,16 @@
 const { createFilePath } = require("gatsby-source-filesystem")
 const path = require("path")
 
+const moment = require("moment")
+
+/**
+ * The old website had another schema for URLs for talks. We need to create redirects to the new schema
+ * so that existing old links still work.
+ * However, for newer talks we don't need to create these redirects.
+ * This date is used as a dividing line. All talks that are after this date won't get a redirect.
+ */
+const MIGRATION_DATE = moment("2018-05-01")
+
 exports.onCreateNode = params => {
   const { node, getNode } = params
 
@@ -26,6 +36,7 @@ exports.onCreateNode = params => {
 
       case "talks": {
         createSlug({ ...params, basePath: "content/talks", prefix: "talks" })
+        createLegacySlug({ ...params })
         break
       }
 
@@ -34,6 +45,32 @@ exports.onCreateNode = params => {
         createNodeId({ ...params, idFieldName: "locationId" })
         break
       }
+    }
+  }
+}
+
+/**
+ * This method is used to create a field containing the legacy slug (URL) for older talks (
+ * older then {@link MIGRATION_DATE}).
+ */
+const createLegacySlug = ({ node, getNode, actions }) => {
+  const { createNodeField } = actions
+
+  if (node.frontmatter.date) {
+    const date = moment(node.frontmatter.date)
+
+    if (date.isBefore(MIGRATION_DATE)) {
+      const nodeName = getNode(node.parent).name
+
+      const nodeNameWithoutDate = nodeName.substring("2018-01-01-".length, nodeName.length)
+
+      const legacySlug = `/${date.year()}/${date.format("MM")}/${date.format("DD")}/${nodeNameWithoutDate}`
+
+      createNodeField({
+        node,
+        name: "legacySlug",
+        value: legacySlug,
+      })
     }
   }
 }
@@ -66,9 +103,9 @@ const createNodeId = ({ node, getNode, actions, idFieldName }) => {
 }
 
 exports.createPages = ({ graphql, actions }) => {
-  const { createPage } = actions
+  const { createPage, createRedirect } = actions
 
-  const talksPromise = createTalkPages({ createPage, graphql })
+  const talksPromise = createTalkPages({ createPage, graphql, createRedirect })
   const staticPagesPromise = createStaticPages({ createPage, graphql })
   const speakersPagesPromise = createSpeakersPages({ createPage, graphql })
   const locationPagesPromise = createLocationPages({ createPage, graphql })
@@ -77,7 +114,7 @@ exports.createPages = ({ graphql, actions }) => {
   return Promise.all([talksPromise, staticPagesPromise, speakersPagesPromise, locationPagesPromise, postsPagesPromise])
 }
 
-const createTalkPages = ({ createPage, graphql }) => {
+const createTalkPages = ({ createPage, graphql, createRedirect }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
@@ -98,6 +135,7 @@ const createTalkPages = ({ createPage, graphql }) => {
               html
               fields {
                 slug
+                legacySlug
               }
             }
           }
@@ -116,6 +154,20 @@ const createTalkPages = ({ createPage, graphql }) => {
             locationSlug: `/locations/${node.frontmatter.location}/`,
           },
         })
+
+        if (node.fields.legacySlug) {
+          const f = legacySlug => {
+            createRedirect({
+              fromPath: legacySlug,
+              toPath: node.fields.slug,
+              isPermanent: true,
+              redirectInBrowser: true,
+            })
+          }
+
+          f(node.fields.legacySlug)
+          f(node.fields.legacySlug + ".html")
+        }
       })
 
       resolve()
@@ -233,8 +285,7 @@ const createLocationPages = ({ createPage, graphql }) => {
   })
 }
 
-
-const createPostsPages = ({createPage, graphql}) => {
+const createPostsPages = ({ createPage, graphql }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
