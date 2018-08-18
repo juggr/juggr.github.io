@@ -12,6 +12,12 @@ import PageHeader from "./page-header"
 import PageFooter from "./page-footer"
 import Sidebar from "./sidebar"
 
+import fontawesome from '@fortawesome/fontawesome'
+
+fontawesome.config = {
+  autoAddCss: false
+}
+
 const Layout = ({ children, data }) => {
   return (
     <StaticQuery
@@ -45,18 +51,20 @@ const Layout = ({ children, data }) => {
                 content: "java, usergroup, görlitz, programmierung",
               },
             ]}
-          />
+          >
+            <style>{fontawesome.dom.css()}</style>
+          </Helmet>
 
           <PageHeader />
           <Container style={{
             marginTop: "1em"
           }}>
             <Row>
-              <Col md="9">
+              <Col md="8">
                 {children}
               </Col>
 
-              <Col md="3">
+              <Col md="4">
                   <Sidebar logo={data.logo}/>
               </Col>
             </Row>
