@@ -5,7 +5,6 @@ module.exports = {
       "Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java",
     siteUrl: "https://jug-gr.de",
   },
-  pathPrefix: "jug-beta",
   plugins: [
     "gatsby-plugin-react-helmet",
     {
