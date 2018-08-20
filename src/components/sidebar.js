@@ -1,18 +1,17 @@
 import React from "react"
-import Img from "gatsby-image"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 import { faTwitter, faFacebook, faGooglePlus, faGithub } from "@fortawesome/free-brands-svg-icons"
 import { faEnvelope, faCalendarAlt } from "@fortawesome/free-solid-svg-icons"
 
-import { Container, Col, Row } from "reactstrap"
+import { Col, Row } from "reactstrap"
 
 const Sidebar = ({ logo }) => (
   <div className="sidebar">
-    <Container>
+    <div>
       <Row>
         <Col sm="6" xs="12" md="12">
-          <Img alt="Logo der JUG Görlitz" fluid={logo.childImageSharp.fluid} />
+          <img alt="Logo der JUG Görlitz" src={require("../../content/images/logo.png")}/>
         </Col>
         <Col sm="6" xs="12" md="12">
           <h3>
@@ -59,26 +58,26 @@ const Sidebar = ({ logo }) => (
           </ul>
         </Col>
       </Row>
-    </Container>
+    </div>
 
     <br />
 
     <a href="https://jax.de/">
-      <img alt="Banner für die WJAX 2018" className="img-responsive" src="/images/jax_banner.png" />
+      <img alt="Banner für die WJAX 2018" src={require("../../content/images/jax_banner.png")} />
     </a>
 
     <br />
 
     <p>Unterstützt durch:</p>
     <a href="https://www.sogehtsoftware.de">
-      <img alt="Logo von Saxonia Systems AG" className="img-responsive" src="/images/saxonia_logo.png" />
+      <img alt="Logo von Saxonia Systems AG" src={require("../../content/images/saxsys_logo.jpg")} />
     </a>
 
     <br />
     <br />
 
     <a href="https://mitp.de/">
-      <img alt="Logo des mitp Verlags" className="img-responsive" src="/images/mitp_logo.jpeg" />
+      <img alt="Logo des mitp Verlags" src={require("../../content/images/mitp_logo.jpeg")} />
     </a>
   </div>
 )

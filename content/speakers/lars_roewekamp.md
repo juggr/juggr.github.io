@@ -1,6 +1,6 @@
 ---
 name: Lars Röwekamp
-pic: /images/lars_roewekamp.png
+pic: ../images/lars_roewekamp.png
 twitter_name: mobileLarson
 ---
 

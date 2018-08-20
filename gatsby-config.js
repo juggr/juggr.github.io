@@ -5,6 +5,7 @@ module.exports = {
       "Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java",
     siteUrl: "https://jug-gr.de",
   },
+  pathPrefix: "jug-beta",
   plugins: [
     "gatsby-plugin-react-helmet",
     {
@@ -45,7 +46,7 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "poster",
+        name: "images",
         path: `${__dirname}/content/images`
       }
     },
@@ -79,7 +80,7 @@ module.exports = {
         short_name: "JUG Görlitz",
         start_url: "/",
         background_color: "#fff",
-        theme_color: "pink",
+        theme_color: "#337ab7",
         display: "minimal-ui",
         icon: "content/images/icon.png"
       }

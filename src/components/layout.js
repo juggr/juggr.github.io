@@ -60,11 +60,11 @@ const Layout = ({ children, data }) => {
             marginTop: "1em"
           }}>
             <Row>
-              <Col md="8">
+              <Col md="9">
                 {children}
               </Col>
 
-              <Col md="4">
+              <Col md="3">
                   <Sidebar logo={data.logo}/>
               </Col>
             </Row>

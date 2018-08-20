@@ -1,6 +1,6 @@
 import React from "react"
 
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 
@@ -33,8 +33,8 @@ export const query = graphql`
         tags
         poster {
           childImageSharp {
-            sizes {
-              ...GatsbyImageSharpSizes
+            fluid {
+              ...GatsbyImageSharpFluid
             }
           }
         }
@@ -51,7 +51,13 @@ export const query = graphql`
           html
           frontmatter {
             name
-            pic
+            pic {
+              childImageSharp {
+                fluid(maxWidth: 400) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
             twitter_name
           }
           fields {

@@ -1,6 +1,6 @@
 ---
 name: Oliver Gierke
-pic: "/images/oliver_gierke.png"
+pic: ../images/oliver_gierke.png
 twitter_name: olivergierke
 ---
 

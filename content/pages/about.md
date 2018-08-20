@@ -27,7 +27,9 @@ Die Treffen finden in der Regel monatlich jeweils am letzten Mittwoch im Monat a
 
 ### Manuel Mauky
 
-![Manuel Mauky](http://lestard.eu/files/pics/me.png)
+<div class="about-organizer-image">
+    <img alt="Manuel Mauky" src="../images/manuel_mauky.jpg"/>
+</div>
 
 **Saxonia Systems AG**
 
@@ -37,13 +39,16 @@ Software-Entwickler
 
 [Blog: http://www.lestard.eu](http://www.lestard.eu)
 
-[Twitter: @manuel_mauky](https://twitter.com/manuel_mauky)
+Twitter: [@manuel_mauky](https://twitter.com/manuel_mauky)
 
 ---
 
 ### Max Wielsch
 
-![Max Wielsch](/images/max_wielsch.jpg)
+<div class="about-organizer-image">
+    <img alt="Max Wielsch" src="../images/max_wielsch.jpg"/>
+</div>
+
 
 **Saxonia Systems AG**
 
@@ -53,13 +58,15 @@ Software-Entwickler
 
 [Blog: http://max-wielsch.blogspot.de](http://max-wielsch.blogspot.de)
 
-[Twitter: @simawiel](https://twitter.com/simawiel)
+Twitter: [@simawiel](https://twitter.com/simawiel)
 
 ---
 
 ### Marlene Knoche
 
-![Marlene Knoche](http://www.sanguinik.de/files/marlene.jpg)
+<div class="about-organizer-image">
+    <img alt="Marlene Knoche" src="../images/marlene_knoche.jpg"/>
+</div>
 
 **CIDEON Software & Services GmbH & Co. KG**
 
@@ -70,13 +77,16 @@ freischaffende Künstlerin und Illustratorin
 
 [Blog: http://www.sanguinik.de](http://www.sanguinik.de)
 
-[Twitter: @SanguinikDE](https://twitter.com/SanguinikDE)
+Twitter: [@SanguinikDE](https://twitter.com/SanguinikDE)
 
 ---
 
 ### Markus Ullrich
 
-<img alt="Markus Ullrich" src="/images/markus_ullrich.jpg" style="width:200px"/>
+<div class="about-organizer-image">
+    <img alt="Markus Ullrich" src="../images/markus_ullrich.jpg"/>
+</div>
+
 
 **Hochschule Zittau/Görlitz**
 
@@ -86,13 +96,15 @@ Wissenschaftlicher Mitarbeiter
 
 [Webseite: www.ead-group.org/group/core-team/markus-ullrich.html](http://www.ead-group.org/group/core-team/markus-ullrich.html)
 
-[Twitter: @ead_markus](https://twitter.com/ead_markus)
+Twitter: [@ead_markus](https://twitter.com/ead_markus)
 
 ---
 
 ### Prof. Dr. Jörg Lässig
 
-![Jörg Lässig](http://www.enterprise-application-development.org/fileadmin/user_upload/Redakteure/PRIVAT/jlaessig/laessig.jpg)
+<div class="about-organizer-image">
+    <img alt="Jörg Lässig" src="../images/joerg_laessig.jpg"/>
+</div>
 
 **Hochschule Zittau/Görlitz**
 

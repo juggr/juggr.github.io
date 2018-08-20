@@ -13,7 +13,7 @@ Stattdessen gibt es wieder einen gemeinsamen **JUG-Grill-Abend** am Dienstag, 31
 Dazu treffen wir uns in den Räumlichkeiten des [Görlitzer Kickerking e.V.](http://www.gr-kickerking.de/)
 auf der [Hospital-Straße 14](https://goo.gl/maps/jx11ctvt5EN2), wie immer ab 19 Uhr.
 
-<img style="width:300px" alt="kickerking logo" src="/images/kickerking_logo.jpg"/>
+<img style="width:300px" alt="kickerking logo" src="../images/kickerking_logo.jpg"/>
 
 Bitte bringt Grillgut mit, welches ihr auf den Grill werfen wollt.
 Getränke können beim Kickerking-Verein erworben werden.

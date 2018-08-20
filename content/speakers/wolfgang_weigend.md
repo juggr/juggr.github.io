@@ -1,6 +1,6 @@
 ---
 name: Wolfgang Weigend
-pic: images/wolfgang_weigend.jpg
+pic: ../images/wolfgang_weigend.jpg
 twitter_name: wolflook
 ---
 

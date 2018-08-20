@@ -1,6 +1,6 @@
 ---
 name: Manuel Mauky
-pic: https://lestard.eu/files/pics/me.png
+pic: ../images/manuel_mauky.jpg
 twitter_name: manuel_mauky
 ---
 

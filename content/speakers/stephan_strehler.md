@@ -1,6 +1,6 @@
 ---
 name: Stephan Strehler
-pic: /images/stephan_strehler.jpg
+pic: ../images/stephan_strehler.jpg
 ---
 
 Stephan ist seit 2013 Informatikstudent an der Hochschule Zittau/Görlitz und schreibt derzeit seine Masterarbeit über

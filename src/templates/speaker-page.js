@@ -1,6 +1,8 @@
 import React from "react"
 
 import { graphql, Link } from "gatsby"
+import Img from "gatsby-image"
+
 import Layout from "../components/layout"
 
 const SpeakerPage = ({ data }) => {
@@ -10,7 +12,11 @@ const SpeakerPage = ({ data }) => {
     <Layout>
       <h2>{speaker.frontmatter.name}</h2>
 
-      {speaker.frontmatter.pic && <img className="event-poster" alt="speaker" src={`${speaker.frontmatter.pic}`} />}
+      {speaker.frontmatter.pic && (
+        <div style={{ maxWidth: "400px"}}>
+          <Img alt="speaker" fluid={speaker.frontmatter.pic.childImageSharp.fluid} />
+        </div>
+      )}
 
       {speaker.frontmatter.twitter_name && (
         <p>
@@ -52,7 +58,13 @@ export const query = graphql`
       frontmatter {
         name
         twitter_name
-        pic
+        pic {
+          childImageSharp {
+            fluid(maxWidth: 400) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
 

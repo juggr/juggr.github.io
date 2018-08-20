@@ -76,8 +76,8 @@ export const query = graphql`
             location
             poster {
               childImageSharp {
-                sizes {
-                  ...GatsbyImageSharpSizes
+                fluid {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -117,7 +117,13 @@ export const query = graphql`
           html
           frontmatter {
             name
-            pic
+            pic {
+              childImageSharp {
+                fluid {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
             twitter_name
           }
           fields {

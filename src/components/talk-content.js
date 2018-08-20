@@ -87,7 +87,7 @@ const TalkContent = ({ talk, speakerList, location, linkToDetailsPage }) => (
     <article>
       <div dangerouslySetInnerHTML={{ __html: talk.html }} />
 
-      {talk.frontmatter.poster && <Img sizes={talk.frontmatter.poster.childImageSharp.sizes} />}
+      {talk.frontmatter.poster && <Img fluid={talk.frontmatter.poster.childImageSharp.fluid} />}
 
       <hr />
 

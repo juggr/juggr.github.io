@@ -1,6 +1,6 @@
 ---
 name: Mariusz Zienkiewicz
-pic: /images/mariusz_zienkiewicz.jpg
+pic: ../images/mariusz_zienkiewicz.jpg
 ---
 
 **Mariusz Zienkiewicz** hat nach seinem Studium an HTWS Zittau/Görlitz bei CIDEON Software GmbH & Co. KG angefangen und

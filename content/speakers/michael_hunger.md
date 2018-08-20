@@ -1,6 +1,6 @@
 ---
 name: Michael Hunger
-pic: https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/MichaelHunger-300x300.png
+pic: ../images/michael_hunger.png
 twitter_name: mesirii
 ---
 

@@ -60,3 +60,17 @@ a:hover {
     rgba(0, 0, 0, 0) 2px
   );
 }
+
+.about-organizer-image {
+  max-width: 200px;
+}
+
+a.supporter-page-image {
+    max-width: 400px;
+  display:block;
+}
+
+.supporter-page-image > a > span {
+  margin-right: auto;
+  margin-left: unset;
+}
