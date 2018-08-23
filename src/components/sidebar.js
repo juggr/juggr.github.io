@@ -2,7 +2,7 @@ import React from "react"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 import { faTwitter, faFacebook, faGooglePlus, faGithub } from "@fortawesome/free-brands-svg-icons"
-import { faEnvelope, faCalendarAlt } from "@fortawesome/free-solid-svg-icons"
+import { faEnvelope, faCalendarAlt, faRss, faAtom } from "@fortawesome/free-solid-svg-icons"
 
 import { Col, Row } from "reactstrap"
 
@@ -54,6 +54,20 @@ const Sidebar = ({ logo }) => (
               <a href="https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics">
                 (ICAL)
               </a>
+            </li>
+            <li>
+              <FontAwesomeIcon icon={faRss}/> Feeds:
+              <ul>
+                <li>
+                  <a href="/atom.xml">Atom</a>
+                </li>
+                <li>
+                  <a href="/rss.xml">RSS</a>
+                </li>
+                <li>
+                  <a href="/feed.json">JSON</a>
+                </li>
+              </ul>
             </li>
           </ul>
         </Col>

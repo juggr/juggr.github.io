@@ -1,4 +1,4 @@
-import * as R from "ramda"
+const R = require("ramda")
 
 /**
  * For each talk we cannot directly query the speaker info (especially the name) but only the speakerSlugs (not the full slug but the important
@@ -17,4 +17,4 @@ const findSpeakersForTalk = ({ allSpeakers, talk }) => {
   )
 }
 
-export default findSpeakersForTalk
+module.exports = findSpeakersForTalk

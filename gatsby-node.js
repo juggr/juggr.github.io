@@ -3,6 +3,9 @@ const path = require("path")
 
 const moment = require("moment")
 
+
+const createFeeds = require("./src/utils/create-feeds")
+
 /**
  * The old website had another schema for URLs for talks. We need to create redirects to the new schema
  * so that existing old links still work.
@@ -316,4 +319,10 @@ const createPostsPages = ({ createPage, graphql }) => {
       resolve()
     })
   })
+}
+
+
+
+exports.onPostBuild = async ({graphql}) => {
+ return createFeeds({ graphql })
 }
