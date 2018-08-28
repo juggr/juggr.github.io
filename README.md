@@ -10,6 +10,24 @@ Damit werden alle Daten und Informationen als Markdown-Dateien lokal abgelegt un
 eine statische Webseite generiert. 
 Gatsby.js ist in JavaScript geschrieben und generiert eine moderne Single-Page-App, die mit React.js läuft.
 
+### Technische Voraussetzungen
+
+Um die Webseite lokal bauen zu können wird eine Installation von **Node.JS** benötigt.
+
+Als Teil des Build-Prozesses werden eingebundene Bilder skaliert. Dies wird durch die JavaScript-Bibliothek 
+[Sharp](https://github.com/lovell/sharp) durchgeführt. Diese setzt neben JavaScript intern auch nativen Code ein. 
+Hierfür stehen für die meisten Plattformen vorkompilierte Pakete bereit. 
+Auf einigen Plattformen (Kombination von Betriebssystem- und Node.JS-Version) kann es aber auch sein, dass keine passendes 
+vorkompiliertes Paket gefunden wird und deshalb die Bibliothek automatisch neu kompiliert wird. 
+
+Hierfür ist (zumindest unter Linux) die System-Library `libvips` notwendig. Diese muss mittels Paket-Manager des Betriebssystem
+installiert werden (unter Debian z.B. `sudo apt-get install libvips`).
+
+
+Anschließend kann der Build-Prozess der Website mittels
+
+`npm run build` gestartet werden.
+
 
 ### Dateien und Verzeichnisse
 
