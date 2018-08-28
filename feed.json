@@ -414,19 +414,19 @@
             "date_modified": "2011-10-26T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
-            "html_content": "<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>",
-            "url": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
-            "title": "Single Sign-On mit JAAS und JGSS",
-            "summary": "\n      <h1>Single Sign-On mit JAAS und JGSS</h1>\n      <p>Speakers: Mario Reichel</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-09-28T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-09-28-jdom/",
             "html_content": "<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>",
             "url": "https://jug-gr.de/talks/2011-09-28-jdom/",
             "title": "JDOM",
             "summary": "\n      <h1>JDOM</h1>\n      <p>Speakers: Mark Ziener</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-09-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
+            "html_content": "<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>",
+            "url": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
+            "title": "Single Sign-On mit JAAS und JGSS",
+            "summary": "\n      <h1>Single Sign-On mit JAAS und JGSS</h1>\n      <p>Speakers: Mario Reichel</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-09-28T00:00:00.000Z"
         },
         {
