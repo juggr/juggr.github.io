@@ -3,6 +3,7 @@ title: "Java APIs - the missing manual"
 date: 2018-09-26
 speaker: [hendrik_ebbers]
 tags: [java]
+location: cideon
 ---
 
 Anstelle über Microservices, NO-SQL Lösungen oder Container-Management zu reden werden im Workshop Bestandteile des
