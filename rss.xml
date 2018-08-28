@@ -4,7 +4,7 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Tue, 28 Aug 2018 21:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Aug 2018 21:47:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
@@ -1380,25 +1380,6 @@ Praxis erläutert wurden.</p>
 <a href="http://max-wielsch.blogspot.de/2011/10/android-der-vortrag-in-der-java-user.html">Blog</a> heruntergeladen werden.</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Single Sign-On mit JAAS und JGSS]]></title>
-            <link>https://jug-gr.de/talks/2011-09-28-single-sign-on/</link>
-            <guid>https://jug-gr.de/talks/2011-09-28-single-sign-on/</guid>
-            <pubDate>Wed, 28 Sep 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>Single Sign-On mit JAAS und JGSS</h1>
-      <p>Speakers: Mario Reichel</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[JDOM]]></title>
             <link>https://jug-gr.de/talks/2011-09-28-jdom/</link>
             <guid>https://jug-gr.de/talks/2011-09-28-jdom/</guid>
@@ -1416,6 +1397,25 @@ Praxis erläutert wurden.</p>
       </address>
   ]]></description>
             <content:encoded><![CDATA[<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Single Sign-On mit JAAS und JGSS]]></title>
+            <link>https://jug-gr.de/talks/2011-09-28-single-sign-on/</link>
+            <guid>https://jug-gr.de/talks/2011-09-28-single-sign-on/</guid>
+            <pubDate>Wed, 28 Sep 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Single Sign-On mit JAAS und JGSS</h1>
+      <p>Speakers: Mario Reichel</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Testen - Patterns und Best Practices]]></title>
@@ -1519,25 +1519,6 @@ geben.</p>]]></content:encoded>
             <content:encoded><![CDATA[<p>Google Guice - Dependency Injection (DI) und Aspect-Orientierte Programmierung (AOP) von Robert Wirbs</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GWT - Google Web Toolkit]]></title>
-            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
-            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
-            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>GWT - Google Web Toolkit</h1>
-      <p>Speakers: Ingo Körner</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[OSGi mit SpringDM]]></title>
             <link>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</link>
             <guid>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</guid>
@@ -1565,6 +1546,25 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 <ul>
 <li><a href="/downloads/juggr_osgi_spring_dm.pdf">Vortragsfolien</a></li>
 </ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GWT - Google Web Toolkit]]></title>
+            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
+            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
+            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>GWT - Google Web Toolkit</h1>
+      <p>Speakers: Ingo Körner</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[EasyMock]]></title>

@@ -414,19 +414,19 @@
             "date_modified": "2011-10-26T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
-            "html_content": "<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>",
-            "url": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
-            "title": "Single Sign-On mit JAAS und JGSS",
-            "summary": "\n      <h1>Single Sign-On mit JAAS und JGSS</h1>\n      <p>Speakers: Mario Reichel</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-09-28T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-09-28-jdom/",
             "html_content": "<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>",
             "url": "https://jug-gr.de/talks/2011-09-28-jdom/",
             "title": "JDOM",
             "summary": "\n      <h1>JDOM</h1>\n      <p>Speakers: Mark Ziener</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-09-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
+            "html_content": "<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>",
+            "url": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
+            "title": "Single Sign-On mit JAAS und JGSS",
+            "summary": "\n      <h1>Single Sign-On mit JAAS und JGSS</h1>\n      <p>Speakers: Mario Reichel</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-09-28T00:00:00.000Z"
         },
         {
@@ -470,19 +470,19 @@
             "date_modified": "2011-05-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-04-27-gwt/",
-            "html_content": "<p>GWT - Google Web Toolkit (Ingo Körner)</p>",
-            "url": "https://jug-gr.de/talks/2011-04-27-gwt/",
-            "title": "GWT - Google Web Toolkit",
-            "summary": "\n      <h1>GWT - Google Web Toolkit</h1>\n      <p>Speakers: Ingo Körner</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-04-27T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
             "html_content": "<p>Die OSGi beschreibt eine spezifikation, auf deren Basis Software Modular entwickelt werden kann. Die einzelnen Module\nsind in sich geschlossene Einheiten mit einem klaren Interface, welches einerseits ihre angebotene Funktionalität inf\nForm von Services beschreibt und andererseits die Abhängigkeiten auf Services anderer Module enthält.</p>\n<p>Spring-DM (DM steht für Dynamic Modules) ist eine auf OSGi basierende Plattform, die OSGi mit den Vorteilen von Spring,\nallen voran Dependency Injection, verbindet.</p>\n<p>Im Vortrag wird neben den theoretischen Grundlagen vor allem an praktischen Beispielen inklusive Live-Coding gezeigt,\nwie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch zur Laufzeit getauscht werden können.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_osgi_spring_dm.pdf\">Vortragsfolien</a></li>\n</ul>",
             "url": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
             "title": "OSGi mit SpringDM",
             "summary": "\n      <h1>OSGi mit SpringDM</h1>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-04-27T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-04-27-gwt/",
+            "html_content": "<p>GWT - Google Web Toolkit (Ingo Körner)</p>",
+            "url": "https://jug-gr.de/talks/2011-04-27-gwt/",
+            "title": "GWT - Google Web Toolkit",
+            "summary": "\n      <h1>GWT - Google Web Toolkit</h1>\n      <p>Speakers: Ingo Körner</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-04-27T00:00:00.000Z"
         },
         {
