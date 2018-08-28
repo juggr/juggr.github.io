@@ -12,7 +12,7 @@ const createFeeds = require("./src/utils/create-feeds")
  * However, for newer talks we don't need to create these redirects.
  * This date is used as a dividing line. All talks that are after this date won't get a redirect.
  */
-const MIGRATION_DATE = moment("2018-05-01")
+const MIGRATION_DATE = moment("2018-10-01")
 
 exports.onCreateNode = params => {
   const { node, getNode } = params

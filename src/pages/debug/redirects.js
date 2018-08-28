@@ -19,14 +19,24 @@ const DebugRedirectsPage = ({ data }) => (
       <tbody>
         {data.talks &&
           data.talks.edges.map(edge => edge.node).map(talk => (
-            <tr key={talk.id}>
-              <td>
-                <Link to={talk.fields.legacySlug}>{talk.fields.legacySlug}</Link>
-              </td>
-              <td>
-                <Link to={talk.fields.slug}>{talk.fields.slug}</Link>
-              </td>
-            </tr>
+            <React.Fragment key={talk.id}>
+              <tr>
+                <td>
+                  <Link to={talk.fields.legacySlug}>{talk.fields.legacySlug}</Link>
+                </td>
+                <td>
+                  <Link to={talk.fields.slug}>{talk.fields.slug}</Link>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <Link to={`${talk.fields.legacySlug}.html`}>{`${talk.fields.legacySlug}.html`}</Link>
+                </td>
+                <td>
+                  <Link to={talk.fields.slug}>{talk.fields.slug}</Link>
+                </td>
+              </tr>
+            </React.Fragment>
           ))}
       </tbody>
     </table>
