@@ -3,7 +3,7 @@ title: "Funktionale Programmierung mit Java"
 date: 2016-01-27
 speaker: [manuel_mauky, max_wielsch]
 location: hochschule_campus
-tags: [java, functional programming]
+tags: [java, functional-programming]
 ---
 
 Mit Java 8 wurden einige Features in die Sprache integriert, die von funktionaler Programmierung inspiriert sind. Im

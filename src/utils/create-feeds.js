@@ -42,8 +42,11 @@ const createDescription = ({talk, speakers, location}) => {
         ${location.frontmatter.zip} ${location.frontmatter.city}
       </address>` : "wird noch bekannt gegeben"
 
+  const dateLine = talk.frontmatter.date ? `${moment(talk.frontmatter.date).format("LL")}, 19:00 Uhr` : "tba"
+
   return `
       <h1>${talk.frontmatter.title}</h1>
+      <p>Date: ${dateLine}</p>
       <p>Speakers: ${speakerLine}</p>
       <p>Location:</p>
       ${locationLine}

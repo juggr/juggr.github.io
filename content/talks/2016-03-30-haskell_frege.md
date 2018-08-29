@@ -4,7 +4,7 @@ date: 2016-03-30
 speaker: [manuel_mauky]
 location: hochschule_campus
 poster: ../images/plakat_2016_03.png
-tags: [programmiersprachen, functional programming]
+tags: [programmiersprachen, functional-programming]
 ---
 
 Haskell ist eine funktionale Programmiersprache, die das Paradigma der funktionalen Programmierung so konsequent

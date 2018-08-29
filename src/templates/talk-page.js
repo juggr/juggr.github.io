@@ -73,6 +73,7 @@ export const query = graphql`
       }
       frontmatter {
         name
+        number
         info
         zip
         city

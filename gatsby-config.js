@@ -84,6 +84,7 @@ module.exports = {
         icon: "content/images/icon.png"
       }
     },
-    "gatsby-plugin-offline"
+    // service-workers seem to be producing some problems so we disable this feature for now
+    // "gatsby-plugin-offline"
   ],
 }

@@ -104,8 +104,8 @@ const UnterstuetzerPage = ({ data }) => {
       <Address
         name="Hochschule Zittau/Görlitz"
         link="https://www.hszg.de/f-ei"
-        mapsLink="https://www.google.de/maps?q=G%C3%B6rlitz+Obermarkt+17&hl=de&ie=UTF8&ll=51.155232,14.98606&spn=0.006716,0.021136&sll=51.154047,14.986725&sspn=0.006716,0.021136&hnear=Obermarkt+17,+02826+G%C3%B6rlitz&t=m&z=16"
-        addressFields={["Obermarkt 17 (G III)", "Raum 0.2", "02826 Görlitz"]}
+        mapsLink="https://www.google.de/maps/place/Hochschule+Zittau%2FG%C3%B6rlitz+(HSZG)/@51.1491033,14.9954413,17z/data=!3m1!4b1!4m5!3m4!1s0x4708dc2297028feb:0x9ebf92a61b56859a!8m2!3d51.1491!4d14.99763"
+        addressFields={["Brückenstraße 1 (G II)", "02826 Görlitz"]}
       />
 
       <Address

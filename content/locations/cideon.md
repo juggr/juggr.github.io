@@ -1,5 +1,5 @@
 ---
-name: CIDEON Software GmbH & Co. KG
+name: Cideon Software & Services GmbH & Co. KG
 street: Untermarkt
 number: "25"
 zip: 02826
