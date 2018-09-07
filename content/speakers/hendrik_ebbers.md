@@ -4,8 +4,8 @@ pic: ../images/hendrik_ebbers.png
 twitter_name: hendrikEbbers
 ---
 
-Hendrik Ebbers ist Java Entwickler bei der Canoo Engineering AG. Sein Hauptinteresse liegt hierbei in den Bereichen
-JavaFX, User Interfaces und Middleware. Hendrik leitet die JUG Dortmund. Auf seiner Webseite www.guigarage.com bloggt er
-regelmäßig über Architekturansätze im Bereich JavaFX und zu seinen verschiedenen Open Source Projekten wie Dolphin
-Platform oder DataFX. Sein Buch "Mastering JavaFX 8 Controls" ist 2014 bei Oracle Press erschienen. Hendrik ist JavaOne
-Rockstar, Java Champion und JCP Expert Group Member.
+Hendrik Ebbers ([@hendrikEbbers](https://twitter.com/hendrikEbbers)) ist Co-Founder der Karakun AG 
+([dev.karakun.com](https://dev.karakun.com/)).
+Hendrik leitet die JUG Dortmund.
+Sein Buch "Mastering JavaFX 8 Controls" ist 2014 bei Oracle Press erschienen.
+Hendrik ist Java Champion, JavaOne Rockstar und JCP Expert Group Member.
