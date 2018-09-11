@@ -7,7 +7,8 @@
     "serve": "gatsby serve",
     "testprod": "gatsby build && gatsby serve",
     "format": "prettier --write 'src/**/*.js'",
-    "deploy": "gatsby build && gh-pages -d public -b master"
+    "deploy": "gatsby build && gh-pages -d public -b master",
+    "test": "jest"
   },
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.8",
@@ -33,6 +34,7 @@
     "gatsby-transformer-remark": "^2.1.1-beta.6",
     "gatsby-transformer-sharp": "^2.1.1-beta.7",
     "gh-pages": "^1.2.0",
+    "identity-obj-proxy": "^3.0.0",
     "mkdirp": "^0.5.1",
     "moment": "^2.22.2",
     "pify": "^4.0.0",
@@ -40,12 +42,45 @@
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-helmet": "^5.2.0",
+    "react-test-renderer": "^16.5.0",
     "react-typography": "^0.16.13",
     "reactstrap": "^6.3.1",
     "typography": "^0.16.17",
     "typography-theme-bootstrap": "^0.16.7"
   },
   "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/plugin-proposal-class-properties": "^7.0.0",
+    "@babel/plugin-proposal-optional-chaining": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-core": "^7.0.0-0",
+    "babel-jest": "^23.6.0",
+    "jest": "^23.6.0",
     "prettier": "^1.14.2"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.jsx?$": "<rootDir>/jest-preprocess.js"
+    },
+    "testRegex": "/.*(__tests__\\/.*)|(.*(test|spec))\\.jsx?$",
+    "moduleNameMapper": {
+      ".+\\.(css|styl|less|sass|scss)$": "identity-obj-proxy",
+      ".+\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|acc|oga)$": "<rootDir>/__mocks__/fileMocks.js"
+    },
+    "testPathIgnorePatterns": [
+      "node_modules",
+      ".cache"
+    ],
+    "transformIgnorePatterns": [
+      "node_modules/(?!(gatsby)/)"
+    ],
+    "globals": {
+      "__PATH_PREFIX__": ""
+    },
+    "testURL": "http://localhost",
+    "setupFiles": [
+      "<rootDir>/loadershim.js"
+    ]
   }
 }
