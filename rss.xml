@@ -4,7 +4,7 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Fri, 07 Sep 2018 17:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Sep 2018 15:54:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
@@ -19,7 +19,7 @@
       <p>Speakers: Hendrik Ebbers</p>
       <p>Location:</p>
       <address>
-        Cideon Software & Services GmbH & Co. KG
+        CIDEON Software & Services GmbH & Co. KG
         <br />
         Untermarkt 25
         <br />
@@ -158,7 +158,7 @@ Domänenorientierung in das Entwurfsdoppel Makro und Mikro ein.</p>]]></content:
       <p>Speakers: Jens Leuschner, Mariusz Zienkiewicz</p>
       <p>Location:</p>
       <address>
-        Cideon Software & Services GmbH & Co. KG
+        CIDEON Software & Services GmbH & Co. KG
         <br />
         Untermarkt 25
         <br />
@@ -1437,26 +1437,6 @@ Praxis erläutert wurden.</p>
 <a href="http://max-wielsch.blogspot.de/2011/10/android-der-vortrag-in-der-java-user.html">Blog</a> heruntergeladen werden.</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Single Sign-On mit JAAS und JGSS]]></title>
-            <link>https://jug-gr.de/talks/2011-09-28-single-sign-on/</link>
-            <guid>https://jug-gr.de/talks/2011-09-28-single-sign-on/</guid>
-            <pubDate>Wed, 28 Sep 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>Single Sign-On mit JAAS und JGSS</h1>
-      <p>Date: September 28, 2011, 19:00 Uhr</p>
-      <p>Speakers: Mario Reichel</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[JDOM]]></title>
             <link>https://jug-gr.de/talks/2011-09-28-jdom/</link>
             <guid>https://jug-gr.de/talks/2011-09-28-jdom/</guid>
@@ -1475,6 +1455,26 @@ Praxis erläutert wurden.</p>
       </address>
   ]]></description>
             <content:encoded><![CDATA[<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Single Sign-On mit JAAS und JGSS]]></title>
+            <link>https://jug-gr.de/talks/2011-09-28-single-sign-on/</link>
+            <guid>https://jug-gr.de/talks/2011-09-28-single-sign-on/</guid>
+            <pubDate>Wed, 28 Sep 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Single Sign-On mit JAAS und JGSS</h1>
+      <p>Date: September 28, 2011, 19:00 Uhr</p>
+      <p>Speakers: Mario Reichel</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Testen - Patterns und Best Practices]]></title>
@@ -1583,6 +1583,26 @@ geben.</p>]]></content:encoded>
             <content:encoded><![CDATA[<p>Google Guice - Dependency Injection (DI) und Aspect-Orientierte Programmierung (AOP) von Robert Wirbs</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[GWT - Google Web Toolkit]]></title>
+            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
+            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
+            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>GWT - Google Web Toolkit</h1>
+      <p>Date: April 27, 2011, 19:00 Uhr</p>
+      <p>Speakers: Ingo Körner</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[OSGi mit SpringDM]]></title>
             <link>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</link>
             <guid>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</guid>
@@ -1613,24 +1633,25 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 </ul>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GWT - Google Web Toolkit]]></title>
-            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
-            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
-            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
+            <title><![CDATA[EasyMock]]></title>
+            <link>https://jug-gr.de/talks/2011-03-22-easymock/</link>
+            <guid>https://jug-gr.de/talks/2011-03-22-easymock/</guid>
+            <pubDate>Tue, 22 Mar 2011 00:00:00 GMT</pubDate>
             <description><![CDATA[
-      <h1>GWT - Google Web Toolkit</h1>
-      <p>Date: April 27, 2011, 19:00 Uhr</p>
-      <p>Speakers: Ingo Körner</p>
+      <h1>EasyMock</h1>
+      <p>Date: March 22, 2011, 19:00 Uhr</p>
+      <p>Speakers: Richard Hauswald</p>
       <p>Location:</p>
       <address>
-        DSER
+        Hochschule Zittau/Görlitz
         <br />
-        Steinstraße 11
+        Obermarkt 17
         <br />
         02826 Görlitz
       </address>
   ]]></description>
-            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p><a href="http://easymock.org/">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es
+benutzen? All diese Fragen werden in der Präsentation beantwortet.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Jenkins/Hudson]]></title>
@@ -1656,27 +1677,6 @@ man das Vorgehen, nach jeder Code-Änderung einen Build-Vorgang (inklusive Kompi
 durchzuführen. Damit kann sichergestellt werden, dass Fehlerhafte Änderungen sofort auffallen und behoben werden können.</p>
 <p>Im Vortrag werden die Begriffe "Build Management" und "Continuous Integration" näher erleutert und am konkreten Beispiel
 von Jenkins gezeigt, wie dies in der Praxis umgesetzt werden kann.</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EasyMock]]></title>
-            <link>https://jug-gr.de/talks/2011-03-22-easymock/</link>
-            <guid>https://jug-gr.de/talks/2011-03-22-easymock/</guid>
-            <pubDate>Tue, 22 Mar 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>EasyMock</h1>
-      <p>Date: March 22, 2011, 19:00 Uhr</p>
-      <p>Speakers: Richard Hauswald</p>
-      <p>Location:</p>
-      <address>
-        Hochschule Zittau/Görlitz
-        <br />
-        Obermarkt 17
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p><a href="http://easymock.org/">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es
-benutzen? All diese Fragen werden in der Präsentation beantwortet.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -10,7 +10,7 @@
             "html_content": "<p>Anstelle über Microservices, NO-SQL Lösungen oder Container-Management zu reden werden im Workshop Bestandteile des\nStandard Java API vorgestellt. Diese Java Features helfen jedem Entwickler eine wartbare und zukunftssichere Anwendung\nzu entwickeln, egal ob mit Spring, JavaFX oder JavaEE. Verschiedene Sprach-Features und Konzepte der Standard Java APIs\nwerden genauer unter die Lupe genommen und deren sinnvoller Einsatz anhand von Beispielen gezeigt. Hierdurch werden\nunter anderem folgende Fragen beantwortet: Wie funktionieren eigentlich Annotations? Wie entwickle ich Plug-In\nFunktionalität ohne auf OSGI zurückgreifen zu müssen? Wie gehe ich am besten mit NullPointerExceptions um? Wie schreibe\nich nebenläufigen Code der trotzdem wartbar ist?</p>",
             "url": "https://jug-gr.de/talks/2018-09-26-java_apis_missing_manual/",
             "title": "Java APIs - the missing manual",
-            "summary": "\n      <h1>Java APIs - the missing manual</h1>\n      <p>Date: September 26, 2018, 19:00 Uhr</p>\n      <p>Speakers: Hendrik Ebbers</p>\n      <p>Location:</p>\n      <address>\n        Cideon Software & Services GmbH & Co. KG\n        <br />\n        Untermarkt 25\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "summary": "\n      <h1>Java APIs - the missing manual</h1>\n      <p>Date: September 26, 2018, 19:00 Uhr</p>\n      <p>Speakers: Hendrik Ebbers</p>\n      <p>Location:</p>\n      <address>\n        CIDEON Software & Services GmbH & Co. KG\n        <br />\n        Untermarkt 25\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2018-09-26T00:00:00.000Z"
         },
         {
@@ -50,7 +50,7 @@
             "html_content": "<p>Die SAP Cloud Platform (SCP) beschreibt ein „Platform as a Service“ (PaaS) Angebot der SAP. Mit der SCP liefert SAP\nsowohl die Entwicklungsumgebung als auch die Laufzeitumgebung zur Realisierung kundenindividueller Erweiterungen von\nCloud- und On-Premise-Lösungen (z.B. SAP S/4HANA). Basierend auf der In-Memory-Plattform SAP HANA stellt die SCP eine\nVielzahl an Datenbank- und Cloud-Services zur Verfügung, welche das PaaS Angebot erweitern und die Integration von SAP-\nund Non-SAP-Lösungen ermöglichen. Im Vortrag wird illustriert, wie die Verbindung aus einer Java EE Applikation zu einem\nSAP On-Premise System hergestellt und dessen Funktionalität in der Cloud genutzt wird.</p>\n<p><a href=\"https://github.com/juggr/juggr.github.io/blob/master/downloads/juggr_java_auf_sap_cloud.pdf\">Folien zum Vortrag</a></p>",
             "url": "https://jug-gr.de/talks/2018-02-28-java_auf_sap_cloud/",
             "title": "Entwicklung von Java Applikationen auf der SAP Cloud Platform",
-            "summary": "\n      <h1>Entwicklung von Java Applikationen auf der SAP Cloud Platform</h1>\n      <p>Date: February 28, 2018, 19:00 Uhr</p>\n      <p>Speakers: Jens Leuschner, Mariusz Zienkiewicz</p>\n      <p>Location:</p>\n      <address>\n        Cideon Software & Services GmbH & Co. KG\n        <br />\n        Untermarkt 25\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "summary": "\n      <h1>Entwicklung von Java Applikationen auf der SAP Cloud Platform</h1>\n      <p>Date: February 28, 2018, 19:00 Uhr</p>\n      <p>Speakers: Jens Leuschner, Mariusz Zienkiewicz</p>\n      <p>Location:</p>\n      <address>\n        CIDEON Software & Services GmbH & Co. KG\n        <br />\n        Untermarkt 25\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2018-02-28T00:00:00.000Z"
         },
         {
@@ -414,19 +414,19 @@
             "date_modified": "2011-10-26T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
-            "html_content": "<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>",
-            "url": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
-            "title": "Single Sign-On mit JAAS und JGSS",
-            "summary": "\n      <h1>Single Sign-On mit JAAS und JGSS</h1>\n      <p>Date: September 28, 2011, 19:00 Uhr</p>\n      <p>Speakers: Mario Reichel</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-09-28T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-09-28-jdom/",
             "html_content": "<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>",
             "url": "https://jug-gr.de/talks/2011-09-28-jdom/",
             "title": "JDOM",
             "summary": "\n      <h1>JDOM</h1>\n      <p>Date: September 28, 2011, 19:00 Uhr</p>\n      <p>Speakers: Mark Ziener</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-09-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
+            "html_content": "<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>",
+            "url": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
+            "title": "Single Sign-On mit JAAS und JGSS",
+            "summary": "\n      <h1>Single Sign-On mit JAAS und JGSS</h1>\n      <p>Date: September 28, 2011, 19:00 Uhr</p>\n      <p>Speakers: Mario Reichel</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-09-28T00:00:00.000Z"
         },
         {
@@ -470,14 +470,6 @@
             "date_modified": "2011-05-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
-            "html_content": "<p>Die OSGi beschreibt eine spezifikation, auf deren Basis Software Modular entwickelt werden kann. Die einzelnen Module\nsind in sich geschlossene Einheiten mit einem klaren Interface, welches einerseits ihre angebotene Funktionalität inf\nForm von Services beschreibt und andererseits die Abhängigkeiten auf Services anderer Module enthält.</p>\n<p>Spring-DM (DM steht für Dynamic Modules) ist eine auf OSGi basierende Plattform, die OSGi mit den Vorteilen von Spring,\nallen voran Dependency Injection, verbindet.</p>\n<p>Im Vortrag wird neben den theoretischen Grundlagen vor allem an praktischen Beispielen inklusive Live-Coding gezeigt,\nwie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch zur Laufzeit getauscht werden können.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_osgi_spring_dm.pdf\">Vortragsfolien</a></li>\n</ul>",
-            "url": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
-            "title": "OSGi mit SpringDM",
-            "summary": "\n      <h1>OSGi mit SpringDM</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-04-27T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-04-27-gwt/",
             "html_content": "<p>GWT - Google Web Toolkit (Ingo Körner)</p>",
             "url": "https://jug-gr.de/talks/2011-04-27-gwt/",
@@ -486,12 +478,12 @@
             "date_modified": "2011-04-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-03-22-jenkins/",
-            "html_content": "<p><a href=\"http://hudson-ci.org/\">Hudson</a> bzw. <a href=\"http://jenkins-ci.org/\">Jenkins</a> ist ein Build-Server, der für\n<a href=\"http://de.wikipedia.org/wiki/Kontinuierliche_Integration\">Continuous Integration</a> eingesetzt wird. Darunter versteht\nman das Vorgehen, nach jeder Code-Änderung einen Build-Vorgang (inklusive Kompilieren des Codes und Ausführen der Tests)\ndurchzuführen. Damit kann sichergestellt werden, dass Fehlerhafte Änderungen sofort auffallen und behoben werden können.</p>\n<p>Im Vortrag werden die Begriffe \"Build Management\" und \"Continuous Integration\" näher erleutert und am konkreten Beispiel\nvon Jenkins gezeigt, wie dies in der Praxis umgesetzt werden kann.</p>",
-            "url": "https://jug-gr.de/talks/2011-03-22-jenkins/",
-            "title": "Jenkins/Hudson",
-            "summary": "\n      <h1>Jenkins/Hudson</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Stefan Scheumann</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-03-22T00:00:00.000Z"
+            "id": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
+            "html_content": "<p>Die OSGi beschreibt eine spezifikation, auf deren Basis Software Modular entwickelt werden kann. Die einzelnen Module\nsind in sich geschlossene Einheiten mit einem klaren Interface, welches einerseits ihre angebotene Funktionalität inf\nForm von Services beschreibt und andererseits die Abhängigkeiten auf Services anderer Module enthält.</p>\n<p>Spring-DM (DM steht für Dynamic Modules) ist eine auf OSGi basierende Plattform, die OSGi mit den Vorteilen von Spring,\nallen voran Dependency Injection, verbindet.</p>\n<p>Im Vortrag wird neben den theoretischen Grundlagen vor allem an praktischen Beispielen inklusive Live-Coding gezeigt,\nwie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch zur Laufzeit getauscht werden können.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_osgi_spring_dm.pdf\">Vortragsfolien</a></li>\n</ul>",
+            "url": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
+            "title": "OSGi mit SpringDM",
+            "summary": "\n      <h1>OSGi mit SpringDM</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-04-27T00:00:00.000Z"
         },
         {
             "id": "https://jug-gr.de/talks/2011-03-22-easymock/",
@@ -499,6 +491,14 @@
             "url": "https://jug-gr.de/talks/2011-03-22-easymock/",
             "title": "EasyMock",
             "summary": "\n      <h1>EasyMock</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Richard Hauswald</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-03-22T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-03-22-jenkins/",
+            "html_content": "<p><a href=\"http://hudson-ci.org/\">Hudson</a> bzw. <a href=\"http://jenkins-ci.org/\">Jenkins</a> ist ein Build-Server, der für\n<a href=\"http://de.wikipedia.org/wiki/Kontinuierliche_Integration\">Continuous Integration</a> eingesetzt wird. Darunter versteht\nman das Vorgehen, nach jeder Code-Änderung einen Build-Vorgang (inklusive Kompilieren des Codes und Ausführen der Tests)\ndurchzuführen. Damit kann sichergestellt werden, dass Fehlerhafte Änderungen sofort auffallen und behoben werden können.</p>\n<p>Im Vortrag werden die Begriffe \"Build Management\" und \"Continuous Integration\" näher erleutert und am konkreten Beispiel\nvon Jenkins gezeigt, wie dies in der Praxis umgesetzt werden kann.</p>",
+            "url": "https://jug-gr.de/talks/2011-03-22-jenkins/",
+            "title": "Jenkins/Hudson",
+            "summary": "\n      <h1>Jenkins/Hudson</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Stefan Scheumann</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-03-22T00:00:00.000Z"
         }
     ]
