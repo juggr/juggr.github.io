@@ -4,35 +4,29 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Wed, 26 Sep 2018 15:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Nov 2018 13:50:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Java APIs - the missing manual]]></title>
-            <link>https://jug-gr.de/talks/2018-09-26-java_apis_missing_manual/</link>
-            <guid>https://jug-gr.de/talks/2018-09-26-java_apis_missing_manual/</guid>
-            <pubDate>Wed, 26 Sep 2018 00:00:00 GMT</pubDate>
+            <title><![CDATA[Monadische Transaktionen]]></title>
+            <link>https://jug-gr.de/talks/2018-11-23-monadische_transaktionen/</link>
+            <guid>https://jug-gr.de/talks/2018-11-23-monadische_transaktionen/</guid>
+            <pubDate>Fri, 23 Nov 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[
-      <h1>Java APIs - the missing manual</h1>
-      <p>Date: September 26, 2018, 19:00 Uhr</p>
-      <p>Speakers: Hendrik Ebbers</p>
+      <h1>Monadische Transaktionen</h1>
+      <p>Date: November 23, 2018, 19:00 Uhr</p>
+      <p>Speakers: Gregor Trefs</p>
       <p>Location:</p>
       <address>
-        CIDEON Software & Services GmbH & Co. KG
+        Hochschule Zittau/Görlitz
         <br />
-        Untermarkt 25
+        Brückenstraße 1
         <br />
         02826 Görlitz
       </address>
   ]]></description>
-            <content:encoded><![CDATA[<p>Anstelle über Microservices, NO-SQL Lösungen oder Container-Management zu reden werden im Workshop Bestandteile des
-Standard Java API vorgestellt. Diese Java Features helfen jedem Entwickler eine wartbare und zukunftssichere Anwendung
-zu entwickeln, egal ob mit Spring, JavaFX oder JavaEE. Verschiedene Sprach-Features und Konzepte der Standard Java APIs
-werden genauer unter die Lupe genommen und deren sinnvoller Einsatz anhand von Beispielen gezeigt. Hierdurch werden
-unter anderem folgende Fragen beantwortet: Wie funktionieren eigentlich Annotations? Wie entwickle ich Plug-In
-Funktionalität ohne auf OSGI zurückgreifen zu müssen? Wie gehe ich am besten mit NullPointerExceptions um? Wie schreibe
-ich nebenläufigen Code der trotzdem wartbar ist?</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Spätestens seit Java 8 gibt es monadische Typen in Java. Aber was bedeutet das eigentlich? Was sind die Eigenschaften, die Monaden ausmachen? Und wo liegen unsere Schwierigkeiten beim Verständnis von Monaden? Dieser Vortrag beschreibt, was eine Monade ist und wie wir eine monadische Transaktion nutzen können, um in domänenspezifischer Sprache mit einer Datenbank zu reden. Hierbei bauen wir monadische Transaktionen in ein vorhandenes Repository ein. Weiter beleuchten wir die Vor- und Nachteile dieses Ansatzes und diskutieren die Unterstützung von Monaden in Java. Voraussetzung sind erste Erfahrungen mit funktionaler Programmierung und Lambdas.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Immutable Data - Unveränderliche Daten im Griff]]></title>
