@@ -95,10 +95,10 @@ const UnterstuetzerPage = ({ data }) => {
       <p>Diese Firmen und Organisationen stellen uns regelmäßig ihre Räumlichkeiten zur Verfügung.</p>
 
       <Address
-        name="SQS Software Quality Systems AG"
-        link="https://www.sqs.com"
-        mapsLink="https://www.google.de/maps/place/SQS+Software+Quality+Systems+AG/@51.1467704,14.9950574,17z/data=!3m1!4b1!4m5!3m4!1s0x4708dc2a5e9553cf:0xf21a88b2bb3bf733!8m2!3d51.1467704!4d14.9972461?hl=de"
-        addressFields={["Brückenstraße 10", "02826 Görlitz"]}
+        name="CIDEON Software & Services GmbH & Co. KG"
+        link="https://www.cideon.de"
+        mapsLink="https://www.google.com/maps/place/CIDEON+Software+%26+Services+GmbH+%26+Co.+KG/@51.156937,14.9891214,17z/data=!3m1!4b1!4m5!3m4!1s0x4708dc3980ef431f:0x781d96282d404f3!8m2!3d51.156937!4d14.99131"
+        addressFields={["Peterstraße 1", "02826 Görlitz"]}
       />
 
       <Address
@@ -113,6 +113,13 @@ const UnterstuetzerPage = ({ data }) => {
         link="https://www.sogehtsoftware.de"
         mapsLink="https://www.google.de/maps?q=G%C3%B6rlitz+Berliner+Stra%C3%9Fe+63&ie=UTF8&sll=51.139990000000004,14.964935399999993&sspn=0.25938504233517495,0.9385794045212804&t=m&dg=opt&hnear=Berliner+Stra%C3%9Fe+63,+02826+G%C3%B6rlitz&z=16"
         addressFields={["Berliner Straße 63", "02826 Görlitz"]}
+      />
+	  
+	  <Address
+        name="SQS Software Quality Systems AG"
+        link="https://www.sqs.com"
+        mapsLink="https://www.google.de/maps/place/SQS+Software+Quality+Systems+AG/@51.1467704,14.9950574,17z/data=!3m1!4b1!4m5!3m4!1s0x4708dc2a5e9553cf:0xf21a88b2bb3bf733!8m2!3d51.1467704!4d14.9972461?hl=de"
+        addressFields={["Brückenstraße 10", "02826 Görlitz"]}
       />
     </Layout>
   )
