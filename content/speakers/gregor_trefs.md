@@ -1,5 +1,6 @@
 ---
 name: Gregor Trefs
+pic: ../images/gregor_trefs.png
 twitter_name: gtrefs
 ---
 
