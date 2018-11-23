@@ -27,12 +27,12 @@ const getUpcomingEvent = ({ allEvents, extractDate, today }) => {
     return sortedEvents[0]
   }
 
-  const todayMoment = moment(today)
+  const todayMoment = moment(today).startOf("day")
 
   const datesAfter = R.filter(event => {
-    const date = moment(extractor(event))
+    const date = moment(extractor(event)).startOf("day")
 
-    return todayMoment.isBefore(date)
+    return todayMoment.isSameOrBefore(date)
   })(sortedEvents)
 
   if(datesAfter && datesAfter.length > 0) {
