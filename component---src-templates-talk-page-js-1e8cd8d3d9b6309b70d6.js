@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{256:function(e,a,n){"use strict";n.r(a),n.d(a,"query",function(){return u});var t=n(0),r=n.n(t),o=n(268),i=n(292);a.default=function(e){var a=e.data,n=a.talk,t=a.speakers,u=a.location,c=t.edges.map(function(e){return e.node});return r.a.createElement(o.a,null,r.a.createElement(i.a,{talk:n,speakerList:c,location:u,linkToDetailsPage:!1}))};var u="3213007473"}}]);
+//# sourceMappingURL=component---src-templates-talk-page-js-1e8cd8d3d9b6309b70d6.js.map
