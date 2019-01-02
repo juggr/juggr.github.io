@@ -14,12 +14,12 @@
             "date_modified": "2019-02-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2019_01_30_java_apis_missing_manual/",
+            "id": "https://jug-gr.de/talks/2019_01_31_java_apis_missing_manual/",
             "html_content": "<p>Anstelle über Microservices, NO-SQL Lösungen oder Container-Management zu reden werden im Workshop Bestandteile des\nStandard Java API vorgestellt. Diese Java Features helfen jedem Entwickler eine wartbare und zukunftssichere Anwendung\nzu entwickeln, egal ob mit Spring, JavaFX oder JavaEE. Verschiedene Sprach-Features und Konzepte der Standard Java APIs\nwerden genauer unter die Lupe genommen und deren sinnvoller Einsatz anhand von Beispielen gezeigt. Hierdurch werden\nunter anderem folgende Fragen beantwortet: Wie funktionieren eigentlich Annotations? Wie entwickle ich Plug-In\nFunktionalität ohne auf OSGI zurückgreifen zu müssen? Wie gehe ich am besten mit NullPointerExceptions um? Wie schreibe\nich nebenläufigen Code der trotzdem wartbar ist?</p>",
-            "url": "https://jug-gr.de/talks/2019_01_30_java_apis_missing_manual/",
+            "url": "https://jug-gr.de/talks/2019_01_31_java_apis_missing_manual/",
             "title": "Java APIs - the missing manual",
-            "summary": "\n      <h1>Java APIs - the missing manual</h1>\n      <p>Date: January 30, 2019, 19:00 Uhr</p>\n      <p>Speakers: Hendrik Ebbers</p>\n      <p>Location:</p>\n      <address>\n        CIDEON Software & Services GmbH & Co. KG\n        <br />\n        Untermarkt 25\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2019-01-30T00:00:00.000Z"
+            "summary": "\n      <h1>Java APIs - the missing manual</h1>\n      <p>Date: January 31, 2019, 19:00 Uhr</p>\n      <p>Speakers: Hendrik Ebbers</p>\n      <p>Location:</p>\n      <address>\n        CIDEON Software & Services GmbH & Co. KG\n        <br />\n        Untermarkt 25\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2019-01-31T00:00:00.000Z"
         },
         {
             "id": "https://jug-gr.de/talks/2018-11-23-monadische_transaktionen/",
@@ -486,19 +486,19 @@
             "date_modified": "2011-05-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-04-27-gwt/",
-            "html_content": "<p>GWT - Google Web Toolkit (Ingo Körner)</p>",
-            "url": "https://jug-gr.de/talks/2011-04-27-gwt/",
-            "title": "GWT - Google Web Toolkit",
-            "summary": "\n      <h1>GWT - Google Web Toolkit</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Ingo Körner</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-04-27T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
             "html_content": "<p>Die OSGi beschreibt eine spezifikation, auf deren Basis Software Modular entwickelt werden kann. Die einzelnen Module\nsind in sich geschlossene Einheiten mit einem klaren Interface, welches einerseits ihre angebotene Funktionalität inf\nForm von Services beschreibt und andererseits die Abhängigkeiten auf Services anderer Module enthält.</p>\n<p>Spring-DM (DM steht für Dynamic Modules) ist eine auf OSGi basierende Plattform, die OSGi mit den Vorteilen von Spring,\nallen voran Dependency Injection, verbindet.</p>\n<p>Im Vortrag wird neben den theoretischen Grundlagen vor allem an praktischen Beispielen inklusive Live-Coding gezeigt,\nwie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch zur Laufzeit getauscht werden können.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_osgi_spring_dm.pdf\">Vortragsfolien</a></li>\n</ul>",
             "url": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
             "title": "OSGi mit SpringDM",
             "summary": "\n      <h1>OSGi mit SpringDM</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-04-27T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-04-27-gwt/",
+            "html_content": "<p>GWT - Google Web Toolkit (Ingo Körner)</p>",
+            "url": "https://jug-gr.de/talks/2011-04-27-gwt/",
+            "title": "GWT - Google Web Toolkit",
+            "summary": "\n      <h1>GWT - Google Web Toolkit</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Ingo Körner</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-04-27T00:00:00.000Z"
         },
         {

@@ -4,7 +4,7 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Thu, 27 Dec 2018 10:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Jan 2019 10:31:43 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
@@ -28,12 +28,12 @@
         </item>
         <item>
             <title><![CDATA[Java APIs - the missing manual]]></title>
-            <link>https://jug-gr.de/talks/2019_01_30_java_apis_missing_manual/</link>
-            <guid>https://jug-gr.de/talks/2019_01_30_java_apis_missing_manual/</guid>
-            <pubDate>Wed, 30 Jan 2019 00:00:00 GMT</pubDate>
+            <link>https://jug-gr.de/talks/2019_01_31_java_apis_missing_manual/</link>
+            <guid>https://jug-gr.de/talks/2019_01_31_java_apis_missing_manual/</guid>
+            <pubDate>Thu, 31 Jan 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[
       <h1>Java APIs - the missing manual</h1>
-      <p>Date: January 30, 2019, 19:00 Uhr</p>
+      <p>Date: January 31, 2019, 19:00 Uhr</p>
       <p>Speakers: Hendrik Ebbers</p>
       <p>Location:</p>
       <address>
@@ -1627,26 +1627,6 @@ geben.</p>]]></content:encoded>
             <content:encoded><![CDATA[<p>Google Guice - Dependency Injection (DI) und Aspect-Orientierte Programmierung (AOP) von Robert Wirbs</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GWT - Google Web Toolkit]]></title>
-            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
-            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
-            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>GWT - Google Web Toolkit</h1>
-      <p>Date: April 27, 2011, 19:00 Uhr</p>
-      <p>Speakers: Ingo Körner</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[OSGi mit SpringDM]]></title>
             <link>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</link>
             <guid>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</guid>
@@ -1675,6 +1655,26 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 <ul>
 <li><a href="/downloads/juggr_osgi_spring_dm.pdf">Vortragsfolien</a></li>
 </ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GWT - Google Web Toolkit]]></title>
+            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
+            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
+            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>GWT - Google Web Toolkit</h1>
+      <p>Date: April 27, 2011, 19:00 Uhr</p>
+      <p>Speakers: Ingo Körner</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[EasyMock]]></title>
