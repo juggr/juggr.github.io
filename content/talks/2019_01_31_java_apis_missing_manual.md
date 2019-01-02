@@ -1,6 +1,6 @@
 ---
 title: "Java APIs - the missing manual"
-date: 2019-01-30
+date: 2019-01-31
 speaker: [hendrik_ebbers]
 tags: [java]
 location: cideon
