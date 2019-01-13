@@ -1,6 +1,6 @@
 ---
 title: "Von relationalen Datenbanken zu Daten mit Relationen"
-date: 2019-02-27
+date: 2019-03-28
 speaker: [michael_simons]
 tags: [neo4j, database, graphs]
 ---
