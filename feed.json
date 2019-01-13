@@ -6,12 +6,12 @@
     "description": "Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java",
     "items": [
         {
-            "id": "https://jug-gr.de/talks/2019-02-27-von_relationalen_datenbanken_zu_daten_mit_relationen/",
+            "id": "https://jug-gr.de/talks/2019-03-28-von_relationalen_datenbanken_zu_daten_mit_relationen/",
             "html_content": "<p>Im Lauf der letzten paar Jahre zeichnete sich eine deutliche Renaissance von relationalen Datenbanken und der \"Macht\" von SQL ab. Relationale Datenbanken spielen ihre Stärken immer dann aus, wenn Aggregationen über größere Datenreihen gebildet werden sollen (Summen, Moving-Windows, Durchschnittswerte und so weiter) oder Listen von Dingen aus großen Sets zusammengestellt werden sollen, die nur auf eine beschränkte Menge an Joins angewiesen sind.</p>\n<p>Graph Datenbanken wie Neo4j haben aber einige Eigenschaften, die kaum ein anderer Store hat. Graphdatenbanken sind immer dann gefragt, wenn gerichtete, komplexe Objektbäume gespeichert und auf unterschiedliche Weise abgefragt werden könenn sollen. Objekte und ihre Beziehungen untereinander sind gleichermaßen Kernkonzepte von Neo4j. Dank der Cypher, der Graph-Abfragesprache von Neo4j, lassen sich Abfragen aller Art leichtfüßig formulieren. Weitere Anwendungsfälle sind Abfragen, die Pfadsuchen durchführen, Schwerpunkte in Beziehungsnetzwerken ermitteln und vieles mehr.</p>\n<p>In diesem Vortrag werde ich mit dem Datenbestand meines SQL-Fetish-Vortrags beginnen. Die Zeitreihen, die musikalische Vorlieben wiederspiegeln, werden mit Neo4js ETL (Extract-Transform-Load) Tool direkt aus der relationalen Datenbank ausgelesen und in einen gerichteten Property-Graphen transformiert. </p>\n<p>Im zweiten Schritt werden die Zuhörer Abfragen kennen lernen, die die Aggregrationen der SQL-Daten perfekt ergänzen: Können wir in 40 Minuten eine Empfehlungs-Engine auf Basis von Beziehungen von Künsterln, Ländern, Alben und Hörgewohnheiten bauen, die über die Empfehlung bekannter Online-Portale (\"Kunde hört die Die Ärzte, also mag er auch Sportfreunde Stiller\") hinaus geht?</p>\n<p>Im letzten Schritt wird eine mögliche Anwendung auf Basis von Spring Boot mittels Spring Data Neo4j skizziert.</p>",
-            "url": "https://jug-gr.de/talks/2019-02-27-von_relationalen_datenbanken_zu_daten_mit_relationen/",
+            "url": "https://jug-gr.de/talks/2019-03-28-von_relationalen_datenbanken_zu_daten_mit_relationen/",
             "title": "Von relationalen Datenbanken zu Daten mit Relationen",
-            "summary": "\n      <h1>Von relationalen Datenbanken zu Daten mit Relationen</h1>\n      <p>Date: February 27, 2019, 19:00 Uhr</p>\n      <p>Speakers: Michael Simons</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",
-            "date_modified": "2019-02-27T00:00:00.000Z"
+            "summary": "\n      <h1>Von relationalen Datenbanken zu Daten mit Relationen</h1>\n      <p>Date: March 28, 2019, 19:00 Uhr</p>\n      <p>Speakers: Michael Simons</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",
+            "date_modified": "2019-03-28T00:00:00.000Z"
         },
         {
             "id": "https://jug-gr.de/talks/2019_01_31_java_apis_missing_manual/",
@@ -454,19 +454,19 @@
             "date_modified": "2011-08-31T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-07-27-scala/",
-            "html_content": "<p>Scala - Vorstellung der Sprache, Demo und das Testen (Stefan Bradl)</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_scala.pdf\">Vortragsfolien</a></li>\n<li><a href=\"/downloads/code_scala.zip\">Beispiel-Code</a></li>\n</ul>",
-            "url": "https://jug-gr.de/talks/2011-07-27-scala/",
-            "title": "Scala",
-            "summary": "\n      <h1>Scala</h1>\n      <p>Date: July 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Stefan Bradl</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-07-27T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-07-27-testng/",
             "html_content": "<p>TestNG (Marcus Döring) </p>",
             "url": "https://jug-gr.de/talks/2011-07-27-testng/",
             "title": "TestNG",
             "summary": "\n      <h1>TestNG</h1>\n      <p>Date: July 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Marcus Döring</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-07-27T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-07-27-scala/",
+            "html_content": "<p>Scala - Vorstellung der Sprache, Demo und das Testen (Stefan Bradl)</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_scala.pdf\">Vortragsfolien</a></li>\n<li><a href=\"/downloads/code_scala.zip\">Beispiel-Code</a></li>\n</ul>",
+            "url": "https://jug-gr.de/talks/2011-07-27-scala/",
+            "title": "Scala",
+            "summary": "\n      <h1>Scala</h1>\n      <p>Date: July 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Stefan Bradl</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-07-27T00:00:00.000Z"
         },
         {
@@ -486,14 +486,6 @@
             "date_modified": "2011-05-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
-            "html_content": "<p>Die OSGi beschreibt eine spezifikation, auf deren Basis Software Modular entwickelt werden kann. Die einzelnen Module\nsind in sich geschlossene Einheiten mit einem klaren Interface, welches einerseits ihre angebotene Funktionalität inf\nForm von Services beschreibt und andererseits die Abhängigkeiten auf Services anderer Module enthält.</p>\n<p>Spring-DM (DM steht für Dynamic Modules) ist eine auf OSGi basierende Plattform, die OSGi mit den Vorteilen von Spring,\nallen voran Dependency Injection, verbindet.</p>\n<p>Im Vortrag wird neben den theoretischen Grundlagen vor allem an praktischen Beispielen inklusive Live-Coding gezeigt,\nwie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch zur Laufzeit getauscht werden können.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_osgi_spring_dm.pdf\">Vortragsfolien</a></li>\n</ul>",
-            "url": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
-            "title": "OSGi mit SpringDM",
-            "summary": "\n      <h1>OSGi mit SpringDM</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-04-27T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-04-27-gwt/",
             "html_content": "<p>GWT - Google Web Toolkit (Ingo Körner)</p>",
             "url": "https://jug-gr.de/talks/2011-04-27-gwt/",
@@ -502,12 +494,12 @@
             "date_modified": "2011-04-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-03-22-easymock/",
-            "html_content": "<p><a href=\"http://easymock.org/\">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es\nbenutzen? All diese Fragen werden in der Präsentation beantwortet.</p>",
-            "url": "https://jug-gr.de/talks/2011-03-22-easymock/",
-            "title": "EasyMock",
-            "summary": "\n      <h1>EasyMock</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Richard Hauswald</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-03-22T00:00:00.000Z"
+            "id": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
+            "html_content": "<p>Die OSGi beschreibt eine spezifikation, auf deren Basis Software Modular entwickelt werden kann. Die einzelnen Module\nsind in sich geschlossene Einheiten mit einem klaren Interface, welches einerseits ihre angebotene Funktionalität inf\nForm von Services beschreibt und andererseits die Abhängigkeiten auf Services anderer Module enthält.</p>\n<p>Spring-DM (DM steht für Dynamic Modules) ist eine auf OSGi basierende Plattform, die OSGi mit den Vorteilen von Spring,\nallen voran Dependency Injection, verbindet.</p>\n<p>Im Vortrag wird neben den theoretischen Grundlagen vor allem an praktischen Beispielen inklusive Live-Coding gezeigt,\nwie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch zur Laufzeit getauscht werden können.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_osgi_spring_dm.pdf\">Vortragsfolien</a></li>\n</ul>",
+            "url": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
+            "title": "OSGi mit SpringDM",
+            "summary": "\n      <h1>OSGi mit SpringDM</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-04-27T00:00:00.000Z"
         },
         {
             "id": "https://jug-gr.de/talks/2011-03-22-jenkins/",
@@ -515,6 +507,14 @@
             "url": "https://jug-gr.de/talks/2011-03-22-jenkins/",
             "title": "Jenkins/Hudson",
             "summary": "\n      <h1>Jenkins/Hudson</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Stefan Scheumann</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-03-22T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-03-22-easymock/",
+            "html_content": "<p><a href=\"http://easymock.org/\">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es\nbenutzen? All diese Fragen werden in der Präsentation beantwortet.</p>",
+            "url": "https://jug-gr.de/talks/2011-03-22-easymock/",
+            "title": "EasyMock",
+            "summary": "\n      <h1>EasyMock</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Richard Hauswald</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-03-22T00:00:00.000Z"
         }
     ]
