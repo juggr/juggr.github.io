@@ -10,6 +10,7 @@ deploy:
   github-token: $GITHUB_TOKEN
   local_dir: public
   keep-history: true
+  target-branch: master
   on:
     branch: source
 before_script:
