@@ -1,5 +1,7 @@
 # Website der Java User Group Görlitz
 
+[![Build Status](https://travis-ci.org/juggr/juggr.github.io.svg?branch=source)](https://travis-ci.org/juggr/juggr.github.io)
+
 Diese Repository enthält den Quellcode der Java User Group Görlitz [https://www.jug-gr.de](https://www.jug-gr.de).
 
 ## Technische Details
