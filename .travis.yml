@@ -13,7 +13,7 @@ deploy:
   on:
     branch: master
 before_script:
-- "yarn global add gatsby"
+- "yarn global add gatsby-cli"
 - "yarn"
 script:
 - "yarn run test"
