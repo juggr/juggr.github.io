@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title>Java User Group Görlitz</title>
-    <updated>2019-02-12T18:08:08.475Z</updated>
+    <updated>2019-02-17T22:01:14.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
     <subtitle>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Java Reflection: Classes behind the scenes]]></title>
+        <id>https://jug-gr.de/talks/2019_02_27_reflection/</id>
+        <link href="https://jug-gr.de/talks/2019_02_27_reflection/">
+        </link>
+        <updated>2019-02-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>Java Reflection: Classes behind the scenes</h1>
+      <p>Date: February 27, 2019, 19:00 Uhr</p>
+      <p>Speakers: Erik Jähne</p>
+      <p>Location:</p>
+      <address>
+        Saxonia Systems AG
+        <br />
+        Berliner Straße 63
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></summary>
+        <content type="html"><![CDATA[<p>Java Reflections sind ein Feature der Java Sprache und werden von der JVM für das interne Handling von Klassen, Feldern
+und Methoden verwendet. Intern werden darüber Methodenaufrufe, Zugriffsrechte wie public/privat oder seit Java 9 auch
+die Modulexporte geregelt.</p>
+<p>Dieses Feature kann man sich in der normalen Java Umgebung zu Nutze machen, um auf alle Informationen einer Klasse
+zuzugreifen. So ist es möglich, auf deren Methoden und Felder zuzugreifen, selbst wenn diese privat sind. Felder können
+überschreiben, Template-Parameter in Feldern und Methoden angezeigt, sowie auch Annotationen der Klasse, Methoden und
+Felder gelesen werden. Am Beispiel eines abstrakten Klassen-Editors werden diese Möglichkeiten in dem Vortrag näher
+betrachtet.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java APIs - the missing manual]]></title>
         <id>https://jug-gr.de/talks/2019_01_31_java_apis_missing_manual/</id>

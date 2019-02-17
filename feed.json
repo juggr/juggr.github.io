@@ -6,6 +6,14 @@
     "description": "Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java",
     "items": [
         {
+            "id": "https://jug-gr.de/talks/2019_02_27_reflection/",
+            "html_content": "<p>Java Reflections sind ein Feature der Java Sprache und werden von der JVM für das interne Handling von Klassen, Feldern\nund Methoden verwendet. Intern werden darüber Methodenaufrufe, Zugriffsrechte wie public/privat oder seit Java 9 auch\ndie Modulexporte geregelt.</p>\n<p>Dieses Feature kann man sich in der normalen Java Umgebung zu Nutze machen, um auf alle Informationen einer Klasse\nzuzugreifen. So ist es möglich, auf deren Methoden und Felder zuzugreifen, selbst wenn diese privat sind. Felder können\nüberschreiben, Template-Parameter in Feldern und Methoden angezeigt, sowie auch Annotationen der Klasse, Methoden und\nFelder gelesen werden. Am Beispiel eines abstrakten Klassen-Editors werden diese Möglichkeiten in dem Vortrag näher\nbetrachtet.</p>",
+            "url": "https://jug-gr.de/talks/2019_02_27_reflection/",
+            "title": "Java Reflection: Classes behind the scenes",
+            "summary": "\n      <h1>Java Reflection: Classes behind the scenes</h1>\n      <p>Date: February 27, 2019, 19:00 Uhr</p>\n      <p>Speakers: Erik Jähne</p>\n      <p>Location:</p>\n      <address>\n        Saxonia Systems AG\n        <br />\n        Berliner Straße 63\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2019-02-27T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2019_01_31_java_apis_missing_manual/",
             "html_content": "<p>Anstelle über Microservices, NO-SQL Lösungen oder Container-Management zu reden werden im Workshop Bestandteile des\nStandard Java API vorgestellt. Diese Java Features helfen jedem Entwickler eine wartbare und zukunftssichere Anwendung\nzu entwickeln, egal ob mit Spring, JavaFX oder JavaEE. Verschiedene Sprach-Features und Konzepte der Standard Java APIs\nwerden genauer unter die Lupe genommen und deren sinnvoller Einsatz anhand von Beispielen gezeigt. Hierdurch werden\nunter anderem folgende Fragen beantwortet: Wie funktionieren eigentlich Annotations? Wie entwickle ich Plug-In\nFunktionalität ohne auf OSGI zurückgreifen zu müssen? Wie gehe ich am besten mit NullPointerExceptions um? Wie schreibe\nich nebenläufigen Code der trotzdem wartbar ist?</p>",
             "url": "https://jug-gr.de/talks/2019_01_31_java_apis_missing_manual/",

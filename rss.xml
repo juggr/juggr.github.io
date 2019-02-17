@@ -4,10 +4,37 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Tue, 12 Feb 2019 18:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Feb 2019 22:01:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Java Reflection: Classes behind the scenes]]></title>
+            <link>https://jug-gr.de/talks/2019_02_27_reflection/</link>
+            <guid>https://jug-gr.de/talks/2019_02_27_reflection/</guid>
+            <pubDate>Wed, 27 Feb 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Java Reflection: Classes behind the scenes</h1>
+      <p>Date: February 27, 2019, 19:00 Uhr</p>
+      <p>Speakers: Erik Jähne</p>
+      <p>Location:</p>
+      <address>
+        Saxonia Systems AG
+        <br />
+        Berliner Straße 63
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>Java Reflections sind ein Feature der Java Sprache und werden von der JVM für das interne Handling von Klassen, Feldern
+und Methoden verwendet. Intern werden darüber Methodenaufrufe, Zugriffsrechte wie public/privat oder seit Java 9 auch
+die Modulexporte geregelt.</p>
+<p>Dieses Feature kann man sich in der normalen Java Umgebung zu Nutze machen, um auf alle Informationen einer Klasse
+zuzugreifen. So ist es möglich, auf deren Methoden und Felder zuzugreifen, selbst wenn diese privat sind. Felder können
+überschreiben, Template-Parameter in Feldern und Methoden angezeigt, sowie auch Annotationen der Klasse, Methoden und
+Felder gelesen werden. Am Beispiel eines abstrakten Klassen-Editors werden diese Möglichkeiten in dem Vortrag näher
+betrachtet.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Java APIs - the missing manual]]></title>
             <link>https://jug-gr.de/talks/2019_01_31_java_apis_missing_manual/</link>
