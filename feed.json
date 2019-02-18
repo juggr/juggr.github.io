@@ -6,17 +6,33 @@
     "description": "Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java",
     "items": [
         {
-            "id": "https://jug-gr.de/talks/2019_02_27_reflection/",
+            "id": "https://jug-gr.de/talks/2019-05-29-oauth/",
+            "html_content": "<p>Der Vortrag erläutert zunächst die Grundlagen der Standards OAuth 2.0 und OpenID-Connect\nund geht danach auf den Einsatz dieser Standards mittels Keycloak ein.\nDabei wird anhand einer Beispielanwendung (React, Spring Boot) gezeigt,\nwie man Keycloak in seine Anwendung einbinden kann.\n</p>",
+            "url": "https://jug-gr.de/talks/2019-05-29-oauth/",
+            "title": "OAuth 2.0/OpenIDConnect mit Keycloak",
+            "summary": "\n      <h1>OAuth 2.0/OpenIDConnect mit Keycloak</h1>\n      <p>Date: May 29, 2019, 19:00 Uhr</p>\n      <p>Speakers: Denny Israel</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",
+            "date_modified": "2019-05-29T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2019-04-24_jdk_jungle/",
+            "html_content": "<p>Mit dem JDK-Enhancement-Proposal (JEP 322) wird die zeitbasierte Java-Release-Versionierung definiert,\ndie auf dem aktuellen Java SE Version-String-Schema basiert und\ndie Namensgebung für die kommenden Versionen der Java SE Plattform und vom JDK vorgibt.\nSeit dem Jahr 2018 erscheinen die künftigen Java-Feature-Releases alle 6 Monate.\nDas JDK 11 wurde als Long-Term-Support-Release (LTS-Release) im September 2018 veröffentlicht\nund nach sechs Monaten folgte das OpenJDK 12 im März 2019.\nMit dem zeitlichen Abstand von sechs Monaten bekommen die Entwickler wesentlich schneller neue\nJava-Funktionsmerkmale als dies mit dem bisherigen Dreijahreszyklus der Fall war.\nZwischen den OpenJDK/JDK-Feature-Releases sind zwei Updates geplant, bei denen es um die Wartung und Bugfixes geht,\ndie wie gewohnt, jeweils im Januar, April, Juli und Oktober eines Jahres als Java Critical Patch Update erscheinen werden.\nDie Planung sieht vor, jeweils alle drei Jahre ein weiteres Java-LTS-Release zu veröffentlichen,\ndamit der Anwendungsbetrieb eine stabile und ausgereifte Java-Basis bekommt,\ndie mit der nachfolgenden Versionierung $FEATURE.$INTERIM.$UPDATE.$PATCH gekennzeichnet wird.\nIm Vortrag werden Beispiele zum Version-String besprochen, sowie Empfehlungen diskutiert,\nwie die künftige Java-Strategie mit dem OpenJDK, Oracle JDK (LTS) und\nder neuen Java SE Subscription (Support) für die Entwickler und für den Anwendungsbetrieb aussehen soll.\nZudem wird die Weiterentwicklung der OpenJFX/JavaFX UI-Technologie mit den Aktivitäten der Developer-Community dargestellt.\n</p>",
+            "url": "https://jug-gr.de/talks/2019-04-24_jdk_jungle/",
+            "title": "It's a JDK jungle out there - oder wie es mit den neuen Java-Versionen geordnet weitergeht",
+            "summary": "\n      <h1>It's a JDK jungle out there - oder wie es mit den neuen Java-Versionen geordnet weitergeht</h1>\n      <p>Date: April 24, 2019, 19:00 Uhr</p>\n      <p>Speakers: Wolfgang Weigend</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",
+            "date_modified": "2019-04-24T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2019-02-27_reflection/",
             "html_content": "<p>Java Reflections sind ein Feature der Java Sprache und werden von der JVM für das interne Handling von Klassen, Feldern\nund Methoden verwendet. Intern werden darüber Methodenaufrufe, Zugriffsrechte wie public/privat oder seit Java 9 auch\ndie Modulexporte geregelt.</p>\n<p>Dieses Feature kann man sich in der normalen Java Umgebung zu Nutze machen, um auf alle Informationen einer Klasse\nzuzugreifen. So ist es möglich, auf deren Methoden und Felder zuzugreifen, selbst wenn diese privat sind. Felder können\nüberschreiben, Template-Parameter in Feldern und Methoden angezeigt, sowie auch Annotationen der Klasse, Methoden und\nFelder gelesen werden. Am Beispiel eines abstrakten Klassen-Editors werden diese Möglichkeiten in dem Vortrag näher\nbetrachtet.</p>",
-            "url": "https://jug-gr.de/talks/2019_02_27_reflection/",
+            "url": "https://jug-gr.de/talks/2019-02-27_reflection/",
             "title": "Java Reflection: Classes behind the scenes",
             "summary": "\n      <h1>Java Reflection: Classes behind the scenes</h1>\n      <p>Date: February 27, 2019, 19:00 Uhr</p>\n      <p>Speakers: Erik Jähne</p>\n      <p>Location:</p>\n      <address>\n        Saxonia Systems AG\n        <br />\n        Berliner Straße 63\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2019-02-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2019_01_31_java_apis_missing_manual/",
+            "id": "https://jug-gr.de/talks/2019-01-31_java_apis_missing_manual/",
             "html_content": "<p>Anstelle über Microservices, NO-SQL Lösungen oder Container-Management zu reden werden im Workshop Bestandteile des\nStandard Java API vorgestellt. Diese Java Features helfen jedem Entwickler eine wartbare und zukunftssichere Anwendung\nzu entwickeln, egal ob mit Spring, JavaFX oder JavaEE. Verschiedene Sprach-Features und Konzepte der Standard Java APIs\nwerden genauer unter die Lupe genommen und deren sinnvoller Einsatz anhand von Beispielen gezeigt. Hierdurch werden\nunter anderem folgende Fragen beantwortet: Wie funktionieren eigentlich Annotations? Wie entwickle ich Plug-In\nFunktionalität ohne auf OSGI zurückgreifen zu müssen? Wie gehe ich am besten mit NullPointerExceptions um? Wie schreibe\nich nebenläufigen Code der trotzdem wartbar ist?</p>",
-            "url": "https://jug-gr.de/talks/2019_01_31_java_apis_missing_manual/",
+            "url": "https://jug-gr.de/talks/2019-01-31_java_apis_missing_manual/",
             "title": "Java APIs - the missing manual",
             "summary": "\n      <h1>Java APIs - the missing manual</h1>\n      <p>Date: January 31, 2019, 19:00 Uhr</p>\n      <p>Speakers: Hendrik Ebbers</p>\n      <p>Location:</p>\n      <address>\n        CIDEON Software & Services GmbH & Co. KG\n        <br />\n        Untermarkt 25\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2019-01-31T00:00:00.000Z"

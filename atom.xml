@@ -2,15 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title>Java User Group Görlitz</title>
-    <updated>2019-02-17T22:01:14.447Z</updated>
+    <updated>2019-02-18T09:47:11.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
     <subtitle>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</subtitle>
     <entry>
+        <title type="html"><![CDATA[OAuth 2.0/OpenIDConnect mit Keycloak]]></title>
+        <id>https://jug-gr.de/talks/2019-05-29-oauth/</id>
+        <link href="https://jug-gr.de/talks/2019-05-29-oauth/">
+        </link>
+        <updated>2019-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>OAuth 2.0/OpenIDConnect mit Keycloak</h1>
+      <p>Date: May 29, 2019, 19:00 Uhr</p>
+      <p>Speakers: Denny Israel</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></summary>
+        <content type="html"><![CDATA[<p>Der Vortrag erläutert zunächst die Grundlagen der Standards OAuth 2.0 und OpenID-Connect
+und geht danach auf den Einsatz dieser Standards mittels Keycloak ein.
+Dabei wird anhand einer Beispielanwendung (React, Spring Boot) gezeigt,
+wie man Keycloak in seine Anwendung einbinden kann.
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's a JDK jungle out there - oder wie es mit den neuen Java-Versionen geordnet weitergeht]]></title>
+        <id>https://jug-gr.de/talks/2019-04-24_jdk_jungle/</id>
+        <link href="https://jug-gr.de/talks/2019-04-24_jdk_jungle/">
+        </link>
+        <updated>2019-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>It's a JDK jungle out there - oder wie es mit den neuen Java-Versionen geordnet weitergeht</h1>
+      <p>Date: April 24, 2019, 19:00 Uhr</p>
+      <p>Speakers: Wolfgang Weigend</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></summary>
+        <content type="html"><![CDATA[<p>Mit dem JDK-Enhancement-Proposal (JEP 322) wird die zeitbasierte Java-Release-Versionierung definiert,
+die auf dem aktuellen Java SE Version-String-Schema basiert und
+die Namensgebung für die kommenden Versionen der Java SE Plattform und vom JDK vorgibt.
+Seit dem Jahr 2018 erscheinen die künftigen Java-Feature-Releases alle 6 Monate.
+Das JDK 11 wurde als Long-Term-Support-Release (LTS-Release) im September 2018 veröffentlicht
+und nach sechs Monaten folgte das OpenJDK 12 im März 2019.
+Mit dem zeitlichen Abstand von sechs Monaten bekommen die Entwickler wesentlich schneller neue
+Java-Funktionsmerkmale als dies mit dem bisherigen Dreijahreszyklus der Fall war.
+Zwischen den OpenJDK/JDK-Feature-Releases sind zwei Updates geplant, bei denen es um die Wartung und Bugfixes geht,
+die wie gewohnt, jeweils im Januar, April, Juli und Oktober eines Jahres als Java Critical Patch Update erscheinen werden.
+Die Planung sieht vor, jeweils alle drei Jahre ein weiteres Java-LTS-Release zu veröffentlichen,
+damit der Anwendungsbetrieb eine stabile und ausgereifte Java-Basis bekommt,
+die mit der nachfolgenden Versionierung $FEATURE.$INTERIM.$UPDATE.$PATCH gekennzeichnet wird.
+Im Vortrag werden Beispiele zum Version-String besprochen, sowie Empfehlungen diskutiert,
+wie die künftige Java-Strategie mit dem OpenJDK, Oracle JDK (LTS) und
+der neuen Java SE Subscription (Support) für die Entwickler und für den Anwendungsbetrieb aussehen soll.
+Zudem wird die Weiterentwicklung der OpenJFX/JavaFX UI-Technologie mit den Aktivitäten der Developer-Community dargestellt.
+</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Java Reflection: Classes behind the scenes]]></title>
-        <id>https://jug-gr.de/talks/2019_02_27_reflection/</id>
-        <link href="https://jug-gr.de/talks/2019_02_27_reflection/">
+        <id>https://jug-gr.de/talks/2019-02-27_reflection/</id>
+        <link href="https://jug-gr.de/talks/2019-02-27_reflection/">
         </link>
         <updated>2019-02-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
@@ -37,8 +88,8 @@ betrachtet.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Java APIs - the missing manual]]></title>
-        <id>https://jug-gr.de/talks/2019_01_31_java_apis_missing_manual/</id>
-        <link href="https://jug-gr.de/talks/2019_01_31_java_apis_missing_manual/">
+        <id>https://jug-gr.de/talks/2019-01-31_java_apis_missing_manual/</id>
+        <link href="https://jug-gr.de/talks/2019-01-31_java_apis_missing_manual/">
         </link>
         <updated>2019-01-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
