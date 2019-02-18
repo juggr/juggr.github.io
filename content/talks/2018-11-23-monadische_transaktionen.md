@@ -2,7 +2,7 @@
 title: "Monadische Transaktionen"
 date: 2018-11-23
 speaker: [gregor_trefs]
-tags: [monaden, functional-programming]
+tags: [functional-programming]
 location: hochschule_campus
 poster: ../images/plakat_2018_11.png
 ---
