@@ -4,6 +4,7 @@ date: 2019-02-27
 speaker: [erik_jaehne]
 tags: [java]
 location: saxsys
+poster: ../images/plakat_2019_02.png
 ---
 
 Java Reflections sind ein Feature der Java Sprache und werden von der JVM für das interne Handling von Klassen, Feldern
