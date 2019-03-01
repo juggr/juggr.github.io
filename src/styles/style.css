@@ -70,11 +70,16 @@ a:hover {
 }
 
 a.supporter-page-image {
-    max-width: 400px;
-  display:block;
+  max-width: 400px;
+  display: block;
 }
 
 .supporter-page-image > a > span {
   margin-right: auto;
   margin-left: unset;
+}
+
+.talk-content hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }

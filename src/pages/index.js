@@ -81,6 +81,7 @@ export const query = graphql`
                 }
               }
             }
+            tags
           }
           fields {
             slug
