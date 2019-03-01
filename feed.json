@@ -22,6 +22,14 @@
             "date_modified": "2019-04-24T00:00:00.000Z"
         },
         {
+            "id": "https://jug-gr.de/talks/2019-03-27-static-site-generators/",
+            "html_content": "<p>Die Website der JUG Görlitz läuft fast <em>Serverless</em>. Natürlich muss ein Webserver Dateien über 'http' ausliefern aber\nansonsten sind keine Datenbank, Applicationserver, PHP oder sonstige aktive Serverkomponenten im Einsatz. Stattdessen\nsind alle Inhalte als Markdown-Textdateien in einem Git-Repository abgelegt. Ein so genannter \"Static-Site-Generator\"\ngeneriert daraus HTML-, CSS- und JavaScript-Dateien, die nur noch von einem ganz normalen HTTP-Server ausgeliefert\nwerden müssen. Dieses Vorgehen vereinfacht das Hosting, beschleunigt Website-Aufrufe und minimiert die Angriffsfläche\ndes Servers.</p>\n<p>Im Vortrag wird das Konzept von Static-Site-Generators erklärt und die möglichen Einsatzgebiete beschrieben. Mit dem\nTool <a href=\"https://www.gatsbyjs.org/\">Gatsby</a> werden wir eine einfache Blog-Website bauen. Am Beispiel der JUG-Website wird\naber auch gezeigt, wie komplexere Daten-Modelle mit mehreren Entitäten (<a href=\"/talks\">Vorträge</a>, <a href=\"/speakers\">Speaker</a>,\n<a href=\"/locations\">Veranstaltungsorte</a>, <a href=\"/tags\">Tags</a>) umgesetzt werden können. Die technische Grundlage von Gatsby stellt\n<a href=\"/talks/2017-05-31-react\">React</a> für Templates und <a href=\"/talks/2018-05-30-graphql\">GraphQL</a> für die Daten-Organisation dar.</p>",
+            "url": "https://jug-gr.de/talks/2019-03-27-static-site-generators/",
+            "title": "Static-Site-Generators",
+            "summary": "\n      <h1>Static-Site-Generators</h1>\n      <p>Date: March 27, 2019, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Brückenstraße 1\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2019-03-27T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2019-02-27_reflection/",
             "html_content": "<p>Java Reflections sind ein Feature der Java Sprache und werden von der JVM für das interne Handling von Klassen, Feldern\nund Methoden verwendet. Intern werden darüber Methodenaufrufe, Zugriffsrechte wie public/privat oder seit Java 9 auch\ndie Modulexporte geregelt.</p>\n<p>Dieses Feature kann man sich in der normalen Java Umgebung zu Nutze machen, um auf alle Informationen einer Klasse\nzuzugreifen. So ist es möglich, auf deren Methoden und Felder zuzugreifen, selbst wenn diese privat sind. Felder können\nüberschreiben, Template-Parameter in Feldern und Methoden angezeigt, sowie auch Annotationen der Klasse, Methoden und\nFelder gelesen werden. Am Beispiel eines abstrakten Klassen-Editors werden diese Möglichkeiten in dem Vortrag näher\nbetrachtet.</p>",
             "url": "https://jug-gr.de/talks/2019-02-27_reflection/",

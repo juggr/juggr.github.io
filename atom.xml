@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title>Java User Group Görlitz</title>
-    <updated>2019-02-20T17:15:56.451Z</updated>
+    <updated>2019-03-01T12:44:06.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -57,6 +57,37 @@ wie die künftige Java-Strategie mit dem OpenJDK, Oracle JDK (LTS) und
 der neuen Java SE Subscription (Support) für die Entwickler und für den Anwendungsbetrieb aussehen soll.
 Zudem wird die Weiterentwicklung der OpenJFX/JavaFX UI-Technologie mit den Aktivitäten der Developer-Community dargestellt.
 </p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Static-Site-Generators]]></title>
+        <id>https://jug-gr.de/talks/2019-03-27-static-site-generators/</id>
+        <link href="https://jug-gr.de/talks/2019-03-27-static-site-generators/">
+        </link>
+        <updated>2019-03-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>Static-Site-Generators</h1>
+      <p>Date: March 27, 2019, 19:00 Uhr</p>
+      <p>Speakers: Manuel Mauky</p>
+      <p>Location:</p>
+      <address>
+        Hochschule Zittau/Görlitz
+        <br />
+        Brückenstraße 1
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></summary>
+        <content type="html"><![CDATA[<p>Die Website der JUG Görlitz läuft fast <em>Serverless</em>. Natürlich muss ein Webserver Dateien über 'http' ausliefern aber
+ansonsten sind keine Datenbank, Applicationserver, PHP oder sonstige aktive Serverkomponenten im Einsatz. Stattdessen
+sind alle Inhalte als Markdown-Textdateien in einem Git-Repository abgelegt. Ein so genannter "Static-Site-Generator"
+generiert daraus HTML-, CSS- und JavaScript-Dateien, die nur noch von einem ganz normalen HTTP-Server ausgeliefert
+werden müssen. Dieses Vorgehen vereinfacht das Hosting, beschleunigt Website-Aufrufe und minimiert die Angriffsfläche
+des Servers.</p>
+<p>Im Vortrag wird das Konzept von Static-Site-Generators erklärt und die möglichen Einsatzgebiete beschrieben. Mit dem
+Tool <a href="https://www.gatsbyjs.org/">Gatsby</a> werden wir eine einfache Blog-Website bauen. Am Beispiel der JUG-Website wird
+aber auch gezeigt, wie komplexere Daten-Modelle mit mehreren Entitäten (<a href="/talks">Vorträge</a>, <a href="/speakers">Speaker</a>,
+<a href="/locations">Veranstaltungsorte</a>, <a href="/tags">Tags</a>) umgesetzt werden können. Die technische Grundlage von Gatsby stellt
+<a href="/talks/2017-05-31-react">React</a> für Templates und <a href="/talks/2018-05-30-graphql">GraphQL</a> für die Daten-Organisation dar.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Java Reflection: Classes behind the scenes]]></title>
