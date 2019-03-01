@@ -6,9 +6,10 @@ tags: [web, javascript]
 location: hochschule_campus
 ---
 
-Die Website der JUG Görlitz läuft fast _Serverless_. Natürlich muss ein Webserver Dateien über 'http' ausliefern aber
+Die Website der JUG Görlitz läuft fast _Serverless_. Natürlich muss ein Webserver Dateien ausliefern aber
 ansonsten sind keine Datenbank, Applicationserver, PHP oder sonstige aktive Serverkomponenten im Einsatz. Stattdessen
-sind alle Inhalte als Markdown-Textdateien in einem Git-Repository abgelegt. Ein so genannter "Static-Site-Generator"
+sind alle Inhalte als Markdown-Textdateien in einem [Git-Repository](https://github.com/juggr/juggr.github.io) abgelegt
+(dieser Talk beispielsweise [hier](https://github.com/juggr/juggr.github.io/blob/source/content/talks/2019-03-27-static-site-generators.md)). Ein so genannter "Static-Site-Generator"
 generiert daraus HTML-, CSS- und JavaScript-Dateien, die nur noch von einem ganz normalen HTTP-Server ausgeliefert
 werden müssen. Dieses Vorgehen vereinfacht das Hosting, beschleunigt Website-Aufrufe und minimiert die Angriffsfläche
 des Servers.
