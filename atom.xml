@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title>Java User Group Görlitz</title>
-    <updated>2019-03-01T12:44:06.374Z</updated>
+    <updated>2019-03-01T12:46:02.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -77,9 +77,10 @@ Zudem wird die Weiterentwicklung der OpenJFX/JavaFX UI-Technologie mit den Aktiv
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Die Website der JUG Görlitz läuft fast <em>Serverless</em>. Natürlich muss ein Webserver Dateien über 'http' ausliefern aber
+        <content type="html"><![CDATA[<p>Die Website der JUG Görlitz läuft fast <em>Serverless</em>. Natürlich muss ein Webserver Dateien ausliefern aber
 ansonsten sind keine Datenbank, Applicationserver, PHP oder sonstige aktive Serverkomponenten im Einsatz. Stattdessen
-sind alle Inhalte als Markdown-Textdateien in einem Git-Repository abgelegt. Ein so genannter "Static-Site-Generator"
+sind alle Inhalte als Markdown-Textdateien in einem <a href="https://github.com/juggr/juggr.github.io">Git-Repository</a> abgelegt
+(dieser Talk beispielsweise <a href="https://github.com/juggr/juggr.github.io/blob/source/content/talks/2019-03-27-static-site-generators.md">hier</a>). Ein so genannter "Static-Site-Generator"
 generiert daraus HTML-, CSS- und JavaScript-Dateien, die nur noch von einem ganz normalen HTTP-Server ausgeliefert
 werden müssen. Dieses Vorgehen vereinfacht das Hosting, beschleunigt Website-Aufrufe und minimiert die Angriffsfläche
 des Servers.</p>
