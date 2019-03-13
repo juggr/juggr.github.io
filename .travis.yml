@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-- "stable"
+- "11.10.1" #due to a bug in 11.11 related to jest, we need to downgrade until a fix is available in node
 cache:
   directories:
   - node_modules
