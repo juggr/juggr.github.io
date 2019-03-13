@@ -4,7 +4,7 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Fri, 01 Mar 2019 12:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2019 10:38:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
@@ -193,7 +193,13 @@ Darüber hinaus sind Immutables inhärent Threadsafe und können auch hier die N
 <p>Da Java als Sprache aber keine besondere Unterstützung für Immutables mitbringt,
 müssen EntwicklerInnen auf Patterns und Bibliotheken zurückgreifen, um in den Genuss von unveränderlichen Datenstrukturen zu kommen.
 Denn natürlich müssen auch in funktionalen Programmen letztlich Veränderungen der Daten abgebildet werden und dafür bedarf es geeigneter Unterstützung.</p>
-<p>Im Vortrag möchte ich neben einer grundsätzlichen Einführung in die Thematik auch einige dieser Techniken vorstellen und ihre Vor- und Nachteile besprechen.</p>]]></content:encoded>
+<p>Im Vortrag möchte ich neben einer grundsätzlichen Einführung in die Thematik auch einige dieser Techniken vorstellen und ihre Vor- und Nachteile besprechen.</p>
+<p>
+	<strong>Materialien:</strong>
+	<ul>
+		<li><a href="https://docs.google.com/presentation/d/1xKfrXV5XY7NBdpdlHapW6-88vtN9ASdjmEDtGEAWGpk/edit?usp=sharing">Folien zum Vortrag</a></li>
+	</ul>
+</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[GraphQL]]></title>
