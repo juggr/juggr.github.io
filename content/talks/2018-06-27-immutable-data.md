@@ -18,3 +18,12 @@ müssen EntwicklerInnen auf Patterns und Bibliotheken zurückgreifen, um in den 
 Denn natürlich müssen auch in funktionalen Programmen letztlich Veränderungen der Daten abgebildet werden und dafür bedarf es geeigneter Unterstützung.
 
 Im Vortrag möchte ich neben einer grundsätzlichen Einführung in die Thematik auch einige dieser Techniken vorstellen und ihre Vor- und Nachteile besprechen.
+
+<p>
+	<strong>Materialien:</strong>
+	<ul>
+		<li><a href="https://docs.google.com/presentation/d/1xKfrXV5XY7NBdpdlHapW6-88vtN9ASdjmEDtGEAWGpk/edit?usp=sharing">Folien zum Vortrag</a></li>
+	</ul>
+</p>
+
+
