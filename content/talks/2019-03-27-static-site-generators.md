@@ -4,6 +4,7 @@ date: 2019-03-27
 speaker: [manuel_mauky]
 tags: [web, javascript]
 location: hochschule_campus
+poster: ../images/plakat_2019_03.png
 ---
 
 Die Website der JUG Görlitz läuft fast _Serverless_. Natürlich muss ein Webserver Dateien ausliefern aber
