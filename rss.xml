@@ -4,7 +4,7 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Tue, 19 Mar 2019 16:56:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2019 08:03:45 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
@@ -36,7 +36,13 @@ wie man Keycloak in seine Anwendung einbinden kann.
       <p>Date: April 24, 2019, 19:00 Uhr</p>
       <p>Speakers: Wolfgang Weigend</p>
       <p>Location:</p>
-      wird noch bekannt gegeben
+      <address>
+        Saxonia Systems AG
+        <br />
+        Berliner Straße 63
+        <br />
+        02826 Görlitz
+      </address>
   ]]></description>
             <content:encoded><![CDATA[<p>Mit dem JDK-Enhancement-Proposal (JEP 322) wird die zeitbasierte Java-Release-Versionierung definiert,
 die auf dem aktuellen Java SE Version-String-Schema basiert und
@@ -54,8 +60,7 @@ die mit der nachfolgenden Versionierung $FEATURE.$INTERIM.$UPDATE.$PATCH gekennz
 Im Vortrag werden Beispiele zum Version-String besprochen, sowie Empfehlungen diskutiert,
 wie die künftige Java-Strategie mit dem OpenJDK, Oracle JDK (LTS) und
 der neuen Java SE Subscription (Support) für die Entwickler und für den Anwendungsbetrieb aussehen soll.
-Zudem wird die Weiterentwicklung der OpenJFX/JavaFX UI-Technologie mit den Aktivitäten der Developer-Community dargestellt.
-</p>]]></content:encoded>
+Zudem wird die Weiterentwicklung der OpenJFX/JavaFX UI-Technologie mit den Aktivitäten der Developer-Community dargestellt.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Static-Site-Generators]]></title>
