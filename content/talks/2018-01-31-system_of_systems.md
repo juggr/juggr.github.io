@@ -18,4 +18,5 @@ eine alternative Implementierungsstrategie für das monolithische System diskuti
 Ursprungssystems stark verbessert und im Falle einer Aufteilung in unabhängige Teilsysteme zu einer besseren Architektur
 führt.
 
-<p><a href="https://speakerdeck.com/olivergierke/refactoring-to-a-system-of-systems">Folien zum Vortrag</a></p>
+**Materialien:**
+- [Folien zum Vortrag](https://speakerdeck.com/olivergierke/refactoring-to-a-system-of-systems)

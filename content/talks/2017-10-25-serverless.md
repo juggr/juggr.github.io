@@ -13,7 +13,9 @@ Architectures schon die nächste Evolutionsstufe auf. Was bitte ist das jetzt sc
 Session zeigt, wie sich dank BaaS, FaaS und einiger anderer Akronyme, Mobile und Enterpriese Anwendungen implementieren
 lassen - ganz ohne Server! Ganz ohne? Naja, fast.
 
-<p><a href="https://www.dropbox.com/s/nrt9jb5mtwkxh2s/se_serverless.pdf">Folien zum Vortrag</a></p>
+**Materialien:**
+- [Folien zum Vortrag](https://www.dropbox.com/s/nrt9jb5mtwkxh2s/se_serverless.pdf)
+
 
 ---
 

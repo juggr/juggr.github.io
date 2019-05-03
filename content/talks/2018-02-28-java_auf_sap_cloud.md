@@ -14,4 +14,5 @@ Vielzahl an Datenbank- und Cloud-Services zur Verfügung, welche das PaaS Angebo
 und Non-SAP-Lösungen ermöglichen. Im Vortrag wird illustriert, wie die Verbindung aus einer Java EE Applikation zu einem
 SAP On-Premise System hergestellt und dessen Funktionalität in der Cloud genutzt wird.
 
-<p><a href="https://github.com/juggr/juggr.github.io/blob/master/downloads/juggr_java_auf_sap_cloud.pdf">Folien zum Vortrag</a></p>
+**Materialien:**
+- [Folien zum Vortrag](https://github.com/juggr/juggr.github.io/blob/master/downloads/juggr_java_auf_sap_cloud.pdf)
