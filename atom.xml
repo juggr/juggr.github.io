@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title>Java User Group Görlitz</title>
-    <updated>2019-05-03T14:37:52.525Z</updated>
+    <updated>2019-05-03T14:59:27.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -170,12 +170,10 @@ ich nebenläufigen Code der trotzdem wartbar ist?</p>]]></content>
       </address>
   ]]></summary>
         <content type="html"><![CDATA[<p>Spätestens seit Java 8 gibt es monadische Typen in Java. Aber was bedeutet das eigentlich? Was sind die Eigenschaften, die Monaden ausmachen? Und wo liegen unsere Schwierigkeiten beim Verständnis von Monaden? Dieser Vortrag beschreibt, was eine Monade ist und wie wir eine monadische Transaktion nutzen können, um in domänenspezifischer Sprache mit einer Datenbank zu reden. Hierbei bauen wir monadische Transaktionen in ein vorhandenes Repository ein. Weiter beleuchten wir die Vor- und Nachteile dieses Ansatzes und diskutieren die Unterstützung von Monaden in Java. Voraussetzung sind erste Erfahrungen mit funktionaler Programmierung und Lambdas.</p>
-<p>
-	<strong>Materialien:</strong>
-	<ul>
-		<li><a href="http://jug-gr.de/downloads/juggr_refactoring_towards_monadic_transactions.pdf">Folien zum Vortrag</a></li>
-	</ul>
-</p>]]></content>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="http://jug-gr.de/downloads/juggr_refactoring_towards_monadic_transactions.pdf">Folien zum Vortrag</a></li>
+</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Immutable Data - Unveränderliche Daten im Griff]]></title>
@@ -205,12 +203,10 @@ Darüber hinaus sind Immutables inhärent Threadsafe und können auch hier die N
 müssen EntwicklerInnen auf Patterns und Bibliotheken zurückgreifen, um in den Genuss von unveränderlichen Datenstrukturen zu kommen.
 Denn natürlich müssen auch in funktionalen Programmen letztlich Veränderungen der Daten abgebildet werden und dafür bedarf es geeigneter Unterstützung.</p>
 <p>Im Vortrag möchte ich neben einer grundsätzlichen Einführung in die Thematik auch einige dieser Techniken vorstellen und ihre Vor- und Nachteile besprechen.</p>
-<p>
-	<strong>Materialien:</strong>
-	<ul>
-		<li><a href="https://docs.google.com/presentation/d/1xKfrXV5XY7NBdpdlHapW6-88vtN9ASdjmEDtGEAWGpk/edit?usp=sharing">Folien zum Vortrag</a></li>
-	</ul>
-</p>]]></content>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="https://docs.google.com/presentation/d/1xKfrXV5XY7NBdpdlHapW6-88vtN9ASdjmEDtGEAWGpk/edit?usp=sharing">Folien zum Vortrag</a></li>
+</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GraphQL]]></title>
@@ -233,13 +229,11 @@ Denn natürlich müssen auch in funktionalen Programmen letztlich Veränderungen
   ]]></summary>
         <content type="html"><![CDATA[<p>Die RESTful-Architektur ist eine etablierte Möglichkeit, Schnittstellen zwischen Client und Server zu gestalten. Dies bringt allerdings einige Nachteile mit sich. Als Beispiel können hier die hohe Anzahl an benötigten Requests sowie die nur unvollständige Dokumentation der Schnittstelle genannt werden. Mit GraphQL entwickelte Facebook eine alternative Abfragesprache, welche die genannten Nachteile beseitigen sollte. Dabei wird eine Abfrage ähnlich der Struktur der JSON-Syntax an den Server übermittelt, welcher die gewünschten Daten mit nur einer Antwort zur Verfügung stellt.</p>
 <p>Im Vortrag wird GraphQL anhand von Beispielen vorgestellt und dabei sowohl die Client- als auch Serverseite betrachtet.</p>
-<p>
-	<strong>Materialien:</strong>
-	<ul>
-		<li><a href="https://docs.google.com/presentation/d/1WQEpOns5tpV-u5VixhJYCfIV_1TJXmCWgfqQ28_oZms/edit?usp=sharing">Folien zum Vortrag</a></li>
-		<li><a href="https://github.com/StevieSteven/graphql-example">Code auf Github</a></li>
-	</ul>
-</p>]]></content>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="https://docs.google.com/presentation/d/1WQEpOns5tpV-u5VixhJYCfIV_1TJXmCWgfqQ28_oZms/edit?usp=sharing">Folien zum Vortrag</a></li>
+<li><a href="https://github.com/StevieSteven/graphql-example">Code auf Github</a></li>
+</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kotlin]]></title>
@@ -265,13 +259,11 @@ spontan kräftigen Applaus. Kotlin ist nur eine weitere Programmiersprache für 
 verhältnismäßig dröge Ankündigung zur Unterstützung einer JVM-Sprache solche Begeisterung? Was ist das Besondere an
 Kotlin gegenüber Java? Der Vortrag gibt einen ersten allgemeinen Einblick in die Sprachfeatures von Kotlin und gibt
 Kotlin-Neulingen die Möglichkeit, sich selbst einen Eindruck über die Sprache zu verschaffen.</p>
-<p>
-	<strong>Materialien:</strong>
-	<ul>
-		<li><a href="https://gaerfield.github.io/2018-04-26_Kotlin_jug-gr/">Folien zum Vortrag</a></li>
-		<li><a href="https://github.com/gaerfield/2018-04-26_Kotlin_jug-gr">Code auf Github</a></li>
-	</ul>
-</p>]]></content>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="https://gaerfield.github.io/2018-04-26_Kotlin_jug-gr/">Folien zum Vortrag</a></li>
+<li><a href="https://github.com/gaerfield/2018-04-26_Kotlin_jug-gr">Code auf Github</a></li>
+</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mikro- vs. Makroarchitektur – Spielraum und Spielregeln]]></title>
@@ -325,7 +317,10 @@ Cloud- und On-Premise-Lösungen (z.B. SAP S/4HANA). Basierend auf der In-Memory-
 Vielzahl an Datenbank- und Cloud-Services zur Verfügung, welche das PaaS Angebot erweitern und die Integration von SAP-
 und Non-SAP-Lösungen ermöglichen. Im Vortrag wird illustriert, wie die Verbindung aus einer Java EE Applikation zu einem
 SAP On-Premise System hergestellt und dessen Funktionalität in der Cloud genutzt wird.</p>
-<p><a href="https://github.com/juggr/juggr.github.io/blob/master/downloads/juggr_java_auf_sap_cloud.pdf">Folien zum Vortrag</a></p>]]></content>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="https://github.com/juggr/juggr.github.io/blob/master/downloads/juggr_java_auf_sap_cloud.pdf">Folien zum Vortrag</a></li>
+</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Refactoring to a System of Systems]]></title>
@@ -355,7 +350,10 @@ Problemstellungen die sich ergeben, wenn man dieses System in exakt dem gleichen
 eine alternative Implementierungsstrategie für das monolithische System diskutiert, die die Modularität des
 Ursprungssystems stark verbessert und im Falle einer Aufteilung in unabhängige Teilsysteme zu einer besseren Architektur
 führt.</p>
-<p><a href="https://speakerdeck.com/olivergierke/refactoring-to-a-system-of-systems">Folien zum Vortrag</a></p>]]></content>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="https://speakerdeck.com/olivergierke/refactoring-to-a-system-of-systems">Folien zum Vortrag</a></li>
+</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Neo4j: Panama Papers]]></title>
@@ -406,7 +404,10 @@ zugunsten von Microservices und Embedded Runtimes, verabschiedet, taucht am Hori
 Architectures schon die nächste Evolutionsstufe auf. Was bitte ist das jetzt schon wieder? Und wer braucht so etwas? Die
 Session zeigt, wie sich dank BaaS, FaaS und einiger anderer Akronyme, Mobile und Enterpriese Anwendungen implementieren
 lassen - ganz ohne Server! Ganz ohne? Naja, fast.</p>
-<p><a href="https://www.dropbox.com/s/nrt9jb5mtwkxh2s/se_serverless.pdf">Folien zum Vortrag</a></p>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="https://www.dropbox.com/s/nrt9jb5mtwkxh2s/se_serverless.pdf">Folien zum Vortrag</a></li>
+</ul>
 <hr>
 <p>Bei bei diesem Treffen verlosen wir unter den Teilnehmern ein Tutorial von
 <a href="https://tutorials.entwickler.de/">https://tutorials.entwickler.de/</a>. Mit freundlicher Unterstützung durch <strong>Software &#x26;
@@ -498,7 +499,10 @@ sowie die Verbesserung von Sicherheit und Wartbarkeit von Java-SE-Plattform-Impl
 verwirklicht werden. Im Vortrag werden Demo-Beispiele gezeigt, die eine Erstellung von individueller Java Runtime mit
 Anwendung anhand der JDK 9-Werkzeuge verdeutlichen. Die geplante Verfügbarkeit vom JDK 9 ist für Ende Juli 2017
 vorgesehen.</p>
-<p><a href="http://jug-gr.de/downloads/juggr_JDK_9_Java_Platform_Module_System.pdf">Folien zum Vortrag</a></p>]]></content>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="http://jug-gr.de/downloads/juggr_JDK_9_Java_Platform_Module_System.pdf">Folien zum Vortrag</a></li>
+</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Angular 2 für Java Entwickler]]></title>
@@ -526,8 +530,11 @@ einzusteigen. Mit Klassen, Dependency Injection, Annotations und Data-Binding bi
 Entwickler ein vertrautes Umfeld, in dem man sich schnell zurecht findet.</p>
 <p>In dieser Veranstaltung möchte ich am lebenden Beispiel zeigen, wie es sich heutzutage anfühlt eine Webanwendung,
 konkret mit Angular 2, zu erstellen.</p>
-<p><a href="http://jug-gr.de/downloads/juggr_pretalk_astrofotografie.pdf">Folien zum Pre-Talk</a></p>
-<p><a href="http://jug-gr.de/downloads/juggr_angular.pdf">Folien zum Vortrag</a></p>]]></content>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="http://jug-gr.de/downloads/juggr_pretalk_astrofotografie.pdf">Folien zum Lightning-Talk</a></li>
+<li><a href="http://jug-gr.de/downloads/juggr_angular.pdf">Folien zum Vortrag</a></li>
+</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS, Aha-Effekte und Perspektiven]]></title>
@@ -574,7 +581,10 @@ Da wird selbst JavaScript blass vor Neid.</p>]]></content>
       </address>
   ]]></summary>
         <content type="html"><![CDATA[<p>Unit Testing in Java - dafür ist JUnit das Werkzeug der Wahl. Die letzte Version JUnit 4 tat dabei viele Jahre ihre Dienste und wurde kontinuierlich weiterentwickelt, stieß allerdings nun doch an ihre Grenzen. Der Nachfolger JUnit 5 ist eine komplette Neuentwicklung und steht kurz vor dem Release. Wir wollen uns ansehen, welche Neuerungen JUnit 5 mit sich bringt und was es beim Umstieg zu beachten gilt.</p>
-<p><a href="http://jug-gr.de/downloads/juggr_jUnit5.pdf">Folien zum Vortrag</a></p>]]></content>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="http://jug-gr.de/downloads/juggr_jUnit5.pdf">Folien zum Vortrag</a></li>
+</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Inside JVM]]></title>
@@ -1185,7 +1195,7 @@ verwenden zu können. Neue und bestehende Tools und kleine Skripte sollen genau 
 Menschen in diesem Prozess anpassbar sein. Einmal entwickelte Funktionalität soll frei wiederverwendbar sein. Unter
 anderem für diese Ziele wurde OpenDIP, eine offene Platform für die Integration im Entwicklungsprozess, entworfen. Über
 die Konzepte und die Realisierung dieser Platform wurden zwei Masterarbeiten und ein Paper
-(<a href="http://arxiv.org/find/all/1/all:+AND+Max+Wielsch/0/1/0/all/0/1">http://arxiv.org/find/all/1/all:+AND+Max+Wielsch/0/1/0/all/0/1</a>) geschrieben. Im Vortrag wird auf die Motivation und die
+<a href="http://arxiv.org/find/all/1/all:+AND+Max+Wielsch/0/1/0/all/0/1">http://arxiv.org/find/all/1/all:+AND+Max+Wielsch/0/1/0/all/0/1</a> geschrieben. Im Vortrag wird auf die Motivation und die
 Verwendung der Platform eingangen, wobei die Architektur ausgehend von einem Fallbeispiel erläutert wird.</p>]]></content>
     </entry>
     <entry>
@@ -1604,7 +1614,7 @@ hervorgehoben.</p>
 erklärt.</p>
 <p><strong>Materialien:</strong></p>
 <ul>
-<li><a href="%7B%7Bsite.url%7D%7D/downloads/jsf_cdi/juggr_jsf_cdi.pdf">Vortragsfolien</a></li>
+<li><a href="/downloads/jsf_cdi/juggr_jsf_cdi.pdf">Vortragsfolien</a></li>
 <li><a href="https://github.com/juggr/juggr_jsf_cdi">Code auf github</a></li>
 </ul>]]></content>
     </entry>
