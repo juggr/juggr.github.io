@@ -4,7 +4,7 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Wed, 10 Apr 2019 08:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2019 14:37:52 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
@@ -407,7 +407,7 @@ Support Media GmbH</strong>.</p>]]></content:encoded>
             <description><![CDATA[
       <h1>Spracherkennung mit Amazon Alexa</h1>
       <p>Date: August 30, 2017, 19:00 Uhr</p>
-      <p>Speakers: Maik Wagner, Andre Tepper</p>
+      <p>Speakers: Andre Tepper, Maik Wagner</p>
       <p>Location:</p>
       <address>
         DSER
@@ -1479,7 +1479,7 @@ im Backend mit JPA kombiniert werden kann.</p>
         02826 Görlitz
       </address>
   ]]></description>
-            <content:encoded><![CDATA[<p>Dieser Vortrag baut auf den Vortrag zur <a href="%7B%25%20post_url%202011-11-30-jsf-cdi%20%25%7D">"Einführung in JavaServer Faces 2"</a> auf. Es
+            <content:encoded><![CDATA[<p>Dieser Vortrag baut auf den Vortrag zur <a href="/talks/2011-11-30-jsf-cdi">"Einführung in JavaServer Faces 2"</a> auf. Es
 werden fortgeschrittene Techniken aus dem Bereich JSF vorgestellt:</p>
 <ul>
 <li>Navigation mit JSF</li>

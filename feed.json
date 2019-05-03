@@ -122,7 +122,7 @@
             "html_content": "<p>Amazon Alexa ist eine Smart-Home-Technologie, die vor allem als Lösung für Spracherkennung bekannt ist. Für Entwickler\nist dabei vor allem die Möglichkeit interessant, eigene Anwendungen mit Spracherkennung erstellen zu können.</p>\n<p>Andre und Maik beleuchten in ihrem Vortrag die Theorie hinter Spracherkennung und zeigen am Beispiel von Amazon Alexa,\nwie damit Anwendungen gebaut werden können.</p>",
             "url": "https://jug-gr.de/talks/2017-08-30-alexa/",
             "title": "Spracherkennung mit Amazon Alexa",
-            "summary": "\n      <h1>Spracherkennung mit Amazon Alexa</h1>\n      <p>Date: August 30, 2017, 19:00 Uhr</p>\n      <p>Speakers: Maik Wagner, Andre Tepper</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Elisabethstraße 42/43\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "summary": "\n      <h1>Spracherkennung mit Amazon Alexa</h1>\n      <p>Date: August 30, 2017, 19:00 Uhr</p>\n      <p>Speakers: Andre Tepper, Maik Wagner</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Elisabethstraße 42/43\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2017-08-30T00:00:00.000Z"
         },
         {
@@ -423,7 +423,7 @@
         },
         {
             "id": "https://jug-gr.de/talks/2012-01-25-jsf_cdi_advanced/",
-            "html_content": "<p>Dieser Vortrag baut auf den Vortrag zur <a href=\"%7B%25%20post_url%202011-11-30-jsf-cdi%20%25%7D\">\"Einführung in JavaServer Faces 2\"</a> auf. Es\nwerden fortgeschrittene Techniken aus dem Bereich JSF vorgestellt:</p>\n<ul>\n<li>Navigation mit JSF</li>\n<li>Templates und Wiederverwendung von Facelets</li>\n<li>Ajax</li>\n<li>PrimeFaces</li>\n</ul>\n<p>Im Bereich CDI wird zunächst das Konzept der CDI-Producer beleuchtet, mit welchem der Entwickler Einfluss auf die\nDependency Injection nehmen kann. Anschließend wird das Design Pattern \"Observer\" mit den Techniken von CDI\nimplementiert und gezeigt, wie damit (im Gegensatz zur klassischen Observer-Implementierung) der Beobachter und die\nbeobachtete Klasse komplett von einander entkoppelt werden können.</p>",
+            "html_content": "<p>Dieser Vortrag baut auf den Vortrag zur <a href=\"/talks/2011-11-30-jsf-cdi\">\"Einführung in JavaServer Faces 2\"</a> auf. Es\nwerden fortgeschrittene Techniken aus dem Bereich JSF vorgestellt:</p>\n<ul>\n<li>Navigation mit JSF</li>\n<li>Templates und Wiederverwendung von Facelets</li>\n<li>Ajax</li>\n<li>PrimeFaces</li>\n</ul>\n<p>Im Bereich CDI wird zunächst das Konzept der CDI-Producer beleuchtet, mit welchem der Entwickler Einfluss auf die\nDependency Injection nehmen kann. Anschließend wird das Design Pattern \"Observer\" mit den Techniken von CDI\nimplementiert und gezeigt, wie damit (im Gegensatz zur klassischen Observer-Implementierung) der Beobachter und die\nbeobachtete Klasse komplett von einander entkoppelt werden können.</p>",
             "url": "https://jug-gr.de/talks/2012-01-25-jsf_cdi_advanced/",
             "title": "Advanced JSF und CDI",
             "summary": "\n      <h1>Advanced JSF und CDI</h1>\n      <p>Date: January 25, 2012, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
