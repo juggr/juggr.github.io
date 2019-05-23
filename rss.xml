@@ -4,10 +4,29 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Thu, 23 May 2019 13:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2019 14:59:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wie gut kennst Du das Collections Framework?]]></title>
+            <link>https://jug-gr.de/talks/2019-06-26-collection-framework/</link>
+            <guid>https://jug-gr.de/talks/2019-06-26-collection-framework/</guid>
+            <pubDate>Wed, 26 Jun 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Wie gut kennst Du das Collections Framework?</h1>
+      <p>Date: June 26, 2019, 19:00 Uhr</p>
+      <p>Speakers: Thilo Frotscher</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></description>
+            <content:encoded><![CDATA[<p>HashMap und ArrayList kennt jeder, na klar. Aber wann stellen diese eigentlich die richtige Wahl dar? Und vor allem:
+Wann nicht? Das Collections Framework enthält zahlreiche, teils recht spezialisierte Implementierungen. Doch viele
+Entwickler kennen nur einen kleinen Teil davon. Schon mal was von EnumSet oder WeakHashMap gehört? Und was ist der
+Unterschied zwischen ConcurrentSkipListMap und ConcurrentHashMap? Für jeden Java-Entwickler ist es wichtig, die Stärken
+und Schwächen der einzelnen Implementierungen zu kennen. Dieser Vortrag diskutiert Details wie Threadsicherheit,
+Laufzeitverhalten und sinnvolle Initialisierung anhand einiger ausgewählter Collection-Klassen.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[OAuth 2.0/OpenIDConnect mit Keycloak]]></title>
             <link>https://jug-gr.de/talks/2019-05-29-oauth/</link>

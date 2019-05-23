@@ -6,6 +6,14 @@
     "description": "Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java",
     "items": [
         {
+            "id": "https://jug-gr.de/talks/2019-06-26-collection-framework/",
+            "html_content": "<p>HashMap und ArrayList kennt jeder, na klar. Aber wann stellen diese eigentlich die richtige Wahl dar? Und vor allem:\nWann nicht? Das Collections Framework enthält zahlreiche, teils recht spezialisierte Implementierungen. Doch viele\nEntwickler kennen nur einen kleinen Teil davon. Schon mal was von EnumSet oder WeakHashMap gehört? Und was ist der\nUnterschied zwischen ConcurrentSkipListMap und ConcurrentHashMap? Für jeden Java-Entwickler ist es wichtig, die Stärken\nund Schwächen der einzelnen Implementierungen zu kennen. Dieser Vortrag diskutiert Details wie Threadsicherheit,\nLaufzeitverhalten und sinnvolle Initialisierung anhand einiger ausgewählter Collection-Klassen.</p>",
+            "url": "https://jug-gr.de/talks/2019-06-26-collection-framework/",
+            "title": "Wie gut kennst Du das Collections Framework?",
+            "summary": "\n      <h1>Wie gut kennst Du das Collections Framework?</h1>\n      <p>Date: June 26, 2019, 19:00 Uhr</p>\n      <p>Speakers: Thilo Frotscher</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",
+            "date_modified": "2019-06-26T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2019-05-29-oauth/",
             "html_content": "<p>Der Vortrag erläutert zunächst die Grundlagen der Standards OAuth 2.0 und OpenID-Connect\nund geht danach auf den Einsatz dieser Standards mittels Keycloak ein.\nDabei wird anhand einer Beispielanwendung (React, Spring Boot) gezeigt,\nwie man Keycloak in seine Anwendung einbinden kann.\n</p>",
             "url": "https://jug-gr.de/talks/2019-05-29-oauth/",

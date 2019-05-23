@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title>Java User Group Görlitz</title>
-    <updated>2019-05-23T13:44:41.559Z</updated>
+    <updated>2019-05-23T14:59:20.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
     <subtitle>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Wie gut kennst Du das Collections Framework?]]></title>
+        <id>https://jug-gr.de/talks/2019-06-26-collection-framework/</id>
+        <link href="https://jug-gr.de/talks/2019-06-26-collection-framework/">
+        </link>
+        <updated>2019-06-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>Wie gut kennst Du das Collections Framework?</h1>
+      <p>Date: June 26, 2019, 19:00 Uhr</p>
+      <p>Speakers: Thilo Frotscher</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></summary>
+        <content type="html"><![CDATA[<p>HashMap und ArrayList kennt jeder, na klar. Aber wann stellen diese eigentlich die richtige Wahl dar? Und vor allem:
+Wann nicht? Das Collections Framework enthält zahlreiche, teils recht spezialisierte Implementierungen. Doch viele
+Entwickler kennen nur einen kleinen Teil davon. Schon mal was von EnumSet oder WeakHashMap gehört? Und was ist der
+Unterschied zwischen ConcurrentSkipListMap und ConcurrentHashMap? Für jeden Java-Entwickler ist es wichtig, die Stärken
+und Schwächen der einzelnen Implementierungen zu kennen. Dieser Vortrag diskutiert Details wie Threadsicherheit,
+Laufzeitverhalten und sinnvolle Initialisierung anhand einiger ausgewählter Collection-Klassen.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OAuth 2.0/OpenIDConnect mit Keycloak]]></title>
         <id>https://jug-gr.de/talks/2019-05-29-oauth/</id>
