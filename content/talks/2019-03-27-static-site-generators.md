@@ -20,3 +20,6 @@ Tool [Gatsby](https://www.gatsbyjs.org/) werden wir eine einfache Blog-Website b
 aber auch gezeigt, wie komplexere Daten-Modelle mit mehreren Entitäten ([Vorträge](/talks), [Speaker](/speakers),
 [Veranstaltungsorte](/locations), [Tags](/tags)) umgesetzt werden können. Die technische Grundlage von Gatsby stellt
 [React](/talks/2017-05-31-react) für Templates und [GraphQL](/talks/2018-05-30-graphql) für die Daten-Organisation dar.
+
+**Materialien:**
+- [Folien zum Vortrag](https://docs.google.com/presentation/d/1YtvQDv-VwHDlmTsF-B6_9NfJ4GYfmdyBZLGsNo4_BRM/edit?usp=sharing)
