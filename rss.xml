@@ -4,7 +4,7 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Fri, 03 May 2019 14:59:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2019 13:44:41 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
@@ -18,7 +18,13 @@
       <p>Date: May 29, 2019, 19:00 Uhr</p>
       <p>Speakers: Denny Israel</p>
       <p>Location:</p>
-      wird noch bekannt gegeben
+      <address>
+        Hochschule Zittau/Görlitz
+        <br />
+        Brückenstraße 1
+        <br />
+        02826 Görlitz
+      </address>
   ]]></description>
             <content:encoded><![CDATA[<p>Der Vortrag erläutert zunächst die Grundlagen der Standards OAuth 2.0 und OpenID-Connect
 und geht danach auf den Einsatz dieser Standards mittels Keycloak ein.
@@ -91,7 +97,11 @@ des Servers.</p>
 Tool <a href="https://www.gatsbyjs.org/">Gatsby</a> werden wir eine einfache Blog-Website bauen. Am Beispiel der JUG-Website wird
 aber auch gezeigt, wie komplexere Daten-Modelle mit mehreren Entitäten (<a href="/talks">Vorträge</a>, <a href="/speakers">Speaker</a>,
 <a href="/locations">Veranstaltungsorte</a>, <a href="/tags">Tags</a>) umgesetzt werden können. Die technische Grundlage von Gatsby stellt
-<a href="/talks/2017-05-31-react">React</a> für Templates und <a href="/talks/2018-05-30-graphql">GraphQL</a> für die Daten-Organisation dar.</p>]]></content:encoded>
+<a href="/talks/2017-05-31-react">React</a> für Templates und <a href="/talks/2018-05-30-graphql">GraphQL</a> für die Daten-Organisation dar.</p>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="https://docs.google.com/presentation/d/1YtvQDv-VwHDlmTsF-B6_9NfJ4GYfmdyBZLGsNo4_BRM/edit?usp=sharing">Folien zum Vortrag</a></li>
+</ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Java Reflection: Classes behind the scenes]]></title>
