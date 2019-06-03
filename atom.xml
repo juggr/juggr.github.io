@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title>Java User Group Görlitz</title>
-    <updated>2019-05-24T09:26:20.704Z</updated>
+    <updated>2019-06-03T10:46:48.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -18,7 +18,13 @@
       <p>Date: June 26, 2019, 19:00 Uhr</p>
       <p>Speakers: Thilo Frotscher</p>
       <p>Location:</p>
-      wird noch bekannt gegeben
+      <address>
+        CIDEON Software & Services GmbH & Co. KG
+        <br />
+        Untermarkt 25
+        <br />
+        02826 Görlitz
+      </address>
   ]]></summary>
         <content type="html"><![CDATA[<p>HashMap und ArrayList kennt jeder, na klar. Aber wann stellen diese eigentlich die richtige Wahl dar? Und vor allem:
 Wann nicht? Das Collections Framework enthält zahlreiche, teils recht spezialisierte Implementierungen. Doch viele
