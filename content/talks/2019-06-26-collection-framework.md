@@ -3,6 +3,7 @@ title: "Wie gut kennst Du das Collections Framework?"
 date: 2019-06-26
 speaker: [thilo_frotscher]
 tags: [java]
+location: cideon
 ---
 
 HashMap und ArrayList kennt jeder, na klar. Aber wann stellen diese eigentlich die richtige Wahl dar? Und vor allem:
