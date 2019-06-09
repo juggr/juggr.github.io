@@ -33,11 +33,6 @@ const Sidebar = ({ logo }) => (
               </a>
             </li>
             <li>
-              <a href="https://plus.google.com/+Jug-grDe" rel="publisher">
-                <FontAwesomeIcon icon={faGooglePlus} /> Google+
-              </a>
-            </li>
-            <li>
               <a href="https://groups.google.com/d/forum/juggr">
                 <FontAwesomeIcon icon={faEnvelope} /> Mailing-List
               </a>
