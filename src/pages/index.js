@@ -76,6 +76,7 @@ export const query = graphql`
             location
             poster {
               childImageSharp {
+                id
                 fluid {
                   ...GatsbyImageSharpFluid
                 }

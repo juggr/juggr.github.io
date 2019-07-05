@@ -33,6 +33,7 @@ export const query = graphql`
         tags
         poster {
           childImageSharp {
+            id
             fluid {
               ...GatsbyImageSharpFluid
             }
