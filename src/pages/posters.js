@@ -45,7 +45,7 @@ export const query = graphql`
     talks: allMarkdownRemark(
       sort: { fields: frontmatter___date,  order: DESC}
       filter: { 
-        fields: { sourceName: { eq: "talks" } } 
+        fields: { sourceName: { in: ["talks", "posts"] } } 
       }) {
       edges {
         node {

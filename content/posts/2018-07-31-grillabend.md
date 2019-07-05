@@ -1,6 +1,7 @@
 ---
 title: "JUG Sommerpause: Grillen"
 date: 2018-07-31
+poster: ../images/plakat_2017_07.png
 ---
 
 <br/>

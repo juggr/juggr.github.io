@@ -4,6 +4,7 @@ date: 2016-05-25
 speaker: [mario_mann]
 location: saxsys
 tags: [performance, monitoring]
+poster: ../images/plakat_2016_05.png
 ---
 
 In vielen Software-Projekten wissen häufig nicht nur Anwender sondern auch Entwickler nicht, warum sich ihre Anwendung
