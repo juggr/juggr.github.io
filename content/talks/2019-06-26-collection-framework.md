@@ -13,3 +13,6 @@ Entwickler kennen nur einen kleinen Teil davon. Schon mal was von EnumSet oder W
 Unterschied zwischen ConcurrentSkipListMap und ConcurrentHashMap? Für jeden Java-Entwickler ist es wichtig, die Stärken
 und Schwächen der einzelnen Implementierungen zu kennen. Dieser Vortrag diskutiert Details wie Threadsicherheit,
 Laufzeitverhalten und sinnvolle Initialisierung anhand einiger ausgewählter Collection-Klassen.
+
+**Materialien:**
+- [Folien zum Vortrag](/downloads/juggr_java_collections.pdf)
