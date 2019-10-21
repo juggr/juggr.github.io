@@ -4,10 +4,30 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Tue, 13 Aug 2019 12:57:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2019 15:29:21 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Advanced BDD Tests]]></title>
+            <link>https://jug-gr.de/talks/2019-11-28-advanced-bdd-tests/</link>
+            <guid>https://jug-gr.de/talks/2019-11-28-advanced-bdd-tests/</guid>
+            <pubDate>Thu, 28 Nov 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Advanced BDD Tests</h1>
+      <p>Date: November 28, 2019, 19:00 Uhr</p>
+      <p>Speakers: Maik Wagner</p>
+      <p>Location:</p>
+      <address>
+        Tallence AG
+        <br />
+        Neißstraße 27
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>Hattest du auch schon mal das Problem, dass du deine eigenen komplizierten und unleserlichen Testfälle nicht mehr verstanden hast? Wir kennen das Problem und zeigen euch mögliche Lösungen.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Wie gut kennst Du das Collections Framework?]]></title>
             <link>https://jug-gr.de/talks/2019-06-26-collection-framework/</link>
@@ -31,7 +51,11 @@ Wann nicht? Das Collections Framework enthält zahlreiche, teils recht spezialis
 Entwickler kennen nur einen kleinen Teil davon. Schon mal was von EnumSet oder WeakHashMap gehört? Und was ist der
 Unterschied zwischen ConcurrentSkipListMap und ConcurrentHashMap? Für jeden Java-Entwickler ist es wichtig, die Stärken
 und Schwächen der einzelnen Implementierungen zu kennen. Dieser Vortrag diskutiert Details wie Threadsicherheit,
-Laufzeitverhalten und sinnvolle Initialisierung anhand einiger ausgewählter Collection-Klassen.</p>]]></content:encoded>
+Laufzeitverhalten und sinnvolle Initialisierung anhand einiger ausgewählter Collection-Klassen.</p>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="/downloads/juggr_java_collections.pdf">Folien zum Vortrag</a></li>
+</ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[OAuth 2.0/OpenIDConnect mit Keycloak]]></title>

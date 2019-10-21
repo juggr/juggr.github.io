@@ -2,15 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title>Java User Group Görlitz</title>
-    <updated>2019-08-13T12:57:30.335Z</updated>
+    <updated>2019-10-21T15:29:21.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
     <subtitle>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</subtitle>
     <entry>
+        <title type="html"><![CDATA[Advanced BDD Tests]]></title>
+        <id>https://jug-gr.de/talks/2019-11-28-advanced-bdd-tests/</id>
+        <link href="https://jug-gr.de/talks/2019-11-28-advanced-bdd-tests/">
+        </link>
+        <updated>2019-11-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>Advanced BDD Tests</h1>
+      <p>Date: November 28, 2019, 19:00 Uhr</p>
+      <p>Speakers: Maik Wagner</p>
+      <p>Location:</p>
+      <address>
+        Tallence AG
+        <br />
+        Neißstraße 27
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></summary>
+        <content type="html"><![CDATA[<p>Hattest du auch schon mal das Problem, dass du deine eigenen komplizierten und unleserlichen Testfälle nicht mehr verstanden hast? Wir kennen das Problem und zeigen euch mögliche Lösungen.</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wie gut kennst Du das Collections Framework?]]></title>
         <id>https://jug-gr.de/talks/2019-06-26-collection-framework/</id>
-        <link href="https://jug-gr.de/talks/2019-06-26-collection-framework/"/>
+        <link href="https://jug-gr.de/talks/2019-06-26-collection-framework/">
+        </link>
         <updated>2019-06-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Wie gut kennst Du das Collections Framework?</h1>
@@ -30,12 +52,17 @@ Wann nicht? Das Collections Framework enthält zahlreiche, teils recht spezialis
 Entwickler kennen nur einen kleinen Teil davon. Schon mal was von EnumSet oder WeakHashMap gehört? Und was ist der
 Unterschied zwischen ConcurrentSkipListMap und ConcurrentHashMap? Für jeden Java-Entwickler ist es wichtig, die Stärken
 und Schwächen der einzelnen Implementierungen zu kennen. Dieser Vortrag diskutiert Details wie Threadsicherheit,
-Laufzeitverhalten und sinnvolle Initialisierung anhand einiger ausgewählter Collection-Klassen.</p>]]></content>
+Laufzeitverhalten und sinnvolle Initialisierung anhand einiger ausgewählter Collection-Klassen.</p>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="/downloads/juggr_java_collections.pdf">Folien zum Vortrag</a></li>
+</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OAuth 2.0/OpenIDConnect mit Keycloak]]></title>
         <id>https://jug-gr.de/talks/2019-05-29-oauth/</id>
-        <link href="https://jug-gr.de/talks/2019-05-29-oauth/"/>
+        <link href="https://jug-gr.de/talks/2019-05-29-oauth/">
+        </link>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>OAuth 2.0/OpenIDConnect mit Keycloak</h1>
@@ -59,7 +86,8 @@ wie man Keycloak in seine Anwendung einbinden kann.
     <entry>
         <title type="html"><![CDATA[It's a JDK jungle out there - oder wie es mit den neuen Java-Versionen geordnet weitergeht]]></title>
         <id>https://jug-gr.de/talks/2019-04-24_jdk_jungle/</id>
-        <link href="https://jug-gr.de/talks/2019-04-24_jdk_jungle/"/>
+        <link href="https://jug-gr.de/talks/2019-04-24_jdk_jungle/">
+        </link>
         <updated>2019-04-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>It's a JDK jungle out there - oder wie es mit den neuen Java-Versionen geordnet weitergeht</h1>
@@ -95,7 +123,8 @@ Zudem wird die Weiterentwicklung der OpenJFX/JavaFX UI-Technologie mit den Aktiv
     <entry>
         <title type="html"><![CDATA[Static-Site-Generators]]></title>
         <id>https://jug-gr.de/talks/2019-03-27-static-site-generators/</id>
-        <link href="https://jug-gr.de/talks/2019-03-27-static-site-generators/"/>
+        <link href="https://jug-gr.de/talks/2019-03-27-static-site-generators/">
+        </link>
         <updated>2019-03-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Static-Site-Generators</h1>
@@ -130,7 +159,8 @@ aber auch gezeigt, wie komplexere Daten-Modelle mit mehreren Entitäten (<a href
     <entry>
         <title type="html"><![CDATA[Java Reflection: Classes behind the scenes]]></title>
         <id>https://jug-gr.de/talks/2019-02-27_reflection/</id>
-        <link href="https://jug-gr.de/talks/2019-02-27_reflection/"/>
+        <link href="https://jug-gr.de/talks/2019-02-27_reflection/">
+        </link>
         <updated>2019-02-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Java Reflection: Classes behind the scenes</h1>
@@ -157,7 +187,8 @@ betrachtet.</p>]]></content>
     <entry>
         <title type="html"><![CDATA[Java APIs - the missing manual]]></title>
         <id>https://jug-gr.de/talks/2019-01-31_java_apis_missing_manual/</id>
-        <link href="https://jug-gr.de/talks/2019-01-31_java_apis_missing_manual/"/>
+        <link href="https://jug-gr.de/talks/2019-01-31_java_apis_missing_manual/">
+        </link>
         <updated>2019-01-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Java APIs - the missing manual</h1>
@@ -183,7 +214,8 @@ ich nebenläufigen Code der trotzdem wartbar ist?</p>]]></content>
     <entry>
         <title type="html"><![CDATA[Monadische Transaktionen]]></title>
         <id>https://jug-gr.de/talks/2018-11-23-monadische_transaktionen/</id>
-        <link href="https://jug-gr.de/talks/2018-11-23-monadische_transaktionen/"/>
+        <link href="https://jug-gr.de/talks/2018-11-23-monadische_transaktionen/">
+        </link>
         <updated>2018-11-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Monadische Transaktionen</h1>
@@ -207,7 +239,8 @@ ich nebenläufigen Code der trotzdem wartbar ist?</p>]]></content>
     <entry>
         <title type="html"><![CDATA[Immutable Data - Unveränderliche Daten im Griff]]></title>
         <id>https://jug-gr.de/talks/2018-06-27-immutable-data/</id>
-        <link href="https://jug-gr.de/talks/2018-06-27-immutable-data/"/>
+        <link href="https://jug-gr.de/talks/2018-06-27-immutable-data/">
+        </link>
         <updated>2018-06-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Immutable Data - Unveränderliche Daten im Griff</h1>
@@ -239,7 +272,8 @@ Denn natürlich müssen auch in funktionalen Programmen letztlich Veränderungen
     <entry>
         <title type="html"><![CDATA[GraphQL]]></title>
         <id>https://jug-gr.de/talks/2018-05-30-graphql/</id>
-        <link href="https://jug-gr.de/talks/2018-05-30-graphql/"/>
+        <link href="https://jug-gr.de/talks/2018-05-30-graphql/">
+        </link>
         <updated>2018-05-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>GraphQL</h1>
@@ -265,7 +299,8 @@ Denn natürlich müssen auch in funktionalen Programmen letztlich Veränderungen
     <entry>
         <title type="html"><![CDATA[Kotlin]]></title>
         <id>https://jug-gr.de/talks/2018-04-25-kotlin/</id>
-        <link href="https://jug-gr.de/talks/2018-04-25-kotlin/"/>
+        <link href="https://jug-gr.de/talks/2018-04-25-kotlin/">
+        </link>
         <updated>2018-04-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Kotlin</h1>
@@ -294,7 +329,8 @@ Kotlin-Neulingen die Möglichkeit, sich selbst einen Eindruck über die Sprache 
     <entry>
         <title type="html"><![CDATA[Mikro- vs. Makroarchitektur – Spielraum und Spielregeln]]></title>
         <id>https://jug-gr.de/talks/2018-03-20-mikro_vs_makroarchitektur/</id>
-        <link href="https://jug-gr.de/talks/2018-03-20-mikro_vs_makroarchitektur/"/>
+        <link href="https://jug-gr.de/talks/2018-03-20-mikro_vs_makroarchitektur/">
+        </link>
         <updated>2018-03-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Mikro- vs. Makroarchitektur – Spielraum und Spielregeln</h1>
@@ -320,7 +356,8 @@ Domänenorientierung in das Entwurfsdoppel Makro und Mikro ein.</p>]]></content>
     <entry>
         <title type="html"><![CDATA[Entwicklung von Java Applikationen auf der SAP Cloud Platform]]></title>
         <id>https://jug-gr.de/talks/2018-02-28-java_auf_sap_cloud/</id>
-        <link href="https://jug-gr.de/talks/2018-02-28-java_auf_sap_cloud/"/>
+        <link href="https://jug-gr.de/talks/2018-02-28-java_auf_sap_cloud/">
+        </link>
         <updated>2018-02-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Entwicklung von Java Applikationen auf der SAP Cloud Platform</h1>
@@ -349,7 +386,8 @@ SAP On-Premise System hergestellt und dessen Funktionalität in der Cloud genutz
     <entry>
         <title type="html"><![CDATA[Refactoring to a System of Systems]]></title>
         <id>https://jug-gr.de/talks/2018-01-31-system_of_systems/</id>
-        <link href="https://jug-gr.de/talks/2018-01-31-system_of_systems/"/>
+        <link href="https://jug-gr.de/talks/2018-01-31-system_of_systems/">
+        </link>
         <updated>2018-01-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Refactoring to a System of Systems</h1>
@@ -381,7 +419,8 @@ führt.</p>
     <entry>
         <title type="html"><![CDATA[Neo4j: Panama Papers]]></title>
         <id>https://jug-gr.de/talks/2017-11-29-neo4j/</id>
-        <link href="https://jug-gr.de/talks/2017-11-29-neo4j/"/>
+        <link href="https://jug-gr.de/talks/2017-11-29-neo4j/">
+        </link>
         <updated>2017-11-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Neo4j: Panama Papers</h1>
@@ -405,7 +444,8 @@ demonstrieren, wie solche Daten in einem Graph modelliert, importiert und abgefr
     <entry>
         <title type="html"><![CDATA[Serverless Application - Who the heck needs a Server?]]></title>
         <id>https://jug-gr.de/talks/2017-10-25-serverless/</id>
-        <link href="https://jug-gr.de/talks/2017-10-25-serverless/"/>
+        <link href="https://jug-gr.de/talks/2017-10-25-serverless/">
+        </link>
         <updated>2017-10-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Serverless Application - Who the heck needs a Server?</h1>
@@ -437,7 +477,8 @@ Support Media GmbH</strong>.</p>]]></content>
     <entry>
         <title type="html"><![CDATA[Spracherkennung mit Amazon Alexa]]></title>
         <id>https://jug-gr.de/talks/2017-08-30-alexa/</id>
-        <link href="https://jug-gr.de/talks/2017-08-30-alexa/"/>
+        <link href="https://jug-gr.de/talks/2017-08-30-alexa/">
+        </link>
         <updated>2017-08-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Spracherkennung mit Amazon Alexa</h1>
@@ -460,7 +501,8 @@ wie damit Anwendungen gebaut werden können.</p>]]></content>
     <entry>
         <title type="html"><![CDATA[React und React-Native: Functional UI Development für Browser und mobile Endgeräte]]></title>
         <id>https://jug-gr.de/talks/2017-05-31-react/</id>
-        <link href="https://jug-gr.de/talks/2017-05-31-react/"/>
+        <link href="https://jug-gr.de/talks/2017-05-31-react/">
+        </link>
         <updated>2017-05-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>React und React-Native: Functional UI Development für Browser und mobile Endgeräte</h1>
@@ -489,7 +531,8 @@ Dabei möchte ich aber auch auf die Ansätze aus der funktionalen Programmierung
     <entry>
         <title type="html"><![CDATA[JDK 9]]></title>
         <id>https://jug-gr.de/talks/2017-04-26-jdk9/</id>
-        <link href="https://jug-gr.de/talks/2017-04-26-jdk9/"/>
+        <link href="https://jug-gr.de/talks/2017-04-26-jdk9/">
+        </link>
         <updated>2017-04-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>JDK 9</h1>
@@ -525,7 +568,8 @@ vorgesehen.</p>
     <entry>
         <title type="html"><![CDATA[Angular 2 für Java Entwickler]]></title>
         <id>https://jug-gr.de/talks/2017-03-22-angular/</id>
-        <link href="https://jug-gr.de/talks/2017-03-22-angular/"/>
+        <link href="https://jug-gr.de/talks/2017-03-22-angular/">
+        </link>
         <updated>2017-03-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Angular 2 für Java Entwickler</h1>
@@ -556,7 +600,8 @@ konkret mit Angular 2, zu erstellen.</p>
     <entry>
         <title type="html"><![CDATA[CSS, Aha-Effekte und Perspektiven]]></title>
         <id>https://jug-gr.de/talks/2017-02-22-css/</id>
-        <link href="https://jug-gr.de/talks/2017-02-22-css/"/>
+        <link href="https://jug-gr.de/talks/2017-02-22-css/">
+        </link>
         <updated>2017-02-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>CSS, Aha-Effekte und Perspektiven</h1>
@@ -580,7 +625,8 @@ Da wird selbst JavaScript blass vor Neid.</p>]]></content>
     <entry>
         <title type="html"><![CDATA[JUnit 5]]></title>
         <id>https://jug-gr.de/talks/2017-01-25-junit5/</id>
-        <link href="https://jug-gr.de/talks/2017-01-25-junit5/"/>
+        <link href="https://jug-gr.de/talks/2017-01-25-junit5/">
+        </link>
         <updated>2017-01-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>JUnit 5</h1>
@@ -604,7 +650,8 @@ Da wird selbst JavaScript blass vor Neid.</p>]]></content>
     <entry>
         <title type="html"><![CDATA[Inside JVM]]></title>
         <id>https://jug-gr.de/talks/2016-11-30-inside_jvm/</id>
-        <link href="https://jug-gr.de/talks/2016-11-30-inside_jvm/"/>
+        <link href="https://jug-gr.de/talks/2016-11-30-inside_jvm/">
+        </link>
         <updated>2016-11-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Inside JVM</h1>
@@ -626,7 +673,8 @@ Machine.</p>]]></content>
     <entry>
         <title type="html"><![CDATA[Kommunikationskultur im Softwareentwicklungsprozess]]></title>
         <id>https://jug-gr.de/talks/2016-09-21-kommunikationskultur/</id>
-        <link href="https://jug-gr.de/talks/2016-09-21-kommunikationskultur/"/>
+        <link href="https://jug-gr.de/talks/2016-09-21-kommunikationskultur/">
+        </link>
         <updated>2016-09-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Kommunikationskultur im Softwareentwicklungsprozess</h1>
@@ -649,7 +697,8 @@ Entwickler dürfte dabei vor allem auch die Perspektive der Qualitätssicherung 
     <entry>
         <title type="html"><![CDATA[Testwerkzeuge für JavaFX]]></title>
         <id>https://jug-gr.de/talks/2016-07-27-testwerkzeuge_javafx/</id>
-        <link href="https://jug-gr.de/talks/2016-07-27-testwerkzeuge_javafx/"/>
+        <link href="https://jug-gr.de/talks/2016-07-27-testwerkzeuge_javafx/">
+        </link>
         <updated>2016-07-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Testwerkzeuge für JavaFX</h1>
@@ -678,7 +727,8 @@ JavaFX-Unterstützung, aber nicht immer wird JavaFX vollständig unterstützt.</
     <entry>
         <title type="html"><![CDATA[Performance-Analyse mit inspectIT]]></title>
         <id>https://jug-gr.de/talks/2016-05-25-performance-analyse-inspectit/</id>
-        <link href="https://jug-gr.de/talks/2016-05-25-performance-analyse-inspectit/"/>
+        <link href="https://jug-gr.de/talks/2016-05-25-performance-analyse-inspectit/">
+        </link>
         <updated>2016-05-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Performance-Analyse mit inspectIT</h1>
@@ -711,7 +761,8 @@ die Performance-Analyse mit inspectIT bieten.</p>
     <entry>
         <title type="html"><![CDATA[Haskell und Frege]]></title>
         <id>https://jug-gr.de/talks/2016-03-30-haskell_frege/</id>
-        <link href="https://jug-gr.de/talks/2016-03-30-haskell_frege/"/>
+        <link href="https://jug-gr.de/talks/2016-03-30-haskell_frege/">
+        </link>
         <updated>2016-03-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Haskell und Frege</h1>
@@ -739,7 +790,8 @@ bereit.</p>]]></content>
     <entry>
         <title type="html"><![CDATA[Funktionale Programmierung mit Java]]></title>
         <id>https://jug-gr.de/talks/2016-01-27-functional_java/</id>
-        <link href="https://jug-gr.de/talks/2016-01-27-functional_java/"/>
+        <link href="https://jug-gr.de/talks/2016-01-27-functional_java/">
+        </link>
         <updated>2016-01-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Funktionale Programmierung mit Java</h1>
@@ -782,7 +834,8 @@ besprechen, die auch auf der JVM läuft.</p>
     <entry>
         <title type="html"><![CDATA[JavaFX auf Mobile]]></title>
         <id>https://jug-gr.de/talks/2015-11-25-javafx-mobile/</id>
-        <link href="https://jug-gr.de/talks/2015-11-25-javafx-mobile/"/>
+        <link href="https://jug-gr.de/talks/2015-11-25-javafx-mobile/">
+        </link>
         <updated>2015-11-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>JavaFX auf Mobile</h1>
@@ -818,7 +871,8 @@ Vorgestellt wird der aktuelle Entwicklungsstand mit einer offenen Diskussion üb
     <entry>
         <title type="html"><![CDATA[Guava]]></title>
         <id>https://jug-gr.de/talks/2015-09-30-guava/</id>
-        <link href="https://jug-gr.de/talks/2015-09-30-guava/"/>
+        <link href="https://jug-gr.de/talks/2015-09-30-guava/">
+        </link>
         <updated>2015-09-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Guava</h1>
@@ -854,7 +908,8 @@ Handling, Funktionale Ansätze, Ranges, ReflectionUtils)</p>]]></content>
     <entry>
         <title type="html"><![CDATA[Regelbasierte Systeme mit JBoss Drools]]></title>
         <id>https://jug-gr.de/talks/2015-07-29-drools/</id>
-        <link href="https://jug-gr.de/talks/2015-07-29-drools/"/>
+        <link href="https://jug-gr.de/talks/2015-07-29-drools/">
+        </link>
         <updated>2015-07-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Regelbasierte Systeme mit JBoss Drools</h1>
@@ -883,7 +938,8 @@ praktischer Beispiele.</p>
     <entry>
         <title type="html"><![CDATA[Fortgeschrittene Android-Entwicklung]]></title>
         <id>https://jug-gr.de/talks/2015-05-27-advanced-android/</id>
-        <link href="https://jug-gr.de/talks/2015-05-27-advanced-android/"/>
+        <link href="https://jug-gr.de/talks/2015-05-27-advanced-android/">
+        </link>
         <updated>2015-05-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Fortgeschrittene Android-Entwicklung</h1>
@@ -913,7 +969,8 @@ und Frameworks diskutiert.</p>
     <entry>
         <title type="html"><![CDATA[Einstieg in die Android-App-Entwicklung]]></title>
         <id>https://jug-gr.de/talks/2015-03-25-android/</id>
-        <link href="https://jug-gr.de/talks/2015-03-25-android/"/>
+        <link href="https://jug-gr.de/talks/2015-03-25-android/">
+        </link>
         <updated>2015-03-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Einstieg in die Android-App-Entwicklung</h1>
@@ -946,7 +1003,8 @@ development.</p>
     <entry>
         <title type="html"><![CDATA[MoSKito - Monitoring Framework]]></title>
         <id>https://jug-gr.de/talks/2015-01-28-moskito/</id>
-        <link href="https://jug-gr.de/talks/2015-01-28-moskito/"/>
+        <link href="https://jug-gr.de/talks/2015-01-28-moskito/">
+        </link>
         <updated>2015-01-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>MoSKito - Monitoring Framework</h1>
@@ -976,7 +1034,8 @@ Marketing interessant sein.</p>]]></content>
     <entry>
         <title type="html"><![CDATA[Model-View-*: UI-Design-Patterns im Detail]]></title>
         <id>https://jug-gr.de/talks/2014-12-03-model-view-star/</id>
-        <link href="https://jug-gr.de/talks/2014-12-03-model-view-star/"/>
+        <link href="https://jug-gr.de/talks/2014-12-03-model-view-star/">
+        </link>
         <updated>2014-12-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Model-View-*: UI-Design-Patterns im Detail</h1>
@@ -1012,7 +1071,8 @@ welches Komponenten zur Umsetzung des Design-Patterns <em>Model-View-ViewModel</
     <entry>
         <title type="html"><![CDATA[Infrastructure as Code]]></title>
         <id>https://jug-gr.de/talks/2014-10-29-infrastructure_as_code/</id>
-        <link href="https://jug-gr.de/talks/2014-10-29-infrastructure_as_code/"/>
+        <link href="https://jug-gr.de/talks/2014-10-29-infrastructure_as_code/">
+        </link>
         <updated>2014-10-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Infrastructure as Code</h1>
@@ -1046,7 +1106,8 @@ of magnitudes and the release frequency has moved from monthly to weekly or even
     <entry>
         <title type="html"><![CDATA[Solr - Eine Enterprise-Suchmaschine]]></title>
         <id>https://jug-gr.de/talks/2014-09-24-solr/</id>
-        <link href="https://jug-gr.de/talks/2014-09-24-solr/"/>
+        <link href="https://jug-gr.de/talks/2014-09-24-solr/">
+        </link>
         <updated>2014-09-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Solr - Eine Enterprise-Suchmaschine</h1>
@@ -1076,7 +1137,8 @@ werden.</p>]]></content>
     <entry>
         <title type="html"><![CDATA[Java8 - Streams und Lambdas]]></title>
         <id>https://jug-gr.de/talks/2014-07-30-java8-streams/</id>
-        <link href="https://jug-gr.de/talks/2014-07-30-java8-streams/"/>
+        <link href="https://jug-gr.de/talks/2014-07-30-java8-streams/">
+        </link>
         <updated>2014-07-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Java8 - Streams und Lambdas</h1>
@@ -1107,7 +1169,8 @@ Werksstudent bei der Deutschen Bahn AG und setzt dort seit einiger Zeit aktiv di
     <entry>
         <title type="html"><![CDATA[Hazelcast - Synchronisation von In-Memory-Daten]]></title>
         <id>https://jug-gr.de/talks/2014-05-28-hazelcast/</id>
-        <link href="https://jug-gr.de/talks/2014-05-28-hazelcast/"/>
+        <link href="https://jug-gr.de/talks/2014-05-28-hazelcast/">
+        </link>
         <updated>2014-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Hazelcast - Synchronisation von In-Memory-Daten</h1>
@@ -1132,7 +1195,8 @@ Hinzunahme weiterer (Backup-)Knoten steigern.</p>]]></content>
     <entry>
         <title type="html"><![CDATA[Besser lesbare Unittests mit AssertJ]]></title>
         <id>https://jug-gr.de/talks/2014-04-02-assertj/</id>
-        <link href="https://jug-gr.de/talks/2014-04-02-assertj/"/>
+        <link href="https://jug-gr.de/talks/2014-04-02-assertj/">
+        </link>
         <updated>2014-04-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Besser lesbare Unittests mit AssertJ</h1>
@@ -1167,7 +1231,8 @@ seine eigenen Werkzeuge erstellen, um in seiner Domäne gut lesbare und ausdruck
     <entry>
         <title type="html"><![CDATA[Tool-Integration im Softwareentwicklungsprozess]]></title>
         <id>https://jug-gr.de/talks/2014-01-29-opendip/</id>
-        <link href="https://jug-gr.de/talks/2014-01-29-opendip/"/>
+        <link href="https://jug-gr.de/talks/2014-01-29-opendip/">
+        </link>
         <updated>2014-01-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Tool-Integration im Softwareentwicklungsprozess</h1>
@@ -1197,7 +1262,8 @@ Verwendung der Platform eingangen, wobei die Architektur ausgehend von einem Fal
     <entry>
         <title type="html"><![CDATA[Performance-Optimierung im Web]]></title>
         <id>https://jug-gr.de/talks/2013-11-27-web-performance/</id>
-        <link href="https://jug-gr.de/talks/2013-11-27-web-performance/"/>
+        <link href="https://jug-gr.de/talks/2013-11-27-web-performance/">
+        </link>
         <updated>2013-11-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Performance-Optimierung im Web</h1>
@@ -1220,7 +1286,8 @@ Performance einer Webanwendung zu investieren.</p>]]></content>
     <entry>
         <title type="html"><![CDATA[Modernes App-Design am Beispiel von Android]]></title>
         <id>https://jug-gr.de/talks/2013-10-30-app-design/</id>
-        <link href="https://jug-gr.de/talks/2013-10-30-app-design/"/>
+        <link href="https://jug-gr.de/talks/2013-10-30-app-design/">
+        </link>
         <updated>2013-10-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Modernes App-Design am Beispiel von Android</h1>
@@ -1245,7 +1312,8 @@ vorgestellt, die auf das App-Design plattformübergreifend anwendbar sind.</p>]]
     <entry>
         <title type="html"><![CDATA[Persona - Werkzeug für die GUI-Entwicklung]]></title>
         <id>https://jug-gr.de/talks/2013-07-31-persona/</id>
-        <link href="https://jug-gr.de/talks/2013-07-31-persona/"/>
+        <link href="https://jug-gr.de/talks/2013-07-31-persona/">
+        </link>
         <updated>2013-07-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Persona - Werkzeug für die GUI-Entwicklung</h1>
@@ -1271,7 +1339,8 @@ von Usern. Sie personifizieren eine bestimmte (Ziel-)Gruppe von Benutzern einer 
     <entry>
         <title type="html"><![CDATA[JRuby - Ruby auf der Java VM]]></title>
         <id>https://jug-gr.de/talks/2013-05-29-jruby/</id>
-        <link href="https://jug-gr.de/talks/2013-05-29-jruby/"/>
+        <link href="https://jug-gr.de/talks/2013-05-29-jruby/">
+        </link>
         <updated>2013-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>JRuby - Ruby auf der Java VM</h1>
@@ -1299,7 +1368,8 @@ Ruby-Code in Java benutzt und wie von Ruby aus auf Java-Klassen zugegriffen werd
     <entry>
         <title type="html"><![CDATA[Lego NXT-Roboter mit Java programmieren]]></title>
         <id>https://jug-gr.de/talks/2013-03-27-nxt_lego/</id>
-        <link href="https://jug-gr.de/talks/2013-03-27-nxt_lego/"/>
+        <link href="https://jug-gr.de/talks/2013-03-27-nxt_lego/">
+        </link>
         <updated>2013-03-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Lego NXT-Roboter mit Java programmieren</h1>
@@ -1326,7 +1396,8 @@ Live-Vorführung der Roboter geben.</p>
     <entry>
         <title type="html"><![CDATA[JavaFX 2]]></title>
         <id>https://jug-gr.de/talks/2012-11-28-javafx2/</id>
-        <link href="https://jug-gr.de/talks/2012-11-28-javafx2/"/>
+        <link href="https://jug-gr.de/talks/2012-11-28-javafx2/">
+        </link>
         <updated>2012-11-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>JavaFX 2</h1>
@@ -1354,7 +1425,8 @@ von JavaFX 2 eingehen und diese an einem großen Touchscreen live vorführen.</p
     <entry>
         <title type="html"><![CDATA[JSR-303 BeanValidation]]></title>
         <id>https://jug-gr.de/talks/2012-09-26-bean_validation/</id>
-        <link href="https://jug-gr.de/talks/2012-09-26-bean_validation/"/>
+        <link href="https://jug-gr.de/talks/2012-09-26-bean_validation/">
+        </link>
         <updated>2012-09-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>JSR-303 BeanValidation</h1>
@@ -1386,7 +1458,8 @@ im Backend mit JPA kombiniert werden kann.</p>
     <entry>
         <title type="html"><![CDATA[Selenium/Webdriver in der Praxis]]></title>
         <id>https://jug-gr.de/talks/2012-07-25-selenium_praxis/</id>
-        <link href="https://jug-gr.de/talks/2012-07-25-selenium_praxis/"/>
+        <link href="https://jug-gr.de/talks/2012-07-25-selenium_praxis/">
+        </link>
         <updated>2012-07-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Selenium/Webdriver in der Praxis</h1>
@@ -1406,7 +1479,8 @@ im Backend mit JPA kombiniert werden kann.</p>
     <entry>
         <title type="html"><![CDATA[GridGain - Parallel Computing und Data Grid Anwendungen]]></title>
         <id>https://jug-gr.de/talks/2012-06-27-gridgain/</id>
-        <link href="https://jug-gr.de/talks/2012-06-27-gridgain/"/>
+        <link href="https://jug-gr.de/talks/2012-06-27-gridgain/">
+        </link>
         <updated>2012-06-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>GridGain - Parallel Computing und Data Grid Anwendungen</h1>
@@ -1426,7 +1500,8 @@ im Backend mit JPA kombiniert werden kann.</p>
     <entry>
         <title type="html"><![CDATA[JMonkeyEngine 3 - 3D-Applikationen in Java]]></title>
         <id>https://jug-gr.de/talks/2012-05-30-jmonkey-engine3/</id>
-        <link href="https://jug-gr.de/talks/2012-05-30-jmonkey-engine3/"/>
+        <link href="https://jug-gr.de/talks/2012-05-30-jmonkey-engine3/">
+        </link>
         <updated>2012-05-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>JMonkeyEngine 3 - 3D-Applikationen in Java</h1>
@@ -1446,7 +1521,8 @@ im Backend mit JPA kombiniert werden kann.</p>
     <entry>
         <title type="html"><![CDATA[Maven]]></title>
         <id>https://jug-gr.de/talks/2012-04-25-maven/</id>
-        <link href="https://jug-gr.de/talks/2012-04-25-maven/"/>
+        <link href="https://jug-gr.de/talks/2012-04-25-maven/">
+        </link>
         <updated>2012-04-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Maven</h1>
@@ -1468,7 +1544,8 @@ im Backend mit JPA kombiniert werden kann.</p>
     <entry>
         <title type="html"><![CDATA[Webtests mit Selenium]]></title>
         <id>https://jug-gr.de/talks/2012-03-28-webtests/</id>
-        <link href="https://jug-gr.de/talks/2012-03-28-webtests/"/>
+        <link href="https://jug-gr.de/talks/2012-03-28-webtests/">
+        </link>
         <updated>2012-03-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Webtests mit Selenium</h1>
@@ -1488,7 +1565,8 @@ im Backend mit JPA kombiniert werden kann.</p>
     <entry>
         <title type="html"><![CDATA[Webentwicklung mit Scala]]></title>
         <id>https://jug-gr.de/talks/2012-02-29-scala_webapps/</id>
-        <link href="https://jug-gr.de/talks/2012-02-29-scala_webapps/"/>
+        <link href="https://jug-gr.de/talks/2012-02-29-scala_webapps/">
+        </link>
         <updated>2012-02-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Webentwicklung mit Scala</h1>
@@ -1508,7 +1586,8 @@ im Backend mit JPA kombiniert werden kann.</p>
     <entry>
         <title type="html"><![CDATA[Advanced JSF und CDI]]></title>
         <id>https://jug-gr.de/talks/2012-01-25-jsf_cdi_advanced/</id>
-        <link href="https://jug-gr.de/talks/2012-01-25-jsf_cdi_advanced/"/>
+        <link href="https://jug-gr.de/talks/2012-01-25-jsf_cdi_advanced/">
+        </link>
         <updated>2012-01-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Advanced JSF und CDI</h1>
@@ -1539,7 +1618,8 @@ beobachtete Klasse komplett von einander entkoppelt werden können.</p>]]></cont
     <entry>
         <title type="html"><![CDATA[JPA - Hibernate]]></title>
         <id>https://jug-gr.de/talks/2012-01-01-hibernate/</id>
-        <link href="https://jug-gr.de/talks/2012-01-01-hibernate/"/>
+        <link href="https://jug-gr.de/talks/2012-01-01-hibernate/">
+        </link>
         <updated>2012-01-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>JPA - Hibernate</h1>
@@ -1564,7 +1644,8 @@ beobachtete Klasse komplett von einander entkoppelt werden können.</p>]]></cont
     <entry>
         <title type="html"><![CDATA[JavaServer Faces 2 und CDI]]></title>
         <id>https://jug-gr.de/talks/2011-11-30-jsf-cdi/</id>
-        <link href="https://jug-gr.de/talks/2011-11-30-jsf-cdi/"/>
+        <link href="https://jug-gr.de/talks/2011-11-30-jsf-cdi/">
+        </link>
         <updated>2011-11-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>JavaServer Faces 2 und CDI</h1>
@@ -1601,7 +1682,8 @@ erklärt.</p>
     <entry>
         <title type="html"><![CDATA[Android]]></title>
         <id>https://jug-gr.de/talks/2011-10-26-android/</id>
-        <link href="https://jug-gr.de/talks/2011-10-26-android/"/>
+        <link href="https://jug-gr.de/talks/2011-10-26-android/">
+        </link>
         <updated>2011-10-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Android</h1>
@@ -1627,7 +1709,8 @@ Praxis erläutert wurden.</p>
     <entry>
         <title type="html"><![CDATA[JDOM]]></title>
         <id>https://jug-gr.de/talks/2011-09-28-jdom/</id>
-        <link href="https://jug-gr.de/talks/2011-09-28-jdom/"/>
+        <link href="https://jug-gr.de/talks/2011-09-28-jdom/">
+        </link>
         <updated>2011-09-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>JDOM</h1>
@@ -1647,7 +1730,8 @@ Praxis erläutert wurden.</p>
     <entry>
         <title type="html"><![CDATA[Single Sign-On mit JAAS und JGSS]]></title>
         <id>https://jug-gr.de/talks/2011-09-28-single-sign-on/</id>
-        <link href="https://jug-gr.de/talks/2011-09-28-single-sign-on/"/>
+        <link href="https://jug-gr.de/talks/2011-09-28-single-sign-on/">
+        </link>
         <updated>2011-09-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Single Sign-On mit JAAS und JGSS</h1>
@@ -1667,7 +1751,8 @@ Praxis erläutert wurden.</p>
     <entry>
         <title type="html"><![CDATA[Testen - Patterns und Best Practices]]></title>
         <id>https://jug-gr.de/talks/2011-08-31-testen/</id>
-        <link href="https://jug-gr.de/talks/2011-08-31-testen/"/>
+        <link href="https://jug-gr.de/talks/2011-08-31-testen/">
+        </link>
         <updated>2011-08-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Testen - Patterns und Best Practices</h1>
@@ -1687,7 +1772,8 @@ Praxis erläutert wurden.</p>
     <entry>
         <title type="html"><![CDATA[Scala]]></title>
         <id>https://jug-gr.de/talks/2011-07-27-scala/</id>
-        <link href="https://jug-gr.de/talks/2011-07-27-scala/"/>
+        <link href="https://jug-gr.de/talks/2011-07-27-scala/">
+        </link>
         <updated>2011-07-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Scala</h1>
@@ -1712,7 +1798,8 @@ Praxis erläutert wurden.</p>
     <entry>
         <title type="html"><![CDATA[TestNG]]></title>
         <id>https://jug-gr.de/talks/2011-07-27-testng/</id>
-        <link href="https://jug-gr.de/talks/2011-07-27-testng/"/>
+        <link href="https://jug-gr.de/talks/2011-07-27-testng/">
+        </link>
         <updated>2011-07-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>TestNG</h1>
@@ -1732,7 +1819,8 @@ Praxis erläutert wurden.</p>
     <entry>
         <title type="html"><![CDATA[JavaEE und JBoss]]></title>
         <id>https://jug-gr.de/talks/2011-06-29-javaee_jboss/</id>
-        <link href="https://jug-gr.de/talks/2011-06-29-javaee_jboss/"/>
+        <link href="https://jug-gr.de/talks/2011-06-29-javaee_jboss/">
+        </link>
         <updated>2011-06-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>JavaEE und JBoss</h1>
@@ -1753,7 +1841,8 @@ geben.</p>]]></content>
     <entry>
         <title type="html"><![CDATA[Google Guice]]></title>
         <id>https://jug-gr.de/talks/2011-05-27-guice/</id>
-        <link href="https://jug-gr.de/talks/2011-05-27-guice/"/>
+        <link href="https://jug-gr.de/talks/2011-05-27-guice/">
+        </link>
         <updated>2011-05-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Google Guice</h1>
@@ -1773,7 +1862,8 @@ geben.</p>]]></content>
     <entry>
         <title type="html"><![CDATA[GWT - Google Web Toolkit]]></title>
         <id>https://jug-gr.de/talks/2011-04-27-gwt/</id>
-        <link href="https://jug-gr.de/talks/2011-04-27-gwt/"/>
+        <link href="https://jug-gr.de/talks/2011-04-27-gwt/">
+        </link>
         <updated>2011-04-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>GWT - Google Web Toolkit</h1>
@@ -1793,7 +1883,8 @@ geben.</p>]]></content>
     <entry>
         <title type="html"><![CDATA[OSGi mit SpringDM]]></title>
         <id>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</id>
-        <link href="https://jug-gr.de/talks/2011-04-27-osgi_springdm/"/>
+        <link href="https://jug-gr.de/talks/2011-04-27-osgi_springdm/">
+        </link>
         <updated>2011-04-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>OSGi mit SpringDM</h1>
@@ -1823,7 +1914,8 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
     <entry>
         <title type="html"><![CDATA[EasyMock]]></title>
         <id>https://jug-gr.de/talks/2011-03-22-easymock/</id>
-        <link href="https://jug-gr.de/talks/2011-03-22-easymock/"/>
+        <link href="https://jug-gr.de/talks/2011-03-22-easymock/">
+        </link>
         <updated>2011-03-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>EasyMock</h1>
@@ -1844,7 +1936,8 @@ benutzen? All diese Fragen werden in der Präsentation beantwortet.</p>]]></cont
     <entry>
         <title type="html"><![CDATA[Jenkins/Hudson]]></title>
         <id>https://jug-gr.de/talks/2011-03-22-jenkins/</id>
-        <link href="https://jug-gr.de/talks/2011-03-22-jenkins/"/>
+        <link href="https://jug-gr.de/talks/2011-03-22-jenkins/">
+        </link>
         <updated>2011-03-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
       <h1>Jenkins/Hudson</h1>
