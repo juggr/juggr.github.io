@@ -75,6 +75,10 @@ const Sidebar = ({ logo }) => (
     <a href="https://www.javaland.eu/de/home/">
       <img alt="Banner für das Javaland 2020" src={require("../../content/images/javaland_2020_banner.jpg")} />
     </a>
+    <br/>
+    <a href="https://jax.de/">
+      <img alt="Banner für die JAX 2020" src={require("../../content/images/jax20_banner.jpg")} />
+    </a>
 
     <br />
 
