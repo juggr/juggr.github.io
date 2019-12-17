@@ -4,10 +4,49 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Mon, 25 Nov 2019 13:55:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2019 14:03:54 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[JDK 14 und GraalVM im Java Ökosystem]]></title>
+            <link>https://jug-gr.de/talks/2020-04-29-jdk14_graalvm/</link>
+            <guid>https://jug-gr.de/talks/2020-04-29-jdk14_graalvm/</guid>
+            <pubDate>Wed, 29 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>JDK 14 und GraalVM im Java Ökosystem</h1>
+      <p>Date: April 29, 2020, 19:00 Uhr</p>
+      <p>Speakers: Wolfgang Weigend</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></description>
+            <content:encoded><![CDATA[<p>Nach der Freigabe vom JDK 14 werden die aktuellen Merkmale vorgestellt. Neben Bug-Fixes und Security-Patches, stecken im
+JDK 14 Feature-Release, Sprach- und JVM-Änderungen, Erweiterungen, zugefügte und entfernte Klassen und Methoden,
+deprecated markierte Features und JDK-Tool-Änderungen. Bereits mit der Einführung der JDK Version 11 wurden die
+technischen Unterschiede bei der Gleichstellung vom Oracle JDK mit dem Oracle OpenJDK entfernt. Bei diesem
+Technologietransfer sind alle Bestandteile vom Oracle JDK als Open-Source-Implentierungen in das OpenJDK geflossen,
+sodass das Oracle JDK 14 durch das OpenJDK 14 augetauscht werden kann. Die Anwender können ein JDK oder ein OpenJDK
+verschiedener Hersteller frei auswählen. Dazu werden die Migrationsaspekte älterer Java-Anwendungen zum JDK 14
+erläutert. Im Vortrag wird auch ein Blick auf den langfristigen Einsatz vom Java Modulsystem geworfen und dies anhand
+von Beispielen durch Erstellung einer individueller Java Runtime mit der Anwendung verdeutlicht. Zudem wird die die
+GraalVM als universelle Virtuelle Maschine (VM) für Anwendungen im Java Ökosystem betrachtet.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Innovationsmotor Cloud Foundry!?]]></title>
+            <link>https://jug-gr.de/talks/2020-01-27-cloud-foundry/</link>
+            <guid>https://jug-gr.de/talks/2020-01-27-cloud-foundry/</guid>
+            <pubDate>Wed, 29 Jan 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Innovationsmotor Cloud Foundry!?</h1>
+      <p>Date: January 29, 2020, 19:00 Uhr</p>
+      <p>Speakers: Simon Roloff</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></description>
+            <content:encoded><![CDATA[<p>"Create Apps, Not the Platform" - Cloud Foundry verspricht, dass sich der Entwicker voll und ganz auf die
+Anwendungsentwicklung fokussieren kann, anstatt einen erheblichen Teil seiner Zeit auf Infrastruktur , Deployment usw.
+verwenden zu müssen. Was ist Cloud Foundry überhaupt? Und hält sie, was sie verspricht?</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Advanced BDD Tests]]></title>
             <link>https://jug-gr.de/talks/2019-11-28-advanced-bdd-tests/</link>
