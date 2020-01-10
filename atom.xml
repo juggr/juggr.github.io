@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title>Java User Group Görlitz</title>
-    <updated>2019-12-17T14:03:54.556Z</updated>
+    <updated>2020-01-10T15:11:19.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -40,10 +40,16 @@ GraalVM als universelle Virtuelle Maschine (VM) für Anwendungen im Java Ökosys
       <p>Date: January 29, 2020, 19:00 Uhr</p>
       <p>Speakers: Simon Roloff</p>
       <p>Location:</p>
-      wird noch bekannt gegeben
+      <address>
+        Saxonia Systems AG
+        <br />
+        Berliner Straße 63
+        <br />
+        02826 Görlitz
+      </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>"Create Apps, Not the Platform" - Cloud Foundry verspricht, dass sich der Entwicker voll und ganz auf die
-Anwendungsentwicklung fokussieren kann, anstatt einen erheblichen Teil seiner Zeit auf Infrastruktur , Deployment usw.
+        <content type="html"><![CDATA[<p>"Create Apps, Not the Platform" - Cloud Foundry verspricht, dass sich Entwicker voll und ganz auf die
+Anwendungsentwicklung fokussieren können, anstatt einen erheblichen Teil ihrer Zeit auf Infrastruktur, Deployment usw.
 verwenden zu müssen. Was ist Cloud Foundry überhaupt? Und hält sie, was sie verspricht?</p>]]></content>
     </entry>
     <entry>
