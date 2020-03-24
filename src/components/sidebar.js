@@ -70,11 +70,7 @@ const Sidebar = ({ logo }) => (
     </div>
 
     <br />
-    
 
-    <a href="https://www.javaland.eu/de/home/">
-      <img alt="Banner für das Javaland 2020" src={require("../../content/images/javaland_2020_banner.jpg")} />
-    </a>
     <br/>
     <a href="https://jax.de/">
       <img alt="Banner für die JAX 2020" src={require("../../content/images/jax20_banner.jpg")} />
@@ -82,17 +78,6 @@ const Sidebar = ({ logo }) => (
 
     <br />
 
-    <p>Unterstützt durch:</p>
-    <a href="https://www.sogehtsoftware.de">
-      <img alt="Logo von Saxonia Systems AG" src={require("../../content/images/saxsys_logo.jpg")} />
-    </a>
-
-    <br />
-    <br />
-
-    <a href="https://mitp.de/">
-      <img alt="Logo des mitp Verlags" src={require("../../content/images/mitp_logo.jpeg")} />
-    </a>
   </div>
 )
 
