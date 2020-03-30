@@ -31,11 +31,11 @@ Die Treffen finden in der Regel monatlich jeweils am letzten Mittwoch im Monat a
     <img alt="Manuel Mauky" src="../images/manuel_mauky.jpg"/>
 </div>
 
-**Saxonia Systems AG**
+**Carl Zeiss Digital Innovation**
 
 Software-Entwickler
 
-[manuel.mauky@saxsys.de](mailto:manuel.mauky@saxsys.de)
+[manuel.mauky@zeiss.com](mailto:manuel.mauky@zeiss.com)
 
 [Blog: http://www.lestard.eu](http://www.lestard.eu)
 
@@ -50,11 +50,11 @@ Twitter: [@manuel_mauky](https://twitter.com/manuel_mauky)
 </div>
 
 
-**Saxonia Systems AG**
+**Carl Zeiss Digital Innovation**
 
 Software-Entwickler
 
-[max.wielsch@saxsys.de](mailto:max.wielsch@saxsys.de)
+[max.wielsch@zeiss.com](mailto:max.wielsch@zeiss.com)
 
 [Blog: http://max-wielsch.blogspot.de](http://max-wielsch.blogspot.de)
 
