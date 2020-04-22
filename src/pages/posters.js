@@ -9,8 +9,6 @@ import Img from "gatsby-image"
 import { Container, Col, Row } from "reactstrap"
 
 const PostersPage = ({ data }) => {
-  console.log("data", data)
-
   const { talks } = data
 
   const talkNodes = talks.edges.map(edge => edge.node).filter(node => node.frontmatter.poster)
