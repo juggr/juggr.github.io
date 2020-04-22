@@ -26,7 +26,6 @@ const TalksPage = ({ data }) => {
 
       <ul>
         {talks.map(talk => {
-
           const speakersOfTalk = findSpeakersForTalk({ allSpeakers, talk })
 
           const speakersString = R.join(", ")(speakersOfTalk.map(speaker => speaker.frontmatter.name))
@@ -65,6 +64,8 @@ export const query = graphql`
           frontmatter {
             title
             date
+            time
+            virtual
             tags
             speaker
           }

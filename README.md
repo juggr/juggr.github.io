@@ -94,10 +94,12 @@ Form hat:
     ---
     title: "Immutable Data - Unveränderliche Daten im Griff"
     date: 2018-06-27
+    time: "19:30 Uhr"
     speaker: [manuel_mauky]
     tags: [programmiersprachen, functional programming]
     location: hochschule_campus
     poster: ../images/plakat_2018_06.png
+    virtual: false
     ---
 
 **title** bestimmt den Titel, der als Überschrift auf der Webseite benutzt wird. (Pflichtfeld)
@@ -107,8 +109,11 @@ Form hat:
 [Beitrag auf Startseite](#beitrag-auf-startseite)). Dieses Datum hat generell Vorrang vor dem Datum im Dateinamen.
 (Pflichtfeld)
 
-**speaker** ist ein Array von Speakern, die diesen Vortrag halten. Der Wert entspricht einem hinterlegten Speaker-Profil
-(siehe [Speaker anlegen](#speaker-anlegen)). (Pflichtfeld)
+**time**: Die Uhrzeit, zu der das Event startet. Die Angabe wird als String angegeben und 1 zu 1 in die Anzeige
+übernommen. Die Angabe ist optional, wobei dann der Standard-Wert "19:00 Uhr" verwendet wird. (Optional)
+
+**speaker**: ist ein Array von Speakern, die diesen Vortrag halten. Der Wert entspricht einem hinterlegten
+Speaker-Profil (siehe [Speaker anlegen](#speaker-anlegen)). (Pflichtfeld)
 
 **tags**: ist ein Array von Tags, denen der Vortrag zugeordnet wird. Tags sind Strings, wobei auf Leerzeichen verzichtet
 werden sollte, da sonst das Scrollen zu dem Tag auf der Übersichtsseite nicht richtig funtioniert. Stattdessen können
@@ -121,6 +126,12 @@ zeigt die Webseiten einen Platzhalter (z.B. "Wird noch bekannt gegeben") an. (Op
 **poster**: bestimmt das Event-Plakat, welches angezeigt wird. Dies muss ein relativer Pfad (durch die `..`
 gekennzeichnet) zu einer Bild-Datei innerhalb von `/content/images/` sein. Da Talks unterhalb von `/content/talks`
 existieren, ist der relative Pfad `../images/<bilddateie>`. (Optional)
+
+**virtual**: Das Flag bestimmt, ob der Vortrag virtuell stattfindet oder als klassische Präsenz-Veranstaltung
+(Standard). Dies wirkt sich auf die Darstellung des Veranstaltungsorts aus. Ist das Flag `true` wird lediglich ein
+Hinweis ausgegeben, dass der Vortrag Online stattfindet und weitere Details in der Beschreibung zu finden sind.
+Entsprechend sollte der Beschreibungstext des Vortrags angepasst sein. Wird das Flag weggelassen oder ist `false`
+bestimmt das `location`-Feld die Anzeige (Optional)
 
 Unterhalb des Frontmatters erfolgt der Beschreibungstext als Markdown. Sonstige Angaben wie Links zu Vortragsfolien o.ä.
 müssen ebenfalls im Markdown-Text hinterlegt werden.

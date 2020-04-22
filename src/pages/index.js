@@ -72,8 +72,10 @@ export const query = graphql`
           frontmatter {
             title
             date
+            time
             speaker
             location
+            virtual
             poster {
               childImageSharp {
                 id

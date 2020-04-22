@@ -87,7 +87,11 @@ const TalkContent = ({ talk, speakerList, location, linkToDetailsPage }) => (
     <article className="talk-content">
       <div dangerouslySetInnerHTML={{ __html: talk.html }} />
 
-      {talk.frontmatter.poster && <Link to={`/posters#${talk.frontmatter.poster.childImageSharp.id}`}><Img fluid={talk.frontmatter.poster.childImageSharp.fluid} /></Link>}
+      {talk.frontmatter.poster && (
+        <Link to={`/posters#${talk.frontmatter.poster.childImageSharp.id}`}>
+          <Img fluid={talk.frontmatter.poster.childImageSharp.fluid} />
+        </Link>
+      )}
 
       <hr />
 
@@ -98,8 +102,14 @@ const TalkContent = ({ talk, speakerList, location, linkToDetailsPage }) => (
       <hr />
 
       <div>
-        <p>Datum: {formatDate(talk.frontmatter.date)}, 19:00 Uhr</p>
-        Ort: {location ? <LocationInfo location={location} /> : <span>wird noch bekannt gegeben</span>}
+        <p>
+          Datum: {formatDate(talk.frontmatter.date)}, {talk.frontmatter.time ?? "19:00 Uhr"}
+        </p>
+        {talk.frontmatter.virtual ? (
+          <>Das Treffen findet Online statt. Siehe Beschreibung.</>
+        ) : (
+          <>Ort: {location ? <LocationInfo location={location} /> : <span>wird noch bekannt gegeben</span>}</>
+        )}
       </div>
 
       <br />

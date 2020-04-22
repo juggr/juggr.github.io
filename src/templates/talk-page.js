@@ -30,6 +30,8 @@ export const query = graphql`
       frontmatter {
         title
         date
+        time
+        virtual
         tags
         poster {
           childImageSharp {
