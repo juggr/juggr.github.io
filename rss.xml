@@ -4,10 +4,41 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Mon, 30 Mar 2020 13:02:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2020 17:09:34 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[JDK 14 und GraalVM im Java Ökosystem]]></title>
+            <link>https://jug-gr.de/talks/2020-04-29-jdk14_graalvm.md/</link>
+            <guid>https://jug-gr.de/talks/2020-04-29-jdk14_graalvm.md/</guid>
+            <pubDate>Wed, 29 Apr 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>JDK 14 und GraalVM im Java Ökosystem</h1>
+      <p>Date: April 29, 2020, 19:00 Uhr</p>
+      <p>Speakers: Wolfgang Weigend</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></description>
+            <content:encoded><![CDATA[<p>Nach der Freigabe vom JDK 14 werden die aktuellen Merkmale vorgestellt. Neben Bug-Fixes und Security-Patches, stecken im
+JDK 14 Feature-Release, Sprach- und JVM-Änderungen, Erweiterungen, zugefügte und entfernte Klassen und Methoden,
+deprecated markierte Features und JDK-Tool-Änderungen. Bereits mit der Einführung der JDK Version 11 wurden die
+technischen Unterschiede bei der Gleichstellung vom Oracle JDK mit dem Oracle OpenJDK entfernt. Bei diesem
+Technologietransfer sind alle Bestandteile vom Oracle JDK als Open-Source-Implentierungen in das OpenJDK geflossen,
+sodass das Oracle JDK 14 durch das OpenJDK 14 augetauscht werden kann. Die Anwender können ein JDK oder ein OpenJDK
+verschiedener Hersteller frei auswählen. Dazu werden die Migrationsaspekte älterer Java-Anwendungen zum JDK 14
+erläutert. Im Vortrag wird auch ein Blick auf den langfristigen Einsatz vom Java Modulsystem geworfen und dies anhand
+von Beispielen durch Erstellung einer individueller Java Runtime mit der Anwendung verdeutlicht. Zudem wird die die
+GraalVM als universelle Virtuelle Maschine (VM) für Anwendungen im Java Ökosystem betrachtet.</p>
+<hr>
+<h2>Hinweis</h2>
+<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu hat Wolfgang ein Zoom-Meeting aufgesetzt. Dieser Meeting-Raum ist
+Passwortgeschützt. Bitte meldet euch vorab unter <a href="mailto:kontakt@jug-gr.de">kontakt@jug-gr.de</a> an. Wir schicken euch
+dann vor dem Meeting das Passwort per Mail zu.</p>
+<p>Dieses Mal geht es schon <strong>18:00 Uhr los</strong>.</p>
+<p>Link zum Zoom-Meeting: <a href="https://oracle.zoom.us/j/95442546566">https://oracle.zoom.us/j/95442546566</a></p>
+<p>Anmeldung via E-Mail: <a href="mailto:kontakt@jug-gr.de">kontakt@jug-gr.de</a></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Innovationsmotor Cloud Foundry!?]]></title>
             <link>https://jug-gr.de/talks/2020-01-27-cloud-foundry/</link>

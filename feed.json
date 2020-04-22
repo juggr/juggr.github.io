@@ -6,6 +6,14 @@
     "description": "Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java",
     "items": [
         {
+            "id": "https://jug-gr.de/talks/2020-04-29-jdk14_graalvm.md/",
+            "content_html": "<p>Nach der Freigabe vom JDK 14 werden die aktuellen Merkmale vorgestellt. Neben Bug-Fixes und Security-Patches, stecken im\nJDK 14 Feature-Release, Sprach- und JVM-Änderungen, Erweiterungen, zugefügte und entfernte Klassen und Methoden,\ndeprecated markierte Features und JDK-Tool-Änderungen. Bereits mit der Einführung der JDK Version 11 wurden die\ntechnischen Unterschiede bei der Gleichstellung vom Oracle JDK mit dem Oracle OpenJDK entfernt. Bei diesem\nTechnologietransfer sind alle Bestandteile vom Oracle JDK als Open-Source-Implentierungen in das OpenJDK geflossen,\nsodass das Oracle JDK 14 durch das OpenJDK 14 augetauscht werden kann. Die Anwender können ein JDK oder ein OpenJDK\nverschiedener Hersteller frei auswählen. Dazu werden die Migrationsaspekte älterer Java-Anwendungen zum JDK 14\nerläutert. Im Vortrag wird auch ein Blick auf den langfristigen Einsatz vom Java Modulsystem geworfen und dies anhand\nvon Beispielen durch Erstellung einer individueller Java Runtime mit der Anwendung verdeutlicht. Zudem wird die die\nGraalVM als universelle Virtuelle Maschine (VM) für Anwendungen im Java Ökosystem betrachtet.</p>\n<hr>\n<h2>Hinweis</h2>\n<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu hat Wolfgang ein Zoom-Meeting aufgesetzt. Dieser Meeting-Raum ist\nPasswortgeschützt. Bitte meldet euch vorab unter <a href=\"mailto:kontakt@jug-gr.de\">kontakt@jug-gr.de</a> an. Wir schicken euch\ndann vor dem Meeting das Passwort per Mail zu.</p>\n<p>Dieses Mal geht es schon <strong>18:00 Uhr los</strong>.</p>\n<p>Link zum Zoom-Meeting: <a href=\"https://oracle.zoom.us/j/95442546566\">https://oracle.zoom.us/j/95442546566</a></p>\n<p>Anmeldung via E-Mail: <a href=\"mailto:kontakt@jug-gr.de\">kontakt@jug-gr.de</a></p>",
+            "url": "https://jug-gr.de/talks/2020-04-29-jdk14_graalvm.md/",
+            "title": "JDK 14 und GraalVM im Java Ökosystem",
+            "summary": "\n      <h1>JDK 14 und GraalVM im Java Ökosystem</h1>\n      <p>Date: April 29, 2020, 19:00 Uhr</p>\n      <p>Speakers: Wolfgang Weigend</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",
+            "date_modified": "2020-04-29T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2020-01-27-cloud-foundry/",
             "content_html": "<p>\"Create Apps, Not the Platform\" - Cloud Foundry verspricht, dass sich Entwicker voll und ganz auf die\nAnwendungsentwicklung fokussieren können, anstatt einen erheblichen Teil ihrer Zeit auf Infrastruktur, Deployment usw.\nverwenden zu müssen. Was ist Cloud Foundry überhaupt? Und hält sie, was sie verspricht?</p>",
             "url": "https://jug-gr.de/talks/2020-01-27-cloud-foundry/",
