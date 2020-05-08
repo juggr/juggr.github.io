@@ -4,7 +4,7 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Wed, 22 Apr 2020 17:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2020 13:58:47 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
@@ -30,14 +30,16 @@ verschiedener Hersteller frei auswählen. Dazu werden die Migrationsaspekte ält
 erläutert. Im Vortrag wird auch ein Blick auf den langfristigen Einsatz vom Java Modulsystem geworfen und dies anhand
 von Beispielen durch Erstellung einer individueller Java Runtime mit der Anwendung verdeutlicht. Zudem wird die die
 GraalVM als universelle Virtuelle Maschine (VM) für Anwendungen im Java Ökosystem betrachtet.</p>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="/downloads/JDK_14_und_GraalVM_im_Java-%C3%96kosystem_WW.pdf">Folien zum Vortrag</a></li>
+</ul>
 <hr>
 <h2>Hinweis</h2>
 <p><strong>Dieser Vortrag findet Online statt.</strong> Dazu hat Wolfgang ein Zoom-Meeting aufgesetzt. Dieser Meeting-Raum ist
-Passwortgeschützt. Bitte meldet euch vorab unter <a href="mailto:kontakt@jug-gr.de">kontakt@jug-gr.de</a> an. Wir schicken euch
+Passwortgeschützt. Bitte meldet euch vorab per E-Mail an. Wir schicken euch
 dann vor dem Meeting das Passwort per Mail zu.</p>
-<p>Dieses Mal geht es schon <strong>18:00 Uhr los</strong>.</p>
-<p>Link zum Zoom-Meeting: <a href="https://oracle.zoom.us/j/95442546566">https://oracle.zoom.us/j/95442546566</a></p>
-<p>Anmeldung via E-Mail: <a href="mailto:kontakt@jug-gr.de">kontakt@jug-gr.de</a></p>]]></content:encoded>
+<p>Dieses Mal geht es schon <strong>18:00 Uhr los</strong>.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Innovationsmotor Cloud Foundry!?]]></title>
