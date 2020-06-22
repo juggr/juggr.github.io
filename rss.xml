@@ -4,10 +4,31 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Fri, 08 May 2020 13:58:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2020 16:24:32 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Branching-Modelle]]></title>
+            <link>https://jug-gr.de/talks/2020-07-22-branching_modelle/</link>
+            <guid>https://jug-gr.de/talks/2020-07-22-branching_modelle/</guid>
+            <pubDate>Wed, 22 Jul 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Branching-Modelle</h1>
+      <p>Date: July 22, 2020, 19:00 Uhr</p>
+      <p>Speakers: Hannes Kretschmer</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></description>
+            <content:encoded><![CDATA[<p>Als Softwareentwickler ist man auf die Verwendung von Versionsverwaltungssystemen und deren Branching- und Merging-Strategien angewiesen. Vorgaben, wie diese Strategien angewendet werden müssen, liefern diverse Branching-Modelle. Sie sollen vor Allem den Entwickleralltag erleichtern, indem sie für eine saubere Historie sorgen, den Softwarereleaseprozess unterstützen oder verhindern, dass man in der Merge-Hölle landet.
+In dem Vortrag werden einige Branching-Modelle vorgestellt. Dabei wird der Frage auf den Grund gegangen, welche Art von Modell zu welcher Art von Softwareprojekt passt und welche allgemeingültigen Vorgehensweisen beim Branching und Merging daraus gezogen werden können.</p>
+<hr>
+<h2>Hinweis</h2>
+<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt. Dieser Meeting-Raum ist
+passwortgeschützt. Bitte meldet euch vorab per E-Mail an. Wir schicken euch
+dann vor dem Meeting das Passwort per E-Mail zu.</p>
+<p>Dieses Mal geht es schon <strong>18:00 Uhr los</strong>.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[JDK 14 und GraalVM im Java Ökosystem]]></title>
             <link>https://jug-gr.de/talks/2020-04-29-jdk14_graalvm.md/</link>
