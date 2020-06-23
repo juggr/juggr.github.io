@@ -6,6 +6,7 @@ module.exports = {
     siteUrl: "https://jug-gr.de",
   },
   plugins: [
+    "gatsby-plugin-nullish-coalescing-operator",
     "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-source-filesystem",

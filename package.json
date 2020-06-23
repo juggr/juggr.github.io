@@ -11,6 +11,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.10.1",
     "@fortawesome/fontawesome": "^1.1.8",
     "@fortawesome/fontawesome-svg-core": "^1.2.2",
     "@fortawesome/free-brands-svg-icons": "^5.2.0",
@@ -24,6 +25,7 @@
     "gatsby-link": "^2.2.0",
     "gatsby-plugin-catch-links": "^2.1.0",
     "gatsby-plugin-manifest": "^2.2.1",
+    "gatsby-plugin-nullish-coalescing-operator": "^1.0.1",
     "gatsby-plugin-offline": "^2.2.1",
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-sharp": "^2.2.2",
