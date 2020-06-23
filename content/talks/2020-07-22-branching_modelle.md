@@ -1,7 +1,7 @@
 ---
 title: "Branching-Modelle"
 date: 2020-07-22
-time: "18:00 Uhr"
+time: "19:00 Uhr"
 speaker: [hannes_kretschmer]
 tags: [java]
 virtual: true
@@ -14,9 +14,6 @@ In dem Vortrag werden einige Branching-Modelle vorgestellt. Dabei wird der Frage
 
 ## Hinweis
 
-**Dieser Vortrag findet Online statt.** Dazu haben wir ein Jitsi-Meeting aufgesetzt. Dieser Meeting-Raum ist
-passwortgeschützt. Bitte meldet euch vorab per E-Mail an. Wir schicken euch
-dann vor dem Meeting das Passwort per E-Mail zu.
+**Dieser Vortrag findet Online statt.** Dazu haben wir ein Jitsi-Meeting aufgesetzt. Die URL folgt in Kürze.
 
-Dieses Mal geht es schon **18:00 Uhr los**.
 
