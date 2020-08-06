@@ -1,8 +1,8 @@
 import React from "react"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
-import { faTwitter, faFacebook, faGooglePlus, faGithub } from "@fortawesome/free-brands-svg-icons"
-import { faEnvelope, faCalendarAlt, faRss, faAtom } from "@fortawesome/free-solid-svg-icons"
+import { faTwitter, faFacebook, faGithub } from "@fortawesome/free-brands-svg-icons"
+import { faEnvelope, faCalendarAlt, faRss } from "@fortawesome/free-solid-svg-icons"
 
 import { Col, Row } from "reactstrap"
 
