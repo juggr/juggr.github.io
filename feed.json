@@ -6,6 +6,14 @@
     "description": "Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java",
     "items": [
         {
+            "id": "https://jug-gr.de/talks/2020-11-25-secure_coding/",
+            "content_html": "<p>Durch die Veröffentlichung von immer neuen Schwachstellen in Softwareprodukten rückt das Thema Application Security zunehmend in den Fokus vieler Softwareentwickler.\nSichere Software zu erstellen muss aber keine große Herausforderung sein, wenn man Best Practices befolgt und der Application Security einen festen Platz im Entwicklungszyklus einräumt. Ziel des Vortrags ist es, einen Überblick zu Secure Coding in Java zu vermitteln und die Wichtigkeit dieses Themas hervorzuheben. Im Detail wird außerdem an praktischen Beispielen demonstriert, wie Sicherheitsschwachstellen im Programmcode aussehen, ausgenutzt und behoben werden können.</p>\n<hr>\n<h2>Hinweis</h2>\n<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt: <a href=\"https://meet.digitale-oberlausitz.eu/jug\">https://meet.digitale-oberlausitz.eu/jug</a></p>",
+            "url": "https://jug-gr.de/talks/2020-11-25-secure_coding/",
+            "title": "Java Secure Coding in der Praxis",
+            "summary": "\n      <h1>Java Secure Coding in der Praxis</h1>\n      <p>Date: November 25, 2020, 19:00 Uhr</p>\n      <p>Speakers: Nico Förster</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",
+            "date_modified": "2020-11-25T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2020-07-22-branching_modelle/",
             "content_html": "<p>Als Softwareentwickler ist man auf die Verwendung von Versionsverwaltungssystemen und deren Branching- und Merging-Strategien angewiesen. Vorgaben, wie diese Strategien angewendet werden müssen, liefern diverse Branching-Modelle. Sie sollen vor Allem den Entwickleralltag erleichtern, indem sie für eine saubere Historie sorgen, den Softwarereleaseprozess unterstützen oder verhindern, dass man in der Merge-Hölle landet.\nIn dem Vortrag werden einige Branching-Modelle vorgestellt. Dabei wird der Frage auf den Grund gegangen, welche Art von Modell zu welcher Art von Softwareprojekt passt und welche allgemeingültigen Vorgehensweisen beim Branching und Merging daraus gezogen werden können.</p>\n<hr>\n<h2>Hinweis</h2>\n<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt: <a href=\"https://meet.digitale-oberlausitz.eu/jug\">https://meet.digitale-oberlausitz.eu/jug</a></p>",
             "url": "https://jug-gr.de/talks/2020-07-22-branching_modelle/",
@@ -494,19 +502,19 @@
             "date_modified": "2011-10-26T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-09-28-jdom/",
-            "content_html": "<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>",
-            "url": "https://jug-gr.de/talks/2011-09-28-jdom/",
-            "title": "JDOM",
-            "summary": "\n      <h1>JDOM</h1>\n      <p>Date: September 28, 2011, 19:00 Uhr</p>\n      <p>Speakers: Mark Ziener</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-09-28T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
             "content_html": "<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>",
             "url": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
             "title": "Single Sign-On mit JAAS und JGSS",
             "summary": "\n      <h1>Single Sign-On mit JAAS und JGSS</h1>\n      <p>Date: September 28, 2011, 19:00 Uhr</p>\n      <p>Speakers: Mario Reichel</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-09-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-09-28-jdom/",
+            "content_html": "<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>",
+            "url": "https://jug-gr.de/talks/2011-09-28-jdom/",
+            "title": "JDOM",
+            "summary": "\n      <h1>JDOM</h1>\n      <p>Date: September 28, 2011, 19:00 Uhr</p>\n      <p>Speakers: Mark Ziener</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-09-28T00:00:00.000Z"
         },
         {
@@ -518,19 +526,19 @@
             "date_modified": "2011-08-31T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-07-27-scala/",
-            "content_html": "<p>Scala - Vorstellung der Sprache, Demo und das Testen (Stefan Bradl)</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_scala.pdf\">Vortragsfolien</a></li>\n<li><a href=\"/downloads/code_scala.zip\">Beispiel-Code</a></li>\n</ul>",
-            "url": "https://jug-gr.de/talks/2011-07-27-scala/",
-            "title": "Scala",
-            "summary": "\n      <h1>Scala</h1>\n      <p>Date: July 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Stefan Bradl</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-07-27T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-07-27-testng/",
             "content_html": "<p>TestNG (Marcus Döring) </p>",
             "url": "https://jug-gr.de/talks/2011-07-27-testng/",
             "title": "TestNG",
             "summary": "\n      <h1>TestNG</h1>\n      <p>Date: July 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Marcus Döring</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-07-27T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-07-27-scala/",
+            "content_html": "<p>Scala - Vorstellung der Sprache, Demo und das Testen (Stefan Bradl)</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_scala.pdf\">Vortragsfolien</a></li>\n<li><a href=\"/downloads/code_scala.zip\">Beispiel-Code</a></li>\n</ul>",
+            "url": "https://jug-gr.de/talks/2011-07-27-scala/",
+            "title": "Scala",
+            "summary": "\n      <h1>Scala</h1>\n      <p>Date: July 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Stefan Bradl</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-07-27T00:00:00.000Z"
         },
         {
