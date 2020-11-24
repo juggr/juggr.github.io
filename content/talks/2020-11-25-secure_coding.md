@@ -5,6 +5,7 @@ time: "19:00 Uhr"
 speaker: [nico_foerster]
 tags: [java]
 virtual: true
+poster: ../images/plakat_2020_11.png
 ---
 
 Durch die Veröffentlichung von immer neuen Schwachstellen in Softwareprodukten rückt das Thema Application Security zunehmend in den Fokus vieler Softwareentwickler.
