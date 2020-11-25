@@ -72,8 +72,8 @@ const Sidebar = ({ logo }) => (
     <br />
 
     <br/>
-    <a href="https://www.herbstcampus.de">
-      <img alt="Banner für Herbstcampus 2020" src={'https://www.herbstcampus.de/common/images/konferenzen/herbstcampus.svg'} />
+    <a href="https://jax.de/">
+      <img alt="Banner für die JAX 2021" src={require("../../content/images/jax21_banner.jpg")} />
     </a>
 
     <br />
