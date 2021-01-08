@@ -18,6 +18,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.2.0",
     "@fortawesome/react-fontawesome": "^0.1.4",
     "anchorate": "^1.2.3",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "feed": "^3.0.0",
     "gatsby": "^2.13.3",
