@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title>Java User Group Görlitz</title>
-    <updated>2020-11-25T14:58:50.447Z</updated>
+    <updated>2021-01-08T12:05:38.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
     <subtitle>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Web Components]]></title>
+        <id>https://jug-gr.de/talks/2021-01-27-webcomponents/</id>
+        <link href="https://jug-gr.de/talks/2021-01-27-webcomponents/"/>
+        <updated>2021-01-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>Web Components</h1>
+      <p>Date: January 27, 2021, 19:00 Uhr</p>
+      <p>Speakers: Manuel Mauky</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></summary>
+        <content type="html"><![CDATA[<p>Web-Components sind eine Möglichkeit, auf Basis von Web-Standards wiederverwendbare UI-Komponenten zu bauen,
+die sich browserübergreifend und unabhängig von JavaScript-Frameworks einsetzen lassen.
+Im Vortrag möchte ich die relevanten Web-Standards kurz vorstellen und im Live-Coding eine Web-Componente from Scratch bauen.</p>
+<p>Dabei möchte ich auch auf die Stärken und Schwächen von Web-Components eingehen und einige Erfahrungen teilen,
+die ich bei der Entwicklung einer firmeninternen Component-Library machen konnte. </p>
+<hr>
+<h2>Hinweis</h2>
+<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt: <a href="https://meet.digitale-oberlausitz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java Secure Coding in der Praxis]]></title>
         <id>https://jug-gr.de/talks/2020-11-25-secure_coding/</id>

@@ -6,6 +6,14 @@
     "description": "Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java",
     "items": [
         {
+            "id": "https://jug-gr.de/talks/2021-01-27-webcomponents/",
+            "content_html": "<p>Web-Components sind eine Möglichkeit, auf Basis von Web-Standards wiederverwendbare UI-Komponenten zu bauen,\ndie sich browserübergreifend und unabhängig von JavaScript-Frameworks einsetzen lassen.\nIm Vortrag möchte ich die relevanten Web-Standards kurz vorstellen und im Live-Coding eine Web-Componente from Scratch bauen.</p>\n<p>Dabei möchte ich auch auf die Stärken und Schwächen von Web-Components eingehen und einige Erfahrungen teilen,\ndie ich bei der Entwicklung einer firmeninternen Component-Library machen konnte. </p>\n<hr>\n<h2>Hinweis</h2>\n<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt: <a href=\"https://meet.digitale-oberlausitz.eu/jug\">https://meet.digitale-oberlausitz.eu/jug</a></p>",
+            "url": "https://jug-gr.de/talks/2021-01-27-webcomponents/",
+            "title": "Web Components",
+            "summary": "\n      <h1>Web Components</h1>\n      <p>Date: January 27, 2021, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",
+            "date_modified": "2021-01-27T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2020-11-25-secure_coding/",
             "content_html": "<p>Durch die Veröffentlichung von immer neuen Schwachstellen in Softwareprodukten rückt das Thema Application Security zunehmend in den Fokus vieler Softwareentwickler.\nSichere Software zu erstellen muss aber keine große Herausforderung sein, wenn man Best Practices befolgt und der Application Security einen festen Platz im Entwicklungszyklus einräumt. Ziel des Vortrags ist es, einen Überblick zu Secure Coding in Java zu vermitteln und die Wichtigkeit dieses Themas hervorzuheben. Im Detail wird außerdem an praktischen Beispielen demonstriert, wie Sicherheitsschwachstellen im Programmcode aussehen, ausgenutzt und behoben werden können.</p>\n<hr>\n<h2>Hinweis</h2>\n<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt: <a href=\"https://meet.digitale-oberlausitz.eu/jug\">https://meet.digitale-oberlausitz.eu/jug</a></p>",
             "url": "https://jug-gr.de/talks/2020-11-25-secure_coding/",
