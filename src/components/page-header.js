@@ -46,6 +46,7 @@ class PageHeader extends React.Component {
             <Nav className="ml-auto" navbar>
               <LinkItem to="/">Aktuell</LinkItem>
               <LinkItem to="/talks">Vorträge</LinkItem>
+              <LinkItem to="/posters">Plakate</LinkItem>
               <LinkItem to="/unterstuetzer">Unterstützer</LinkItem>
               <LinkItem to="/about">About</LinkItem>
               <LinkItem to="/mitmachen">Mitmachen</LinkItem>
