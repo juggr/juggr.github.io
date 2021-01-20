@@ -73,7 +73,7 @@ const UnterstuetzerPage = ({ data }) => {
         logo={zeiss_logo}
         logoStyle={{maxHeight: "200px", maxWidth: "200px"}}
       >
-          <strong>Carl Zeiss Digital Innovation</strong> sponsert unser Catering und Getränke.
+          <strong>ZEISS Digital Innovation</strong> sponsert unser Catering und Getränke.
       </SupporterBox>
 
       <SupporterBox
