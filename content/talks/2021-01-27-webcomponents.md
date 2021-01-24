@@ -5,6 +5,7 @@ time: "19:00 Uhr"
 speaker: [manuel_mauky]
 tags: [web]
 virtual: true
+poster: ../images/plakat_2021_01.png
 ---
 
 Web-Components sind eine Möglichkeit, auf Basis von Web-Standards wiederverwendbare UI-Komponenten zu bauen,
