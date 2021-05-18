@@ -4,10 +4,29 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Tue, 26 Jan 2021 15:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 May 2021 20:20:26 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ultraschnelle Java In-Memory Datenbank-Anwendungen & Microservices mit MicroStream]]></title>
+            <link>https://jug-gr.de/talks/2021-05-26-microstream/</link>
+            <guid>https://jug-gr.de/talks/2021-05-26-microstream/</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Ultraschnelle Java In-Memory Datenbank-Anwendungen & Microservices mit MicroStream</h1>
+      <p>Date: May 26, 2021, 19:00 Uhr</p>
+      <p>Speakers: Christian Kümmel, Markus Kett</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></description>
+            <content:encoded><![CDATA[<p>MicroStream ist ein fundamental neues Persistenz-Framework für die native Speicherung komplexer Java Objektgraphen. D.h., Objekte werden damit genau so persistent gespeichert, wie diese im Hauptspeicher von der JVM verwaltet werden. Umgekehrt lassen sich zu jeder Zeit einzelne Subgraphen in den RAM laden und der Objektgraph im Hauptspeicher wird automatisch aktualisiert.</p>
+<p>Dadurch ergeben sich völlig neue Möglichkeiten: Objektgraphen lassen sich als In-Memory Datenbank verwenden. Ein Objektgraph ist dabei eine sehr mächtige Multi-Model Datenstruktur. Es lassen sich beliebige Java-Typen, Collections sowie Formate wie JSON verwenden und beliebig kombinieren. Passend dazu bietet Java die perfekte Abfragesprache. Mit Java Streams dauert das Durchsuchen selbst sehr großer und komplexer Objektgraphen nur Mikrosekunden - bis zu 1000 Mal schneller als vergleichbare SQL-Abfragen und sogar sehr viel schneller als das direkte Lesen von Abfrageergebnissen aus einem lokalen Cache. DB-spezifische Datenstrukturen oder Formate werden damit bedeutungslos für Java. Keine teuren Mappings mehr. Keine Datentyp-Konvertierungen mehr. Keine DB-spezifischen Abfragesprachen. Nur noch ein Datenmodell: Java-Klassen (POJOs). Kein zusätzliches Caching-Framework mehr. Keine unkomfortablen Objektkopien mehr. Simple Architektur und typsicherer Abfrage-Code. Reine Core-Java Features anstatt DB-spezifische Konzepte. Das Endresultat ist eine ultraschnelle Java In-Memory Datenbankanwendung oder Microservice.</p>
+<p>MicroStream wird bereits seit über 5 Jahren in Unternehmensanwendung produktiv eingesetzt. Jetzt wird MicroStream Open Source und Teil der populären Microservice Frameworks Helidon und Open Liberty.</p>
+<hr>
+<h2>Hinweis</h2>
+<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt: <a href="https://meet.digitale-oberlausitz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Web Components]]></title>
             <link>https://jug-gr.de/talks/2021-01-27-webcomponents/</link>
@@ -924,7 +943,7 @@ besprechen, die auch auf der JVM läuft.</p>
             <description><![CDATA[
       <h1>JavaFX auf Mobile</h1>
       <p>Date: November 25, 2015, 19:00 Uhr</p>
-      <p>Speakers: Stefan Barth, Stefan Heinze</p>
+      <p>Speakers: Stefan Heinze, Stefan Barth</p>
       <p>Location:</p>
       <address>
         Saxonia Systems AG
@@ -1958,27 +1977,6 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 </ul>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[EasyMock]]></title>
-            <link>https://jug-gr.de/talks/2011-03-22-easymock/</link>
-            <guid>https://jug-gr.de/talks/2011-03-22-easymock/</guid>
-            <pubDate>Tue, 22 Mar 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>EasyMock</h1>
-      <p>Date: March 22, 2011, 19:00 Uhr</p>
-      <p>Speakers: Richard Hauswald</p>
-      <p>Location:</p>
-      <address>
-        Hochschule Zittau/Görlitz
-        <br />
-        Obermarkt 17
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p><a href="http://easymock.org/">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es
-benutzen? All diese Fragen werden in der Präsentation beantwortet.</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Jenkins/Hudson]]></title>
             <link>https://jug-gr.de/talks/2011-03-22-jenkins/</link>
             <guid>https://jug-gr.de/talks/2011-03-22-jenkins/</guid>
@@ -2002,6 +2000,27 @@ man das Vorgehen, nach jeder Code-Änderung einen Build-Vorgang (inklusive Kompi
 durchzuführen. Damit kann sichergestellt werden, dass Fehlerhafte Änderungen sofort auffallen und behoben werden können.</p>
 <p>Im Vortrag werden die Begriffe "Build Management" und "Continuous Integration" näher erleutert und am konkreten Beispiel
 von Jenkins gezeigt, wie dies in der Praxis umgesetzt werden kann.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EasyMock]]></title>
+            <link>https://jug-gr.de/talks/2011-03-22-easymock/</link>
+            <guid>https://jug-gr.de/talks/2011-03-22-easymock/</guid>
+            <pubDate>Tue, 22 Mar 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>EasyMock</h1>
+      <p>Date: March 22, 2011, 19:00 Uhr</p>
+      <p>Speakers: Richard Hauswald</p>
+      <p>Location:</p>
+      <address>
+        Hochschule Zittau/Görlitz
+        <br />
+        Obermarkt 17
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p><a href="http://easymock.org/">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es
+benutzen? All diese Fragen werden in der Präsentation beantwortet.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
