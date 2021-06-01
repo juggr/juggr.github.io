@@ -4,14 +4,14 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Wed, 19 May 2021 06:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jun 2021 17:21:02 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ultraschnelle Java In-Memory Datenbank-Anwendungen & Microservices mit MicroStream]]></title>
-            <link>https://jug-gr.de/talks/2021-05-26-microstream/</link>
-            <guid>https://jug-gr.de/talks/2021-05-26-microstream/</guid>
+            <link>https://jug-gr.de/talks/2021-06-30-microstream/</link>
+            <guid>https://jug-gr.de/talks/2021-06-30-microstream/</guid>
             <pubDate>Wed, 30 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[
       <h1>Ultraschnelle Java In-Memory Datenbank-Anwendungen & Microservices mit MicroStream</h1>
