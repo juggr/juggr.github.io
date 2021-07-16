@@ -14,6 +14,13 @@ Dadurch ergeben sich völlig neue Möglichkeiten: Objektgraphen lassen sich als 
 
 MicroStream wird bereits seit über 5 Jahren in Unternehmensanwendung produktiv eingesetzt. Jetzt wird MicroStream Open Source und Teil der populären Microservice Frameworks Helidon und Open Liberty.
 
+
+**Materialien:**
+- [Folien zum Vortrag](/downloads/Java-In-Memory-DB-Applications-with-MicroStream-JUG-Goerlitz_PDF.pdf)
+
+
+
+
 ---
 
 ## Hinweis
