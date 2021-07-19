@@ -26,6 +26,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Build page
         run: |
+          git config --global user.email "github-actions@example.com"
+          git config --global user.name "Github Actions"
           yarn
           yarn run test
           yarn run deploy
