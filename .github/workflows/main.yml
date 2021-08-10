@@ -30,4 +30,9 @@ jobs:
           git config --global user.name "Github Actions"
           yarn
           yarn run test
-          yarn run deploy
+          yarn run build
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages
+          folder: public
