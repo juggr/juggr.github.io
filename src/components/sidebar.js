@@ -11,7 +11,7 @@ const Sidebar = ({ logo }) => (
     <div>
       <Row>
         <Col sm="6" xs="12" md="12">
-          <img alt="Logo der JUG Görlitz" src={require("../../content/images/logo.png")}/>
+          <img alt="Logo der JUG Görlitz" src={require("../../content/images/logo.png")} />
         </Col>
         <Col sm="6" xs="12" md="12">
           <h3>
@@ -51,7 +51,7 @@ const Sidebar = ({ logo }) => (
               </a>
             </li>
             <li>
-              <FontAwesomeIcon icon={faRss}/> Feeds:
+              <FontAwesomeIcon icon={faRss} /> Feeds:
               <ul>
                 <li>
                   <a href="/atom.xml">Atom</a>
@@ -71,13 +71,20 @@ const Sidebar = ({ logo }) => (
 
     <br />
 
-    <br/>
-    <a href="https://jax.de/">
-      <img alt="Banner für die WJAX 2021" src={require("../../content/images/wjax21_banner.jpg")} />
+    <br />
+    <a href="https://www.javaland.eu">
+      <img
+        alt="Banner für die JavaLand 2022 Konferenz"
+        src={require("../../content/images/javaland_2022_banner.jpg")}
+      />
     </a>
 
     <br />
+    <a href="https://jax.de/">
+      <img alt="Banner für die JAX 2022 Konferenz" src={require("../../content/images/jax22_banner.jpg")} />
+    </a>
 
+    <br />
   </div>
 )
 
