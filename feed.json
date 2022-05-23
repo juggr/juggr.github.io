@@ -6,6 +6,14 @@
     "description": "Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java",
     "items": [
         {
+            "id": "https://jug-gr.de/talks/2022-06-22-iot-infrastruktur-serverless/",
+            "content_html": "<p>Die Persistenz von IoT Daten sowie die Steuerung von IoT-Endgeräten benötigt im klassischen Verständnis eine Servereinheit. Bei den Bastlern sind das oft on-premise Raspberry-Pi-Geräte oder gehostete Linux-Maschinen. Ihre korrekte Konfiguration und anschließende Wartung kann Kopfzerbrechen bereiten. Es ist jedoch möglich, diese Verantwortung an den Cloud-Betreiber zu übertragen und eine entsprechende Infrastruktur zu schaffen. In der Hands-On-Session wird gezeigt, wie man mit der Erstellung der gewünschten Infrastruktur in der AWS-Cloud beginnen kann. Dazu wird ein Mikrocontroller vom Typ ESP als physisches IoT-Gerät verwendet.</p>",
+            "url": "https://jug-gr.de/talks/2022-06-22-iot-infrastruktur-serverless/",
+            "title": "Hebe deine IoT-Infrastruktur auf das Serverless-Level an",
+            "summary": "\n      <h1>Hebe deine IoT-Infrastruktur auf das Serverless-Level an</h1>\n      <p>Date: June 22, 2022, 19:00 Uhr</p>\n      <p>Speakers: Pawel Adaszewski</p>\n      <p>Location:</p>\n      <address>\n        Carl Zeiss Digital Innovation\n        <br />\n        Berliner Straße 63\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2022-06-22T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2021-06-30-microstream/",
             "content_html": "<p>MicroStream ist ein fundamental neues Persistenz-Framework für die native Speicherung komplexer Java Objektgraphen. D.h., Objekte werden damit genau so persistent gespeichert, wie diese im Hauptspeicher von der JVM verwaltet werden. Umgekehrt lassen sich zu jeder Zeit einzelne Subgraphen in den RAM laden und der Objektgraph im Hauptspeicher wird automatisch aktualisiert.</p>\n<p>Dadurch ergeben sich völlig neue Möglichkeiten: Objektgraphen lassen sich als In-Memory Datenbank verwenden. Ein Objektgraph ist dabei eine sehr mächtige Multi-Model Datenstruktur. Es lassen sich beliebige Java-Typen, Collections sowie Formate wie JSON verwenden und beliebig kombinieren. Passend dazu bietet Java die perfekte Abfragesprache. Mit Java Streams dauert das Durchsuchen selbst sehr großer und komplexer Objektgraphen nur Mikrosekunden - bis zu 1000 Mal schneller als vergleichbare SQL-Abfragen und sogar sehr viel schneller als das direkte Lesen von Abfrageergebnissen aus einem lokalen Cache. DB-spezifische Datenstrukturen oder Formate werden damit bedeutungslos für Java. Keine teuren Mappings mehr. Keine Datentyp-Konvertierungen mehr. Keine DB-spezifischen Abfragesprachen. Nur noch ein Datenmodell: Java-Klassen (POJOs). Kein zusätzliches Caching-Framework mehr. Keine unkomfortablen Objektkopien mehr. Simple Architektur und typsicherer Abfrage-Code. Reine Core-Java Features anstatt DB-spezifische Konzepte. Das Endresultat ist eine ultraschnelle Java In-Memory Datenbankanwendung oder Microservice.</p>\n<p>MicroStream wird bereits seit über 5 Jahren in Unternehmensanwendung produktiv eingesetzt. Jetzt wird MicroStream Open Source und Teil der populären Microservice Frameworks Helidon und Open Liberty.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/Java-In-Memory-DB-Applications-with-MicroStream-JUG-Goerlitz_PDF.pdf\">Folien zum Vortrag</a></li>\n</ul>\n<hr>\n<h2>Hinweis</h2>\n<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt: <a href=\"https://meet.digitale-oberlausitz.eu/jug\">https://meet.digitale-oberlausitz.eu/jug</a></p>",
             "url": "https://jug-gr.de/talks/2021-06-30-microstream/",
@@ -282,7 +290,7 @@
             "content_html": "<p>JavaFX ist die neue Java-Technologie im Desktop-Bereich und somit die Ablösung von Swing.\nDamit ist es möglich Java-Anwendungen für Desktop, Browser und mobile Geräte zu entwickeln.\nAllerdings bietet Oracle keinen direkten Support für mobile Endgeräte an, sondern überlässt dies der Community.</p>\n<p>In dem Vortrag geht es um den Aktuellen Stand der Entwicklung in diesem Bereich.\nWas muss gemacht werden, um eine JavaFX-Anwendung auf einem Smartphone zum laufen zu bekommen und\nwelche Grenzen hat dieser Ansatz für die Entwicklung von mobilen Anwendungen mit JavaFX.</p>\n<p>Einen weiteren Ansatz verfolgt die Firma <a href=\"http://gluonhq.com/\">Gluon</a>\nzum Erstellen von mobilen Anwendungen auf JavaFX.\nEine gemeinsame Code-Basis für IOS- und Android-Anwendungen basierend auf JavaFX.\nWas derzeit damit möglich ist wird ebenfalls Inhalt des Vortrages sein.</p>\n<p>Abschließend wird unser Ansatz für mobile Anwendungen in JavaFX vorgestellt.\nMittels des MVVM-Pattern in Kombination mit JavaFX-Ports.\nVorgestellt wird der aktuelle Entwicklungsstand mit einer offenen Diskussion über Vor- und Nachteile des Ansatzes.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_javafx_on_mobile.pdf\">Vortragsfolien</a></li>\n</ul>",
             "url": "https://jug-gr.de/talks/2015-11-25-javafx-mobile/",
             "title": "JavaFX auf Mobile",
-            "summary": "\n      <h1>JavaFX auf Mobile</h1>\n      <p>Date: November 25, 2015, 19:00 Uhr</p>\n      <p>Speakers: Stefan Barth, Stefan Heinze</p>\n      <p>Location:</p>\n      <address>\n        Saxonia Systems AG\n        <br />\n        Berliner Straße 63\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "summary": "\n      <h1>JavaFX auf Mobile</h1>\n      <p>Date: November 25, 2015, 19:00 Uhr</p>\n      <p>Speakers: Stefan Heinze, Stefan Barth</p>\n      <p>Location:</p>\n      <address>\n        Saxonia Systems AG\n        <br />\n        Berliner Straße 63\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2015-11-25T00:00:00.000Z"
         },
         {
@@ -590,19 +598,19 @@
             "date_modified": "2011-04-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-03-22-easymock/",
-            "content_html": "<p><a href=\"http://easymock.org/\">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es\nbenutzen? All diese Fragen werden in der Präsentation beantwortet.</p>",
-            "url": "https://jug-gr.de/talks/2011-03-22-easymock/",
-            "title": "EasyMock",
-            "summary": "\n      <h1>EasyMock</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Richard Hauswald</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-03-22T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-03-22-jenkins/",
             "content_html": "<p><a href=\"http://hudson-ci.org/\">Hudson</a> bzw. <a href=\"http://jenkins-ci.org/\">Jenkins</a> ist ein Build-Server, der für\n<a href=\"http://de.wikipedia.org/wiki/Kontinuierliche_Integration\">Continuous Integration</a> eingesetzt wird. Darunter versteht\nman das Vorgehen, nach jeder Code-Änderung einen Build-Vorgang (inklusive Kompilieren des Codes und Ausführen der Tests)\ndurchzuführen. Damit kann sichergestellt werden, dass Fehlerhafte Änderungen sofort auffallen und behoben werden können.</p>\n<p>Im Vortrag werden die Begriffe \"Build Management\" und \"Continuous Integration\" näher erleutert und am konkreten Beispiel\nvon Jenkins gezeigt, wie dies in der Praxis umgesetzt werden kann.</p>",
             "url": "https://jug-gr.de/talks/2011-03-22-jenkins/",
             "title": "Jenkins/Hudson",
             "summary": "\n      <h1>Jenkins/Hudson</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Stefan Scheumann</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-03-22T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-03-22-easymock/",
+            "content_html": "<p><a href=\"http://easymock.org/\">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es\nbenutzen? All diese Fragen werden in der Präsentation beantwortet.</p>",
+            "url": "https://jug-gr.de/talks/2011-03-22-easymock/",
+            "title": "EasyMock",
+            "summary": "\n      <h1>EasyMock</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Richard Hauswald</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-03-22T00:00:00.000Z"
         }
     ]
