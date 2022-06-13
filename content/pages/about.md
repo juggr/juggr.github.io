@@ -68,10 +68,9 @@ Twitter: [@simawiel](https://twitter.com/simawiel)
     <img alt="Marlene Knoche" src="../images/marlene_knoche.jpg"/>
 </div>
 
-**CIDEON Software & Services GmbH & Co. KG**
+**Selbstständig**
 
-Software-Entwicklerin,  
-freischaffende Künstlerin und Illustratorin
+Freischaffende Künstlerin und Illustratorin
 
 [info@sanguinik.de](mailto:info@sanguinik.de)
 
