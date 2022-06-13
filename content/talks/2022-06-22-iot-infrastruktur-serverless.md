@@ -2,6 +2,7 @@
 title: "Hebe deine IoT-Infrastruktur auf das Serverless-Level an"
 date: 2022-06-22
 speaker: [pawel_adaszewski]
+poster: ../images/plakat_2022_06.png
 tags: [cloud,iot,serverless,infrastructure]
 location: zeiss
 show_on_frontpage: true
