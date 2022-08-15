@@ -1,12 +1,14 @@
 import React from "react"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
+import bannerJSON from "../../content/banner.json"
+
 import { faTwitter, faFacebook, faGithub } from "@fortawesome/free-brands-svg-icons"
 import { faEnvelope, faCalendarAlt, faRss } from "@fortawesome/free-solid-svg-icons"
 
 import { Col, Row } from "reactstrap"
 
-const Sidebar = ({ logo }) => (
+const Sidebar = () => (
   <div className="sidebar">
     <div>
       <Row>
@@ -71,20 +73,13 @@ const Sidebar = ({ logo }) => (
 
     <br />
 
-    <br />
-    <a href="https://www.javaland.eu">
-      <img
-        alt="Banner für die JavaLand 2022 Konferenz"
-        src={require("../../content/images/javaland_2022_banner.jpg")}
-      />
-    </a>
-
-    <br />
-    <a href="https://jax.de/">
-      <img alt="Banner für die JAX 2022 Konferenz" src={require("../../content/images/jax22_banner.jpg")} />
-    </a>
-
-    <br />
+    {bannerJSON.banner.map(banner => (
+      <div key={banner.id} className="banner">
+        <a href={banner.linkTarget}>
+          <img alt={banner.altText} src={require(`../../content/images/${banner.imageName}`)} />
+        </a>
+      </div>
+    ))}
   </div>
 )
 
