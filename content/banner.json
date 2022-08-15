@@ -7,6 +7,12 @@
       "altText": "Banner für JUG Saxony Day 2022"
     },
     {
+      "id": "wjax_2022",
+      "imageName": "banner_wjax_2022.png",
+      "linkTarget": "https://jax.de/munich/",
+      "altText": "Banner für W-JAX 2022"
+    },
+    {
       "id": "jdd_2022",
       "imageName": "jdd_2022_banner.png",
       "linkTarget": "https://jdd.org.pl/jugmajster-2022/",
