@@ -1,6 +1,12 @@
 {
   "banner": [
     {
+      "id": "jug_saxony_day_2022",
+      "imageName": "banner_jug_saxony_day_2022.png",
+      "linkTarget": "https://jugsaxony.day/",
+      "altText": "Banner für JUG Saxony Day 2022"
+    },
+    {
       "id": "jdd_2022",
       "imageName": "jdd_2022_banner.png",
       "linkTarget": "https://jdd.org.pl/jugmajster-2022/",
