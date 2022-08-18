@@ -1,16 +1,16 @@
 {
   "banner": [
     {
+      "id": "wjax_2022",
+      "imageName": "banner_wjax_2022.jpg",
+      "linkTarget": "https://jax.de/munich/",
+      "altText": "Banner für W-JAX 2022"
+    },
+    {
       "id": "jug_saxony_day_2022",
       "imageName": "banner_jug_saxony_day_2022.png",
       "linkTarget": "https://jugsaxony.day/",
       "altText": "Banner für JUG Saxony Day 2022"
-    },
-    {
-      "id": "wjax_2022",
-      "imageName": "banner_wjax_2022.png",
-      "linkTarget": "https://jax.de/munich/",
-      "altText": "Banner für W-JAX 2022"
     },
     {
       "id": "jdd_2022",
