@@ -6,6 +6,14 @@
     "description": "Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java",
     "items": [
         {
+            "id": "https://jug-gr.de/talks/2022-10-12-indistrie_4.0/",
+            "content_html": "<p>Mit der <em>fischertechnik</em> Lernfabrik haben wir eine Fabrik im Kleinformat! Steuerung, Edge und Cloud in Einem!</p>\n<p>In diesem Vortrag lernen wir die Technologien und Möglichkeiten von Industrie 4.0 praktisch kennen. Wir nutzen das Industrieprotokoll <em>OPC-UA</em> zur Maschinenkommunikation und Edge-Services um Fabrikdaten in die Cloud zu laden. Wir sehen uns die Services hinter einem Dashboard an und mit der Siemens <em>S7</em> Steuerung tunen wir unsere Fabrik.</p>\n<hr>\n<p>Hinweis: Bitte meldet euch zur <strong>Teilnahme über jug-gr(at)digitale-oberlausitz.eu</strong> an. Wir haben eine begrenzte Anzahl von 25 Plätzen zur Verfügung, die nicht überschritten werden darf.</p>",
+            "url": "https://jug-gr.de/talks/2022-10-12-indistrie_4.0/",
+            "title": "Industrie 4.0? Das JUGt mich!",
+            "summary": "\n      <h1>Industrie 4.0? Das JUGt mich!</h1>\n      <p>Date: October 12, 2022, 19:00 Uhr</p>\n      <p>Speakers: Marco Gotthans</p>\n      <p>Location:</p>\n      <address>\n        Carl Zeiss Digital Innovation\n        <br />\n        Berliner Straße 63\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2022-10-12T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2022-06-22-iot-infrastruktur-serverless/",
             "content_html": "<p>Die Persistenz von IoT Daten sowie die Steuerung von IoT-Endgeräten benötigt im klassischen Verständnis eine Servereinheit. Bei den Bastlern sind das oft on-premise Raspberry-Pi-Geräte oder gehostete Linux-Maschinen. Ihre korrekte Konfiguration und anschließende Wartung kann Kopfzerbrechen bereiten. Es ist jedoch möglich, diese Verantwortung an den Cloud-Betreiber zu übertragen und eine entsprechende Infrastruktur zu schaffen. In der Hands-On-Session wird gezeigt, wie man mit der Erstellung der gewünschten Infrastruktur in der AWS-Cloud beginnen kann. Dazu wird ein Mikrocontroller vom Typ ESP als physisches IoT-Gerät verwendet.</p>\n<hr>\n<p>Hinweis: Bitte meldet euch zur <strong>Teilnahme über jug-gr(at)digitale-oberlausitz.eu</strong> an. Wir haben eine begrenzte Anzahl von 25 Plätzen zur Verfügung, die nicht überschritten werden darf.</p>",
             "url": "https://jug-gr.de/talks/2022-06-22-iot-infrastruktur-serverless/",

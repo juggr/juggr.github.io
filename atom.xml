@@ -2,11 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title>Java User Group Görlitz</title>
-    <updated>2022-06-08T18:09:39.063Z</updated>
+    <updated>2022-08-25T05:28:26.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
     <subtitle>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Industrie 4.0? Das JUGt mich!]]></title>
+        <id>https://jug-gr.de/talks/2022-10-12-indistrie_4.0/</id>
+        <link href="https://jug-gr.de/talks/2022-10-12-indistrie_4.0/"/>
+        <updated>2022-10-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>Industrie 4.0? Das JUGt mich!</h1>
+      <p>Date: October 12, 2022, 19:00 Uhr</p>
+      <p>Speakers: Marco Gotthans</p>
+      <p>Location:</p>
+      <address>
+        Carl Zeiss Digital Innovation
+        <br />
+        Berliner Straße 63
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></summary>
+        <content type="html"><![CDATA[<p>Mit der <em>fischertechnik</em> Lernfabrik haben wir eine Fabrik im Kleinformat! Steuerung, Edge und Cloud in Einem!</p>
+<p>In diesem Vortrag lernen wir die Technologien und Möglichkeiten von Industrie 4.0 praktisch kennen. Wir nutzen das Industrieprotokoll <em>OPC-UA</em> zur Maschinenkommunikation und Edge-Services um Fabrikdaten in die Cloud zu laden. Wir sehen uns die Services hinter einem Dashboard an und mit der Siemens <em>S7</em> Steuerung tunen wir unsere Fabrik.</p>
+<hr>
+<p>Hinweis: Bitte meldet euch zur <strong>Teilnahme über jug-gr(at)digitale-oberlausitz.eu</strong> an. Wir haben eine begrenzte Anzahl von 25 Plätzen zur Verfügung, die nicht überschritten werden darf.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hebe deine IoT-Infrastruktur auf das Serverless-Level an]]></title>
         <id>https://jug-gr.de/talks/2022-06-22-iot-infrastruktur-serverless/</id>
