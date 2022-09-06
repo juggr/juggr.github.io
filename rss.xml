@@ -4,7 +4,7 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Thu, 25 Aug 2022 05:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 06:21:49 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
@@ -1830,26 +1830,6 @@ Praxis erläutert wurden.</p>
 <a href="http://max-wielsch.blogspot.de/2011/10/android-der-vortrag-in-der-java-user.html">Blog</a> heruntergeladen werden.</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Single Sign-On mit JAAS und JGSS]]></title>
-            <link>https://jug-gr.de/talks/2011-09-28-single-sign-on/</link>
-            <guid>https://jug-gr.de/talks/2011-09-28-single-sign-on/</guid>
-            <pubDate>Wed, 28 Sep 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>Single Sign-On mit JAAS und JGSS</h1>
-      <p>Date: September 28, 2011, 19:00 Uhr</p>
-      <p>Speakers: Mario Reichel</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[JDOM]]></title>
             <link>https://jug-gr.de/talks/2011-09-28-jdom/</link>
             <guid>https://jug-gr.de/talks/2011-09-28-jdom/</guid>
@@ -1870,6 +1850,26 @@ Praxis erläutert wurden.</p>
             <content:encoded><![CDATA[<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Single Sign-On mit JAAS und JGSS]]></title>
+            <link>https://jug-gr.de/talks/2011-09-28-single-sign-on/</link>
+            <guid>https://jug-gr.de/talks/2011-09-28-single-sign-on/</guid>
+            <pubDate>Wed, 28 Sep 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Single Sign-On mit JAAS und JGSS</h1>
+      <p>Date: September 28, 2011, 19:00 Uhr</p>
+      <p>Speakers: Mario Reichel</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Testen - Patterns und Best Practices]]></title>
             <link>https://jug-gr.de/talks/2011-08-31-testen/</link>
             <guid>https://jug-gr.de/talks/2011-08-31-testen/</guid>
@@ -1888,26 +1888,6 @@ Praxis erläutert wurden.</p>
       </address>
   ]]></description>
             <content:encoded><![CDATA[<p>Das Thema wird diesmal Testen sein. Marko Modsching wird Testpatterns und Best Practices vorstellen </p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TestNG]]></title>
-            <link>https://jug-gr.de/talks/2011-07-27-testng/</link>
-            <guid>https://jug-gr.de/talks/2011-07-27-testng/</guid>
-            <pubDate>Wed, 27 Jul 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>TestNG</h1>
-      <p>Date: July 27, 2011, 19:00 Uhr</p>
-      <p>Speakers: Marcus Döring</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p>TestNG (Marcus Döring) </p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Scala]]></title>
@@ -1933,6 +1913,26 @@ Praxis erläutert wurden.</p>
 <li><a href="/downloads/juggr_scala.pdf">Vortragsfolien</a></li>
 <li><a href="/downloads/code_scala.zip">Beispiel-Code</a></li>
 </ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TestNG]]></title>
+            <link>https://jug-gr.de/talks/2011-07-27-testng/</link>
+            <guid>https://jug-gr.de/talks/2011-07-27-testng/</guid>
+            <pubDate>Wed, 27 Jul 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>TestNG</h1>
+      <p>Date: July 27, 2011, 19:00 Uhr</p>
+      <p>Speakers: Marcus Döring</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>TestNG (Marcus Döring) </p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[JavaEE und JBoss]]></title>
