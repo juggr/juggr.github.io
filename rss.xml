@@ -4,7 +4,7 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 08:53:10 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
@@ -27,6 +27,36 @@
       </address>
   ]]></description>
             <content:encoded><![CDATA[<p>Mit der <em>fischertechnik</em> Lernfabrik haben wir eine Fabrik im Kleinformat! Steuerung, Edge und Cloud in Einem!</p>
+<p><span
+      class="gatsby-resp-image-wrapper"
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 600px; "
+    >
+      <a
+    class="gatsby-resp-image-link"
+    href="/static/903efdec1e01931509b749db26582149/31198/lernfabrik.png"
+    style="display: block"
+    target="_blank"
+    rel="noopener"
+  >
+    <span
+    class="gatsby-resp-image-background-image"
+    style="padding-bottom: 147.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,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'); background-size: cover; display: block;"
+  ></span>
+  <img
+        class="gatsby-resp-image-image"
+        alt="Lernfabrik"
+        title="Lernfabrik"
+        src="/static/903efdec1e01931509b749db26582149/0a47e/lernfabrik.png"
+        srcset="/static/903efdec1e01931509b749db26582149/8a4e8/lernfabrik.png 150w,
+/static/903efdec1e01931509b749db26582149/5a46d/lernfabrik.png 300w,
+/static/903efdec1e01931509b749db26582149/0a47e/lernfabrik.png 600w,
+/static/903efdec1e01931509b749db26582149/31198/lernfabrik.png 694w"
+        sizes="(max-width: 600px) 100vw, 600px"
+        style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
+        loading="lazy"
+      />
+  </a>
+    </span></p>
 <p>In diesem Vortrag lernen wir die Technologien und Möglichkeiten von Industrie 4.0 praktisch kennen. Wir nutzen das Industrieprotokoll <em>OPC-UA</em> zur Maschinenkommunikation und Edge-Services um Fabrikdaten in die Cloud zu laden. Wir sehen uns die Services hinter einem Dashboard an und mit der Siemens <em>S7</em> Steuerung tunen wir unsere Fabrik.</p>
 <hr>
 <p>Hinweis: Bitte meldet euch zur <strong>Teilnahme über jug-gr(at)digitale-oberlausitz.eu</strong> an. Wir haben eine begrenzte Anzahl von 25 Plätzen zur Verfügung, die nicht überschritten werden darf.</p>]]></content:encoded>
