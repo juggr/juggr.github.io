@@ -6,9 +6,9 @@
     "description": "Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java",
     "items": [
         {
-            "id": "https://jug-gr.de/talks/2023-01-25-contantlab/",
+            "id": "https://jug-gr.de/talks/2023-01-25-contentlab/",
             "content_html": "<p>Wird in kürze aktualisiert.</p>",
-            "url": "https://jug-gr.de/talks/2023-01-25-contantlab/",
+            "url": "https://jug-gr.de/talks/2023-01-25-contentlab/",
             "title": "Contentlab",
             "summary": "\n      <h1>Contentlab</h1>\n      <p>Date: January 25, 2023, 19:00 Uhr</p>\n      <p>Speakers: Markus Weiland</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",
             "date_modified": "2023-01-25T00:00:00.000Z"
