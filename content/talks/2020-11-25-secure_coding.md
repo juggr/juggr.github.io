@@ -3,7 +3,7 @@ title: "Java Secure Coding in der Praxis"
 date: 2020-11-25
 time: "19:00 Uhr"
 speaker: [nico_foerster]
-tags: [java]
+tags: [java, security]
 virtual: true
 poster: ../images/plakat_2020_11.png
 ---

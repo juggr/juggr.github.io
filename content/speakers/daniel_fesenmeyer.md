@@ -1,0 +1,7 @@
+---
+name: Daniel Fesenmeyer
+pic: ../images/speaker_daniel_fesenmeyer.jpg
+---
+
+Daniel arbeitet als Software Entwickler bei Bosch IO (Berlin). Seine Schwerpunkte sind Backend-Entwicklung, Testing und IAM.
+Derzeit besteht seine Haupttätigkeit darin, Keycloak-Erweiterungen und -Bugfixes zu implementieren, sowohl in Kundenprojekten als auch in der Open Source Community.
