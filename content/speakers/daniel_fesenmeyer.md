@@ -1,6 +1,7 @@
 ---
 name: Daniel Fesenmeyer
 pic: ../images/speaker_daniel_fesenmeyer.jpg
+twitter_name: fesicraft
 ---
 
 Daniel arbeitet als Software Entwickler bei Bosch IO (Berlin). Seine Schwerpunkte sind Backend-Entwicklung, Testing und IAM.
