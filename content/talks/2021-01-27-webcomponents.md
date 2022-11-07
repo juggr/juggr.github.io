@@ -1,7 +1,6 @@
 ---
 title: "Web Components"
 date: 2021-01-27
-time: "19:00 Uhr"
 speaker: [manuel_mauky]
 tags: [web]
 virtual: true

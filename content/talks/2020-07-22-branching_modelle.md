@@ -1,7 +1,6 @@
 ---
 title: "Branching-Modelle"
 date: 2020-07-22
-time: "19:00 Uhr"
 speaker: [hannes_kretschmer]
 tags: [java]
 virtual: true

@@ -3,7 +3,6 @@ title: "Kundenspezifisches IAM mit Keycloak"
 date: 2022-11-30
 speaker: [daniel_fesenmeyer]
 tags: [security]
-show_on_frontpage: true
 ---
 
 Keycloak ist ein Open Source IAM (Identity and Access Management) System, das größtenteils in Java implementiert ist.  
