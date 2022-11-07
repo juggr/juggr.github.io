@@ -4,10 +4,41 @@
         <title>Java User Group Görlitz</title>
         <link>https://jug-gr.de/</link>
         <description>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</description>
-        <lastBuildDate>Wed, 21 Sep 2022 08:53:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 12:48:22 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <atom:link href="https://jug-gr.de/atom.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contentlab]]></title>
+            <link>https://jug-gr.de/talks/2023-01-25-contantlab/</link>
+            <guid>https://jug-gr.de/talks/2023-01-25-contantlab/</guid>
+            <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Contentlab</h1>
+      <p>Date: January 25, 2023, 19:00 Uhr</p>
+      <p>Speakers: Markus Weiland</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></description>
+            <content:encoded><![CDATA[<p>Wird in kürze aktualisiert.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kundenspezifisches IAM mit Keycloak]]></title>
+            <link>https://jug-gr.de/talks/2022-11-30-iam-keycloak/</link>
+            <guid>https://jug-gr.de/talks/2022-11-30-iam-keycloak/</guid>
+            <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Kundenspezifisches IAM mit Keycloak</h1>
+      <p>Date: November 30, 2022, 19:00 Uhr</p>
+      <p>Speakers: Daniel Fesenmeyer</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></description>
+            <content:encoded><![CDATA[<p>Keycloak ist ein Open Source IAM (Identity and Access Management) System, das größtenteils in Java implementiert ist.<br>
+Es wird von vielen Unternehmen eingesetzt, um Authentifizierung und Authorisierung für verschiedenste Anwendungen umzusetzen.
+Eine große Stärke von Keycloak ist die Konfigurierbarkeit und Erweiterbarkeit.<br>
+Im Vortrag wird ein Überblick über die Konfigurations- und Erweiterungsmöglichkeiten gegeben. In einer Live-Demo wird gezeigt, wie man diese Möglichkeiten nutzen kann, um ein kundenspezifisches IAM bereitzustellen.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Industrie 4.0? Das JUGt mich!]]></title>
             <link>https://jug-gr.de/talks/2022-10-12-indistrie_4.0/</link>
