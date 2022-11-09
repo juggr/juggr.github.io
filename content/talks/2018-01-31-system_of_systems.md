@@ -19,4 +19,5 @@ Ursprungssystems stark verbessert und im Falle einer Aufteilung in unabhängige 
 führt.
 
 **Materialien:**
+
 - [Folien zum Vortrag](https://speakerdeck.com/olivergierke/refactoring-to-a-system-of-systems)

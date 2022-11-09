@@ -49,7 +49,6 @@ Twitter: [@manuel_mauky](https://twitter.com/manuel_mauky)
     <img alt="Max Wielsch" src="../images/max_wielsch.jpg"/>
 </div>
 
-
 **Carl Zeiss Digital Innovation**
 
 Software-Entwickler
@@ -85,7 +84,6 @@ Twitter: [@SanguinikDE](https://twitter.com/SanguinikDE)
 <div class="about-organizer-image">
     <img alt="Markus Ullrich" src="../images/markus_ullrich.jpg"/>
 </div>
-
 
 **Hochschule Zittau/Görlitz**
 

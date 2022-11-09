@@ -7,19 +7,20 @@ location: hochschule_campus
 poster: ../images/plakat_2018_06.png
 ---
 
-Unveränderliche Datenstrukturen sind ein wichtiges Werkzeug der funktionalen Programmierung.
-Aber auch abseits dessen können Immutables ungemein nützlich sein: Richtig angewandt erhöhen sie die Verständlichkeit des Codes,
-da EntwicklerInnen nicht mehr auf die mühsame Suche gehen müssen,
-an welcher Stelle ein Objekt möglicherweise ungewollt verändert wurde.
-Darüber hinaus sind Immutables inhärent Threadsafe und können auch hier die Nachvollziehbarkeit des Codes erhöhen.
+Unveränderliche Datenstrukturen sind ein wichtiges Werkzeug der funktionalen Programmierung. Aber auch abseits dessen
+können Immutables ungemein nützlich sein: Richtig angewandt erhöhen sie die Verständlichkeit des Codes, da
+EntwicklerInnen nicht mehr auf die mühsame Suche gehen müssen, an welcher Stelle ein Objekt möglicherweise ungewollt
+verändert wurde. Darüber hinaus sind Immutables inhärent Threadsafe und können auch hier die Nachvollziehbarkeit des
+Codes erhöhen.
 
-Da Java als Sprache aber keine besondere Unterstützung für Immutables mitbringt,
-müssen EntwicklerInnen auf Patterns und Bibliotheken zurückgreifen, um in den Genuss von unveränderlichen Datenstrukturen zu kommen.
-Denn natürlich müssen auch in funktionalen Programmen letztlich Veränderungen der Daten abgebildet werden und dafür bedarf es geeigneter Unterstützung.
+Da Java als Sprache aber keine besondere Unterstützung für Immutables mitbringt, müssen EntwicklerInnen auf Patterns und
+Bibliotheken zurückgreifen, um in den Genuss von unveränderlichen Datenstrukturen zu kommen. Denn natürlich müssen auch
+in funktionalen Programmen letztlich Veränderungen der Daten abgebildet werden und dafür bedarf es geeigneter
+Unterstützung.
 
-Im Vortrag möchte ich neben einer grundsätzlichen Einführung in die Thematik auch einige dieser Techniken vorstellen und ihre Vor- und Nachteile besprechen.
+Im Vortrag möchte ich neben einer grundsätzlichen Einführung in die Thematik auch einige dieser Techniken vorstellen und
+ihre Vor- und Nachteile besprechen.
 
 **Materialien:**
+
 - [Folien zum Vortrag](https://docs.google.com/presentation/d/1xKfrXV5XY7NBdpdlHapW6-88vtN9ASdjmEDtGEAWGpk/edit?usp=sharing)
-
-

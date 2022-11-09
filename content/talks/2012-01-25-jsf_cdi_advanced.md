@@ -6,8 +6,8 @@ speaker: [manuel_mauky]
 location: hochschule_obermarkt
 ---
 
-Dieser Vortrag baut auf den Vortrag zur ["Einführung in JavaServer Faces 2"](/talks/2011-11-30-jsf-cdi) auf. Es
-werden fortgeschrittene Techniken aus dem Bereich JSF vorgestellt:
+Dieser Vortrag baut auf den Vortrag zur ["Einführung in JavaServer Faces 2"](/talks/2011-11-30-jsf-cdi) auf. Es werden
+fortgeschrittene Techniken aus dem Bereich JSF vorgestellt:
 
 - Navigation mit JSF
 - Templates und Wiederverwendung von Facelets

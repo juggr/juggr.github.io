@@ -15,4 +15,5 @@ und Non-SAP-Lösungen ermöglichen. Im Vortrag wird illustriert, wie die Verbind
 SAP On-Premise System hergestellt und dessen Funktionalität in der Cloud genutzt wird.
 
 **Materialien:**
+
 - [Folien zum Vortrag](https://github.com/juggr/juggr.github.io/blob/master/downloads/juggr_java_auf_sap_cloud.pdf)

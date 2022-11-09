@@ -5,5 +5,4 @@ speaker: [markus_weiland]
 tags: [platform, web]
 ---
 
-
 Wird in kürze aktualisiert.

@@ -14,8 +14,8 @@ Session zeigt, wie sich dank BaaS, FaaS und einiger anderer Akronyme, Mobile und
 lassen - ganz ohne Server! Ganz ohne? Naja, fast.
 
 **Materialien:**
-- [Folien zum Vortrag](https://www.dropbox.com/s/nrt9jb5mtwkxh2s/se_serverless.pdf)
 
+- [Folien zum Vortrag](https://www.dropbox.com/s/nrt9jb5mtwkxh2s/se_serverless.pdf)
 
 ---
 

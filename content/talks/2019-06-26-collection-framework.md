@@ -15,4 +15,5 @@ und Schwächen der einzelnen Implementierungen zu kennen. Dieser Vortrag diskuti
 Laufzeitverhalten und sinnvolle Initialisierung anhand einiger ausgewählter Collection-Klassen.
 
 **Materialien:**
+
 - [Folien zum Vortrag](/downloads/juggr_java_collections.pdf)

@@ -8,4 +8,5 @@ poster: ../images/plakat_2019_11.png
 show_on_frontpage: true
 ---
 
-Hattest du auch schon mal das Problem, dass du deine eigenen komplizierten und unleserlichen Testfälle nicht mehr verstanden hast? Wir kennen das Problem und zeigen euch mögliche Lösungen.
+Hattest du auch schon mal das Problem, dass du deine eigenen komplizierten und unleserlichen Testfälle nicht mehr
+verstanden hast? Wir kennen das Problem und zeigen euch mögliche Lösungen.
