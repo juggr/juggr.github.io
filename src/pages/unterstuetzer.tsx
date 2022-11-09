@@ -1,4 +1,4 @@
-import React, { FC, ReactChild } from "react";
+import React, { FC, ReactChild } from "react"
 
 import { graphql } from "gatsby"
 
@@ -36,12 +36,12 @@ const style = {
 }
 
 type Link = {
-  link: string,
-  logo: any,
+  link: string
+  logo: any
   logoStyle?: object
 }
 
-const SupporterBoxMultiImage: FC<{links: Array<Link>, children: React.ReactNode}> = ({ links, children }) => (
+const SupporterBoxMultiImage: FC<{ links: Array<Link>; children: React.ReactNode }> = ({ links, children }) => (
   <div style={style}>
     <Row>
       {links.map((linkTuple, i) => (
@@ -56,9 +56,12 @@ const SupporterBoxMultiImage: FC<{links: Array<Link>, children: React.ReactNode}
   </div>
 )
 
-const SupporterBox: FC<{link: string, logo: any, logoStyle?: object, children: React.ReactNode}> = ({ link, logo, logoStyle, children }) => (
-  <SupporterBoxMultiImage links={[{ link, logo, logoStyle }]}>{children}</SupporterBoxMultiImage>
-)
+const SupporterBox: FC<{ link: string; logo: any; logoStyle?: object; children: React.ReactNode }> = ({
+  link,
+  logo,
+  logoStyle,
+  children,
+}) => <SupporterBoxMultiImage links={[{ link, logo, logoStyle }]}>{children}</SupporterBoxMultiImage>
 
 const UnterstuetzerPage = ({ data }) => {
   const { zeiss_logo, mitp_logo, sands_logo, entwickler_tutorials_logo } = data
@@ -118,7 +121,6 @@ const UnterstuetzerPage = ({ data }) => {
         mapsLink="https://www.google.de/maps?q=G%C3%B6rlitz+Berliner+Stra%C3%9Fe+63&ie=UTF8&sll=51.139990000000004,14.964935399999993&sspn=0.25938504233517495,0.9385794045212804&t=m&dg=opt&hnear=Berliner+Stra%C3%9Fe+63,+02826+G%C3%B6rlitz&z=16"
         addressFields={["Berliner Straße 63", "02826 Görlitz"]}
       />
-
     </Layout>
   )
 }

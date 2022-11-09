@@ -15,43 +15,43 @@ const config: GatsbyConfig = {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "posts",
-        path: path.resolve("content/posts")
-      }
+        path: path.resolve("content/posts"),
+      },
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "speakers",
-        path: path.resolve("content/speakers")
-      }
+        path: path.resolve("content/speakers"),
+      },
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "pages",
-        path: path.resolve("content/pages")
-      }
+        path: path.resolve("content/pages"),
+      },
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "talks",
-        path: path.resolve("content/talks")
-      }
+        path: path.resolve("content/talks"),
+      },
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "locations",
-        path: path.resolve("content/locations")
-      }
+        path: path.resolve("content/locations"),
+      },
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "images",
-        path: path.resolve("content/images")
-      }
+        path: path.resolve("content/images"),
+      },
     },
     {
       resolve: "gatsby-transformer-remark",
@@ -60,11 +60,11 @@ const config: GatsbyConfig = {
           {
             resolve: "gatsby-remark-images",
             options: {
-              maxWidth: 600
-            }
-          }
-        ]
-      }
+              maxWidth: 600,
+            },
+          },
+        ],
+      },
     },
     "gatsby-plugin-catch-links",
     {
@@ -84,8 +84,8 @@ const config: GatsbyConfig = {
         background_color: "#fff",
         theme_color: "#337ab7",
         display: "minimal-ui",
-        icon: "content/images/icon.png"
-      }
+        icon: "content/images/icon.png",
+      },
     },
   ],
 }

@@ -42,11 +42,11 @@ h2 {
 }
 
 .sidebar .banner a {
-    display: block;
+  display: block;
 }
 .sidebar .banner a:hover {
-    text-decoration: none;
-    background-image: none;
+  text-decoration: none;
+  background-image: none;
 }
 
 a {

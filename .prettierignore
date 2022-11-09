@@ -1,0 +1,8 @@
+.cache
+.git
+.idea
+node_modules
+public
+static
+
+.DS_Store

@@ -6,7 +6,7 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "testprod": "gatsby build && gatsby serve",
-    "format": "prettier --write 'src/**/*.{ts,tsx}'",
+    "format": "prettier --write .",
     "deploy": "gatsby build && gh-pages -d public -b master",
     "test": "jest"
   },
