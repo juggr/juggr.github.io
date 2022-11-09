@@ -66,9 +66,8 @@ export const createFeeds = async ({ graphql }: Pick<BuildArgs, "graphql">) => {
           site_url: siteUrl
         }
       }
-
       talks: allMarkdownRemark(
-        sort: { fields: [frontmatter___date], order: DESC }
+        sort: { frontmatter: { date: DESC } }
         filter: { fields: { sourceName: { eq: "talks" } } }
       ) {
         edges {
@@ -87,7 +86,6 @@ export const createFeeds = async ({ graphql }: Pick<BuildArgs, "graphql">) => {
           }
         }
       }
-
       speakers: allMarkdownRemark(filter: { fields: { sourceName: { eq: "speakers" } } }) {
         edges {
           node {
@@ -101,7 +99,6 @@ export const createFeeds = async ({ graphql }: Pick<BuildArgs, "graphql">) => {
           }
         }
       }
-
       locations: allMarkdownRemark(filter: { fields: { sourceName: { eq: "locations" } } }) {
         edges {
           node {
@@ -109,7 +106,6 @@ export const createFeeds = async ({ graphql }: Pick<BuildArgs, "graphql">) => {
               slug
               locationId
             }
-
             frontmatter {
               name
               info

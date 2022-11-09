@@ -43,10 +43,9 @@ export const query = graphql`
         }
       }
     }
-
     speakers: allMarkdownRemark(
       filter: { fields: { slug: { in: $speakerSlugs } } }
-      sort: { fields: frontmatter___name, order: ASC }
+      sort: { frontmatter: { name: ASC } }
     ) {
       edges {
         node {
@@ -69,7 +68,6 @@ export const query = graphql`
         }
       }
     }
-
     location: markdownRemark(fields: { slug: { eq: $locationSlug } }) {
       fields {
         slug

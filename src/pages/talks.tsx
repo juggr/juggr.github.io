@@ -53,9 +53,9 @@ const TalksPage = ({ data }) => {
 export default TalksPage
 
 export const query = graphql`
-  query {
+  {
     talks: allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { frontmatter: { date: DESC } }
       filter: { fields: { sourceName: { eq: "talks" } } }
     ) {
       edges {
@@ -75,7 +75,6 @@ export const query = graphql`
         }
       }
     }
-
     speakers: allMarkdownRemark(filter: { fields: { sourceName: { eq: "speakers" } } }) {
       edges {
         node {

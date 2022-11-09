@@ -67,10 +67,9 @@ export const query = graphql`
         }
       }
     }
-
     talks: allMarkdownRemark(
       filter: { fields: { sourceName: { eq: "talks" } }, frontmatter: { speaker: { eq: $speakerId } } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { frontmatter: { date: DESC } }
     ) {
       edges {
         node {

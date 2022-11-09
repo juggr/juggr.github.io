@@ -36,9 +36,9 @@ const PostersPage = ({ data }) => {
 export default PostersPage
 
 export const query = graphql`
-  query {
+  {
     talks: allMarkdownRemark(
-      sort: { fields: frontmatter___date, order: DESC }
+      sort: { frontmatter: { date: DESC } }
       filter: { fields: { sourceName: { in: ["talks", "posts"] } } }
     ) {
       edges {

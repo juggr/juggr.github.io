@@ -50,10 +50,9 @@ export const query = graphql`
         city
       }
     }
-
     talks: allMarkdownRemark(
       filter: { fields: { sourceName: { eq: "talks" } }, frontmatter: { location: { eq: $locationId } } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { frontmatter: { date: DESC } }
     ) {
       edges {
         node {

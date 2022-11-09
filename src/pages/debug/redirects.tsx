@@ -48,10 +48,10 @@ const DebugRedirectsPage = ({ data }) => (
 export default DebugRedirectsPage
 
 export const query = graphql`
-  query {
+  {
     talks: allMarkdownRemark(
       filter: { fields: { legacySlug: { ne: null }, sourceName: { eq: "talks" } } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { frontmatter: { date: DESC } }
     ) {
       edges {
         node {

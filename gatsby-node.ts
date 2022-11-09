@@ -132,10 +132,7 @@ export const createPages = async ({ graphql, actions }) => {
 const createTalkPages = async ({ createPage, graphql, createRedirect }) => {
   const result = await graphql(`
     {
-      allMarkdownRemark(
-        sort: { fields: [frontmatter___date], order: DESC }
-        filter: { fields: { sourceName: { eq: "talks" } } }
-      ) {
+      allMarkdownRemark(sort: { frontmatter: { date: DESC } }, filter: { fields: { sourceName: { eq: "talks" } } }) {
         edges {
           node {
             id
@@ -189,10 +186,7 @@ const createTalkPages = async ({ createPage, graphql, createRedirect }) => {
 const createStaticPages = async ({ createPage, graphql }) => {
   const result = await graphql(`
     {
-      allMarkdownRemark(
-        sort: { fields: [frontmatter___date], order: DESC }
-        filter: { fields: { sourceName: { eq: "pages" } } }
-      ) {
+      allMarkdownRemark(sort: { frontmatter: { date: DESC } }, filter: { fields: { sourceName: { eq: "pages" } } }) {
         edges {
           node {
             id
