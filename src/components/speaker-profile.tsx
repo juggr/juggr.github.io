@@ -10,7 +10,7 @@ const SpeakerProfile = ({ speaker }) => {
     <Container>
       <Row>
         {speaker.frontmatter.pic && (
-          <Col sm="6" xs="12" style={{textAlign: "center", maxWidth: "400px"}}>
+          <Col sm="6" xs="12" style={{ textAlign: "center", maxWidth: "400px" }}>
             <Link to={speaker.fields.slug}>
               <Img alt="speaker" fluid={speaker.frontmatter.pic.childImageSharp.fluid} />
             </Link>
@@ -28,9 +28,9 @@ const SpeakerProfile = ({ speaker }) => {
             {speaker.frontmatter.twitter_name && (
               <p>
                 Twitter:{" "}
-                <a href={`https://twitter.com/${speaker.frontmatter.twitter_name}`}>{`@${
-                  speaker.frontmatter.twitter_name
-                }`}</a>
+                <a
+                  href={`https://twitter.com/${speaker.frontmatter.twitter_name}`}
+                >{`@${speaker.frontmatter.twitter_name}`}</a>
               </p>
             )}
           </div>

@@ -8,13 +8,13 @@ import formatDate from "../utils/format-date"
 
 import * as R from "ramda"
 
-import getUpcomingEvent from "../utils/get-upcoming-event"
-import findSpeakersForTalk from "../utils/find-speakers-for-talk"
+import { getUpcomingEvent } from "../utils/get-upcoming-event"
+import { findSpeakersForTalk } from "../utils/find-speakers-for-talk"
 
 const TalksPage = ({ data }) => {
-  const talks = data.talks.edges.map(edge => edge.node)
+  const talks = data.talks.edges.map((edge) => edge.node)
 
-  const allSpeakers = data.speakers.edges.map(edge => edge.node)
+  const allSpeakers = data.speakers.edges.map((edge) => edge.node)
 
   const today = new Date()
 
@@ -25,10 +25,10 @@ const TalksPage = ({ data }) => {
       <h2>Alle Vortragsthemen</h2>
 
       <ul>
-        {talks.map(talk => {
+        {talks.map((talk) => {
           const speakersOfTalk = findSpeakersForTalk({ allSpeakers, talk })
 
-          const speakersString = R.join(", ")(speakersOfTalk.map(speaker => speaker.frontmatter.name))
+          const speakersString = R.join(", ")(speakersOfTalk.map((speaker) => speaker.frontmatter.name))
 
           const isNextTalk = upcomingEvent && talk.frontmatter.date === upcomingEvent.frontmatter.date
 

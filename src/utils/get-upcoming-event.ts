@@ -1,6 +1,8 @@
 import moment from "moment/moment"
 import * as R from "ramda"
 
+// TODO: fix typing
+
 /**
  * This function is used to determine the next upcoming event based on a list of events and the current date.
  * This is used to mark the next event in the list of all events and to determine which talk to show on the front page.
@@ -14,32 +16,38 @@ import * as R from "ramda"
  * @param today a date object of today. Usualy created by "new Date()" or a string representing today.
  * Basically anything that can parsed by moment.js
  */
-const getUpcomingEvent = ({ allEvents, extractDate, today }) => {
-  if(!allEvents) {
+export const getUpcomingEvent = ({
+  allEvents,
+  extractDate,
+  today,
+}: {
+  allEvents: Array<any>
+  extractDate?: any
+  today?: Date | string
+}) => {
+  if (!allEvents) {
     return undefined
   }
 
-  const extractor = extractDate ? extractDate : edge => edge.frontmatter.date
+  const extractor = extractDate ? extractDate : (edge) => edge.frontmatter.date
 
   const sortedEvents = R.sortBy(extractor)(allEvents)
 
-  if(sortedEvents.length === 1) {
+  if (sortedEvents.length === 1) {
     return sortedEvents[0]
   }
 
   const todayMoment = moment(today).startOf("day")
 
-  const datesAfter = R.filter(event => {
+  const datesAfter = R.filter((event) => {
     const date = moment(extractor(event)).startOf("day")
 
     return todayMoment.isSameOrBefore(date)
   })(sortedEvents)
 
-  if(datesAfter && datesAfter.length > 0) {
+  if (datesAfter && datesAfter.length > 0) {
     return datesAfter[0]
   } else {
     return R.reverse(sortedEvents)[0]
   }
 }
-
-export default getUpcomingEvent

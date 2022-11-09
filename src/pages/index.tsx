@@ -5,10 +5,10 @@ import * as R from "ramda"
 import { graphql, Link } from "gatsby"
 
 import Layout from "../components/layout"
-import getUpcomingEvent from "../utils/get-upcoming-event"
+import { getUpcomingEvent } from "../utils/get-upcoming-event"
 import formatDate from "../utils/format-date"
 import TalkContent from "../components/talk-content"
-import findSpeakersForTalk from "../utils/find-speakers-for-talk"
+import { findSpeakersForTalk } from "../utils/find-speakers-for-talk"
 
 const PostPage = ({ post }) => (
   <div>
@@ -24,15 +24,15 @@ const PostPage = ({ post }) => (
 )
 
 const IndexPage = ({ data }) => {
-  const talks = data.talks.edges.map(edge => edge.node)
-  const posts = data.posts ? data.posts.edges.map(edge => edge.node) : []
+  const talks = data.talks.edges.map((edge) => edge.node)
+  const posts = data.posts ? data.posts.edges.map((edge) => edge.node) : []
 
   if (posts.length > 0) {
-    const sortedPosts = R.sortWith([R.descend(post => post.frontmatter.date)])(posts)
+    const sortedPosts = R.sortWith([R.descend((post) => post.frontmatter.date)])(posts)
 
     return (
       <Layout>
-        {sortedPosts.map(post => (
+        {sortedPosts.map((post) => (
           <PostPage key={post.fields.slug} post={post} />
         ))}
       </Layout>
@@ -44,10 +44,10 @@ const IndexPage = ({ data }) => {
 
     const { speakers, locations } = data
 
-    const allSpeakers = speakers.edges.map(edge => edge.node)
-    const allLocations = locations.edges.map(edge => edge.node)
+    const allSpeakers = speakers.edges.map((edge) => edge.node)
+    const allLocations = locations.edges.map((edge) => edge.node)
 
-    const location = R.filter(location => location.fields.locationId === upcomingEvent.frontmatter.location)(
+    const location = R.filter((location) => location.fields.locationId === upcomingEvent.frontmatter.location)(
       allLocations
     )[0]
     const speakersOfTalk = findSpeakersForTalk({ allSpeakers, talk: upcomingEvent })

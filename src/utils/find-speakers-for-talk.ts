@@ -1,4 +1,4 @@
-const R = require("ramda")
+import * as R from "ramda"
 
 /**
  * For each talk we cannot directly query the speaker info (especially the name) but only the speakerSlugs (not the full slug but the important
@@ -9,12 +9,10 @@ const R = require("ramda")
  * @param allSpeakers an array of all speaker objects
  * @param talk a talk object
  */
-const findSpeakersForTalk = ({ allSpeakers, talk }) => {
+export const findSpeakersForTalk = ({ allSpeakers, talk }) => {
   return R.innerJoin(
     (speaker, slug) => speaker.fields.slug === `/speakers/${slug}/`,
     allSpeakers,
     talk.frontmatter.speaker
   )
 }
-
-module.exports = findSpeakersForTalk

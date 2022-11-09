@@ -28,14 +28,14 @@ const LocationPage = ({ data }) => {
       </address>
       <hr />
 
-      {talks && <TalkOverview talks={talks.edges.map(edge => edge.node)} />}
+      {talks && <TalkOverview talks={talks.edges.map((edge) => edge.node)} />}
     </Layout>
   )
 }
 export default LocationPage
 
 export const query = graphql`
-  query($locationSlug: String!, $locationId: String!) {
+  query ($locationSlug: String!, $locationId: String!) {
     location: markdownRemark(fields: { slug: { eq: $locationSlug } }) {
       html
       fields {

@@ -1,5 +1,5 @@
 import React from "react"
-import Link from "gatsby-link"
+import { Link } from "gatsby-link"
 
 import { Container, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink, Collapse } from "reactstrap"
 
@@ -8,7 +8,7 @@ const LinkItem = ({ to, children }) => {
     <NavItem>
       <NavLink
         className="link-item"
-        tag={props => {
+        tag={(props) => {
           return (
             <Link {...props} to={to} activeClassName="active">
               {children}
@@ -30,14 +30,14 @@ class PageHeader extends React.Component {
   }
 
   toggle = () => {
-    this.setState(prevState => ({ collapsed: !prevState.collapsed }))
+    this.setState((prevState) => ({ collapsed: !prevState.collapsed }))
   }
 
   render() {
     return (
       <Navbar color="light" light expand="sm">
         <Container>
-          <NavbarBrand to="/" tag={props => <Link {...props} />}>
+          <NavbarBrand to="/" tag={(props) => <Link {...props} />}>
             Java User Group Görlitz
           </NavbarBrand>
           <NavbarToggler onClick={this.toggle} />

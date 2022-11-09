@@ -15,7 +15,7 @@ const SpeakerHeadline = ({ speakerList }) => (
   <span className="lead">
     von{" "}
     {R.intersperse(", ")(
-      speakerList.map(speaker => (
+      speakerList.map((speaker) => (
         <Link key={speaker.fields.slug} to={speaker.fields.slug}>
           {speaker.frontmatter.name}
         </Link>
@@ -52,7 +52,7 @@ const TagsLine = ({ tags }) => {
     return (
       <>
         {R.intersperse(", ")(
-          tags.map(tag => (
+          tags.map((tag) => (
             <Link key={tag} to={`/tags/#${tag}`}>
               <FontAwesomeIcon icon={faTag} /> {tag}
             </Link>
@@ -95,7 +95,7 @@ const TalkContent = ({ talk, speakerList, location, linkToDetailsPage }) => (
 
       <hr />
 
-      {speakerList.map(speaker => (
+      {speakerList.map((speaker) => (
         <SpeakerProfile key={speaker.id} speaker={speaker} />
       ))}
 

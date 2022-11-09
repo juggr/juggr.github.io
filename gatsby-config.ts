@@ -1,4 +1,7 @@
-module.exports = {
+import * as path from "path"
+import type { GatsbyConfig } from "gatsby"
+
+const config: GatsbyConfig = {
   siteMetadata: {
     title: "Java User Group Görlitz",
     description:
@@ -12,42 +15,42 @@ module.exports = {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "posts",
-        path: `${__dirname}/content/posts`
+        path: path.resolve("content/posts")
       }
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "speakers",
-        path: `${__dirname}/content/speakers`
+        path: path.resolve("content/speakers")
       }
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "pages",
-        path: `${__dirname}/content/pages`
+        path: path.resolve("content/pages")
       }
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "talks",
-        path: `${__dirname}/content/talks`
+        path: path.resolve("content/talks")
       }
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "locations",
-        path: `${__dirname}/content/locations`
+        path: path.resolve("content/locations")
       }
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "images",
-        path: `${__dirname}/content/images`
+        path: path.resolve("content/images")
       }
     },
     {
@@ -63,12 +66,11 @@ module.exports = {
         ]
       }
     },
-    "gatsby-remark-source-name",
     "gatsby-plugin-catch-links",
     {
       resolve: "gatsby-plugin-typography",
       options: {
-        pathToConfigModule: "src/utils/typography.js",
+        pathToConfigModule: "src/utils/typography.ts",
       },
     },
     "gatsby-transformer-sharp",
@@ -85,7 +87,7 @@ module.exports = {
         icon: "content/images/icon.png"
       }
     },
-    // service-workers seem to be producing some problems so we disable this feature for now
-    // "gatsby-plugin-offline"
   ],
 }
+
+export default config

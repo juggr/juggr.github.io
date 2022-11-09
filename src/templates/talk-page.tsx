@@ -9,7 +9,7 @@ import TalkContent from "../components/talk-content"
 const TalkPage = ({ data }) => {
   const { talk, speakers, location } = data
 
-  const speakerList = speakers.edges.map(edge => edge.node)
+  const speakerList = speakers.edges.map((edge) => edge.node)
 
   return (
     <Layout>
@@ -21,7 +21,7 @@ const TalkPage = ({ data }) => {
 export default TalkPage
 
 export const query = graphql`
-  query($slug: String!, $speakerSlugs: [String]!, $locationSlug: String!) {
+  query ($slug: String!, $speakerSlugs: [String]!, $locationSlug: String!) {
     talk: markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       fields {

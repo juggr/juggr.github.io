@@ -6,7 +6,7 @@ const TalkOverview = ({ talks }) => (
   <>
     {talks.length} Talks:
     <ul>
-      {talks.map(talk => (
+      {talks.map((talk) => (
         <li key={talk.fields.slug}>
           <Link to={talk.fields.slug}>{talk.frontmatter.title}</Link>
         </li>

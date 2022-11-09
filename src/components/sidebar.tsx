@@ -3,8 +3,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 import bannerJSON from "../../content/banner.json"
 
-import { faTwitter, faFacebook, faGithub } from "@fortawesome/free-brands-svg-icons"
-import { faEnvelope, faCalendarAlt, faRss } from "@fortawesome/free-solid-svg-icons"
+import { faFacebook, faGithub, faTwitter } from "@fortawesome/free-brands-svg-icons"
+import { faCalendarAlt, faEnvelope, faRss } from "@fortawesome/free-solid-svg-icons"
 
 import { Col, Row } from "reactstrap"
 
@@ -13,7 +13,7 @@ const Sidebar = () => (
     <div>
       <Row>
         <Col sm="6" xs="12" md="12">
-          <img alt="Logo der JUG Görlitz" src={require("../../content/images/logo.png")} />
+          <img alt="Logo der JUG Görlitz" src={require("../../content/images/logo.png").default} />
         </Col>
         <Col sm="6" xs="12" md="12">
           <h3>
@@ -73,10 +73,10 @@ const Sidebar = () => (
 
     <br />
 
-    {bannerJSON.banner.map(banner => (
+    {bannerJSON.banner.map((banner) => (
       <div key={banner.id} className="banner">
         <a href={banner.linkTarget}>
-          <img alt={banner.altText} src={require(`../../content/images/${banner.imageName}`)} />
+          <img alt={banner.altText} src={require(`../../content/images/${banner.imageName}`).default} />
         </a>
       </div>
     ))}

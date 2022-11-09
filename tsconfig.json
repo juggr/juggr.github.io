@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "strict": false,
+    "noEmit": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "lib": ["DOM", "es2018"],
+    "module": "commonjs",
+    "moduleResolution": "Node",
+    "target": "ES2018",
+    "jsx": "preserve"
+  }
+}

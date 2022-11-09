@@ -1,7 +1,6 @@
-import getUpcomingEvent from "./get-upcoming-event"
+import { getUpcomingEvent } from "./get-upcoming-event"
 
-import moment from "moment"
-
+import moment from "moment/moment"
 
 const events = [
   {
@@ -27,14 +26,10 @@ const events = [
 const today = "2018-01-15"
 
 describe("get-upcoming-events", () => {
-
-
   test("no events in list", () => {
-
-    const result = getUpcomingEvent({ today })
+    const result = getUpcomingEvent({ allEvents: [], today })
 
     expect(result).toBeUndefined()
-
   })
 
   test("just a single event in list", () => {
@@ -63,7 +58,6 @@ describe("get-upcoming-events", () => {
 
     expect(result.frontmatter.title).toBe("march")
   })
-
 
   test("today is before first event", () => {
     const today = "2017-04-01"

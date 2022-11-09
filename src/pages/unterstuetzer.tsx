@@ -1,25 +1,25 @@
-import React from "react"
+import React, { FC, ReactChild } from "react";
 
 import { graphql } from "gatsby"
 
 import Img from "gatsby-image"
 
-import {  Row, Col } from "reactstrap"
+import { Row, Col } from "reactstrap"
 
 import Layout from "../components/layout"
 
 const maxWidth = 500
 
 const Address = ({ name, link, mapsLink, addressFields }) => (
-  <div style={{marginBottom: "2rem"}}>
-    <p style={{marginBottom: "0"}}>
+  <div style={{ marginBottom: "2rem" }}>
+    <p style={{ marginBottom: "0" }}>
       <a href={link}>
         <strong>{name}</strong>
       </a>
     </p>
 
-    {addressFields.map(field => (
-      <p style={{marginBottom: "0"}}>{field}</p>
+    {addressFields.map((field) => (
+      <p style={{ marginBottom: "0" }}>{field}</p>
     ))}
 
     <p>
@@ -35,28 +35,30 @@ const style = {
   borderBottom: "solid 1px #ddd",
 }
 
+type Link = {
+  link: string,
+  logo: any,
+  logoStyle?: object
+}
 
-
-const SupporterBoxMultiImage = ({links, children}) => (
+const SupporterBoxMultiImage: FC<{links: Array<Link>, children: React.ReactNode}> = ({ links, children }) => (
   <div style={style}>
     <Row>
       {links.map((linkTuple, i) => (
         <Col key={i}>
           <a aria-label="Link zum Sponsor" href={linkTuple.link}>
-            <Img style={linkTuple.logoStyle} fluid={linkTuple.logo.childImageSharp.fluid}/>
+            <Img style={linkTuple.logoStyle} fluid={linkTuple.logo.childImageSharp.fluid} />
           </a>
         </Col>
       ))}
     </Row>
-    <p style={{marginTop: "1em"}}>
-      {children}
-    </p>
+    <p style={{ marginTop: "1em" }}>{children}</p>
   </div>
 )
 
-const SupporterBox = ({link, logo, children, logoStyle}) => <SupporterBoxMultiImage links={[{link, logo, logoStyle}]}>{children}</SupporterBoxMultiImage>
-
-
+const SupporterBox: FC<{link: string, logo: any, logoStyle?: object, children: React.ReactNode}> = ({ link, logo, logoStyle, children }) => (
+  <SupporterBoxMultiImage links={[{ link, logo, logoStyle }]}>{children}</SupporterBoxMultiImage>
+)
 
 const UnterstuetzerPage = ({ data }) => {
   const { zeiss_logo, mitp_logo, sands_logo, entwickler_tutorials_logo } = data
@@ -71,20 +73,18 @@ const UnterstuetzerPage = ({ data }) => {
       <SupporterBox
         link="https://www.zeiss.com"
         logo={zeiss_logo}
-        logoStyle={{maxHeight: "200px", maxWidth: "200px"}}
+        logoStyle={{ maxHeight: "200px", maxWidth: "200px" }}
       >
-          <strong>ZEISS Digital Innovation</strong> sponsert unser Catering und Getränke.
+        <strong>ZEISS Digital Innovation</strong> sponsert unser Catering und Getränke.
       </SupporterBox>
 
-      <SupporterBox
-        link="https://mitp.de"
-        logo={mitp_logo}
+      <SupporterBoxMultiImage
+        links={[
+          { link: "https://entwickler.de/", logo: entwickler_tutorials_logo },
+          { link: "https://sandsmedia.com/de", logo: sands_logo },
+        ]}
       >
-          Der <strong>mitp Verlag</strong> unterstützt uns regelmäßig mit Sachpreisen zur Verlosung.
-      </SupporterBox>
-
-      <SupporterBoxMultiImage links={[{link: "https://entwickler.de/", logo: entwickler_tutorials_logo}, {link: "https://sandsmedia.com/de", logo: sands_logo}]}>
-          <strong>Entwickler Press / S&S Media</strong> unterstützt uns regelmäßig mit Preisen zur Verlosung.
+        <strong>Entwickler Press / S&S Media</strong> unterstützt uns regelmäßig mit Preisen zur Verlosung.
       </SupporterBoxMultiImage>
 
       <p>
@@ -118,13 +118,7 @@ const UnterstuetzerPage = ({ data }) => {
         mapsLink="https://www.google.de/maps?q=G%C3%B6rlitz+Berliner+Stra%C3%9Fe+63&ie=UTF8&sll=51.139990000000004,14.964935399999993&sspn=0.25938504233517495,0.9385794045212804&t=m&dg=opt&hnear=Berliner+Stra%C3%9Fe+63,+02826+G%C3%B6rlitz&z=16"
         addressFields={["Berliner Straße 63", "02826 Görlitz"]}
       />
-	  
-	  <Address
-        name="SQS Software Quality Systems AG"
-        link="https://www.sqs.com"
-        mapsLink="https://www.google.de/maps/place/SQS+Software+Quality+Systems+AG/@51.1467704,14.9950574,17z/data=!3m1!4b1!4m5!3m4!1s0x4708dc2a5e9553cf:0xf21a88b2bb3bf733!8m2!3d51.1467704!4d14.9972461?hl=de"
-        addressFields={["Brückenstraße 10", "02826 Görlitz"]}
-      />
+
     </Layout>
   )
 }
@@ -133,7 +127,7 @@ export default UnterstuetzerPage
 
 export const query = graphql`
   query {
-    zeiss_logo: file(relativePath: {eq: "zeiss-logo-rgb.png"}, sourceInstanceName: {eq: "images"}) {
+    zeiss_logo: file(relativePath: { eq: "zeiss-logo-rgb.png" }, sourceInstanceName: { eq: "images" }) {
       childImageSharp {
         fluid {
           ...GatsbyImageSharpFluid

@@ -13,7 +13,7 @@ const SpeakerPage = ({ data }) => {
       <h2>{speaker.frontmatter.name}</h2>
 
       {speaker.frontmatter.pic && (
-        <div style={{ maxWidth: "400px"}}>
+        <div style={{ maxWidth: "400px" }}>
           <Img alt="speaker" fluid={speaker.frontmatter.pic.childImageSharp.fluid} />
         </div>
       )}
@@ -21,9 +21,9 @@ const SpeakerPage = ({ data }) => {
       {speaker.frontmatter.twitter_name && (
         <p>
           Twitter:{" "}
-          <a href={`https://twitter.com/${speaker.frontmatter.twitter_name}`}>{`@${
-            speaker.frontmatter.twitter_name
-          }`}</a>
+          <a
+            href={`https://twitter.com/${speaker.frontmatter.twitter_name}`}
+          >{`@${speaker.frontmatter.twitter_name}`}</a>
         </p>
       )}
 
@@ -49,7 +49,7 @@ const SpeakerPage = ({ data }) => {
 export default SpeakerPage
 
 export const query = graphql`
-  query($speakerSlug: String!, $speakerId: String!) {
+  query ($speakerSlug: String!, $speakerId: String!) {
     speaker: markdownRemark(fields: { slug: { eq: $speakerSlug } }) {
       html
       fields {

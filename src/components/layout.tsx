@@ -2,7 +2,7 @@ import React from "react"
 import Helmet from "react-helmet"
 import { StaticQuery, graphql } from "gatsby"
 
-import {Container, Row, Col} from "reactstrap"
+import { Container, Row, Col } from "reactstrap"
 
 import "bootstrap/dist/css/bootstrap.min.css"
 
@@ -12,13 +12,14 @@ import PageHeader from "./page-header"
 import PageFooter from "./page-footer"
 import Sidebar from "./sidebar"
 
-import fontawesome from '@fortawesome/fontawesome'
+import fontawesome from "@fortawesome/fontawesome"
 
 fontawesome.config = {
-  autoAddCss: false
+  ...fontawesome.config,
+  autoAddCss: false,
 }
 
-const Layout = ({ children, data }) => {
+const Layout = ({ children }) => {
   return (
     <StaticQuery
       query={graphql`
@@ -30,7 +31,7 @@ const Layout = ({ children, data }) => {
             }
           }
 
-          logo: file(relativePath:{eq: "logo.png"}) {
+          logo: file(relativePath: { eq: "logo.png" }) {
             id
             childImageSharp {
               fluid {
@@ -40,7 +41,7 @@ const Layout = ({ children, data }) => {
           }
         }
       `}
-      render={data => (
+      render={(data) => (
         <>
           <Helmet
             title={data.site.siteMetadata.title}
@@ -56,16 +57,16 @@ const Layout = ({ children, data }) => {
           </Helmet>
 
           <PageHeader />
-          <Container style={{
-            marginTop: "1em"
-          }}>
+          <Container
+            style={{
+              marginTop: "1em",
+            }}
+          >
             <Row>
-              <Col md="9">
-                {children}
-              </Col>
+              <Col md="9">{children}</Col>
 
               <Col md="3">
-                  <Sidebar logo={data.logo}/>
+                <Sidebar />
               </Col>
             </Row>
           </Container>
@@ -76,6 +77,5 @@ const Layout = ({ children, data }) => {
     />
   )
 }
-
 
 export default Layout

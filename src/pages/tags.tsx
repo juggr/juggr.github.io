@@ -10,32 +10,32 @@ import { Badge } from "reactstrap"
 import * as R from "ramda"
 
 import Layout from "../components/layout"
-import findSpeakersForTalk from "../utils/find-speakers-for-talk"
+import { findSpeakersForTalk } from "../utils/find-speakers-for-talk"
 import formatDate from "../utils/format-date"
 
 const TagsPage = ({ data }) => {
-  const talks = data.talks.edges.map(edge => edge.node)
+  const talks = data.talks.edges.map((edge) => edge.node)
 
-  const allSpeakers = data.speakers.edges.map(edge => edge.node)
+  const allSpeakers = data.speakers.edges.map((edge) => edge.node)
 
   const tags = R.filter(
-    s => s,
+    (s) => s,
     R.uniq(
       // R.chain is equal to flatMap
-      R.chain(talk => talk.frontmatter.tags)(talks)
+      R.chain((talk) => talk.frontmatter.tags)(talks)
     )
   ).sort()
 
-  const talksWithSpeakers = talks.map(talk => {
+  const talksWithSpeakers = talks.map((talk) => {
     const speakersOfTalk = findSpeakersForTalk({ allSpeakers, talk })
 
     return { ...talk, speakersOfTalk }
   })
 
-  const talksGroupedByTag = tags.map(tag => {
+  const talksGroupedByTag = tags.map((tag) => {
     const filteredTalk = talksWithSpeakers
-      .filter(talk => talk.frontmatter.tags)
-      .filter(talk => talk.frontmatter.tags.includes(tag))
+      .filter((talk) => talk.frontmatter.tags)
+      .filter((talk) => talk.frontmatter.tags.includes(tag))
 
     return {
       tag,
@@ -47,22 +47,22 @@ const TagsPage = ({ data }) => {
     <Layout>
       <h2>Tags</h2>
       <p>
-        {tags.map(tag => (
+        {tags.map((tag) => (
           <Badge key={tag} style={{ margin: "0.1rem" }} href={`#${tag}`}>
             <FontAwesomeIcon icon={faTag} /> {tag}
           </Badge>
         ))}
       </p>
 
-      {talksGroupedByTag.map(tagGroup => {
+      {talksGroupedByTag.map((tagGroup) => {
         const { tag, talks } = tagGroup
 
         return (
           <React.Fragment key={tag}>
             <h3 id={tag}>{tag}</h3>
             <ul>
-              {talks.map(talk => {
-                const speakersString = R.join(", ")(talk.speakersOfTalk.map(speaker => speaker.frontmatter.name))
+              {talks.map((talk) => {
+                const speakersString = R.join(", ")(talk.speakersOfTalk.map((speaker) => speaker.frontmatter.name))
 
                 return (
                   <li key={talk.id}>

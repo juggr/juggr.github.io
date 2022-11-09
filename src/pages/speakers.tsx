@@ -7,18 +7,18 @@ import Layout from "../components/layout"
 import * as R from "ramda"
 
 const SpeakersPage = ({ data }) => {
-  const speakers = data.speakers.edges.map(edge => edge.node)
-  const allTalks = data.talks.edges.map(edge => edge.node)
+  const speakers = data.speakers.edges.map((edge) => edge.node)
+  const allTalks = data.talks.edges.map((edge) => edge.node)
 
-  const speakersWithTalks = speakers.map(speaker => {
-    const talksOfSpeaker = R.filter(talk => talk.frontmatter.speaker.includes(speaker.fields.speakerId))(allTalks)
+  const speakersWithTalks = speakers.map((speaker) => {
+    const talksOfSpeaker = R.filter((talk) => talk.frontmatter.speaker.includes(speaker.fields.speakerId))(allTalks)
 
     return { ...speaker, talks: talksOfSpeaker }
   })
 
   const speakersSorted = R.sortWith([
-    R.descend(speaker => speaker.talks.length),
-    R.ascend(speaker => speaker.frontmatter.name),
+    R.descend((speaker) => speaker.talks.length),
+    R.ascend((speaker) => speaker.frontmatter.name),
   ])(speakersWithTalks)
 
   return (
@@ -26,7 +26,7 @@ const SpeakersPage = ({ data }) => {
       <h2>Alle Speaker</h2>
 
       <ul>
-        {speakersSorted.map(speaker => (
+        {speakersSorted.map((speaker) => (
           <li key={speaker.fields.slug}>
             <Link to={speaker.fields.slug}>{speaker.frontmatter.name}</Link> ({speaker.talks.length} Talks)
           </li>
