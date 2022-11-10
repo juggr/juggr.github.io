@@ -1,5 +1,4 @@
-import React from "react"
-import Helmet from "react-helmet"
+import React, { FC } from "react"
 import { StaticQuery, graphql } from "gatsby"
 
 import { Container, Row, Col } from "reactstrap"
@@ -21,60 +20,24 @@ fontawesome.config = {
 
 const Layout = ({ children }) => {
   return (
-    <StaticQuery
-      query={graphql`
-        query SiteTitleQuery {
-          site {
-            siteMetadata {
-              title
-              description
-            }
-          }
+    <>
+      <PageHeader />
+      <Container
+        style={{
+          marginTop: "1em",
+        }}
+      >
+        <Row>
+          <Col md="9">{children}</Col>
 
-          logo: file(relativePath: { eq: "logo.png" }) {
-            id
-            childImageSharp {
-              fluid {
-                ...GatsbyImageSharpFluid
-              }
-            }
-          }
-        }
-      `}
-      render={(data) => (
-        <>
-          <Helmet
-            title={data.site.siteMetadata.title}
-            meta={[
-              { name: "description", content: data.site.siteMetadata.description },
-              {
-                name: "keywords",
-                content: "java, usergroup, görlitz, programmierung",
-              },
-            ]}
-          >
-            <style>{fontawesome.dom.css()}</style>
-          </Helmet>
+          <Col md="3">
+            <Sidebar />
+          </Col>
+        </Row>
+      </Container>
 
-          <PageHeader />
-          <Container
-            style={{
-              marginTop: "1em",
-            }}
-          >
-            <Row>
-              <Col md="9">{children}</Col>
-
-              <Col md="3">
-                <Sidebar />
-              </Col>
-            </Row>
-          </Container>
-
-          <PageFooter />
-        </>
-      )}
-    />
+      <PageFooter />
+    </>
   )
 }
 

@@ -8,4 +8,6 @@ const NotFoundPage = () => (
   </Layout>
 )
 
+export { Head } from "../components/head"
+
 export default NotFoundPage

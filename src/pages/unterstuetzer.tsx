@@ -10,7 +10,12 @@ import Layout from "../components/layout"
 
 const maxWidth = 500
 
-const Address = ({ name, link, mapsLink, addressFields }) => (
+const Address: FC<{ name: string; link: string; mapsLink: string; addressFields: Array<string> }> = ({
+  name,
+  link,
+  mapsLink,
+  addressFields,
+}) => (
   <div style={{ marginBottom: "2rem" }}>
     <p style={{ marginBottom: "0" }}>
       <a href={link}>
@@ -19,7 +24,9 @@ const Address = ({ name, link, mapsLink, addressFields }) => (
     </p>
 
     {addressFields.map((field) => (
-      <p style={{ marginBottom: "0" }}>{field}</p>
+      <p key={field} style={{ marginBottom: "0" }}>
+        {field}
+      </p>
     ))}
 
     <p>
@@ -162,3 +169,5 @@ export const query = graphql`
     }
   }
 `
+
+export { Head } from "../components/head"

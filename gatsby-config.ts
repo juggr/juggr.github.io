@@ -3,14 +3,10 @@ import type { GatsbyConfig } from "gatsby"
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: "Java User Group Görlitz",
-    description:
-      "Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java",
     siteUrl: "https://jug-gr.de",
   },
   plugins: [
     "gatsby-plugin-nullish-coalescing-operator",
-    "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-source-filesystem",
       options: {
