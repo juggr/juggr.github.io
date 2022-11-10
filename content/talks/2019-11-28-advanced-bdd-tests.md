@@ -5,6 +5,9 @@ speaker: [maik_wagner]
 tags: [java, test]
 location: tallence
 poster: ../images/posters/plakat_2019_11.png
+poster_alt:
+  "Poster: Jürgen hält ein Klemmbrett in der Hand, auf dem ein Blatt Papier zusehen ist. Auf dem Blatt steht 'Testplan'
+  oben und darunter sind drei Checkboxen mit angedeuteten Textzeilen daneben."
 show_on_frontpage: true
 ---
 

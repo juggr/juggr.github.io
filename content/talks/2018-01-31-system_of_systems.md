@@ -5,6 +5,9 @@ speaker: [oliver_gierke]
 location: saxsys
 tags: [architektur]
 poster: ../images/posters/plakat_2018_01.png
+poster_alt:
+  "Poster: Wir sehen Jürgen über die Schulter, wie er einen Bauplan in der Hand hält und mit einer Schere in kleinere
+  Stücke zerschneidet."
 ---
 
 Beim Bauen monolithischer Systeme nutzen Entwicklerteams eine Reihe typischer Muster um die Interaktion verschiedener

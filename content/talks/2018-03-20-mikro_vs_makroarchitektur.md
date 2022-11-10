@@ -4,6 +4,7 @@ date: 2018-03-20
 speaker: [stefan_zoerner]
 location: hochschule_campus
 poster: ../images/posters/plakat_2018_03.png
+poster_alt: "Poster: Jürgen freut sich und hält einen Bauplan in der Hand."
 tags: [architektur]
 ---
 

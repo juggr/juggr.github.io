@@ -17,13 +17,19 @@ const PostersPage = ({ data }) => {
     <Layout>
       <h2>Alle JUG-Plakate</h2>
       <Container>
+        <p>
+          Unsere Plakate werden von <Link to="/speakers/marlene_knoche">Marlene Knoche</Link> gestaltet. Sie macht auch
+          viele andere Kunstprojekte. <br />
+          Schaut doch mal auf ihrer Webseite <a href="https://www.sanguinik.de/">www.sanguinik.de</a> vorbei.
+        </p>
         <Row>
           {talkNodes.map((node) => (
             <Col key={node.id} md={6} sm={12}>
               <div style={{ margin: ".5rem 0" }} id={node.frontmatter.poster.childImageSharp.id}>
                 <Link to={node.fields.slug}>
                   <GatsbyImage
-                    alt={`poster for ${node.frontmatter.title}`}
+                    title={node.frontmatter.poster_alt}
+                    alt={node.frontmatter.poster_alt ?? `Poster für ${node.frontmatter.title}`}
                     image={node.frontmatter.poster.childImageSharp.gatsbyImageData}
                     style={{ border: "solid 1px #aaa" }}
                   />
@@ -60,6 +66,7 @@ export const query = graphql`
                 gatsbyImageData(layout: FULL_WIDTH)
               }
             }
+            poster_alt
           }
         }
       }

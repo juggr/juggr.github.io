@@ -39,6 +39,7 @@ export const query = graphql`
             gatsbyImageData(layout: FULL_WIDTH)
           }
         }
+        poster_alt
       }
     }
     speakers: allMarkdownRemark(

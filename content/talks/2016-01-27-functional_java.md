@@ -5,6 +5,9 @@ speaker: [manuel_mauky, max_wielsch]
 location: hochschule_campus
 tags: [java, functional-programming]
 poster: ../images/posters/plakat_2016_01.png
+poster_alt:
+  "Poster: Jürgen trägt einen Anzug und grinst. Er hält eine Tasse Kaffee in der Hand. Auf der Tasse ist das griechische
+  Zeichen Lambda zu sehen."
 ---
 
 Mit Java 8 wurden einige Features in die Sprache integriert, die von funktionaler Programmierung inspiriert sind. Im

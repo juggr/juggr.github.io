@@ -5,6 +5,9 @@ speaker: [manuel_mauky]
 tags: [web]
 virtual: true
 poster: ../images/posters/plakat_2021_01.png
+poster_alt:
+  "Poster: Wir sehen ein großes Spinnennetz, in dem Jürgen gefangen ist. Er hängt verkehrt herum im Netz und sieht
+  ziemlich erschrocken aus."
 ---
 
 Web-Components sind eine Möglichkeit, auf Basis von Web-Standards wiederverwendbare UI-Komponenten zu bauen, die sich

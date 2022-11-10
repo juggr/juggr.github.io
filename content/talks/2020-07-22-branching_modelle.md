@@ -5,6 +5,9 @@ speaker: [hannes_kretschmer]
 tags: [java]
 virtual: true
 poster: ../images/posters/plakat_2020_07.png
+poster_alt:
+  "Poster: Jürgen hat einen Schaffner-Hut auf dem Kopf. Er hält ein Klemmbrett in der Hand, auf dem ein Blatt Papier mit
+  der Überschrift 'Fahrplan' geheftet ist. Unter der Überschrift ist ein Streckenplan mit Verzweigungen angedeutet."
 ---
 
 Als Softwareentwickler ist man auf die Verwendung von Versionsverwaltungssystemen und deren Branching- und

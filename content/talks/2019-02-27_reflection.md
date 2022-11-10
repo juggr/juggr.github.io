@@ -5,6 +5,7 @@ speaker: [erik_jaehne]
 tags: [java]
 location: saxsys
 poster: ../images/posters/plakat_2019_02.png
+poster_alt: "Poster: Jürgen grinst und hält eine Tasse Kaffee in der Hand."
 ---
 
 Java Reflections sind ein Feature der Java Sprache und werden von der JVM für das interne Handling von Klassen, Feldern

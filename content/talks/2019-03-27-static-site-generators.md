@@ -5,6 +5,9 @@ speaker: [manuel_mauky]
 tags: [web, javascript]
 location: hochschule_campus
 poster: ../images/posters/plakat_2019_03.png
+poster_alt:
+  "Poster: Jürgen hält einen Kasten in der Hand mit jeweils einem Trichter oben und unten. Oben gibt er zwei Dokumente
+  hinein und unten fällt das Bild einer Webseite heraus. Auf dem Kasten ist das Logo von Gatsbyjs zu sehen."
 ---
 
 Die Website der JUG Görlitz läuft fast _Serverless_. Natürlich muss ein Webserver Dateien ausliefern aber ansonsten sind

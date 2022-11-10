@@ -5,6 +5,7 @@ speaker: [mario_mann]
 location: saxsys
 tags: [performance, monitoring]
 poster: ../images/posters/plakat_2016_05.png
+poster_alt: "Poster: Jürgen hält sich eine Lupe vor das Gesicht. In der Lupe erscheint sein Auge vergrößert."
 ---
 
 In vielen Software-Projekten wissen häufig nicht nur Anwender sondern auch Entwickler nicht, warum sich ihre Anwendung

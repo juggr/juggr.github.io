@@ -4,6 +4,9 @@ date: 2016-03-30
 speaker: [manuel_mauky]
 location: hochschule_campus
 poster: ../images/posters/plakat_2016_03.png
+poster_alt:
+  "Poster: Jürgen sitzt auf einem Sessel und liest ein Buch. Er trägt eine Lese-Brille und schaut konzentriert aus. Auf
+  dem Buch ist das Haskell-Logo, ein Lambda-Symbol, zusehen"
 tags: [programmiersprachen, functional-programming]
 ---
 

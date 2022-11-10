@@ -5,6 +5,9 @@ speaker: [wolfgang_weigend]
 tags: [java]
 location: saxsys
 poster: ../images/posters/plakat_2019_04.png
+poster_alt:
+  "Poster: Jürgen hält eine Schriftrolle mit offiziellen Siegel in der Hand und liest wie ein mittelalterlicher Herold
+  daraus vor. Wir sehen leider nicht den Text auf der Schriftrolle."
 ---
 
 Mit dem JDK-Enhancement-Proposal (JEP 322) wird die zeitbasierte Java-Release-Versionierung definiert, die auf dem

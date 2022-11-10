@@ -3,6 +3,7 @@ title: "Serverless Application - Who the heck needs a Server?"
 date: 2017-10-25
 speaker: [lars_roewekamp]
 poster: ../images/posters/plakat_2017_10.png
+poster_alt: "Poster: Jürgen grinst und hält eine Tasse Kaffee in der Hand."
 location: hochschule_campus
 tags: [architektur]
 ---

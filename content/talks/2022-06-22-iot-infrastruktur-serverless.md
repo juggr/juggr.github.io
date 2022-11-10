@@ -3,6 +3,11 @@ title: "Hebe deine IoT-Infrastruktur auf das Serverless-Level an"
 date: 2022-06-22
 speaker: [pawel_adaszewski]
 poster: ../images/posters/plakat_2022_06.png
+poster_alt:
+  "Poster: Jürgen spielt eine Flöte. Hinter ihm sieht man einen Weg auf dem Jürgen gelaufen kommt. Hinter ihm ist ein
+  Smartphone und eine Waschmaschine, jeweils mit Armen, Beinen und Gesicht. Die Gesichter der Geräte sehen aus wie
+  paralysiert und sie halten ihre Arme wie Zombies nach Vorn. Sie folgen Jürgen, so als wäre er der Rattenfänger von
+  Hameln."
 tags: [cloud, iot, serverless, infrastructure]
 location: zeiss
 ---

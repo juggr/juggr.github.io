@@ -5,6 +5,8 @@ speaker: [hendrik_ebbers]
 tags: [java]
 location: cideon
 poster: ../images/posters/plakat_2019_01.png
+poster_alt:
+  "Poster: Jürgen sitzt mit seiner Lesebrille in seinem Sessel und liest ein Buch. Auf dem Buchrücken steht 'Javadoc'"
 ---
 
 Anstelle über Microservices, NO-SQL Lösungen oder Container-Management zu reden werden im Workshop Bestandteile des

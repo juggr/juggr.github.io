@@ -2,6 +2,7 @@
 title: "JUG Sommerpause: Grillen"
 date: 2018-07-31
 poster: ../images/posters/plakat_2017_07.png
+poster_alt: "Poster: Jürgen grinst und hält einen Teller mit Bratwürsten in der Hand"
 ---
 
 <br/>

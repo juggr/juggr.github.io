@@ -5,6 +5,9 @@ speaker: [jens_leuschner, mariusz_zienkiewicz]
 tags: [cloud]
 location: cideon
 poster: ../images/posters/plakat_2018_02.png
+poster_alt:
+  "Poster: Jürgen hält einige kleine Programm-Fenster in der Hand. Er hebt die Programme in eine Wolke, die sich hinter
+  ihm befindet. Die Wolke sieht aus wie das Cloud-Symbol."
 ---
 
 Die SAP Cloud Platform (SCP) beschreibt ein „Platform as a Service“ (PaaS) Angebot der SAP. Mit der SCP liefert SAP

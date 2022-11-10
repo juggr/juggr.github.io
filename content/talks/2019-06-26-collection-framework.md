@@ -5,6 +5,10 @@ speaker: [thilo_frotscher]
 tags: [java]
 location: cideon
 poster: ../images/posters/plakat_2019_06.png
+poster_alt:
+  "Poster: Jürgen trägt eine Sonnenbrille und ein buntes Hemd mit Blumen darauf. Er hält sich die Hand ans Kinn und
+  grinst, so als würde er gerade einen Plan schmieden. An seinem Hemd hängt ein Schild mit der Aufschrift 'Sommer
+  Collection'."
 ---
 
 HashMap und ArrayList kennt jeder, na klar. Aber wann stellen diese eigentlich die richtige Wahl dar? Und vor allem:

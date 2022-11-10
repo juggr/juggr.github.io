@@ -5,6 +5,9 @@ speaker: [manuel_mauky]
 tags: [programmiersprachen, functional-programming]
 location: hochschule_campus
 poster: ../images/posters/plakat_2018_06.png
+poster_alt:
+  "Poster: Jürgen steht vor einem großen Steinblock, der fast aussieht wie ein Grabstein. Auf dem Stein sind lauter
+  Nullen und Einsen eingraviert. Er hält einen Hammer und Meißel in der Hand."
 ---
 
 Unveränderliche Datenstrukturen sind ein wichtiges Werkzeug der funktionalen Programmierung. Aber auch abseits dessen

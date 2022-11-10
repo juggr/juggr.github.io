@@ -5,6 +5,11 @@ speaker: [nico_foerster]
 tags: [java, security]
 virtual: true
 poster: ../images/posters/plakat_2020_11.png
+poster_alt:
+  "Poster: Jürgen trägt eine schwarze Woll-Mütze und eine schwarze Maske. Er trägt Handschuhe und sieht aus wie ein
+  Einbrecher. Im Hintergrund sieht man eine Wohnungstür, vor der Jürgen kniet. Er hat einen Dietrich in der Hand und
+  versucht gerade, dass Schloß zu knacken. Wir sehen Jürgens Rücken und er schaut zu uns über die Schulter. Seinem Blick
+  zu urteilen, ist er überrascht weil wir ihn beim Einbrechen erwischt haben."
 ---
 
 Durch die Veröffentlichung von immer neuen Schwachstellen in Softwareprodukten rückt das Thema Application Security

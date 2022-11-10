@@ -89,7 +89,11 @@ const TalkContent = ({ talk, speakerList, location, linkToDetailsPage }) => (
 
       {talk.frontmatter.poster && (
         <Link to={`/posters#${talk.frontmatter.poster.childImageSharp.id}`}>
-          <GatsbyImage alt="a poster for the talk" image={talk.frontmatter.poster.childImageSharp.gatsbyImageData} />
+          <GatsbyImage
+            title={talk.frontmatter.poster_alt}
+            alt={talk.frontmatter.poster_alt ?? `Poster für Vortrag '${talk.frontmatter.title}'`}
+            image={talk.frontmatter.poster.childImageSharp.gatsbyImageData}
+          />
         </Link>
       )}
 
