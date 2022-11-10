@@ -1,6 +1,6 @@
 ---
 name: Stefan Bley
-pic: ../images/stefan_bley.jpg
+pic: ../images/persons/stefan_bley.jpg
 twitter_name: sbley
 ---
 

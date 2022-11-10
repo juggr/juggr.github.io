@@ -1,6 +1,6 @@
 ---
 name: Max Wielsch
-pic: ../images/max_wielsch.jpg
+pic: ../images/persons/max_wielsch.jpg
 ---
 
 Max Wielsch ist seit 2011 als Software-Entwickler bei der Saxonia Systems AG tätig. Derzeit beschäftigt er sich mit der

@@ -1,6 +1,6 @@
 ---
 name: Nico Förster
-pic: ../images/nico_foerster.jpg
+pic: ../images/persons/nico_foerster.jpg
 ---
 
 Nico Förster arbeitet als Softwareentwickler bei der Carl Zeiss Digital Innovation GmbH in Görlitz. Er ist im Bereich

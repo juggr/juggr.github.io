@@ -1,6 +1,6 @@
 ---
 name: Denny Israel
-pic: ../images/denny.israel.jpg
+pic: ../images/persons/denny.israel.jpg
 twitter_name: sideisra
 ---
 

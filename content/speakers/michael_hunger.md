@@ -1,6 +1,6 @@
 ---
 name: Michael Hunger
-pic: ../images/michael_hunger.png
+pic: ../images/persons/michael_hunger.png
 twitter_name: mesirii
 ---
 

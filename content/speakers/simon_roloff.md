@@ -1,6 +1,6 @@
 ---
 name: Simon Roloff
-pic: ../images/simon_roloff.png
+pic: ../images/persons/simon_roloff.png
 ---
 
 Simon arbeitet als Softwareentwickler bei der Korasoft GmbH. Er findet es spannend, wie in der SAP Welt wenige Zeilen

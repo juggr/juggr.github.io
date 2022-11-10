@@ -1,6 +1,6 @@
 ---
 name: Pawel Adaszewski
-pic: ../images/pawel_adaszewski.jpg
+pic: ../images/persons/pawel_adaszewski.jpg
 ---
 
 Pawel ist als Softwareentwickler bei der Carl Zeiss Digital Innovation GmbH in Görlitz tätig. In seiner täglichen Arbeit

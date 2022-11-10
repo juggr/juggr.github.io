@@ -1,5 +1,5 @@
 ---
-pic: ../images/uwe_manteuffel.jpg
+pic: ../images/persons/uwe_manteuffel.jpg
 name: Uwe Manteuffel
 twitter_name: dasuew
 ---

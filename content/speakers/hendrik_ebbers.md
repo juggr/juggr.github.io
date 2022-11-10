@@ -1,6 +1,6 @@
 ---
 name: Hendrik Ebbers
-pic: ../images/hendrik_ebbers.png
+pic: ../images/persons/hendrik_ebbers.png
 twitter_name: hendrikEbbers
 ---
 

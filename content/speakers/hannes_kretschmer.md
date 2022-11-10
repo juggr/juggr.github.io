@@ -1,6 +1,6 @@
 ---
 name: Hannes Kretschmer
-pic: ../images/hannes_kretschmer.jpg
+pic: ../images/persons/hannes_kretschmer.jpg
 ---
 
 Hannes Kretschmer arbeitet als Softwareentwickler bei der Carl Zeiss Digital Innovation AG in Görlitz. Dabei beschäftigt

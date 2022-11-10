@@ -1,6 +1,6 @@
 ---
 name: Christian Kümmel
-pic: ../images/christian_kuemmel.jpg
+pic: ../images/persons/christian_kuemmel.jpg
 ---
 
 Christian beschäftigt sich seit über 10 Jahren mit Java und ist seit über 7 Jahren Java-Trainer. Als Projektleiter und

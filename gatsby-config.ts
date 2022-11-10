@@ -5,6 +5,10 @@ const config: GatsbyConfig = {
   siteMetadata: {
     siteUrl: "https://jug-gr.de",
   },
+  // enable when there are any errors in prod-build only
+  // flags: {
+  //   DEV_SSR: true,
+  // },
   plugins: [
     "gatsby-plugin-nullish-coalescing-operator",
     {

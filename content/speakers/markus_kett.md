@@ -1,6 +1,6 @@
 ---
 name: Markus Kett
-pic: ../images/markus_kett.png
+pic: ../images/persons/markus_kett.png
 twitter_name: MarkusKett
 linkedin_name: https://www.linkedin.com/in/markuskett/
 ---

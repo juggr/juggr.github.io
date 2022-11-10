@@ -1,6 +1,6 @@
 ---
 name: Manuel Mauky
-pic: ../images/manuel_mauky.jpg
+pic: ../images/persons/manuel_mauky.jpg
 twitter_name: manuel_mauky
 ---
 

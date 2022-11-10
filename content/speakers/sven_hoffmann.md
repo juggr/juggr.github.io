@@ -1,6 +1,6 @@
 ---
 name: Sven Hoffmann
-pic: ../images/hoffmann_sven.jpg
+pic: ../images/persons/sven_hoffmann.jpg
 ---
 
 Sven Hoffmann ist seit über 8 Jahren für die Saxonia Systems AG tätig. Er beschäftigte sich in dieser Zeit mit einer

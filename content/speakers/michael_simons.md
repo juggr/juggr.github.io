@@ -1,6 +1,6 @@
 ---
 name: Michael Simons
-pic: ../images/michael_simons.jpg
+pic: ../images/persons/michael_simons.jpg
 twitter_name: rotnroll666
 ---
 

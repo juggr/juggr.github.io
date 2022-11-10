@@ -1,6 +1,6 @@
 ---
 name: Maik Wagner
-pic: ../images/maik_wagner.jpg
+pic: ../images/persons/maik_wagner.jpg
 ---
 
 Maik arbeitet als Softwareentwickler bei der Tallence AG, derzeit mit den Schwerpunkten Java und OAuth/OpenID Connect.

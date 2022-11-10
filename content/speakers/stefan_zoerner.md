@@ -1,6 +1,6 @@
 ---
 name: Stefan Zörner
-pic: ../images/stefan_zoerner.jpg
+pic: ../images/persons/stefan_zoerner.jpg
 ---
 
 Von der Bayer AG über IBM und oose zu embarc. **Stefan Zörner** blickt auf zwanzig Jahre IT-Erfahrung zurück und stets

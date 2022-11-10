@@ -1,6 +1,6 @@
 ---
 name: Marco Gotthans
-pic: ../images/marco_gotthans.png
+pic: ../images/persons/marco_gotthans.png
 ---
 
 Marco arbeitet als Tester bei der ZEISS Digital Innovation in Görlitz. Mit automatisierten Testscripten stellt er

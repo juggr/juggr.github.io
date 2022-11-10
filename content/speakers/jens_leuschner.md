@@ -1,6 +1,6 @@
 ---
 name: Jens Leuschner
-pic: ../images/jens_leuschner.jpg
+pic: ../images/persons/jens_leuschner.jpg
 ---
 
 **Jens Leuschner** hat vor einem Jahr sein Informatik-Studium an der Hochschule Zittau/Görlitz abgeschlossen und

@@ -28,7 +28,7 @@ Die Treffen finden in der Regel monatlich jeweils am letzten Mittwoch im Monat a
 ### Manuel Mauky
 
 <div class="about-organizer-image">
-    <img alt="Manuel Mauky" src="../images/manuel_mauky.jpg"/>
+    <img alt="Manuel Mauky" src="../images/persons/manuel_mauky.jpg"/>
 </div>
 
 **Carl Zeiss Digital Innovation**
@@ -46,7 +46,7 @@ Twitter: [@manuel_mauky](https://twitter.com/manuel_mauky)
 ### Max Wielsch
 
 <div class="about-organizer-image">
-    <img alt="Max Wielsch" src="../images/max_wielsch.jpg"/>
+    <img alt="Max Wielsch" src="../images/persons/max_wielsch.jpg"/>
 </div>
 
 **Carl Zeiss Digital Innovation**
@@ -64,7 +64,7 @@ Twitter: [@simawiel](https://twitter.com/simawiel)
 ### Marlene Knoche
 
 <div class="about-organizer-image">
-    <img alt="Marlene Knoche" src="../images/marlene_knoche.jpg"/>
+    <img alt="Marlene Knoche" src="../images/persons/marlene_knoche.jpg"/>
 </div>
 
 **Selbstständig**
@@ -82,7 +82,7 @@ Twitter: [@SanguinikDE](https://twitter.com/SanguinikDE)
 ### Markus Ullrich
 
 <div class="about-organizer-image">
-    <img alt="Markus Ullrich" src="../images/markus_ullrich.jpg"/>
+    <img alt="Markus Ullrich" src="../images/persons/markus_ullrich.jpg"/>
 </div>
 
 **Hochschule Zittau/Görlitz**
@@ -100,7 +100,7 @@ Twitter: [@ead_markus](https://twitter.com/ead_markus)
 ### Prof. Dr. Jörg Lässig
 
 <div class="about-organizer-image">
-    <img alt="Jörg Lässig" src="../images/joerg_laessig.jpg"/>
+    <img alt="Jörg Lässig" src="../images/persons/joerg_laessig.jpg"/>
 </div>
 
 **Hochschule Zittau/Görlitz**

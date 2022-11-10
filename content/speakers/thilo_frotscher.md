@@ -1,6 +1,6 @@
 ---
 name: Thilo Frotscher
-pic: ../images/thilo_frotscher.jpg
+pic: ../images/persons/thilo_frotscher.jpg
 twitter_name: thfro
 ---
 

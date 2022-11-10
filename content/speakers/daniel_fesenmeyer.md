@@ -1,6 +1,6 @@
 ---
 name: Daniel Fesenmeyer
-pic: ../images/speaker_daniel_fesenmeyer.jpg
+pic: ../images/persons/daniel_fesenmeyer.jpg
 ---
 
 Daniel arbeitet als Software Entwickler bei Bosch IO (Berlin). Seine Schwerpunkte sind Backend-Entwicklung, Testing und
