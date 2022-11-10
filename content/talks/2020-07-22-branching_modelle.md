@@ -4,7 +4,7 @@ date: 2020-07-22
 speaker: [hannes_kretschmer]
 tags: [java]
 virtual: true
-poster: ../images/plakat_2020_07.png
+poster: ../images/posters/plakat_2020_07.png
 ---
 
 Als Softwareentwickler ist man auf die Verwendung von Versionsverwaltungssystemen und deren Branching- und

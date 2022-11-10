@@ -4,7 +4,7 @@ date: 2019-04-24
 speaker: [wolfgang_weigend]
 tags: [java]
 location: saxsys
-poster: ../images/plakat_2019_04.png
+poster: ../images/posters/plakat_2019_04.png
 ---
 
 Mit dem JDK-Enhancement-Proposal (JEP 322) wird die zeitbasierte Java-Release-Versionierung definiert, die auf dem

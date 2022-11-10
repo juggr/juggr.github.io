@@ -4,7 +4,7 @@ date: 2019-06-26
 speaker: [thilo_frotscher]
 tags: [java]
 location: cideon
-poster: ../images/plakat_2019_06.png
+poster: ../images/posters/plakat_2019_06.png
 ---
 
 HashMap und ArrayList kennt jeder, na klar. Aber wann stellen diese eigentlich die richtige Wahl dar? Und vor allem:

@@ -4,7 +4,7 @@ date: 2019-11-28
 speaker: [maik_wagner]
 tags: [java, test]
 location: tallence
-poster: ../images/plakat_2019_11.png
+poster: ../images/posters/plakat_2019_11.png
 show_on_frontpage: true
 ---
 

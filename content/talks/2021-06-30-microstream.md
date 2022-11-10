@@ -2,7 +2,7 @@
 title: "Ultraschnelle Java In-Memory Datenbank-Anwendungen & Microservices mit MicroStream"
 date: 2021-06-30
 speaker: [markus_kett, christian_kuemmel]
-poster: ../images/plakat_2021_06.png
+poster: ../images/posters/plakat_2021_06.png
 tags: [web]
 virtual: true
 ---

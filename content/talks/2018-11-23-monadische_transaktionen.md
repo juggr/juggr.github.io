@@ -4,7 +4,7 @@ date: 2018-11-23
 speaker: [gregor_trefs]
 tags: [functional-programming]
 location: hochschule_campus
-poster: ../images/plakat_2018_11.png
+poster: ../images/posters/plakat_2018_11.png
 ---
 
 Spätestens seit Java 8 gibt es monadische Typen in Java. Aber was bedeutet das eigentlich? Was sind die Eigenschaften,

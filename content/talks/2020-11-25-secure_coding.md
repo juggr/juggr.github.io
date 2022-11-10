@@ -4,7 +4,7 @@ date: 2020-11-25
 speaker: [nico_foerster]
 tags: [java, security]
 virtual: true
-poster: ../images/plakat_2020_11.png
+poster: ../images/posters/plakat_2020_11.png
 ---
 
 Durch die Veröffentlichung von immer neuen Schwachstellen in Softwareprodukten rückt das Thema Application Security

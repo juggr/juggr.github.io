@@ -4,7 +4,7 @@ date: 2020-01-29
 speaker: [simon_roloff]
 tags: [cloud]
 location: saxsys
-poster: ../images/plakat_2020-01.png
+poster: ../images/posters/plakat_2020-01.png
 ---
 
 "Create Apps, Not the Platform" - Cloud Foundry verspricht, dass sich Entwicker voll und ganz auf die

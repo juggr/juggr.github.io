@@ -4,7 +4,7 @@ date: 2016-01-27
 speaker: [manuel_mauky, max_wielsch]
 location: hochschule_campus
 tags: [java, functional-programming]
-poster: ../images/plakat_2016_01.png
+poster: ../images/posters/plakat_2016_01.png
 ---
 
 Mit Java 8 wurden einige Features in die Sprache integriert, die von funktionaler Programmierung inspiriert sind. Im

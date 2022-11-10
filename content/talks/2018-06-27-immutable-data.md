@@ -4,7 +4,7 @@ date: 2018-06-27
 speaker: [manuel_mauky]
 tags: [programmiersprachen, functional-programming]
 location: hochschule_campus
-poster: ../images/plakat_2018_06.png
+poster: ../images/posters/plakat_2018_06.png
 ---
 
 Unveränderliche Datenstrukturen sind ein wichtiges Werkzeug der funktionalen Programmierung. Aber auch abseits dessen

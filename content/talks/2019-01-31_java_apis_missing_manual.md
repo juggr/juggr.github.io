@@ -4,7 +4,7 @@ date: 2019-01-31
 speaker: [hendrik_ebbers]
 tags: [java]
 location: cideon
-poster: ../images/plakat_2019_01.png
+poster: ../images/posters/plakat_2019_01.png
 ---
 
 Anstelle über Microservices, NO-SQL Lösungen oder Container-Management zu reden werden im Workshop Bestandteile des

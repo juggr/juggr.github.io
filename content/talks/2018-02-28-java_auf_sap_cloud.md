@@ -4,7 +4,7 @@ date: 2018-02-28
 speaker: [jens_leuschner, mariusz_zienkiewicz]
 tags: [cloud]
 location: cideon
-poster: ../images/plakat_2018_02.png
+poster: ../images/posters/plakat_2018_02.png
 ---
 
 Die SAP Cloud Platform (SCP) beschreibt ein „Platform as a Service“ (PaaS) Angebot der SAP. Mit der SCP liefert SAP

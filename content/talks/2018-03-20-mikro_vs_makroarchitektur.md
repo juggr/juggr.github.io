@@ -3,7 +3,7 @@ title: "Mikro- vs. Makroarchitektur – Spielraum und Spielregeln"
 date: 2018-03-20
 speaker: [stefan_zoerner]
 location: hochschule_campus
-poster: ../images/plakat_2018_03.png
+poster: ../images/posters/plakat_2018_03.png
 tags: [architektur]
 ---
 
