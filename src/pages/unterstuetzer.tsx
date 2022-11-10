@@ -1,8 +1,6 @@
-import React, { FC, ReactChild } from "react"
+import React, { FC } from "react"
 
-import { graphql } from "gatsby"
-
-import { GatsbyImage } from "gatsby-plugin-image"
+import { StaticImage } from "gatsby-plugin-image"
 
 import { Row, Col } from "reactstrap"
 
@@ -35,30 +33,30 @@ const Address: FC<{ name: string; link: string; mapsLink: string; addressFields:
   </div>
 )
 
-const style = {
+const style: React.CSSProperties = {
   maxWidth: `${maxWidth}px`,
   marginTop: "2em",
   marginBottom: "3em",
   borderBottom: "solid 1px #ddd",
 }
 
-type Link = {
+type Sponsor = {
   link: string
-  logo: any
-  logoStyle?: object
+  logo: React.ReactElement
 }
 
-const SupporterBoxMultiImage: FC<{ links: Array<Link>; children: React.ReactNode }> = ({ links, children }) => (
+const IMAGE_BASE_PATH = "../../content/images"
+
+const SupporterBoxMultiImage: FC<{ sponsors: Array<Sponsor>; children: React.ReactNode }> = ({
+  sponsors,
+  children,
+}) => (
   <div style={style}>
     <Row>
-      {links.map((linkTuple, i) => (
-        <Col key={i}>
-          <a aria-label="Link zum Sponsor" href={linkTuple.link}>
-            <GatsbyImage
-              alt="logo of the sponsor"
-              image={linkTuple.logo.childImageSharp.gatsbyImageData}
-              style={linkTuple.logoStyle}
-            />
+      {sponsors.map((sponsor) => (
+        <Col key={sponsor.link}>
+          <a aria-label="Link zum Sponsor" href={sponsor.link}>
+            {sponsor.logo}
           </a>
         </Col>
       ))}
@@ -67,16 +65,11 @@ const SupporterBoxMultiImage: FC<{ links: Array<Link>; children: React.ReactNode
   </div>
 )
 
-const SupporterBox: FC<{ link: string; logo: any; logoStyle?: object; children: React.ReactNode }> = ({
-  link,
-  logo,
-  logoStyle,
-  children,
-}) => <SupporterBoxMultiImage links={[{ link, logo, logoStyle }]}>{children}</SupporterBoxMultiImage>
+const SupporterBox: FC<{ sponsor: Sponsor; children: React.ReactNode }> = ({ sponsor, children }) => (
+  <SupporterBoxMultiImage sponsors={[sponsor]}>{children}</SupporterBoxMultiImage>
+)
 
-const UnterstuetzerPage = ({ data }) => {
-  const { zeiss_logo, mitp_logo, sands_logo, entwickler_tutorials_logo } = data
-
+const UnterstuetzerPage: FC = () => {
   return (
     <Layout>
       <h2>Unterstützer</h2>
@@ -85,17 +78,32 @@ const UnterstuetzerPage = ({ data }) => {
       <p>Diese Firmen unterstützen uns!</p>
 
       <SupporterBox
-        link="https://www.zeiss.com"
-        logo={zeiss_logo}
-        logoStyle={{ maxHeight: "200px", maxWidth: "200px" }}
+        sponsor={{
+          link: "https://www.zeiss.com/digital-innovation",
+          logo: (
+            <StaticImage
+              src={`${IMAGE_BASE_PATH}/zeiss-logo-rgb.png`}
+              alt="Logo von ZEISS Digitial Innovation"
+              style={{ maxHeight: "200px", maxWidth: "200px" }}
+            />
+          ),
+        }}
       >
         <strong>ZEISS Digital Innovation</strong> sponsert unser Catering und Getränke.
       </SupporterBox>
 
       <SupporterBoxMultiImage
-        links={[
-          { link: "https://entwickler.de/", logo: entwickler_tutorials_logo },
-          { link: "https://sandsmedia.com/de", logo: sands_logo },
+        sponsors={[
+          {
+            logo: (
+              <StaticImage src={`${IMAGE_BASE_PATH}/entwickler_tutorials_logo.jpg`} alt="Logo von Entwickler Press" />
+            ),
+            link: "https://entwickler.de/",
+          },
+          {
+            logo: <StaticImage src={`${IMAGE_BASE_PATH}/sands_logo.png`} alt="Logo von S&S Media" />,
+            link: "https://sandsmedia.com/de",
+          },
         ]}
       >
         <strong>Entwickler Press / S&S Media</strong> unterstützt uns regelmäßig mit Preisen zur Verlosung.
@@ -137,33 +145,5 @@ const UnterstuetzerPage = ({ data }) => {
 }
 
 export default UnterstuetzerPage
-
-export const query = graphql`
-  {
-    zeiss_logo: file(relativePath: { eq: "zeiss-logo-rgb.png" }, sourceInstanceName: { eq: "images" }) {
-      childImageSharp {
-        gatsbyImageData(layout: FULL_WIDTH)
-      }
-    }
-    mitp_logo: file(relativePath: { eq: "mitp_logo_gross.png" }, sourceInstanceName: { eq: "images" }) {
-      childImageSharp {
-        gatsbyImageData(layout: FULL_WIDTH)
-      }
-    }
-    sands_logo: file(relativePath: { eq: "sands_logo.png" }, sourceInstanceName: { eq: "images" }) {
-      childImageSharp {
-        gatsbyImageData(layout: FULL_WIDTH)
-      }
-    }
-    entwickler_tutorials_logo: file(
-      relativePath: { eq: "entwickler_tutorials_logo.jpg" }
-      sourceInstanceName: { eq: "images" }
-    ) {
-      childImageSharp {
-        gatsbyImageData(layout: FULL_WIDTH)
-      }
-    }
-  }
-`
 
 export { Head } from "../components/head"
