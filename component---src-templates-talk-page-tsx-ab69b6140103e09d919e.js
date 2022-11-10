@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkjug_goerlitz=self.webpackChunkjug_goerlitz||[]).push([[721],{253:function(e,t,a){a.r(t),a.d(t,{Head:function(){return s.F}});var l=a(7294),n=a(1210),r=a(2699),s=a(2596);t.default=e=>{let{data:t}=e;const{talk:a,speakers:s,location:u}=t,o=s.edges.map((e=>e.node));return l.createElement(n.Z,null,l.createElement(r.Z,{talk:a,speakerList:o,location:u,linkToDetailsPage:!1}))}}}]);
+//# sourceMappingURL=component---src-templates-talk-page-tsx-ab69b6140103e09d919e.js.map

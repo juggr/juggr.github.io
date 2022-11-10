@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
-    <title>Java User Group Görlitz</title>
-    <updated>2022-11-07T14:42:17.698Z</updated>
+    <title/>
+    <updated>2022-11-10T20:44:08.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
-    <subtitle>Website der JUG Görlitz. Wir organisieren regelmäßige kostenfreie Vorträge rund um das Thema Programmierung und Java</subtitle>
+    <rights>CC-0</rights>
     <entry>
         <title type="html"><![CDATA[Contentlab]]></title>
         <id>https://jug-gr.de/talks/2023-01-25-contentlab/</id>
@@ -34,9 +34,10 @@
       wird noch bekannt gegeben
   ]]></summary>
         <content type="html"><![CDATA[<p>Keycloak ist ein Open Source IAM (Identity and Access Management) System, das größtenteils in Java implementiert ist.<br>
-Es wird von vielen Unternehmen eingesetzt, um Authentifizierung und Authorisierung für verschiedenste Anwendungen umzusetzen.
-Eine große Stärke von Keycloak ist die Konfigurierbarkeit und Erweiterbarkeit.<br>
-Im Vortrag wird ein Überblick über die Konfigurations- und Erweiterungsmöglichkeiten gegeben. In einer Live-Demo wird gezeigt, wie man diese Möglichkeiten nutzen kann, um ein kundenspezifisches IAM bereitzustellen.</p>]]></content>
+Es wird von vielen Unternehmen eingesetzt, um Authentifizierung und Authorisierung für verschiedenste Anwendungen
+umzusetzen. Eine große Stärke von Keycloak ist die Konfigurierbarkeit und Erweiterbarkeit.<br>
+Im Vortrag wird ein Überblick über die Konfigurations- und Erweiterungsmöglichkeiten gegeben. In einer Live-Demo wird
+gezeigt, wie man diese Möglichkeiten nutzen kann, um ein kundenspezifisches IAM bereitzustellen.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Industrie 4.0? Das JUGt mich!]]></title>
@@ -70,7 +71,7 @@ Im Vortrag wird ein Überblick über die Konfigurations- und Erweiterungsmöglic
   >
     <span
     class="gatsby-resp-image-background-image"
-    style="padding-bottom: 147.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,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'); background-size: cover; display: block;"
+    style="padding-bottom: 147.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,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'); background-size: cover; display: block;"
   ></span>
   <img
         class="gatsby-resp-image-image"
@@ -84,12 +85,16 @@ Im Vortrag wird ein Überblick über die Konfigurations- und Erweiterungsmöglic
         sizes="(max-width: 600px) 100vw, 600px"
         style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
         loading="lazy"
+        decoding="async"
       />
   </a>
     </span></p>
-<p>In diesem Vortrag lernen wir die Technologien und Möglichkeiten von Industrie 4.0 praktisch kennen. Wir nutzen das Industrieprotokoll <em>OPC-UA</em> zur Maschinenkommunikation und Edge-Services um Fabrikdaten in die Cloud zu laden. Wir sehen uns die Services hinter einem Dashboard an und mit der Siemens <em>S7</em> Steuerung tunen wir unsere Fabrik.</p>
+<p>In diesem Vortrag lernen wir die Technologien und Möglichkeiten von Industrie 4.0 praktisch kennen. Wir nutzen das
+Industrieprotokoll <em>OPC-UA</em> zur Maschinenkommunikation und Edge-Services um Fabrikdaten in die Cloud zu laden. Wir sehen
+uns die Services hinter einem Dashboard an und mit der Siemens <em>S7</em> Steuerung tunen wir unsere Fabrik.</p>
 <hr>
-<p>Hinweis: Bitte meldet euch zur <strong>Teilnahme über jug-gr(at)digitale-oberlausitz.eu</strong> an. Wir haben eine begrenzte Anzahl von 25 Plätzen zur Verfügung, die nicht überschritten werden darf.</p>]]></content>
+<p>Hinweis: Bitte meldet euch zur <strong>Teilnahme über jug-gr(at)digitale-oberlausitz.eu</strong> an. Wir haben eine begrenzte Anzahl
+von 25 Plätzen zur Verfügung, die nicht überschritten werden darf.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hebe deine IoT-Infrastruktur auf das Serverless-Level an]]></title>
@@ -109,9 +114,15 @@ Im Vortrag wird ein Überblick über die Konfigurations- und Erweiterungsmöglic
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Die Persistenz von IoT Daten sowie die Steuerung von IoT-Endgeräten benötigt im klassischen Verständnis eine Servereinheit. Bei den Bastlern sind das oft on-premise Raspberry-Pi-Geräte oder gehostete Linux-Maschinen. Ihre korrekte Konfiguration und anschließende Wartung kann Kopfzerbrechen bereiten. Es ist jedoch möglich, diese Verantwortung an den Cloud-Betreiber zu übertragen und eine entsprechende Infrastruktur zu schaffen. In der Hands-On-Session wird gezeigt, wie man mit der Erstellung der gewünschten Infrastruktur in der AWS-Cloud beginnen kann. Dazu wird ein Mikrocontroller vom Typ ESP als physisches IoT-Gerät verwendet.</p>
+        <content type="html"><![CDATA[<p>Die Persistenz von IoT Daten sowie die Steuerung von IoT-Endgeräten benötigt im klassischen Verständnis eine
+Servereinheit. Bei den Bastlern sind das oft on-premise Raspberry-Pi-Geräte oder gehostete Linux-Maschinen. Ihre
+korrekte Konfiguration und anschließende Wartung kann Kopfzerbrechen bereiten. Es ist jedoch möglich, diese
+Verantwortung an den Cloud-Betreiber zu übertragen und eine entsprechende Infrastruktur zu schaffen. In der
+Hands-On-Session wird gezeigt, wie man mit der Erstellung der gewünschten Infrastruktur in der AWS-Cloud beginnen kann.
+Dazu wird ein Mikrocontroller vom Typ ESP als physisches IoT-Gerät verwendet.</p>
 <hr>
-<p>Hinweis: Bitte meldet euch zur <strong>Teilnahme über jug-gr(at)digitale-oberlausitz.eu</strong> an. Wir haben eine begrenzte Anzahl von 25 Plätzen zur Verfügung, die nicht überschritten werden darf.</p>]]></content>
+<p>Hinweis: Bitte meldet euch zur <strong>Teilnahme über jug-gr(at)digitale-oberlausitz.eu</strong> an. Wir haben eine begrenzte Anzahl
+von 25 Plätzen zur Verfügung, die nicht überschritten werden darf.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ultraschnelle Java In-Memory Datenbank-Anwendungen & Microservices mit MicroStream]]></title>
@@ -125,16 +136,30 @@ Im Vortrag wird ein Überblick über die Konfigurations- und Erweiterungsmöglic
       <p>Location:</p>
       wird noch bekannt gegeben
   ]]></summary>
-        <content type="html"><![CDATA[<p>MicroStream ist ein fundamental neues Persistenz-Framework für die native Speicherung komplexer Java Objektgraphen. D.h., Objekte werden damit genau so persistent gespeichert, wie diese im Hauptspeicher von der JVM verwaltet werden. Umgekehrt lassen sich zu jeder Zeit einzelne Subgraphen in den RAM laden und der Objektgraph im Hauptspeicher wird automatisch aktualisiert.</p>
-<p>Dadurch ergeben sich völlig neue Möglichkeiten: Objektgraphen lassen sich als In-Memory Datenbank verwenden. Ein Objektgraph ist dabei eine sehr mächtige Multi-Model Datenstruktur. Es lassen sich beliebige Java-Typen, Collections sowie Formate wie JSON verwenden und beliebig kombinieren. Passend dazu bietet Java die perfekte Abfragesprache. Mit Java Streams dauert das Durchsuchen selbst sehr großer und komplexer Objektgraphen nur Mikrosekunden - bis zu 1000 Mal schneller als vergleichbare SQL-Abfragen und sogar sehr viel schneller als das direkte Lesen von Abfrageergebnissen aus einem lokalen Cache. DB-spezifische Datenstrukturen oder Formate werden damit bedeutungslos für Java. Keine teuren Mappings mehr. Keine Datentyp-Konvertierungen mehr. Keine DB-spezifischen Abfragesprachen. Nur noch ein Datenmodell: Java-Klassen (POJOs). Kein zusätzliches Caching-Framework mehr. Keine unkomfortablen Objektkopien mehr. Simple Architektur und typsicherer Abfrage-Code. Reine Core-Java Features anstatt DB-spezifische Konzepte. Das Endresultat ist eine ultraschnelle Java In-Memory Datenbankanwendung oder Microservice.</p>
-<p>MicroStream wird bereits seit über 5 Jahren in Unternehmensanwendung produktiv eingesetzt. Jetzt wird MicroStream Open Source und Teil der populären Microservice Frameworks Helidon und Open Liberty.</p>
+        <content type="html"><![CDATA[<p>MicroStream ist ein fundamental neues Persistenz-Framework für die native Speicherung komplexer Java Objektgraphen.
+D.h., Objekte werden damit genau so persistent gespeichert, wie diese im Hauptspeicher von der JVM verwaltet werden.
+Umgekehrt lassen sich zu jeder Zeit einzelne Subgraphen in den RAM laden und der Objektgraph im Hauptspeicher wird
+automatisch aktualisiert.</p>
+<p>Dadurch ergeben sich völlig neue Möglichkeiten: Objektgraphen lassen sich als In-Memory Datenbank verwenden. Ein
+Objektgraph ist dabei eine sehr mächtige Multi-Model Datenstruktur. Es lassen sich beliebige Java-Typen, Collections
+sowie Formate wie JSON verwenden und beliebig kombinieren. Passend dazu bietet Java die perfekte Abfragesprache. Mit
+Java Streams dauert das Durchsuchen selbst sehr großer und komplexer Objektgraphen nur Mikrosekunden - bis zu 1000 Mal
+schneller als vergleichbare SQL-Abfragen und sogar sehr viel schneller als das direkte Lesen von Abfrageergebnissen aus
+einem lokalen Cache. DB-spezifische Datenstrukturen oder Formate werden damit bedeutungslos für Java. Keine teuren
+Mappings mehr. Keine Datentyp-Konvertierungen mehr. Keine DB-spezifischen Abfragesprachen. Nur noch ein Datenmodell:
+Java-Klassen (POJOs). Kein zusätzliches Caching-Framework mehr. Keine unkomfortablen Objektkopien mehr. Simple
+Architektur und typsicherer Abfrage-Code. Reine Core-Java Features anstatt DB-spezifische Konzepte. Das Endresultat ist
+eine ultraschnelle Java In-Memory Datenbankanwendung oder Microservice.</p>
+<p>MicroStream wird bereits seit über 5 Jahren in Unternehmensanwendung produktiv eingesetzt. Jetzt wird MicroStream Open
+Source und Teil der populären Microservice Frameworks Helidon und Open Liberty.</p>
 <p><strong>Materialien:</strong></p>
 <ul>
 <li><a href="/downloads/Java-In-Memory-DB-Applications-with-MicroStream-JUG-Goerlitz_PDF.pdf">Folien zum Vortrag</a></li>
 </ul>
 <hr>
 <h2>Hinweis</h2>
-<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt: <a href="https://meet.digitale-oberlausitz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>]]></content>
+<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt:
+<a href="https://meet.digitale-oberlausitz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Web Components]]></title>
@@ -148,14 +173,15 @@ Im Vortrag wird ein Überblick über die Konfigurations- und Erweiterungsmöglic
       <p>Location:</p>
       wird noch bekannt gegeben
   ]]></summary>
-        <content type="html"><![CDATA[<p>Web-Components sind eine Möglichkeit, auf Basis von Web-Standards wiederverwendbare UI-Komponenten zu bauen,
-die sich browserübergreifend und unabhängig von JavaScript-Frameworks einsetzen lassen.
-Im Vortrag möchte ich die relevanten Web-Standards kurz vorstellen und im Live-Coding eine Web-Componente from Scratch bauen.</p>
-<p>Dabei möchte ich auch auf die Stärken und Schwächen von Web-Components eingehen und einige Erfahrungen teilen,
-die ich bei der Entwicklung einer firmeninternen Component-Library machen konnte. </p>
+        <content type="html"><![CDATA[<p>Web-Components sind eine Möglichkeit, auf Basis von Web-Standards wiederverwendbare UI-Komponenten zu bauen, die sich
+browserübergreifend und unabhängig von JavaScript-Frameworks einsetzen lassen. Im Vortrag möchte ich die relevanten
+Web-Standards kurz vorstellen und im Live-Coding eine Web-Componente from Scratch bauen.</p>
+<p>Dabei möchte ich auch auf die Stärken und Schwächen von Web-Components eingehen und einige Erfahrungen teilen, die ich
+bei der Entwicklung einer firmeninternen Component-Library machen konnte.</p>
 <hr>
 <h2>Hinweis</h2>
-<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt: <a href="https://meet.digitale-oberlausitz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>]]></content>
+<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt:
+<a href="https://meet.digitale-oberlausitz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Java Secure Coding in der Praxis]]></title>
@@ -169,11 +195,16 @@ die ich bei der Entwicklung einer firmeninternen Component-Library machen konnte
       <p>Location:</p>
       wird noch bekannt gegeben
   ]]></summary>
-        <content type="html"><![CDATA[<p>Durch die Veröffentlichung von immer neuen Schwachstellen in Softwareprodukten rückt das Thema Application Security zunehmend in den Fokus vieler Softwareentwickler.
-Sichere Software zu erstellen muss aber keine große Herausforderung sein, wenn man Best Practices befolgt und der Application Security einen festen Platz im Entwicklungszyklus einräumt. Ziel des Vortrags ist es, einen Überblick zu Secure Coding in Java zu vermitteln und die Wichtigkeit dieses Themas hervorzuheben. Im Detail wird außerdem an praktischen Beispielen demonstriert, wie Sicherheitsschwachstellen im Programmcode aussehen, ausgenutzt und behoben werden können.</p>
+        <content type="html"><![CDATA[<p>Durch die Veröffentlichung von immer neuen Schwachstellen in Softwareprodukten rückt das Thema Application Security
+zunehmend in den Fokus vieler Softwareentwickler. Sichere Software zu erstellen muss aber keine große Herausforderung
+sein, wenn man Best Practices befolgt und der Application Security einen festen Platz im Entwicklungszyklus einräumt.
+Ziel des Vortrags ist es, einen Überblick zu Secure Coding in Java zu vermitteln und die Wichtigkeit dieses Themas
+hervorzuheben. Im Detail wird außerdem an praktischen Beispielen demonstriert, wie Sicherheitsschwachstellen im
+Programmcode aussehen, ausgenutzt und behoben werden können.</p>
 <hr>
 <h2>Hinweis</h2>
-<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt: <a href="https://meet.digitale-oberlausitz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>]]></content>
+<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt:
+<a href="https://meet.digitale-oberlausitz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Branching-Modelle]]></title>
@@ -187,11 +218,17 @@ Sichere Software zu erstellen muss aber keine große Herausforderung sein, wenn 
       <p>Location:</p>
       wird noch bekannt gegeben
   ]]></summary>
-        <content type="html"><![CDATA[<p>Als Softwareentwickler ist man auf die Verwendung von Versionsverwaltungssystemen und deren Branching- und Merging-Strategien angewiesen. Vorgaben, wie diese Strategien angewendet werden müssen, liefern diverse Branching-Modelle. Sie sollen vor Allem den Entwickleralltag erleichtern, indem sie für eine saubere Historie sorgen, den Softwarereleaseprozess unterstützen oder verhindern, dass man in der Merge-Hölle landet.
-In dem Vortrag werden einige Branching-Modelle vorgestellt. Dabei wird der Frage auf den Grund gegangen, welche Art von Modell zu welcher Art von Softwareprojekt passt und welche allgemeingültigen Vorgehensweisen beim Branching und Merging daraus gezogen werden können.</p>
+        <content type="html"><![CDATA[<p>Als Softwareentwickler ist man auf die Verwendung von Versionsverwaltungssystemen und deren Branching- und
+Merging-Strategien angewiesen. Vorgaben, wie diese Strategien angewendet werden müssen, liefern diverse
+Branching-Modelle. Sie sollen vor Allem den Entwickleralltag erleichtern, indem sie für eine saubere Historie sorgen,
+den Softwarereleaseprozess unterstützen oder verhindern, dass man in der Merge-Hölle landet. In dem Vortrag werden
+einige Branching-Modelle vorgestellt. Dabei wird der Frage auf den Grund gegangen, welche Art von Modell zu welcher Art
+von Softwareprojekt passt und welche allgemeingültigen Vorgehensweisen beim Branching und Merging daraus gezogen werden
+können.</p>
 <hr>
 <h2>Hinweis</h2>
-<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt: <a href="https://meet.digitale-oberlausitz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>]]></content>
+<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt:
+<a href="https://meet.digitale-oberlausitz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JDK 14 und GraalVM im Java Ökosystem]]></title>
@@ -222,8 +259,8 @@ GraalVM als universelle Virtuelle Maschine (VM) für Anwendungen im Java Ökosys
 <hr>
 <h2>Hinweis</h2>
 <p><strong>Dieser Vortrag findet Online statt.</strong> Dazu hat Wolfgang ein Zoom-Meeting aufgesetzt. Dieser Meeting-Raum ist
-Passwortgeschützt. Bitte meldet euch vorab per E-Mail an. Wir schicken euch
-dann vor dem Meeting das Passwort per Mail zu.</p>
+Passwortgeschützt. Bitte meldet euch vorab per E-Mail an. Wir schicken euch dann vor dem Meeting das Passwort per Mail
+zu.</p>
 <p>Dieses Mal geht es schon <strong>18:00 Uhr los</strong>.</p>]]></content>
     </entry>
     <entry>
@@ -266,7 +303,8 @@ verwenden zu müssen. Was ist Cloud Foundry überhaupt? Und hält sie, was sie v
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Hattest du auch schon mal das Problem, dass du deine eigenen komplizierten und unleserlichen Testfälle nicht mehr verstanden hast? Wir kennen das Problem und zeigen euch mögliche Lösungen.</p>]]></content>
+        <content type="html"><![CDATA[<p>Hattest du auch schon mal das Problem, dass du deine eigenen komplizierten und unleserlichen Testfälle nicht mehr
+verstanden hast? Wir kennen das Problem und zeigen euch mögliche Lösungen.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wie gut kennst Du das Collections Framework?]]></title>
@@ -315,11 +353,9 @@ Laufzeitverhalten und sinnvolle Initialisierung anhand einiger ausgewählter Col
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Der Vortrag erläutert zunächst die Grundlagen der Standards OAuth 2.0 und OpenID-Connect
-und geht danach auf den Einsatz dieser Standards mittels Keycloak ein.
-Dabei wird anhand einer Beispielanwendung (React, Spring Boot) gezeigt,
-wie man Keycloak in seine Anwendung einbinden kann.
-</p>]]></content>
+        <content type="html"><![CDATA[<p>Der Vortrag erläutert zunächst die Grundlagen der Standards OAuth 2.0 und OpenID-Connect und geht danach auf den Einsatz
+dieser Standards mittels Keycloak ein. Dabei wird anhand einer Beispielanwendung (React, Spring Boot) gezeigt, wie man
+Keycloak in seine Anwendung einbinden kann.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[It's a JDK jungle out there - oder wie es mit den neuen Java-Versionen geordnet weitergeht]]></title>
@@ -339,23 +375,20 @@ wie man Keycloak in seine Anwendung einbinden kann.
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Mit dem JDK-Enhancement-Proposal (JEP 322) wird die zeitbasierte Java-Release-Versionierung definiert,
-die auf dem aktuellen Java SE Version-String-Schema basiert und
-die Namensgebung für die kommenden Versionen der Java SE Plattform und vom JDK vorgibt.
-Seit dem Jahr 2018 erscheinen die künftigen Java-Feature-Releases alle 6 Monate.
-Das JDK 11 wurde als Long-Term-Support-Release (LTS-Release) im September 2018 veröffentlicht
-und nach sechs Monaten folgte das OpenJDK 12 im März 2019.
-Mit dem zeitlichen Abstand von sechs Monaten bekommen die Entwickler wesentlich schneller neue
-Java-Funktionsmerkmale als dies mit dem bisherigen Dreijahreszyklus der Fall war.
-Zwischen den OpenJDK/JDK-Feature-Releases sind zwei Updates geplant, bei denen es um die Wartung und Bugfixes geht,
-die wie gewohnt, jeweils im Januar, April, Juli und Oktober eines Jahres als Java Critical Patch Update erscheinen werden.
-Die Planung sieht vor, jeweils alle drei Jahre ein weiteres Java-LTS-Release zu veröffentlichen,
-damit der Anwendungsbetrieb eine stabile und ausgereifte Java-Basis bekommt,
-die mit der nachfolgenden Versionierung $FEATURE.$INTERIM.$UPDATE.$PATCH gekennzeichnet wird.
-Im Vortrag werden Beispiele zum Version-String besprochen, sowie Empfehlungen diskutiert,
-wie die künftige Java-Strategie mit dem OpenJDK, Oracle JDK (LTS) und
-der neuen Java SE Subscription (Support) für die Entwickler und für den Anwendungsbetrieb aussehen soll.
-Zudem wird die Weiterentwicklung der OpenJFX/JavaFX UI-Technologie mit den Aktivitäten der Developer-Community dargestellt.</p>]]></content>
+        <content type="html"><![CDATA[<p>Mit dem JDK-Enhancement-Proposal (JEP 322) wird die zeitbasierte Java-Release-Versionierung definiert, die auf dem
+aktuellen Java SE Version-String-Schema basiert und die Namensgebung für die kommenden Versionen der Java SE Plattform
+und vom JDK vorgibt. Seit dem Jahr 2018 erscheinen die künftigen Java-Feature-Releases alle 6 Monate. Das JDK 11 wurde
+als Long-Term-Support-Release (LTS-Release) im September 2018 veröffentlicht und nach sechs Monaten folgte das OpenJDK
+12 im März 2019. Mit dem zeitlichen Abstand von sechs Monaten bekommen die Entwickler wesentlich schneller neue
+Java-Funktionsmerkmale als dies mit dem bisherigen Dreijahreszyklus der Fall war. Zwischen den
+OpenJDK/JDK-Feature-Releases sind zwei Updates geplant, bei denen es um die Wartung und Bugfixes geht, die wie gewohnt,
+jeweils im Januar, April, Juli und Oktober eines Jahres als Java Critical Patch Update erscheinen werden. Die Planung
+sieht vor, jeweils alle drei Jahre ein weiteres Java-LTS-Release zu veröffentlichen, damit der Anwendungsbetrieb eine
+stabile und ausgereifte Java-Basis bekommt, die mit der nachfolgenden Versionierung $FEATURE.$INTERIM.$UPDATE.$PATCH
+gekennzeichnet wird. Im Vortrag werden Beispiele zum Version-String besprochen, sowie Empfehlungen diskutiert, wie die
+künftige Java-Strategie mit dem OpenJDK, Oracle JDK (LTS) und der neuen Java SE Subscription (Support) für die
+Entwickler und für den Anwendungsbetrieb aussehen soll. Zudem wird die Weiterentwicklung der OpenJFX/JavaFX
+UI-Technologie mit den Aktivitäten der Developer-Community dargestellt.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Static-Site-Generators]]></title>
@@ -375,13 +408,14 @@ Zudem wird die Weiterentwicklung der OpenJFX/JavaFX UI-Technologie mit den Aktiv
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Die Website der JUG Görlitz läuft fast <em>Serverless</em>. Natürlich muss ein Webserver Dateien ausliefern aber
-ansonsten sind keine Datenbank, Applicationserver, PHP oder sonstige aktive Serverkomponenten im Einsatz. Stattdessen
-sind alle Inhalte als Markdown-Textdateien in einem <a href="https://github.com/juggr/juggr.github.io">Git-Repository</a> abgelegt
-(dieser Talk beispielsweise <a href="https://github.com/juggr/juggr.github.io/blob/source/content/talks/2019-03-27-static-site-generators.md">hier</a>). Ein so genannter "Static-Site-Generator"
-generiert daraus HTML-, CSS- und JavaScript-Dateien, die nur noch von einem ganz normalen HTTP-Server ausgeliefert
-werden müssen. Dieses Vorgehen vereinfacht das Hosting, beschleunigt Website-Aufrufe und minimiert die Angriffsfläche
-des Servers.</p>
+        <content type="html"><![CDATA[<p>Die Website der JUG Görlitz läuft fast <em>Serverless</em>. Natürlich muss ein Webserver Dateien ausliefern aber ansonsten sind
+keine Datenbank, Applicationserver, PHP oder sonstige aktive Serverkomponenten im Einsatz. Stattdessen sind alle Inhalte
+als Markdown-Textdateien in einem <a href="https://github.com/juggr/juggr.github.io">Git-Repository</a> abgelegt (dieser Talk
+beispielsweise
+<a href="https://github.com/juggr/juggr.github.io/blob/source/content/talks/2019-03-27-static-site-generators.md">hier</a>). Ein so
+genannter "Static-Site-Generator" generiert daraus HTML-, CSS- und JavaScript-Dateien, die nur noch von einem ganz
+normalen HTTP-Server ausgeliefert werden müssen. Dieses Vorgehen vereinfacht das Hosting, beschleunigt Website-Aufrufe
+und minimiert die Angriffsfläche des Servers.</p>
 <p>Im Vortrag wird das Konzept von Static-Site-Generators erklärt und die möglichen Einsatzgebiete beschrieben. Mit dem
 Tool <a href="https://www.gatsbyjs.org/">Gatsby</a> werden wir eine einfache Blog-Website bauen. Am Beispiel der JUG-Website wird
 aber auch gezeigt, wie komplexere Daten-Modelle mit mehreren Entitäten (<a href="/talks">Vorträge</a>, <a href="/speakers">Speaker</a>,
@@ -463,7 +497,12 @@ ich nebenläufigen Code der trotzdem wartbar ist?</p>]]></content>
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Spätestens seit Java 8 gibt es monadische Typen in Java. Aber was bedeutet das eigentlich? Was sind die Eigenschaften, die Monaden ausmachen? Und wo liegen unsere Schwierigkeiten beim Verständnis von Monaden? Dieser Vortrag beschreibt, was eine Monade ist und wie wir eine monadische Transaktion nutzen können, um in domänenspezifischer Sprache mit einer Datenbank zu reden. Hierbei bauen wir monadische Transaktionen in ein vorhandenes Repository ein. Weiter beleuchten wir die Vor- und Nachteile dieses Ansatzes und diskutieren die Unterstützung von Monaden in Java. Voraussetzung sind erste Erfahrungen mit funktionaler Programmierung und Lambdas.</p>
+        <content type="html"><![CDATA[<p>Spätestens seit Java 8 gibt es monadische Typen in Java. Aber was bedeutet das eigentlich? Was sind die Eigenschaften,
+die Monaden ausmachen? Und wo liegen unsere Schwierigkeiten beim Verständnis von Monaden? Dieser Vortrag beschreibt, was
+eine Monade ist und wie wir eine monadische Transaktion nutzen können, um in domänenspezifischer Sprache mit einer
+Datenbank zu reden. Hierbei bauen wir monadische Transaktionen in ein vorhandenes Repository ein. Weiter beleuchten wir
+die Vor- und Nachteile dieses Ansatzes und diskutieren die Unterstützung von Monaden in Java. Voraussetzung sind erste
+Erfahrungen mit funktionaler Programmierung und Lambdas.</p>
 <p><strong>Materialien:</strong></p>
 <ul>
 <li><a href="http://jug-gr.de/downloads/juggr_refactoring_towards_monadic_transactions.pdf">Folien zum Vortrag</a></li>
@@ -487,15 +526,17 @@ ich nebenläufigen Code der trotzdem wartbar ist?</p>]]></content>
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Unveränderliche Datenstrukturen sind ein wichtiges Werkzeug der funktionalen Programmierung.
-Aber auch abseits dessen können Immutables ungemein nützlich sein: Richtig angewandt erhöhen sie die Verständlichkeit des Codes,
-da EntwicklerInnen nicht mehr auf die mühsame Suche gehen müssen,
-an welcher Stelle ein Objekt möglicherweise ungewollt verändert wurde.
-Darüber hinaus sind Immutables inhärent Threadsafe und können auch hier die Nachvollziehbarkeit des Codes erhöhen.</p>
-<p>Da Java als Sprache aber keine besondere Unterstützung für Immutables mitbringt,
-müssen EntwicklerInnen auf Patterns und Bibliotheken zurückgreifen, um in den Genuss von unveränderlichen Datenstrukturen zu kommen.
-Denn natürlich müssen auch in funktionalen Programmen letztlich Veränderungen der Daten abgebildet werden und dafür bedarf es geeigneter Unterstützung.</p>
-<p>Im Vortrag möchte ich neben einer grundsätzlichen Einführung in die Thematik auch einige dieser Techniken vorstellen und ihre Vor- und Nachteile besprechen.</p>
+        <content type="html"><![CDATA[<p>Unveränderliche Datenstrukturen sind ein wichtiges Werkzeug der funktionalen Programmierung. Aber auch abseits dessen
+können Immutables ungemein nützlich sein: Richtig angewandt erhöhen sie die Verständlichkeit des Codes, da
+EntwicklerInnen nicht mehr auf die mühsame Suche gehen müssen, an welcher Stelle ein Objekt möglicherweise ungewollt
+verändert wurde. Darüber hinaus sind Immutables inhärent Threadsafe und können auch hier die Nachvollziehbarkeit des
+Codes erhöhen.</p>
+<p>Da Java als Sprache aber keine besondere Unterstützung für Immutables mitbringt, müssen EntwicklerInnen auf Patterns und
+Bibliotheken zurückgreifen, um in den Genuss von unveränderlichen Datenstrukturen zu kommen. Denn natürlich müssen auch
+in funktionalen Programmen letztlich Veränderungen der Daten abgebildet werden und dafür bedarf es geeigneter
+Unterstützung.</p>
+<p>Im Vortrag möchte ich neben einer grundsätzlichen Einführung in die Thematik auch einige dieser Techniken vorstellen und
+ihre Vor- und Nachteile besprechen.</p>
 <p><strong>Materialien:</strong></p>
 <ul>
 <li><a href="https://docs.google.com/presentation/d/1xKfrXV5XY7NBdpdlHapW6-88vtN9ASdjmEDtGEAWGpk/edit?usp=sharing">Folien zum Vortrag</a></li>
@@ -519,7 +560,11 @@ Denn natürlich müssen auch in funktionalen Programmen letztlich Veränderungen
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Die RESTful-Architektur ist eine etablierte Möglichkeit, Schnittstellen zwischen Client und Server zu gestalten. Dies bringt allerdings einige Nachteile mit sich. Als Beispiel können hier die hohe Anzahl an benötigten Requests sowie die nur unvollständige Dokumentation der Schnittstelle genannt werden. Mit GraphQL entwickelte Facebook eine alternative Abfragesprache, welche die genannten Nachteile beseitigen sollte. Dabei wird eine Abfrage ähnlich der Struktur der JSON-Syntax an den Server übermittelt, welcher die gewünschten Daten mit nur einer Antwort zur Verfügung stellt.</p>
+        <content type="html"><![CDATA[<p>Die RESTful-Architektur ist eine etablierte Möglichkeit, Schnittstellen zwischen Client und Server zu gestalten. Dies
+bringt allerdings einige Nachteile mit sich. Als Beispiel können hier die hohe Anzahl an benötigten Requests sowie die
+nur unvollständige Dokumentation der Schnittstelle genannt werden. Mit GraphQL entwickelte Facebook eine alternative
+Abfragesprache, welche die genannten Nachteile beseitigen sollte. Dabei wird eine Abfrage ähnlich der Struktur der
+JSON-Syntax an den Server übermittelt, welcher die gewünschten Daten mit nur einer Antwort zur Verfügung stellt.</p>
 <p>Im Vortrag wird GraphQL anhand von Beispielen vorgestellt und dabei sowohl die Client- als auch Serverseite betrachtet.</p>
 <p><strong>Materialien:</strong></p>
 <ul>
@@ -740,16 +785,16 @@ wie damit Anwendungen gebaut werden können.</p>]]></content>
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>React ist eine von Facebook entwickelte JavaScript-Bibliothek zur Entwicklung von UI-Komponenten.
-Dabei macht React einiges anders als andere Web-Frameworks, beispielsweise der Verzicht auf Templates und die Limitierung
-auf unidirektionalen Datenfluss. Interessant ist auch der vollständig deklarative Ansatz, der es u.a. ermöglicht,
+        <content type="html"><![CDATA[<p>React ist eine von Facebook entwickelte JavaScript-Bibliothek zur Entwicklung von UI-Komponenten. Dabei macht React
+einiges anders als andere Web-Frameworks, beispielsweise der Verzicht auf Templates und die Limitierung auf
+unidirektionalen Datenfluss. Interessant ist auch der vollständig deklarative Ansatz, der es u.a. ermöglicht,
 UI-Komponenten als Funktionen zu entwickeln.</p>
 <p>React ist aber nicht auf den Browser beschränkt: Mit React-Native können darüber hinaus auf die gleiche Art und Weise
-auch native Mobile-Apps entwickelt werden. Aber anders die meisten HTML5-Hybrid-Frameworks ist bei React-Native kein HTML im Spiel.
-Stattdessen werden tatsächlich native UI-Controls gerendert.</p>
-<p>In diesem Vortrag möchte ich React und auch React-Native vorstellen und mittels Live-Coding einen Eindruck
-von dem Framework vermitteln.
-Dabei möchte ich aber auch auf die Ansätze aus der funktionalen Programmierung eingehen, die React meines Erachtens so besonders machen.</p>]]></content>
+auch native Mobile-Apps entwickelt werden. Aber anders die meisten HTML5-Hybrid-Frameworks ist bei React-Native kein
+HTML im Spiel. Stattdessen werden tatsächlich native UI-Controls gerendert.</p>
+<p>In diesem Vortrag möchte ich React und auch React-Native vorstellen und mittels Live-Coding einen Eindruck von dem
+Framework vermitteln. Dabei möchte ich aber auch auf die Ansätze aus der funktionalen Programmierung eingehen, die React
+meines Erachtens so besonders machen.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JDK 9]]></title>
@@ -860,7 +905,10 @@ Da wird selbst JavaScript blass vor Neid.</p>]]></content>
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Unit Testing in Java - dafür ist JUnit das Werkzeug der Wahl. Die letzte Version JUnit 4 tat dabei viele Jahre ihre Dienste und wurde kontinuierlich weiterentwickelt, stieß allerdings nun doch an ihre Grenzen. Der Nachfolger JUnit 5 ist eine komplette Neuentwicklung und steht kurz vor dem Release. Wir wollen uns ansehen, welche Neuerungen JUnit 5 mit sich bringt und was es beim Umstieg zu beachten gilt.</p>
+        <content type="html"><![CDATA[<p>Unit Testing in Java - dafür ist JUnit das Werkzeug der Wahl. Die letzte Version JUnit 4 tat dabei viele Jahre ihre
+Dienste und wurde kontinuierlich weiterentwickelt, stieß allerdings nun doch an ihre Grenzen. Der Nachfolger JUnit 5 ist
+eine komplette Neuentwicklung und steht kurz vor dem Release. Wir wollen uns ansehen, welche Neuerungen JUnit 5 mit sich
+bringt und was es beim Umstieg zu beachten gilt.</p>
 <p><strong>Materialien:</strong></p>
 <ul>
 <li><a href="http://jug-gr.de/downloads/juggr_jUnit5.pdf">Folien zum Vortrag</a></li>
@@ -1062,19 +1110,18 @@ besprechen, die auch auf der JVM läuft.</p>
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>JavaFX ist die neue Java-Technologie im Desktop-Bereich und somit die Ablösung von Swing.
-Damit ist es möglich Java-Anwendungen für Desktop, Browser und mobile Geräte zu entwickeln.
-Allerdings bietet Oracle keinen direkten Support für mobile Endgeräte an, sondern überlässt dies der Community.</p>
-<p>In dem Vortrag geht es um den Aktuellen Stand der Entwicklung in diesem Bereich.
-Was muss gemacht werden, um eine JavaFX-Anwendung auf einem Smartphone zum laufen zu bekommen und
-welche Grenzen hat dieser Ansatz für die Entwicklung von mobilen Anwendungen mit JavaFX.</p>
-<p>Einen weiteren Ansatz verfolgt die Firma <a href="http://gluonhq.com/">Gluon</a>
-zum Erstellen von mobilen Anwendungen auf JavaFX.
-Eine gemeinsame Code-Basis für IOS- und Android-Anwendungen basierend auf JavaFX.
-Was derzeit damit möglich ist wird ebenfalls Inhalt des Vortrages sein.</p>
-<p>Abschließend wird unser Ansatz für mobile Anwendungen in JavaFX vorgestellt.
-Mittels des MVVM-Pattern in Kombination mit JavaFX-Ports.
-Vorgestellt wird der aktuelle Entwicklungsstand mit einer offenen Diskussion über Vor- und Nachteile des Ansatzes.</p>
+        <content type="html"><![CDATA[<p>JavaFX ist die neue Java-Technologie im Desktop-Bereich und somit die Ablösung von Swing. Damit ist es möglich
+Java-Anwendungen für Desktop, Browser und mobile Geräte zu entwickeln. Allerdings bietet Oracle keinen direkten Support
+für mobile Endgeräte an, sondern überlässt dies der Community.</p>
+<p>In dem Vortrag geht es um den Aktuellen Stand der Entwicklung in diesem Bereich. Was muss gemacht werden, um eine
+JavaFX-Anwendung auf einem Smartphone zum laufen zu bekommen und welche Grenzen hat dieser Ansatz für die Entwicklung
+von mobilen Anwendungen mit JavaFX.</p>
+<p>Einen weiteren Ansatz verfolgt die Firma <a href="http://gluonhq.com/">Gluon</a> zum Erstellen von mobilen Anwendungen auf JavaFX.
+Eine gemeinsame Code-Basis für IOS- und Android-Anwendungen basierend auf JavaFX. Was derzeit damit möglich ist wird
+ebenfalls Inhalt des Vortrages sein.</p>
+<p>Abschließend wird unser Ansatz für mobile Anwendungen in JavaFX vorgestellt. Mittels des MVVM-Pattern in Kombination mit
+JavaFX-Ports. Vorgestellt wird der aktuelle Entwicklungsstand mit einer offenen Diskussion über Vor- und Nachteile des
+Ansatzes.</p>
 <p><strong>Materialien:</strong></p>
 <ul>
 <li><a href="/downloads/juggr_javafx_on_mobile.pdf">Vortragsfolien</a></li>
@@ -1456,8 +1503,9 @@ verwenden zu können. Neue und bestehende Tools und kleine Skripte sollen genau 
 Menschen in diesem Prozess anpassbar sein. Einmal entwickelte Funktionalität soll frei wiederverwendbar sein. Unter
 anderem für diese Ziele wurde OpenDIP, eine offene Platform für die Integration im Entwicklungsprozess, entworfen. Über
 die Konzepte und die Realisierung dieser Platform wurden zwei Masterarbeiten und ein Paper
-<a href="http://arxiv.org/find/all/1/all:+AND+Max+Wielsch/0/1/0/all/0/1">http://arxiv.org/find/all/1/all:+AND+Max+Wielsch/0/1/0/all/0/1</a> geschrieben. Im Vortrag wird auf die Motivation und die
-Verwendung der Platform eingangen, wobei die Architektur ausgehend von einem Fallbeispiel erläutert wird.</p>]]></content>
+<a href="http://arxiv.org/find/all/1/all:+AND+Max+Wielsch/0/1/0/all/0/1">http://arxiv.org/find/all/1/all:+AND+Max+Wielsch/0/1/0/all/0/1</a>
+geschrieben. Im Vortrag wird auf die Motivation und die Verwendung der Platform eingangen, wobei die Architektur
+ausgehend von einem Fallbeispiel erläutert wird.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Performance-Optimierung im Web]]></title>
@@ -1666,7 +1714,8 @@ im Backend mit JPA kombiniert werden kann.</p>
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Selenium/webdriver - In Ergänzung zu der <a href="/talks/2012-03-28-webtests/">Vorstellung von Marcus Döring</a> mit praktischen Beispielen von Maik Wagner</p>]]></content>
+        <content type="html"><![CDATA[<p>Selenium/webdriver - In Ergänzung zu der <a href="/talks/2012-03-28-webtests/">Vorstellung von Marcus Döring</a> mit praktischen
+Beispielen von Maik Wagner</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GridGain - Parallel Computing und Data Grid Anwendungen]]></title>
@@ -1726,7 +1775,7 @@ im Backend mit JPA kombiniert werden kann.</p>
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p><strong>maven</strong> von Thomas Storch </p>
+        <content type="html"><![CDATA[<p><strong>maven</strong> von Thomas Storch</p>
 <p><a href="/downloads/juggr_maven.pdf">Folien</a></p>
 <p><a href="/downloads/code_maven.zip">Beispiel-Code</a></p>]]></content>
     </entry>
@@ -1748,7 +1797,7 @@ im Backend mit JPA kombiniert werden kann.</p>
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p><strong>Webtests mit Selenium</strong> von Marcus Döring </p>]]></content>
+        <content type="html"><![CDATA[<p><strong>Webtests mit Selenium</strong> von Marcus Döring</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Webentwicklung mit Scala]]></title>
@@ -1788,8 +1837,8 @@ im Backend mit JPA kombiniert werden kann.</p>
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Dieser Vortrag baut auf den Vortrag zur <a href="/talks/2011-11-30-jsf-cdi">"Einführung in JavaServer Faces 2"</a> auf. Es
-werden fortgeschrittene Techniken aus dem Bereich JSF vorgestellt:</p>
+        <content type="html"><![CDATA[<p>Dieser Vortrag baut auf den Vortrag zur <a href="/talks/2011-11-30-jsf-cdi">"Einführung in JavaServer Faces 2"</a> auf. Es werden
+fortgeschrittene Techniken aus dem Bereich JSF vorgestellt:</p>
 <ul>
 <li>Navigation mit JSF</li>
 <li>Templates und Wiederverwendung von Facelets</li>
@@ -1819,7 +1868,7 @@ beobachtete Klasse komplett von einander entkoppelt werden können.</p>]]></cont
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p><strong>JPA - Hibernate</strong> von Marko Modsching </p>
+        <content type="html"><![CDATA[<p><strong>JPA - Hibernate</strong> von Marko Modsching</p>
 <p><strong>Materialien:</strong></p>
 <ul>
 <li><a href="/downloads/juggr_orm_hibernate.pdf">Vortragsfolien</a></li>
@@ -1947,7 +1996,7 @@ Praxis erläutert wurden.</p>
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Das Thema wird diesmal Testen sein. Marko Modsching wird Testpatterns und Best Practices vorstellen </p>]]></content>
+        <content type="html"><![CDATA[<p>Das Thema wird diesmal Testen sein. Marko Modsching wird Testpatterns und Best Practices vorstellen</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Scala]]></title>
@@ -1992,7 +2041,7 @@ Praxis erläutert wurden.</p>
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>TestNG (Marcus Döring) </p>]]></content>
+        <content type="html"><![CDATA[<p>TestNG (Marcus Döring)</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaEE und JBoss]]></title>
