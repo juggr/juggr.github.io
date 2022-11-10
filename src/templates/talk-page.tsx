@@ -36,9 +36,7 @@ export const query = graphql`
         poster {
           childImageSharp {
             id
-            fluid {
-              ...GatsbyImageSharpFluid
-            }
+            gatsbyImageData(layout: FULL_WIDTH)
           }
         }
       }
@@ -55,9 +53,7 @@ export const query = graphql`
             name
             pic {
               childImageSharp {
-                fluid(maxWidth: 400) {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(width: 400, layout: CONSTRAINED)
               }
             }
             twitter_name

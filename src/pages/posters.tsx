@@ -4,7 +4,7 @@ import { graphql, Link } from "gatsby"
 
 import Layout from "../components/layout"
 
-import Img from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image"
 
 import { Container, Col, Row } from "reactstrap"
 
@@ -19,10 +19,14 @@ const PostersPage = ({ data }) => {
       <Container>
         <Row>
           {talkNodes.map((node) => (
-            <Col md={6} sm={12}>
-              <div style={{ margin: ".5rem 0" }} id={node.frontmatter.poster.childImageSharp.id} key={node.id}>
+            <Col key={node.id} md={6} sm={12}>
+              <div style={{ margin: ".5rem 0" }} id={node.frontmatter.poster.childImageSharp.id}>
                 <Link to={node.fields.slug}>
-                  <Img style={{ border: "solid 1px #aaa" }} fluid={node.frontmatter.poster.childImageSharp.fluid} />
+                  <GatsbyImage
+                    alt={`poster for ${node.frontmatter.title}`}
+                    image={node.frontmatter.poster.childImageSharp.gatsbyImageData}
+                    style={{ border: "solid 1px #aaa" }}
+                  />
                 </Link>
               </div>
             </Col>
@@ -53,9 +57,7 @@ export const query = graphql`
             poster {
               childImageSharp {
                 id
-                fluid {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(layout: FULL_WIDTH)
               }
             }
           }

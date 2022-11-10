@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import Img from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image"
 
 import { Container, Col, Row } from "reactstrap"
 
@@ -12,7 +12,10 @@ const SpeakerProfile = ({ speaker }) => {
         {speaker.frontmatter.pic && (
           <Col sm="6" xs="12" style={{ textAlign: "center", maxWidth: "400px" }}>
             <Link to={speaker.fields.slug}>
-              <Img alt="speaker" fluid={speaker.frontmatter.pic.childImageSharp.fluid} />
+              <GatsbyImage
+                image={speaker.frontmatter.pic.childImageSharp.gatsbyImageData}
+                alt="picture of the speaker"
+              />
             </Link>
           </Col>
         )}

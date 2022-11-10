@@ -63,7 +63,7 @@ const IndexPage = ({ data }) => {
 export default IndexPage
 
 export const query = graphql`
-  query {
+  {
     talks: allMarkdownRemark(filter: { fields: { sourceName: { eq: "talks" } } }) {
       edges {
         node {
@@ -79,9 +79,7 @@ export const query = graphql`
             poster {
               childImageSharp {
                 id
-                fluid {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(layout: FULL_WIDTH)
               }
             }
             tags
@@ -93,7 +91,6 @@ export const query = graphql`
         }
       }
     }
-
     posts: allMarkdownRemark(
       filter: { fields: { sourceName: { eq: "posts" } }, frontmatter: { show_on_frontpage: { eq: true } } }
     ) {
@@ -113,7 +110,6 @@ export const query = graphql`
         }
       }
     }
-
     speakers: allMarkdownRemark(filter: { fields: { sourceName: { eq: "speakers" } } }) {
       edges {
         node {
@@ -123,9 +119,7 @@ export const query = graphql`
             name
             pic {
               childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid
-                }
+                gatsbyImageData(layout: FULL_WIDTH)
               }
             }
             twitter_name
@@ -137,7 +131,6 @@ export const query = graphql`
         }
       }
     }
-
     locations: allMarkdownRemark(filter: { fields: { sourceName: { eq: "locations" } } }) {
       edges {
         node {

@@ -9,7 +9,7 @@ import { Link } from "gatsby"
 import * as R from "ramda"
 import SpeakerProfile from "./speaker-profile"
 
-import Img from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image"
 
 const SpeakerHeadline = ({ speakerList }) => (
   <span className="lead">
@@ -89,7 +89,7 @@ const TalkContent = ({ talk, speakerList, location, linkToDetailsPage }) => (
 
       {talk.frontmatter.poster && (
         <Link to={`/posters#${talk.frontmatter.poster.childImageSharp.id}`}>
-          <Img fluid={talk.frontmatter.poster.childImageSharp.fluid} />
+          <GatsbyImage alt="a poster for the talk" image={talk.frontmatter.poster.childImageSharp.gatsbyImageData} />
         </Link>
       )}
 

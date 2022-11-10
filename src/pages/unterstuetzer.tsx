@@ -2,7 +2,7 @@ import React, { FC, ReactChild } from "react"
 
 import { graphql } from "gatsby"
 
-import Img from "gatsby-image"
+import { GatsbyImage } from "gatsby-plugin-image"
 
 import { Row, Col } from "reactstrap"
 
@@ -54,7 +54,11 @@ const SupporterBoxMultiImage: FC<{ links: Array<Link>; children: React.ReactNode
       {links.map((linkTuple, i) => (
         <Col key={i}>
           <a aria-label="Link zum Sponsor" href={linkTuple.link}>
-            <Img style={linkTuple.logoStyle} fluid={linkTuple.logo.childImageSharp.fluid} />
+            <GatsbyImage
+              alt="logo of the sponsor"
+              image={linkTuple.logo.childImageSharp.gatsbyImageData}
+              style={linkTuple.logoStyle}
+            />
           </a>
         </Col>
       ))}
@@ -135,26 +139,20 @@ const UnterstuetzerPage = ({ data }) => {
 export default UnterstuetzerPage
 
 export const query = graphql`
-  query {
+  {
     zeiss_logo: file(relativePath: { eq: "zeiss-logo-rgb.png" }, sourceInstanceName: { eq: "images" }) {
       childImageSharp {
-        fluid {
-          ...GatsbyImageSharpFluid
-        }
+        gatsbyImageData(layout: FULL_WIDTH)
       }
     }
     mitp_logo: file(relativePath: { eq: "mitp_logo_gross.png" }, sourceInstanceName: { eq: "images" }) {
       childImageSharp {
-        fluid {
-          ...GatsbyImageSharpFluid
-        }
+        gatsbyImageData(layout: FULL_WIDTH)
       }
     }
     sands_logo: file(relativePath: { eq: "sands_logo.png" }, sourceInstanceName: { eq: "images" }) {
       childImageSharp {
-        fluid {
-          ...GatsbyImageSharpFluid
-        }
+        gatsbyImageData(layout: FULL_WIDTH)
       }
     }
     entwickler_tutorials_logo: file(
@@ -162,9 +160,7 @@ export const query = graphql`
       sourceInstanceName: { eq: "images" }
     ) {
       childImageSharp {
-        fluid {
-          ...GatsbyImageSharpFluid
-        }
+        gatsbyImageData(layout: FULL_WIDTH)
       }
     }
   }
