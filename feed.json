@@ -9,7 +9,7 @@
             "content_html": "<p>Wird in kürze aktualisiert.</p>",
             "url": "https://jug-gr.de/talks/2023-01-25-contentlab/",
             "title": "Contentlab",
-            "summary": "\n      <h1>Contentlab</h1>\n      <p>Date: January 25, 2023, 19:00 Uhr</p>\n      <p>Speakers: Markus Weiland</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",
+            "summary": "\n      <h1>Contentlab</h1>\n      <p>Date: January 25, 2023, 19:00 Uhr</p>\n      <p>Speakers: Markus Weiland</p>\n      <p>Location:</p>\n      <address>\n        CIDEON Software & Services GmbH & Co. KG\n        <br />\n        Untermarkt 25\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2023-01-25T00:00:00.000Z"
         },
         {
@@ -17,7 +17,7 @@
             "content_html": "<p>Keycloak ist ein Open Source IAM (Identity and Access Management) System, das größtenteils in Java implementiert ist.<br>\nEs wird von vielen Unternehmen eingesetzt, um Authentifizierung und Authorisierung für verschiedenste Anwendungen\numzusetzen. Eine große Stärke von Keycloak ist die Konfigurierbarkeit und Erweiterbarkeit.<br>\nIm Vortrag wird ein Überblick über die Konfigurations- und Erweiterungsmöglichkeiten gegeben. In einer Live-Demo wird\ngezeigt, wie man diese Möglichkeiten nutzen kann, um ein kundenspezifisches IAM bereitzustellen.</p>",
             "url": "https://jug-gr.de/talks/2022-11-30-iam-keycloak/",
             "title": "Kundenspezifisches IAM mit Keycloak",
-            "summary": "\n      <h1>Kundenspezifisches IAM mit Keycloak</h1>\n      <p>Date: November 30, 2022, 19:00 Uhr</p>\n      <p>Speakers: Daniel Fesenmeyer</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",
+            "summary": "\n      <h1>Kundenspezifisches IAM mit Keycloak</h1>\n      <p>Date: November 30, 2022, 19:00 Uhr</p>\n      <p>Speakers: Daniel Fesenmeyer</p>\n      <p>Location:</p>\n      <address>\n        Innolabs Görlitz\n        <br />\n        Bahnhofstraße 22\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2022-11-30T00:00:00.000Z"
         },
         {

@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Sun, 13 Nov 2022 16:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Nov 2022 16:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -19,7 +19,13 @@
       <p>Date: January 25, 2023, 19:00 Uhr</p>
       <p>Speakers: Markus Weiland</p>
       <p>Location:</p>
-      wird noch bekannt gegeben
+      <address>
+        CIDEON Software & Services GmbH & Co. KG
+        <br />
+        Untermarkt 25
+        <br />
+        02826 Görlitz
+      </address>
   ]]></description>
             <content:encoded><![CDATA[<p>Wird in kürze aktualisiert.</p>]]></content:encoded>
         </item>
@@ -33,7 +39,13 @@
       <p>Date: November 30, 2022, 19:00 Uhr</p>
       <p>Speakers: Daniel Fesenmeyer</p>
       <p>Location:</p>
-      wird noch bekannt gegeben
+      <address>
+        Innolabs Görlitz
+        <br />
+        Bahnhofstraße 22
+        <br />
+        02826 Görlitz
+      </address>
   ]]></description>
             <content:encoded><![CDATA[<p>Keycloak ist ein Open Source IAM (Identity and Access Management) System, das größtenteils in Java implementiert ist.<br>
 Es wird von vielen Unternehmen eingesetzt, um Authentifizierung und Authorisierung für verschiedenste Anwendungen
