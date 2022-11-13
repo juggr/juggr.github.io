@@ -7,6 +7,7 @@ poster_alt:
   "Poster: Jürgen trägt einen komplett schwarzen Anzug, eine Sonnenbrille und einen verkabelten Ohrstöpsel. Er sieht aus
   wie ein Geheimagent. Er schaut streng und hält die flache Hand vor sich um uns zurückzuhalten."
 tags: [security]
+location: innolabs
 ---
 
 Keycloak ist ein Open Source IAM (Identity and Access Management) System, das größtenteils in Java implementiert ist.  
