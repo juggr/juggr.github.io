@@ -18,6 +18,10 @@ einige Branching-Modelle vorgestellt. Dabei wird der Frage auf den Grund gegange
 von Softwareprojekt passt und welche allgemeingültigen Vorgehensweisen beim Branching und Merging daraus gezogen werden
 können.
 
+**Materialien:**
+
+- [Folien zum Vortrag](/downloads/juggr_branching_models.pdf)
+
 ---
 
 ## Hinweis
