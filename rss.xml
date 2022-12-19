@@ -4,18 +4,18 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Sun, 13 Nov 2022 16:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 16:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
         <copyright>CC-0</copyright>
         <item>
-            <title><![CDATA[Contentlab]]></title>
+            <title><![CDATA[Content Management neu gedacht mit Contentlab]]></title>
             <link>https://jug-gr.de/talks/2023-01-25-contentlab/</link>
             <guid>https://jug-gr.de/talks/2023-01-25-contentlab/</guid>
             <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[
-      <h1>Contentlab</h1>
+      <h1>Content Management neu gedacht mit Contentlab</h1>
       <p>Date: January 25, 2023, 19:00 Uhr</p>
       <p>Speakers: Markus Weiland</p>
       <p>Location:</p>
@@ -27,7 +27,8 @@
         02826 Görlitz
       </address>
   ]]></description>
-            <content:encoded><![CDATA[<p>Wird in kürze aktualisiert.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Die Mehrheit aktueller Content Management Systeme (CMS) verwaltet Inhalte auf vergleichbare Art wie Dateien in einem Windows-Netzwerkordner. Wie könnte dagegen ein CMS aussehen, wenn wir nochmal von Null starten und auf heutige Technologien wie Git, GraphQL und der Cloud aufbauen?
+Im Vortrag sehen wir uns die Architektur von Contentlab an, einem Git-basierten Open Source CMS, und erstellen live eine CMS Instanz zum Verwalten von Veranstaltungen.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Kundenspezifisches IAM mit Keycloak]]></title>
@@ -239,6 +240,10 @@ den Softwarereleaseprozess unterstützen oder verhindern, dass man in der Merge-
 einige Branching-Modelle vorgestellt. Dabei wird der Frage auf den Grund gegangen, welche Art von Modell zu welcher Art
 von Softwareprojekt passt und welche allgemeingültigen Vorgehensweisen beim Branching und Merging daraus gezogen werden
 können.</p>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="/downloads/juggr_branching_models.pdf">Folien zum Vortrag</a></li>
+</ul>
 <hr>
 <h2>Hinweis</h2>
 <p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt:
