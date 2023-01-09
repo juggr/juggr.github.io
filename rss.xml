@@ -4,11 +4,25 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Wed, 04 Jan 2023 20:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 17:56:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
         <copyright>CC-0</copyright>
+        <item>
+            <title><![CDATA[Spring für architekturinteressierte Entwickler:innen]]></title>
+            <link>https://jug-gr.de/talks/2023-03-29-spring_fuer_architekturinteressierte_entwickler_innen/</link>
+            <guid>https://jug-gr.de/talks/2023-03-29-spring_fuer_architekturinteressierte_entwickler_innen/</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Spring für architekturinteressierte Entwickler:innen</h1>
+      <p>Date: March 29, 2023, 19:00 Uhr</p>
+      <p>Speakers: Oliver Drotbohm</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></description>
+            <content:encoded><![CDATA[<p>Die Architektur und das Design einer Applikation beeinflussen ihre Wartbarkeit, Testbarkeit und Qualität im Allgemeinen. Spring war schon immer ein vielseitiges Werkzeug, das Architekt:innen dabei unterstützt, Muster zu implementieren, mit Hilfe derer technische Bausteine der Applikation mit Domänenkonzepten und -grenzen verknüpft werden können. Es erlaubt Entwickler:innen Anwendungen zu schreiben, die ihre architektonischen Ideen deutlich reflektieren und so ultimativ änder- und damit wartbarere Anwendungen zu schreiben. Schlüsselaspekte dahin gehend sind Codeorganisation, das Spring-Bean-Arrangement und die Nutzung von Domänen-Events, um fachlich individuelle Teile der Applikation voneinander zu entkoppeln. Der Vortrag diskutiert diese Muster und Ansätze und stellt Blibliotheken wie jMolecules und Moduliths vor, um zu zeigen, wie Spring-Entwickler in die Lage versetzt werden, besonders gut strukturierte und wartbare Anwendungen zu schreiben.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Content Management neu gedacht mit Contentlab]]></title>
             <link>https://jug-gr.de/talks/2023-01-25-contentlab/</link>
