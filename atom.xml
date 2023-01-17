@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2023-01-09T20:21:24.548Z</updated>
+    <updated>2023-01-17T17:46:28.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -20,6 +20,21 @@
       wird noch bekannt gegeben
   ]]></summary>
         <content type="html"><![CDATA[<p>Die GraalVM ist eine universelle Virtuelle Maschine (VM) für Anwendungen, die in JavaScript, Python, Ruby, R oder mit den JVM-basierten Programmiersprachen Java, Scala, Kotlin, Clojure und LLVM-basierten Sprachen C/C++ geschrieben wurden. Im Oktober 2022 wurde die GraalVM 22.3.0 freigegeben, mit Performanceverbesserungen und polyglotter Unterstützung für verschiedene Programmiersprachen, und sie ermöglicht damit die Interoperabilität in einer gemeinsamen Laufzeitumgebung. GraalVM kann eigenständig oder im Kontext von OpenJDK, Node.js und Datenbanken betrieben werden. Mit GraalVMs Ahead-of-Time-Fähigkeit kompilierte Native Images verfügen über eine optimierte Start-up-Zeit und verringern den Memory-Verbrauch von JVM-basierten Applikationen. Die GraalVM kann wahlweise als Open-Source-Community-Edition (CE) oder als Enterprise Edition (EE) mit OTN-Lizenz innerhalb der Java SE Subscription verwendet werden. Im Vortrag wird die GraalVM-Architektur im Java-Ökosystem dargestellt und die Einsatzgebiete erläutert, beispielsweise der in Java entwickelte C2-JIT-Compiler und die Verwendung von GraalVM Native Images. GraalVM kann für Spring Boot und Microservices-Frameworks verwendet werden.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ArchUnit: Unit-Tests für deine Java-Architektur]]></title>
+        <id>https://jug-gr.de/talks/2023-04-26-archunit_unit_tests_java_architektur/</id>
+        <link href="https://jug-gr.de/talks/2023-04-26-archunit_unit_tests_java_architektur/"/>
+        <updated>2023-04-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>ArchUnit: Unit-Tests für deine Java-Architektur</h1>
+      <p>Date: April 26, 2023, 19:00 Uhr</p>
+      <p>Speakers: Roland Weisleder</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></summary>
+        <content type="html"><![CDATA[<p>Architektur und Code driften immer weiter auseinander? Die Umsetzung von nicht-funktionalen Anforderungen und Querschnittsaspekten wird häufig vergessen? Zu viel Spaghetti-Code durch zyklische Abhängigkeiten? Solche Dinge kommen leider viel zu häufig vor und führen schnell zu einer unwartbaren Codebasis.
+Im Java-Umfeld ist die Bibliothek ArchUnit eine mögliche Lösung für diese Situation. Wir schauen, wie wir mit ArchUnit unsere Architektur innerhalb von Unit-Tests testen können und endlich wieder Struktur ins System bekommen. Außerdem schauen wir uns darauf aufbauend jMolecules an, womit wir Architekturkonzepte direkt im Code abbilden können.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Spring für architekturinteressierte Entwickler:innen]]></title>
