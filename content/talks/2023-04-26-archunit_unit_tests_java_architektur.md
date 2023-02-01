@@ -3,7 +3,7 @@ title: "ArchUnit: Unit-Tests für deine Java-Architektur"
 date: 2023-04-26
 speaker: [roland_weisleder]
 tags: [architektur,test]
-location: tbd
+location: expleo
 ---
 
 Architektur und Code driften immer weiter auseinander? Die Umsetzung von nicht-funktionalen Anforderungen und Querschnittsaspekten wird häufig vergessen? Zu viel Spaghetti-Code durch zyklische Abhängigkeiten? Solche Dinge kommen leider viel zu häufig vor und führen schnell zu einer unwartbaren Codebasis.
