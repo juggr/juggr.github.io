@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Wed, 01 Feb 2023 16:39:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 18:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -33,7 +33,13 @@
       <p>Date: April 26, 2023, 19:00 Uhr</p>
       <p>Speakers: Roland Weisleder</p>
       <p>Location:</p>
-      wird noch bekannt gegeben
+      <address>
+        Expleo
+        <br />
+        Konsulstraße 23
+        <br />
+        02826 Görlitz
+      </address>
   ]]></description>
             <content:encoded><![CDATA[<p>Architektur und Code driften immer weiter auseinander? Die Umsetzung von nicht-funktionalen Anforderungen und Querschnittsaspekten wird häufig vergessen? Zu viel Spaghetti-Code durch zyklische Abhängigkeiten? Solche Dinge kommen leider viel zu häufig vor und führen schnell zu einer unwartbaren Codebasis.
 Im Java-Umfeld ist die Bibliothek ArchUnit eine mögliche Lösung für diese Situation. Wir schauen, wie wir mit ArchUnit unsere Architektur innerhalb von Unit-Tests testen können und endlich wieder Struktur ins System bekommen. Außerdem schauen wir uns darauf aufbauend jMolecules an, womit wir Architekturkonzepte direkt im Code abbilden können.</p>]]></content:encoded>
