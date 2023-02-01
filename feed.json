@@ -29,6 +29,14 @@
             "date_modified": "2023-03-29T00:00:00.000Z"
         },
         {
+            "id": "https://jug-gr.de/talks/2023-02-22-exception_first/",
+            "content_html": "<p>Mistakes are an integral part of our work. Finding and understanding them takes a lot of time. Troubleshooting is often just a line of code. How can the process of searching and understanding be optimized? This is possible through strategic preparation of the code base. For this, I systematically apply several transformations from the field of defensive programming. The aim is to shorten the distance between the cause and the occurrence of a fault. In addition, I consider special and overlooked situations. Using the examples presented, you can stabilize your code tomorrow and carry out your own analyses more efficiently. I also give an outlook on how you can get even more out of this concept.</p>",
+            "url": "https://jug-gr.de/talks/2023-02-22-exception_first/",
+            "title": "Exception First – Stabilize your Code with more Exceptions",
+            "summary": "\n      <h1>Exception First – Stabilize your Code with more Exceptions</h1>\n      <p>Date: February 22, 2023, 19:00 Uhr</p>\n      <p>Speakers: Sergej Tihonov</p>\n      <p>Location:</p>\n      <address>\n        Carl Zeiss Digital Innovation\n        <br />\n        Berliner Straße 63\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2023-02-22T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2023-01-25-contentlab/",
             "content_html": "<p>Die Mehrheit aktueller Content Management Systeme (CMS) verwaltet Inhalte auf vergleichbare Art wie Dateien in einem Windows-Netzwerkordner. Wie könnte dagegen ein CMS aussehen, wenn wir nochmal von Null starten und auf heutige Technologien wie Git, GraphQL und der Cloud aufbauen?\nIm Vortrag sehen wir uns die Architektur von Contentlab an, einem Git-basierten Open Source CMS, und erstellen live eine CMS Instanz zum Verwalten von Veranstaltungen.</p>",
             "url": "https://jug-gr.de/talks/2023-01-25-contentlab/",

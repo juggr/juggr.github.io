@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Tue, 17 Jan 2023 17:46:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 16:39:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -51,6 +51,26 @@ Im Java-Umfeld ist die Bibliothek ArchUnit eine mögliche Lösung für diese Sit
       wird noch bekannt gegeben
   ]]></description>
             <content:encoded><![CDATA[<p>Die Architektur und das Design einer Applikation beeinflussen ihre Wartbarkeit, Testbarkeit und Qualität im Allgemeinen. Spring war schon immer ein vielseitiges Werkzeug, das Architekt:innen dabei unterstützt, Muster zu implementieren, mit Hilfe derer technische Bausteine der Applikation mit Domänenkonzepten und -grenzen verknüpft werden können. Es erlaubt Entwickler:innen Anwendungen zu schreiben, die ihre architektonischen Ideen deutlich reflektieren und so ultimativ änder- und damit wartbarere Anwendungen zu schreiben. Schlüsselaspekte dahin gehend sind Codeorganisation, das Spring-Bean-Arrangement und die Nutzung von Domänen-Events, um fachlich individuelle Teile der Applikation voneinander zu entkoppeln. Der Vortrag diskutiert diese Muster und Ansätze und stellt Blibliotheken wie jMolecules und Moduliths vor, um zu zeigen, wie Spring-Entwickler in die Lage versetzt werden, besonders gut strukturierte und wartbare Anwendungen zu schreiben.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Exception First – Stabilize your Code with more Exceptions]]></title>
+            <link>https://jug-gr.de/talks/2023-02-22-exception_first/</link>
+            <guid>https://jug-gr.de/talks/2023-02-22-exception_first/</guid>
+            <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Exception First – Stabilize your Code with more Exceptions</h1>
+      <p>Date: February 22, 2023, 19:00 Uhr</p>
+      <p>Speakers: Sergej Tihonov</p>
+      <p>Location:</p>
+      <address>
+        Carl Zeiss Digital Innovation
+        <br />
+        Berliner Straße 63
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>Mistakes are an integral part of our work. Finding and understanding them takes a lot of time. Troubleshooting is often just a line of code. How can the process of searching and understanding be optimized? This is possible through strategic preparation of the code base. For this, I systematically apply several transformations from the field of defensive programming. The aim is to shorten the distance between the cause and the occurrence of a fault. In addition, I consider special and overlooked situations. Using the examples presented, you can stabilize your code tomorrow and carry out your own analyses more efficiently. I also give an outlook on how you can get even more out of this concept.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Content Management neu gedacht mit Contentlab]]></title>
