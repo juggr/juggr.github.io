@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2023-02-01T18:16:51.857Z</updated>
+    <updated>2023-02-02T04:55:37.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -57,12 +57,12 @@ Im Java-Umfeld ist die Bibliothek ArchUnit eine mögliche Lösung für diese Sit
         <content type="html"><![CDATA[<p>Die Architektur und das Design einer Applikation beeinflussen ihre Wartbarkeit, Testbarkeit und Qualität im Allgemeinen. Spring war schon immer ein vielseitiges Werkzeug, das Architekt:innen dabei unterstützt, Muster zu implementieren, mit Hilfe derer technische Bausteine der Applikation mit Domänenkonzepten und -grenzen verknüpft werden können. Es erlaubt Entwickler:innen Anwendungen zu schreiben, die ihre architektonischen Ideen deutlich reflektieren und so ultimativ änder- und damit wartbarere Anwendungen zu schreiben. Schlüsselaspekte dahin gehend sind Codeorganisation, das Spring-Bean-Arrangement und die Nutzung von Domänen-Events, um fachlich individuelle Teile der Applikation voneinander zu entkoppeln. Der Vortrag diskutiert diese Muster und Ansätze und stellt Blibliotheken wie jMolecules und Moduliths vor, um zu zeigen, wie Spring-Entwickler in die Lage versetzt werden, besonders gut strukturierte und wartbare Anwendungen zu schreiben.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exception First – Stabilize your Code with more Exceptions]]></title>
+        <title type="html"><![CDATA[Exception First – Stabilisiere deinen Code mit mehr Exceptions]]></title>
         <id>https://jug-gr.de/talks/2023-02-22-exception_first/</id>
         <link href="https://jug-gr.de/talks/2023-02-22-exception_first/"/>
         <updated>2023-02-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
-      <h1>Exception First – Stabilize your Code with more Exceptions</h1>
+      <h1>Exception First – Stabilisiere deinen Code mit mehr Exceptions</h1>
       <p>Date: February 22, 2023, 19:00 Uhr</p>
       <p>Speakers: Sergej Tihonov</p>
       <p>Location:</p>
@@ -74,7 +74,9 @@ Im Java-Umfeld ist die Bibliothek ArchUnit eine mögliche Lösung für diese Sit
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Mistakes are an integral part of our work. Finding and understanding them takes a lot of time. Troubleshooting is often just a line of code. How can the process of searching and understanding be optimized? This is possible through strategic preparation of the code base. For this, I systematically apply several transformations from the field of defensive programming. The aim is to shorten the distance between the cause and the occurrence of a fault. In addition, I consider special and overlooked situations. Using the examples presented, you can stabilize your code tomorrow and carry out your own analyses more efficiently. I also give an outlook on how you can get even more out of this concept.</p>]]></content>
+        <content type="html"><![CDATA[<p>Fehler sind ein fester Bestandteil unserer Arbeit. Die Suche und das Verstehen dieser nimmt viel Zeit in Anspruch. Die Fehlerbehebung ist häufig nur eine Zeile Code. Wie kann der Prozess des Suchens und Verstehens optimiert werden? Dies ist durch eine strategische Vorbereitung der Codebasis möglich.</p>
+<p>Hierfür stelle ich zwei Transformationen vor. Ziel der ersten Transformation: Beim Auftreten eines Fehlers erfolgt der sofortige Ausstieg aus dem Code mit einer aussagekräftigen Exception. Das ist sehr ähnlich zur Validierung. Auf Ähnlichkeiten und Unterschiede gehe ich im Detail ein. Ziel der zweiten Transformation: Trennung der Standard-Logik von den Sonderfällen. Dies verbessert die Lesbarkeit. Zusätzlich ergänzt es die erste Transformation.</p>
+<p>Anhand der vorgestellten Beispiele kannst du schon morgen deinen Code stabilisieren und deine eigenen Analysen effizienter durchführen. Außerdem gebe ich einen Ausblick darauf, wie du noch mehr aus diesem Konzept rausholen kannst.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Content Management neu gedacht mit Contentlab]]></title>
