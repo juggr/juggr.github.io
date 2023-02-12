@@ -2,6 +2,8 @@
 title: "Exception First – Stabilisiere deinen Code mit mehr Exceptions"
 date: 2023-02-22
 speaker: [sergej_tihonov]
+poster: ../images/posters/plakat_2023_02.png
+poster_alt: "Poster: Jürgen hält sich eine Lupe vor das Gesicht. In der Lupe erscheint sein Auge vergrößert."
 tags: [architektur]
 location: zeiss
 ---
