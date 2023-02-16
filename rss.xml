@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Sun, 12 Feb 2023 20:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 11:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -54,7 +54,13 @@ Im Java-Umfeld ist die Bibliothek ArchUnit eine mögliche Lösung für diese Sit
       <p>Date: March 29, 2023, 19:00 Uhr</p>
       <p>Speakers: Oliver Drotbohm</p>
       <p>Location:</p>
-      wird noch bekannt gegeben
+      <address>
+        Fraunhofer-Institut IOSB - Angewandte Systemtechnik
+        <br />
+        Wilhelmsplatz 11
+        <br />
+        02826 Görlitz
+      </address>
   ]]></description>
             <content:encoded><![CDATA[<p>Die Architektur und das Design einer Applikation beeinflussen ihre Wartbarkeit, Testbarkeit und Qualität im Allgemeinen. Spring war schon immer ein vielseitiges Werkzeug, das Architekt:innen dabei unterstützt, Muster zu implementieren, mit Hilfe derer technische Bausteine der Applikation mit Domänenkonzepten und -grenzen verknüpft werden können. Es erlaubt Entwickler:innen Anwendungen zu schreiben, die ihre architektonischen Ideen deutlich reflektieren und so ultimativ änder- und damit wartbarere Anwendungen zu schreiben. Schlüsselaspekte dahin gehend sind Codeorganisation, das Spring-Bean-Arrangement und die Nutzung von Domänen-Events, um fachlich individuelle Teile der Applikation voneinander zu entkoppeln. Der Vortrag diskutiert diese Muster und Ansätze und stellt Blibliotheken wie jMolecules und Moduliths vor, um zu zeigen, wie Spring-Entwickler in die Lage versetzt werden, besonders gut strukturierte und wartbare Anwendungen zu schreiben.</p>]]></content:encoded>
         </item>
@@ -2029,26 +2035,6 @@ Praxis erläutert wurden.</p>
 <a href="http://max-wielsch.blogspot.de/2011/10/android-der-vortrag-in-der-java-user.html">Blog</a> heruntergeladen werden.</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[JDOM]]></title>
-            <link>https://jug-gr.de/talks/2011-09-28-jdom/</link>
-            <guid>https://jug-gr.de/talks/2011-09-28-jdom/</guid>
-            <pubDate>Wed, 28 Sep 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>JDOM</h1>
-      <p>Date: September 28, 2011, 19:00 Uhr</p>
-      <p>Speakers: Mark Ziener</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Single Sign-On mit JAAS und JGSS]]></title>
             <link>https://jug-gr.de/talks/2011-09-28-single-sign-on/</link>
             <guid>https://jug-gr.de/talks/2011-09-28-single-sign-on/</guid>
@@ -2067,6 +2053,26 @@ Praxis erläutert wurden.</p>
       </address>
   ]]></description>
             <content:encoded><![CDATA[<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JDOM]]></title>
+            <link>https://jug-gr.de/talks/2011-09-28-jdom/</link>
+            <guid>https://jug-gr.de/talks/2011-09-28-jdom/</guid>
+            <pubDate>Wed, 28 Sep 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>JDOM</h1>
+      <p>Date: September 28, 2011, 19:00 Uhr</p>
+      <p>Speakers: Mark Ziener</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Testen - Patterns und Best Practices]]></title>
@@ -2175,6 +2181,26 @@ geben.</p>]]></content:encoded>
             <content:encoded><![CDATA[<p>Google Guice - Dependency Injection (DI) und Aspect-Orientierte Programmierung (AOP) von Robert Wirbs</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[GWT - Google Web Toolkit]]></title>
+            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
+            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
+            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>GWT - Google Web Toolkit</h1>
+      <p>Date: April 27, 2011, 19:00 Uhr</p>
+      <p>Speakers: Ingo Körner</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[OSGi mit SpringDM]]></title>
             <link>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</link>
             <guid>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</guid>
@@ -2203,26 +2229,6 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 <ul>
 <li><a href="/downloads/juggr_osgi_spring_dm.pdf">Vortragsfolien</a></li>
 </ul>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GWT - Google Web Toolkit]]></title>
-            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
-            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
-            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>GWT - Google Web Toolkit</h1>
-      <p>Date: April 27, 2011, 19:00 Uhr</p>
-      <p>Speakers: Ingo Körner</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[EasyMock]]></title>

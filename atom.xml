@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2023-02-12T20:29:24.098Z</updated>
+    <updated>2023-02-16T11:26:31.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -52,7 +52,13 @@ Im Java-Umfeld ist die Bibliothek ArchUnit eine mögliche Lösung für diese Sit
       <p>Date: March 29, 2023, 19:00 Uhr</p>
       <p>Speakers: Oliver Drotbohm</p>
       <p>Location:</p>
-      wird noch bekannt gegeben
+      <address>
+        Fraunhofer-Institut IOSB - Angewandte Systemtechnik
+        <br />
+        Wilhelmsplatz 11
+        <br />
+        02826 Görlitz
+      </address>
   ]]></summary>
         <content type="html"><![CDATA[<p>Die Architektur und das Design einer Applikation beeinflussen ihre Wartbarkeit, Testbarkeit und Qualität im Allgemeinen. Spring war schon immer ein vielseitiges Werkzeug, das Architekt:innen dabei unterstützt, Muster zu implementieren, mit Hilfe derer technische Bausteine der Applikation mit Domänenkonzepten und -grenzen verknüpft werden können. Es erlaubt Entwickler:innen Anwendungen zu schreiben, die ihre architektonischen Ideen deutlich reflektieren und so ultimativ änder- und damit wartbarere Anwendungen zu schreiben. Schlüsselaspekte dahin gehend sind Codeorganisation, das Spring-Bean-Arrangement und die Nutzung von Domänen-Events, um fachlich individuelle Teile der Applikation voneinander zu entkoppeln. Der Vortrag diskutiert diese Muster und Ansätze und stellt Blibliotheken wie jMolecules und Moduliths vor, um zu zeigen, wie Spring-Entwickler in die Lage versetzt werden, besonders gut strukturierte und wartbare Anwendungen zu schreiben.</p>]]></content>
     </entry>
@@ -2027,26 +2033,6 @@ Praxis erläutert wurden.</p>
 <a href="http://max-wielsch.blogspot.de/2011/10/android-der-vortrag-in-der-java-user.html">Blog</a> heruntergeladen werden.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JDOM]]></title>
-        <id>https://jug-gr.de/talks/2011-09-28-jdom/</id>
-        <link href="https://jug-gr.de/talks/2011-09-28-jdom/"/>
-        <updated>2011-09-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[
-      <h1>JDOM</h1>
-      <p>Date: September 28, 2011, 19:00 Uhr</p>
-      <p>Speakers: Mark Ziener</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></summary>
-        <content type="html"><![CDATA[<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Single Sign-On mit JAAS und JGSS]]></title>
         <id>https://jug-gr.de/talks/2011-09-28-single-sign-on/</id>
         <link href="https://jug-gr.de/talks/2011-09-28-single-sign-on/"/>
@@ -2065,6 +2051,26 @@ Praxis erläutert wurden.</p>
       </address>
   ]]></summary>
         <content type="html"><![CDATA[<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JDOM]]></title>
+        <id>https://jug-gr.de/talks/2011-09-28-jdom/</id>
+        <link href="https://jug-gr.de/talks/2011-09-28-jdom/"/>
+        <updated>2011-09-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>JDOM</h1>
+      <p>Date: September 28, 2011, 19:00 Uhr</p>
+      <p>Speakers: Mark Ziener</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></summary>
+        <content type="html"><![CDATA[<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Testen - Patterns und Best Practices]]></title>
@@ -2173,6 +2179,26 @@ geben.</p>]]></content>
         <content type="html"><![CDATA[<p>Google Guice - Dependency Injection (DI) und Aspect-Orientierte Programmierung (AOP) von Robert Wirbs</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GWT - Google Web Toolkit]]></title>
+        <id>https://jug-gr.de/talks/2011-04-27-gwt/</id>
+        <link href="https://jug-gr.de/talks/2011-04-27-gwt/"/>
+        <updated>2011-04-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>GWT - Google Web Toolkit</h1>
+      <p>Date: April 27, 2011, 19:00 Uhr</p>
+      <p>Speakers: Ingo Körner</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></summary>
+        <content type="html"><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OSGi mit SpringDM]]></title>
         <id>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</id>
         <link href="https://jug-gr.de/talks/2011-04-27-osgi_springdm/"/>
@@ -2201,26 +2227,6 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 <ul>
 <li><a href="/downloads/juggr_osgi_spring_dm.pdf">Vortragsfolien</a></li>
 </ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GWT - Google Web Toolkit]]></title>
-        <id>https://jug-gr.de/talks/2011-04-27-gwt/</id>
-        <link href="https://jug-gr.de/talks/2011-04-27-gwt/"/>
-        <updated>2011-04-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[
-      <h1>GWT - Google Web Toolkit</h1>
-      <p>Date: April 27, 2011, 19:00 Uhr</p>
-      <p>Speakers: Ingo Körner</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></summary>
-        <content type="html"><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EasyMock]]></title>
