@@ -3,6 +3,8 @@ title: "Spring für architekturinteressierte Entwickler:innen"
 date: 2023-03-29
 time: "18:30 Uhr"
 speaker: [oliver_drotbohm]
+poster: ../images/posters/plakat_2023_03.png
+poster_alt: "Poster: Jürgens Kopf ist auf einer Sprungfeder in einer Box, die wie ein Springteufel herausragt."
 tags: [architektur]
 location: fraunhofer
 ---
