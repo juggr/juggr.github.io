@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Fri, 10 Mar 2023 14:36:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 19:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -22,6 +22,20 @@
       wird noch bekannt gegeben
   ]]></description>
             <content:encoded><![CDATA[<p>Die GraalVM ist eine universelle Virtuelle Maschine (VM) für Anwendungen, die in JavaScript, Python, Ruby, R oder mit den JVM-basierten Programmiersprachen Java, Scala, Kotlin, Clojure und LLVM-basierten Sprachen C/C++ geschrieben wurden. Im Oktober 2022 wurde die GraalVM 22.3.0 freigegeben, mit Performanceverbesserungen und polyglotter Unterstützung für verschiedene Programmiersprachen, und sie ermöglicht damit die Interoperabilität in einer gemeinsamen Laufzeitumgebung. GraalVM kann eigenständig oder im Kontext von OpenJDK, Node.js und Datenbanken betrieben werden. Mit GraalVMs Ahead-of-Time-Fähigkeit kompilierte Native Images verfügen über eine optimierte Start-up-Zeit und verringern den Memory-Verbrauch von JVM-basierten Applikationen. Die GraalVM kann wahlweise als Open-Source-Community-Edition (CE) oder als Enterprise Edition (EE) mit OTN-Lizenz innerhalb der Java SE Subscription verwendet werden. Im Vortrag wird die GraalVM-Architektur im Java-Ökosystem dargestellt und die Einsatzgebiete erläutert, beispielsweise der in Java entwickelte C2-JIT-Compiler und die Verwendung von GraalVM Native Images. GraalVM kann für Spring Boot und Microservices-Frameworks verwendet werden.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Accessibility in the Wild]]></title>
+            <link>https://jug-gr.de/talks/2023-05-31-accessibility_in_the_wild/</link>
+            <guid>https://jug-gr.de/talks/2023-05-31-accessibility_in_the_wild/</guid>
+            <pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Accessibility in the Wild</h1>
+      <p>Date: May 31, 2023, 19:00 Uhr</p>
+      <p>Speakers: Dániel Sulyok</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></description>
+            <content:encoded><![CDATA[<p>Dániel Sulyok von der Tallence AG stellt seine Arbeit im Rahmen des Themas <em>Accessibility</em> (Barrierefreiheit) vor. Das Team wurde beauftragt mit der Umsetzung des Redesigns und technischem Neubau der Webanwendung "Account Manager" mit einem besonderen Fokus auf Barrierefreiheit. In enger Abstimmung zwischen Design, Entwicklung und Endnutzern wurden entwicklungsbegleitende UX-Tests durchgeführt und iterativ die Zugänglichkeit und Bedienbarkeit der Anwendung verbessert.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ArchUnit: Unit-Tests für deine Java-Architektur]]></title>

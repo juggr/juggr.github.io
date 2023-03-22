@@ -13,6 +13,14 @@
             "date_modified": "2023-06-28T00:00:00.000Z"
         },
         {
+            "id": "https://jug-gr.de/talks/2023-05-31-accessibility_in_the_wild/",
+            "content_html": "<p>Dániel Sulyok von der Tallence AG stellt seine Arbeit im Rahmen des Themas <em>Accessibility</em> (Barrierefreiheit) vor. Das Team wurde beauftragt mit der Umsetzung des Redesigns und technischem Neubau der Webanwendung \"Account Manager\" mit einem besonderen Fokus auf Barrierefreiheit. In enger Abstimmung zwischen Design, Entwicklung und Endnutzern wurden entwicklungsbegleitende UX-Tests durchgeführt und iterativ die Zugänglichkeit und Bedienbarkeit der Anwendung verbessert.</p>",
+            "url": "https://jug-gr.de/talks/2023-05-31-accessibility_in_the_wild/",
+            "title": "Accessibility in the Wild",
+            "summary": "\n      <h1>Accessibility in the Wild</h1>\n      <p>Date: May 31, 2023, 19:00 Uhr</p>\n      <p>Speakers: Dániel Sulyok</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",
+            "date_modified": "2023-05-31T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2023-04-26-archunit_unit_tests_java_architektur/",
             "content_html": "<p>Architektur und Code driften immer weiter auseinander? Die Umsetzung von nicht-funktionalen Anforderungen und Querschnittsaspekten wird häufig vergessen? Zu viel Spaghetti-Code durch zyklische Abhängigkeiten? Solche Dinge kommen leider viel zu häufig vor und führen schnell zu einer unwartbaren Codebasis.\nIm Java-Umfeld ist die Bibliothek ArchUnit eine mögliche Lösung für diese Situation. Wir schauen, wie wir mit ArchUnit unsere Architektur innerhalb von Unit-Tests testen können und endlich wieder Struktur ins System bekommen. Außerdem schauen wir uns darauf aufbauend jMolecules an, womit wir Architekturkonzepte direkt im Code abbilden können.</p>",
             "url": "https://jug-gr.de/talks/2023-04-26-archunit_unit_tests_java_architektur/",
