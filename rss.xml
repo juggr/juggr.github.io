@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Wed, 22 Mar 2023 19:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 19:27:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -33,7 +33,13 @@
       <p>Date: May 31, 2023, 19:00 Uhr</p>
       <p>Speakers: Dániel Sulyok</p>
       <p>Location:</p>
-      wird noch bekannt gegeben
+      <address>
+        Tallence AG
+        <br />
+        Neißstraße 27
+        <br />
+        02826 Görlitz
+      </address>
   ]]></description>
             <content:encoded><![CDATA[<p>Dániel Sulyok von der Tallence AG stellt seine Arbeit im Rahmen des Themas <em>Accessibility</em> (Barrierefreiheit) vor. Das Team wurde beauftragt mit der Umsetzung des Redesigns und technischem Neubau der Webanwendung "Account Manager" mit einem besonderen Fokus auf Barrierefreiheit. In enger Abstimmung zwischen Design, Entwicklung und Endnutzern wurden entwicklungsbegleitende UX-Tests durchgeführt und iterativ die Zugänglichkeit und Bedienbarkeit der Anwendung verbessert.</p>]]></content:encoded>
         </item>
