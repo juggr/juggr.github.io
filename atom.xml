@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2023-03-22T19:27:43.089Z</updated>
+    <updated>2023-03-30T07:21:57.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -93,7 +93,8 @@ Anwendungen zu schreiben.</p>
 <p><strong>Hinweis</strong>: Wir treffen uns heute das erste mal im Fraunhofer-Institut IOSB. Hier wird vor allem im Bereich
 IT-Sicherheit für Kritische Infrastrukturen für Energie und Wasser geforscht und wir haben die Möglichkeit, eine kurze
 Führung durch das Institut zu bekommen. Deshalb treffen wir uns dieses Mal bereits 18:30 Uhr. Der reguläre Vortrag
-startet wie gewohnt um 19:00 Uhr.</p>]]></content>
+startet wie gewohnt um 19:00 Uhr.</p>
+<p>Einen kurzen Einblick darüber, was wir in diesen Ersten Teil gesehen und gehört haben, könnt ihr auf der <a href="https://digitale-oberlausitz.eu/news/2023/fraunhoferbesuch_jug/">Website der Digitalen Oberlausitz e. V.</a> nachlesen.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Exception First – Stabilisiere deinen Code mit mehr Exceptions]]></title>

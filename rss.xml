@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Wed, 22 Mar 2023 19:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 07:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -95,7 +95,8 @@ Anwendungen zu schreiben.</p>
 <p><strong>Hinweis</strong>: Wir treffen uns heute das erste mal im Fraunhofer-Institut IOSB. Hier wird vor allem im Bereich
 IT-Sicherheit für Kritische Infrastrukturen für Energie und Wasser geforscht und wir haben die Möglichkeit, eine kurze
 Führung durch das Institut zu bekommen. Deshalb treffen wir uns dieses Mal bereits 18:30 Uhr. Der reguläre Vortrag
-startet wie gewohnt um 19:00 Uhr.</p>]]></content:encoded>
+startet wie gewohnt um 19:00 Uhr.</p>
+<p>Einen kurzen Einblick darüber, was wir in diesen Ersten Teil gesehen und gehört haben, könnt ihr auf der <a href="https://digitale-oberlausitz.eu/news/2023/fraunhoferbesuch_jug/">Website der Digitalen Oberlausitz e. V.</a> nachlesen.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Exception First – Stabilisiere deinen Code mit mehr Exceptions]]></title>
