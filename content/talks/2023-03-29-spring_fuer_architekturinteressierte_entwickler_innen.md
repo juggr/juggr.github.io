@@ -25,3 +25,5 @@ Anwendungen zu schreiben.
 IT-Sicherheit für Kritische Infrastrukturen für Energie und Wasser geforscht und wir haben die Möglichkeit, eine kurze
 Führung durch das Institut zu bekommen. Deshalb treffen wir uns dieses Mal bereits 18:30 Uhr. Der reguläre Vortrag
 startet wie gewohnt um 19:00 Uhr.
+
+Einen kurzen Einblick darüber, was wir in diesen Ersten Teil gesehen und gehört haben, könnt ihr auf der [Website der Digitalen Oberlausitz e. V.](https://digitale-oberlausitz.eu/news/2023/fraunhoferbesuch_jug/) nachlesen.
