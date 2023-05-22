@@ -3,6 +3,8 @@ title: "Accessibility in the Wild"
 date: 2023-05-31
 time: "19:00 Uhr"
 speaker: [daniel_sulyok]
+poster: ../images/posters/plakat_2023_05.png
+poster_alt: "Poster: Jürgen hat einen Baseballschläger in den Händen und zerstört damit eine Verkehrsbake."
 tags: [java]
 location: tallence
 ---
