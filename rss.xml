@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Mon, 22 May 2023 13:53:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 06:04:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -41,7 +41,11 @@
         02826 Görlitz
       </address>
   ]]></description>
-            <content:encoded><![CDATA[<p>Dániel Sulyok von der Tallence AG stellt seine Arbeit im Rahmen des Themas <em>Accessibility</em> (Barrierefreiheit) vor. Das Team wurde beauftragt mit der Umsetzung des Redesigns und technischem Neubau der Webanwendung "Account Manager" mit einem besonderen Fokus auf Barrierefreiheit. In enger Abstimmung zwischen Design, Entwicklung und Endnutzern wurden entwicklungsbegleitende UX-Tests durchgeführt und iterativ die Zugänglichkeit und Bedienbarkeit der Anwendung verbessert.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Dániel Sulyok von der Tallence AG stellt seine Arbeit im Rahmen des Themas <em>Accessibility</em> (Barrierefreiheit) vor. Das Team wurde beauftragt mit der Umsetzung des Redesigns und technischem Neubau der Webanwendung "Account Manager" mit einem besonderen Fokus auf Barrierefreiheit. In enger Abstimmung zwischen Design, Entwicklung und Endnutzern wurden entwicklungsbegleitende UX-Tests durchgeführt und iterativ die Zugänglichkeit und Bedienbarkeit der Anwendung verbessert.</p>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="/downloads/juggr_a11y.pdf">Folien zum Vortrag</a></li>
+</ul>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ArchUnit: Unit-Tests für deine Java-Architektur]]></title>

@@ -14,7 +14,7 @@
         },
         {
             "id": "https://jug-gr.de/talks/2023-05-31-accessibility_in_the_wild/",
-            "content_html": "<p>Dániel Sulyok von der Tallence AG stellt seine Arbeit im Rahmen des Themas <em>Accessibility</em> (Barrierefreiheit) vor. Das Team wurde beauftragt mit der Umsetzung des Redesigns und technischem Neubau der Webanwendung \"Account Manager\" mit einem besonderen Fokus auf Barrierefreiheit. In enger Abstimmung zwischen Design, Entwicklung und Endnutzern wurden entwicklungsbegleitende UX-Tests durchgeführt und iterativ die Zugänglichkeit und Bedienbarkeit der Anwendung verbessert.</p>",
+            "content_html": "<p>Dániel Sulyok von der Tallence AG stellt seine Arbeit im Rahmen des Themas <em>Accessibility</em> (Barrierefreiheit) vor. Das Team wurde beauftragt mit der Umsetzung des Redesigns und technischem Neubau der Webanwendung \"Account Manager\" mit einem besonderen Fokus auf Barrierefreiheit. In enger Abstimmung zwischen Design, Entwicklung und Endnutzern wurden entwicklungsbegleitende UX-Tests durchgeführt und iterativ die Zugänglichkeit und Bedienbarkeit der Anwendung verbessert.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_a11y.pdf\">Folien zum Vortrag</a></li>\n</ul>",
             "url": "https://jug-gr.de/talks/2023-05-31-accessibility_in_the_wild/",
             "title": "Accessibility in the Wild",
             "summary": "\n      <h1>Accessibility in the Wild</h1>\n      <p>Date: May 31, 2023, 19:00 Uhr</p>\n      <p>Speakers: Dániel Sulyok</p>\n      <p>Location:</p>\n      <address>\n        Tallence AG\n        <br />\n        Neißstraße 27\n        <br />\n        02826 Görlitz\n      </address>\n  ",
