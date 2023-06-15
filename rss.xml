@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Wed, 07 Jun 2023 06:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 06:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -19,7 +19,13 @@
       <p>Date: June 28, 2023, 19:00 Uhr</p>
       <p>Speakers: Wolfgang Weigend</p>
       <p>Location:</p>
-      wird noch bekannt gegeben
+      <address>
+        Carl Zeiss Digital Innovation
+        <br />
+        Berliner Straße 63
+        <br />
+        02826 Görlitz
+      </address>
   ]]></description>
             <content:encoded><![CDATA[<p>Die GraalVM ist eine universelle Virtuelle Maschine (VM) für Anwendungen, die in JavaScript, Python, Ruby, R oder mit den JVM-basierten Programmiersprachen Java, Scala, Kotlin, Clojure und LLVM-basierten Sprachen C/C++ geschrieben wurden. Im Oktober 2022 wurde die GraalVM 22.3.0 freigegeben, mit Performanceverbesserungen und polyglotter Unterstützung für verschiedene Programmiersprachen, und sie ermöglicht damit die Interoperabilität in einer gemeinsamen Laufzeitumgebung. GraalVM kann eigenständig oder im Kontext von OpenJDK, Node.js und Datenbanken betrieben werden. Mit GraalVMs Ahead-of-Time-Fähigkeit kompilierte Native Images verfügen über eine optimierte Start-up-Zeit und verringern den Memory-Verbrauch von JVM-basierten Applikationen. Die GraalVM kann wahlweise als Open-Source-Community-Edition (CE) oder als Enterprise Edition (EE) mit OTN-Lizenz innerhalb der Java SE Subscription verwendet werden. Im Vortrag wird die GraalVM-Architektur im Java-Ökosystem dargestellt und die Einsatzgebiete erläutert, beispielsweise der in Java entwickelte C2-JIT-Compiler und die Verwendung von GraalVM Native Images. GraalVM kann für Spring Boot und Microservices-Frameworks verwendet werden.</p>]]></content:encoded>
         </item>
