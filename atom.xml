@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2023-06-21T17:19:30.542Z</updated>
+    <updated>2023-07-26T17:17:23.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
     <rights>CC-0</rights>
+    <entry>
+        <title type="html"><![CDATA[What the CRaC - Superfast JVM startup]]></title>
+        <id>https://jug-gr.de/talks/2023-11-29-crac/</id>
+        <link href="https://jug-gr.de/talks/2023-11-29-crac/"/>
+        <updated>2023-11-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>What the CRaC - Superfast JVM startup</h1>
+      <p>Date: November 29, 2023, 19:00 Uhr</p>
+      <p>Speakers: Gerrit Grundwald</p>
+      <p>Location:</p>
+      <address>
+        Carl Zeiss Digital Innovation
+        <br />
+        Berliner Straße 63
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></summary>
+        <content type="html"><![CDATA[<p>In a world where microservices are more and more a standard architecture for Java based applications running in the cloud, the JVM warmup time can become a limitation.</p>
+<p>Especially when you look at spinning up new instances of an app as response to changes in load, the warmup time can be a problem. Native images are one solution to solve these problems because their statically ahead of time compiled code simply doesn’t have to warmup and so has short startup time. But even with the shorter startup time and smaller footprint it doesn’t come without a drawback. The overall performance might be slower because of the missing JIT optimisations at runtime. There is a new OpenJDK project called CRaC (Coordinated Restore at Checkpoint) which goal it is to address the JVM warmup problem with a different approach. The idea is to take a snapshot of the running JVM, store it in files and restore the JVM at a later point in time (or even on another machine).</p>
+<p>This session will give you a short overview of the CRaC project and shows some results from a proof of concept implementation.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GraalVM 23 – Konzepte und Features]]></title>
         <id>https://jug-gr.de/talks/2023-06-28-graalvm_23/</id>
