@@ -3,6 +3,10 @@ name: Gerrit Grundwald
 pic: ../images/persons/gerrit_grundwald.jpg
 ---
 
-Gerrit Grunwald is a software engineer that loves coding for around 40 years already. He is a true believer in open source and has participated in popular projects like [JFXtras.org](https://jfxtras.org/) as well as his own projects (TilesFX, Medusa, Enzo, SteelSeries Swing, SteelSeries Canvas, JDKMon).
+Gerrit Grunwald ist ein Softwareentwickler, der schon seit 40 Jahren gerne programmiert. Er ist ein echter Anhänger von
+Open Source und hat sowohl an populären Projekten wie [JFXtras.org](https://jfxtras.org/) als auch an seinen eigenen
+Projekten (TilesFX, Medusa, Enzo, SteelSeries Swing, SteelSeries Canvas, JDKMon) mitgewirkt.
 
-Gerrit blogs regularly at http://harmonic-code.org, he is an active member of the Java community, where he founded and leads the Java User Group Münster (Germany), he is a JavaOne rockstar and a Java Champion. He is a speaker at conferences and user groups internationally and writes for several magazines.
+Gerrit bloggt regelmäßig auf [http://harmonic-code.org](http://harmonic-code.org/), er ist ein aktives Mitglied der
+Java-Community, in der er die Java User Group Münster gegründet hat und leitet, er ist ein JavaOne Rockstar und ein Java
+Champion. Er ist Sprecher auf internationalen Konferenzen und User Groups und schreibt für verschiedene Magazine.
