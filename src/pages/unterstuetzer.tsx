@@ -116,7 +116,7 @@ const UnterstuetzerPage: FC = () => {
 
       <hr />
 
-      <h3>Veranstalter</h3>
+      <h3>Veranstaltungsorte</h3>
 
       <p>Diese Firmen und Organisationen stellen uns regelmäßig ihre Räumlichkeiten zur Verfügung.</p>
 
