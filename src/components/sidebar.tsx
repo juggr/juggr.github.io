@@ -45,10 +45,8 @@ const Sidebar = () => (
               </a>
             </li>
             <li>
-              <a href="https://calendar.google.com/calendar/embed?src=gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com&ctz=Europe/Berlin">
-                <FontAwesomeIcon icon={faCalendarAlt} /> Kalender
-              </a>
-              <a href="https://www.google.com/calendar/ical/gtgjid1tkrv0pl7o1hsqr3d8d8%40group.calendar.google.com/public/basic.ics">
+              <a href="/jug-goerlitz.ics">
+              <FontAwesomeIcon icon={faCalendarAlt} /> Kalender
                 (ICAL)
               </a>
             </li>

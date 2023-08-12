@@ -3,6 +3,7 @@ import * as path from "path"
 import moment from "moment/moment"
 import { createFeeds } from "./src/utils/create-feeds"
 import type { CreateNodeArgs, GatsbyNode } from "gatsby"
+import { createIcal } from "./src/utils/create-ical"
 
 /**
  * The old website had another schema for URLs for talks. We need to create redirects to the new schema
@@ -309,4 +310,10 @@ const createPostsPages = async ({ createPage, graphql }) => {
 
 export const onPostBuild: GatsbyNode["onPostBuild"] = async ({ graphql }) => {
   createFeeds({ graphql })
+  createIcal({
+    graphql,
+    icalName: "JUG Görlitz",
+    icalUrl: "https://jug-gr.de",
+    icalTargetPath: "./public/jug-goerlitz.ics",
+  })
 }
