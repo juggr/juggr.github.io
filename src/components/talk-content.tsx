@@ -107,7 +107,7 @@ const TalkContent = ({ talk, speakerList, location, linkToDetailsPage }) => (
 
       <div>
         <p>
-          Datum: {formatDate(talk.frontmatter.date)}, {talk.frontmatter.time ?? "19:00 Uhr"}
+          Datum: {formatDate(talk.frontmatter.date)}, {`${talk.frontmatter.time ?? "19:00"} Uhr`}
         </p>
         {talk.frontmatter.virtual ? (
           <>Das Treffen findet Online statt. Siehe Beschreibung.</>
