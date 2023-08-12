@@ -1,0 +1,2067 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+URL:https://jug-gr.de
+NAME:JUG Görlitz
+X-WR-CALNAME:JUG Görlitz
+TIMEZONE-ID:Europe/Berlin
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:05aa5750-d3bc-43f4-a806-fa4aec221823
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20231129T200000
+DTEND:20231129T230000
+SUMMARY:Vortrag "What the CRaC - Superfast JVM startup" - Gerrit Grundwald
+LOCATION:Carl Zeiss Digital Innovation\nBerliner Straße 63\,02826 Görlit
+ z
+DESCRIPTION:In einer Welt\, in der Microservices mehr und mehr zu einer St
+ andardarchitektur für Java-basierte Anwendungen in der\nCloud werden\, ka
+ nn die…
+X-ALT-DESC;FMTTYPE=text/html:<p>In einer Welt\, in der Microservices mehr 
+ und mehr zu einer Standardarchitektur für Java-basierte Anwendungen in de
+ r\nCloud werden\, kann die JVM-Aufwärmzeit zu einer Einschränkung werden
+ .</p>\n<p>Vor allem wenn es darum geht\, als Reaktion auf Laständerungen 
+ neue Instanzen einer Anwendung aufzusetzen\, kann die\nAufwärmzeit ein Pr
+ oblem darstellen. Native Images sind eine Möglichkeit\, diese Probleme zu
+  lösen\, da ihr statisch im\nVoraus kompilierter Code keine Aufwärmzeit 
+ benötigt und somit eine kurze Startzeit hat. Aber selbst die kürzere\nSt
+ artzeit und der geringere Platzbedarf sind nicht ohne Nachteil. Die Gesamt
+ leistung kann aufgrund der fehlenden\nJIT-Optimierungen zur Laufzeit langs
+ amer sein. Es gibt ein neues OpenJDK-Projekt namens CRaC (Coordinated Rest
+ ore at\nCheckpoint)\, dessen Ziel es ist\, das JVM-Aufwärmproblem mit ein
+ em anderen Ansatz anzugehen. Die Idee ist\, einen\nSchnappschuss der laufe
+ nden JVM zu machen\, diesen in Dateien zu speichern und die JVM zu einem s
+ päteren Zeitpunkt (oder\nsogar auf einer anderen Maschine) wiederherzuste
+ llen.</p>\n<p>Dieser Vortrag gibt Ihnen einen kurzen Überblick über das 
+ CRaC-Projekt und zeigt einige Ergebnisse einer\nProof-of-Concept-Implement
+ ierung.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:6893943e-2b13-4560-a30b-8f0b7c2e1c0d
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20230628T210000
+DTEND:20230629T000000
+SUMMARY:Vortrag "GraalVM 23 – Konzepte und Features" - Wolfgang Weigend
+LOCATION:Carl Zeiss Digital Innovation\nBerliner Straße 63\,02826 Görlit
+ z
+DESCRIPTION:Die GraalVM ist eine Virtuelle Maschine (VM) für Anwendungen\
+ , die in JavaScript\, Python\, Ruby\, R oder mit den JVM-basierten…
+X-ALT-DESC;FMTTYPE=text/html:<p>Die GraalVM ist eine Virtuelle Maschine (V
+ M) für Anwendungen\, die in JavaScript\, Python\, Ruby\, R oder mit den J
+ VM-basierten Programmiersprachen Java\, Scala\, Kotlin\, Clojure und LLVM-
+ basierten Sprachen C/C++ geschrieben wurden. Am 13. Juni 2023 wurde die Gr
+ aalVM 23 freigegeben\, mit Performanceverbesserungen und Native-Image-Opti
+ mierungen\, sowie polyglotter Unterstützung für verschiedene Programmier
+ sprachen\, zur Interoperabilität in einer gemeinsamen Laufzeitumgebung. G
+ raalVM kann eigenständig oder im Kontext von OpenJDK\, Node.js und Datenb
+ anken betrieben werden. Mit GraalVM‘s Ahead-of-Time-Fähigkeit kompilier
+ te Native Images verfügen über eine optimierte Startup-Time und sie verr
+ ingern den Memory-Verbrauch von JVM-basierten Applikationen. Die GraalVM k
+ ann wahlweise als Open-Source-Community-Edition (CE) oder als optimierte O
+ racle GraalVM mit GFTC-Lizenz “GraalVM Free Terms and Conditions (GFTC) 
+ including License for Early Adopter Versions” verwendet werden. Im Vortr
+ ag wird die GraalVM-Architektur im Java-Ökosystem dargestellt und die Ein
+ satzgebiete erläutert\, beispielsweise der in Java entwickelte C2-JIT-Com
+ piler und die Verwendung von GraalVM Native Images. GraalVM kann für Spri
+ ng Boot und Microservices-Frameworks verwendet werden.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:ac0bf7be-59d9-43f1-96f9-dbfbb5e996ab
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20230531T210000
+DTEND:20230601T000000
+SUMMARY:Vortrag "Accessibility in the Wild" - Dániel Sulyok
+LOCATION:Tallence AG\nNeißstraße 27\,02826 Görlitz
+DESCRIPTION:Dániel Sulyok von der Tallence AG stellt seine Arbeit im Rahm
+ en des Themas Accessibility (Barrierefreiheit) vor. Das Team wurde beauftr
+ agt…
+X-ALT-DESC;FMTTYPE=text/html:<p>Dániel Sulyok von der Tallence AG stellt 
+ seine Arbeit im Rahmen des Themas <em>Accessibility</em> (Barrierefreiheit
+ ) vor. Das Team wurde beauftragt mit der Umsetzung des Redesigns und techn
+ ischem Neubau der Webanwendung "Account Manager" mit einem besonderen Foku
+ s auf Barrierefreiheit. In enger Abstimmung zwischen Design\, Entwicklung 
+ und Endnutzern wurden entwicklungsbegleitende UX-Tests durchgeführt und i
+ terativ die Zugänglichkeit und Bedienbarkeit der Anwendung verbessert.</p
+ >\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href="/downloads/jug
+ gr_a11y.pdf">Folien zum Vortrag</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:6d799e9c-33da-4aeb-8547-1085f608545e
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20230426T210000
+DTEND:20230427T000000
+SUMMARY:Vortrag "ArchUnit: Unit-Tests für deine Java-Architektur" - Rolan
+ d Weisleder
+LOCATION:Expleo\nKonsulstraße 23\,02826 Görlitz
+DESCRIPTION:Architektur und Code driften immer weiter auseinander? Die Ums
+ etzung von nicht-funktionalen Anforderungen und Querschnittsaspekten wird
+ …
+X-ALT-DESC;FMTTYPE=text/html:<p>Architektur und Code driften immer weiter 
+ auseinander? Die Umsetzung von nicht-funktionalen Anforderungen und Quersc
+ hnittsaspekten wird häufig vergessen? Zu viel Spaghetti-Code durch zyklis
+ che Abhängigkeiten? Solche Dinge kommen leider viel zu häufig vor und f
+ ühren schnell zu einer unwartbaren Codebasis.\nIm Java-Umfeld ist die Bib
+ liothek ArchUnit eine mögliche Lösung für diese Situation. Wir schauen\
+ , wie wir mit ArchUnit unsere Architektur innerhalb von Unit-Tests testen 
+ können und endlich wieder Struktur ins System bekommen. Außerdem schauen
+  wir uns darauf aufbauend jMolecules an\, womit wir Architekturkonzepte di
+ rekt im Code abbilden können.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:4f6a6265-96d4-4304-b5e8-15b471c5d6f3
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20230329T203000
+DTEND:20230329T233000
+SUMMARY:Vortrag "Spring für architekturinteressierte Entwickler:innen" - 
+ Oliver Drotbohm
+LOCATION:Fraunhofer-Institut IOSB - Angewandte Systemtechnik\nWilhelmsplat
+ z 11\,02826 Görlitz
+DESCRIPTION:Die Architektur und das Design einer Applikation beeinflussen 
+ ihre Wartbarkeit\, Testbarkeit und Qualität im Allgemeinen.\nSpring war s
+ chon…
+X-ALT-DESC;FMTTYPE=text/html:<p>Die Architektur und das Design einer Appli
+ kation beeinflussen ihre Wartbarkeit\, Testbarkeit und Qualität im Allgem
+ einen.\nSpring war schon immer ein vielseitiges Werkzeug\, das Architekt:i
+ nnen dabei unterstützt\, Muster zu implementieren\, mit\nHilfe derer tech
+ nische Bausteine der Applikation mit Domänenkonzepten und -grenzen verkn
+ üpft werden können. Es erlaubt\nEntwickler:innen Anwendungen zu schreibe
+ n\, die ihre architektonischen Ideen deutlich reflektieren und so ultimati
+ v\nänder- und damit wartbarere Anwendungen zu schreiben. Schlüsselaspekt
+ e dahin gehend sind Codeorganisation\, das\nSpring-Bean-Arrangement und di
+ e Nutzung von Domänen-Events\, um fachlich individuelle Teile der Applika
+ tion voneinander\nzu entkoppeln. Der Vortrag diskutiert diese Muster und A
+ nsätze und stellt Blibliotheken wie jMolecules und Moduliths\nvor\, um zu
+  zeigen\, wie Spring-Entwickler in die Lage versetzt werden\, besonders gu
+ t strukturierte und wartbare\nAnwendungen zu schreiben.</p>\n<hr>\n<p><str
+ ong>Hinweis</strong>: Wir treffen uns heute das erste mal im Fraunhofer-In
+ stitut IOSB. Hier wird vor allem im Bereich\nIT-Sicherheit für Kritische 
+ Infrastrukturen für Energie und Wasser geforscht und wir haben die Mögli
+ chkeit\, eine kurze\nFührung durch das Institut zu bekommen. Deshalb tref
+ fen wir uns dieses Mal bereits 18:30 Uhr. Der reguläre Vortrag\nstartet w
+ ie gewohnt um 19:00 Uhr.</p>\n<p>Einen kurzen Einblick darüber\, was wir 
+ in diesen Ersten Teil gesehen und gehört haben\, könnt ihr auf der <a hr
+ ef="https://digitale-oberlausitz.eu/news/2023/fraunhoferbesuch_jug/">Websi
+ te der Digitalen Oberlausitz e. V.</a> nachlesen.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:f71e984c-368c-45a6-8ae4-4957d7ed1e9c
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20230222T200000
+DTEND:20230222T230000
+SUMMARY:Vortrag "Exception First – Stabilisiere deinen Code mit mehr Exc
+ eptions" - Sergej Tihonov
+LOCATION:Carl Zeiss Digital Innovation\nBerliner Straße 63\,02826 Görlit
+ z
+DESCRIPTION:Fehler sind ein fester Bestandteil unserer Arbeit. Die Suche u
+ nd das Verstehen dieser nimmt viel Zeit in Anspruch. Die Fehlerbehebung is
+ t…
+X-ALT-DESC;FMTTYPE=text/html:<p>Fehler sind ein fester Bestandteil unserer
+  Arbeit. Die Suche und das Verstehen dieser nimmt viel Zeit in Anspruch. D
+ ie Fehlerbehebung ist häufig nur eine Zeile Code. Wie kann der Prozess de
+ s Suchens und Verstehens optimiert werden? Dies ist durch eine strategisch
+ e Vorbereitung der Codebasis möglich.</p>\n<p>Hierfür stelle ich zwei Tr
+ ansformationen vor. Ziel der ersten Transformation: Beim Auftreten eines F
+ ehlers erfolgt der sofortige Ausstieg aus dem Code mit einer aussagekräft
+ igen Exception. Das ist sehr ähnlich zur Validierung. Auf Ähnlichkeiten 
+ und Unterschiede gehe ich im Detail ein. Ziel der zweiten Transformation: 
+ Trennung der Standard-Logik von den Sonderfällen. Dies verbessert die Les
+ barkeit. Zusätzlich ergänzt es die erste Transformation.</p>\n<p>Anhand 
+ der vorgestellten Beispiele kannst du schon morgen deinen Code stabilisier
+ en und deine eigenen Analysen effizienter durchführen. Außerdem gebe ich
+  einen Ausblick darauf\, wie du noch mehr aus diesem Konzept rausholen kan
+ nst.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:e519c470-6dc0-4724-8cf3-19a3017712ec
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20230125T200000
+DTEND:20230125T230000
+SUMMARY:Vortrag "Content Management neu gedacht mit Contentlab" - Markus W
+ eiland
+LOCATION:CIDEON Software & Services GmbH & Co. KG\nUntermarkt 25\,02826 G
+ örlitz
+DESCRIPTION:Die Mehrheit aktueller Content Management Systeme (CMS) verwal
+ tet Inhalte auf vergleichbare Art wie Dateien in einem Windows-Netzwerkord
+ ner…
+X-ALT-DESC;FMTTYPE=text/html:<p>Die Mehrheit aktueller Content Management 
+ Systeme (CMS) verwaltet Inhalte auf vergleichbare Art wie Dateien in einem
+  Windows-Netzwerkordner. Wie könnte dagegen ein CMS aussehen\, wenn wir n
+ ochmal von Null starten und auf heutige Technologien wie Git\, GraphQL und
+  der Cloud aufbauen?\nIm Vortrag sehen wir uns die Architektur von Content
+ lab an\, einem Git-basierten Open Source CMS\, und erstellen live eine CMS
+  Instanz zum Verwalten von Veranstaltungen.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:1688e6e1-47d6-4ead-a80c-0e940f99c07d
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20221130T200000
+DTEND:20221130T230000
+SUMMARY:Vortrag "Kundenspezifisches IAM mit Keycloak" - Daniel Fesenmeyer
+LOCATION:Innolabs Görlitz\nBahnhofstraße 22\,02826 Görlitz
+DESCRIPTION:Keycloak ist ein Open Source IAM (Identity and Access Manageme
+ nt) System\, das größtenteils in Java implementiert ist. Es wird von vie
+ len…
+X-ALT-DESC;FMTTYPE=text/html:<p>Keycloak ist ein Open Source IAM (Identity
+  and Access Management) System\, das größtenteils in Java implementiert 
+ ist.<br>\nEs wird von vielen Unternehmen eingesetzt\, um Authentifizierung
+  und Authorisierung für verschiedenste Anwendungen\numzusetzen. Eine gro
+ ße Stärke von Keycloak ist die Konfigurierbarkeit und Erweiterbarkeit.<b
+ r>\nIm Vortrag wird ein Überblick über die Konfigurations- und Erweiteru
+ ngsmöglichkeiten gegeben. In einer Live-Demo wird\ngezeigt\, wie man dies
+ e Möglichkeiten nutzen kann\, um ein kundenspezifisches IAM bereitzustell
+ en.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:ce356ccf-5f6d-435b-b078-c72278433477
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20221012T210000
+DTEND:20221013T000000
+SUMMARY:Vortrag "Industrie 4.0? Das JUGt mich!" - Marco Gotthans
+LOCATION:Carl Zeiss Digital Innovation\nBerliner Straße 63\,02826 Görlit
+ z
+DESCRIPTION:Mit der fischertechnik Lernfabrik haben wir eine Fabrik im Kle
+ informat! Steuerung\, Edge und Cloud in Einem!  In diesem Vortrag lernen w
+ ir…
+X-ALT-DESC;FMTTYPE=text/html:<p>Mit der <em>fischertechnik</em> Lernfabrik
+  haben wir eine Fabrik im Kleinformat! Steuerung\, Edge und Cloud in Einem
+ !</p>\n<p><span\n      class="gatsby-resp-image-wrapper"\n      style="pos
+ ition: relative\; display: block\; margin-left: auto\; margin-right: auto\
+ ; max-width: 600px\; "\n    >\n      <a\n    class="gatsby-resp-image-link
+ "\n    href="/static/903efdec1e01931509b749db26582149/31198/lernfabrik.png
+ "\n    style="display: block"\n    target="_blank"\n    rel="noopener"\n  
+ >\n    <span\n    class="gatsby-resp-image-background-image"\n    style="p
+ adding-bottom: 147.33333333333331%\; position: relative\; bottom: 0\; left
+ : 0\; background-image: url('data:image/png\;base64\,iVBORw0KGgoAAAANSUhEU
+ gAAABQAAAAdCAIAAAAl5NuSAAAACXBIWXMAAAsTAAALEwEAmpwYAAAG9ElEQVQ4ywHpBhb5ACt
+ BT3tPWuNITsk6P9A/SeBTXNU8PclGR/lSU4JKXBNDYCRJZh5GZWV6i+fp7P////z8/P39/fz8/
+ vz8/gA+OUe5V13rOkCLJSx2Mj9vLDKCNDh1Pka2OD9oQlcRRGIiSWYcRmZme47o6u3////8/Pz
+ 9/f39/f38/P4AVm9/16OmxzA4NyQiQ01HTEpSm6Wqd1lgtDs+UExeEUJiIUlnG0ZmZ3yO6uvu/
+ ////Pz8/f39/f39/f3+AGh9js7O0XV2gkZWZZ1dX4Brc7W/xaVcYuJKSXBdaA9DYyBJaBpGaGd
+ +kOrs8P////z8/P39/f39/f7+/gBxiKXN1tminqyIiKWmbnOHdnu9yc2UXmXCPEVOR18PRGUfS
+ moZR2lpf5Pv8fT////9/f38/f/8/f79/f4AcoaYzNPXqKCpfXmPs3d8oI6UxsfLV2h1YkRVMER
+ fFUZlH0tqGkhpZ36S4+jv+/3/+fv9+Pr++fv9+vv9AH6Jk8vR1LCosXp7krx+g7CboMPGy3t1d
+ klLTQU3WhNAXRRCYw8/ZWh9kMzW4tzo99nl9Nbj88zb7cfX6QB9hI3FztK+parEeHzChYqxnKD
+ Excd2b3swRldAWm5AX4FQb4hOaXZle43Q2eXa5vbV4/PN3u+7z+bC1eoAnJmfzdHWvqqoyJSIw
+ H2CspueyczPbm9yfn6CvL7bsLPLq7bQZ4GiYnSCz9nn3uz92+b2zd3wwNTrzd3vAMvM0N/i5bi
+ xttbMy9WJjruChquamWlof2B8n3pzaIJ9dLOXjFlmjWB0louHiZ2twNbl9q/E3aK60s3d8QC9r
+ rDd19u2tLzc5eXY4d/Kv8O+t7aXo8u+jpBnJyiKR07/wbuhgIaZf6OHZGOle31ocHebk43Xy8r
+ W09cApHl8z73CsZ6kynJ2yIyPyKuq1d3lsbPPpzw+2yIxnSs0yH5+r1tc4V1g2GVmvF5hmIqIl
+ oh/qJmUl4R+AJGLkcXFzKOWnqBbYqxBSb0vNKNYgcd8lpQhJJoWJlw2PKQ8P/9JS8Y0OGIiKpJ
+ nbvXw85yQmIZRTbZkZgB3cHqnprKdnKh/dYCLiI6Zi4+IiK+9fY7OKC5rICiaiolzWl1XHiiEL
+ 0uMOD3trpzk3tfItLyZMTDKbG4Aa2Joj46Wop6pQzE5ZjhLfmZ4UnqwpIefgxceug8jxj5KbUc
+ /OyotRUVogUJEjzAbo3Fj52VsukVJj3RxAHlxeZORmLavubWxrJZXU6BnZmx7o3JZf6hFPJ44R
+ 3c/O72Kdal1XnpadV8tMFcyLa16cIMvM0QACXdGRwCck5fBvL6tpq68m5WZPkCWV1eUhItEZJK
+ iubKOrLGNknbCalWjUUmqZ4G9ZGLUmH3dkm6JMSxfKy2eXFUAfHF5koWPrKWtk25hcA4UXRkgq
+ TY52FhloZzDnqmtuYhpyGBAwUhHxDhHw0RAskU92ldT725l03xssFpHAGRDR7NCS6mZonNfWUY
+ sJx4IDrkEGMYULYyUsa3H4rS8z6GGi4I7OrstM71BQIcNEYkDEL9kZeCimuSqowCnGiPGCyB5T
+ 1ZNVFEsHh45DBChIS9GFzcAHkomTHgvZqBUdpuzkIzZubm+UlXIgoDuyML+5uD/2dP61dAAXAw
+ UrRMhPgwRKgwPWxkfQRYbVkRCRVBXABEpBSJNAB9bf5Wq5svHv6en0M/Lz8O+vbOu5s3G7M3G7
+ sG/ABETDg0GCBgLDDoSFx0WGAULDVkyNLGkn1haWiAcJV85QaeVh9fIvI0yL6N4c8azpbSblZu
+ XmEtXW4tBOABqPCgrJxwXDA90CxUfAgYABAUJERJlYFuQjYaDfHaZZF6iUlKhkqOrncNJU2yJZ
+ SttQyYgKSVtXj3Bs5kAHxYYGRUVJSImcTMuYTgxVSYnTiwsCQwQIywuwbav0mxvwG51bXCDZLb
+ 5GSxfbDggNy4VrZduwb2xaGprACkqKhcVEiooJmAjJU1PRXVNUadDOVAyHltKOK1bVq8AF78WK
+ kowMZFIY7syP84sMzobGFJVSD0nLEAhIwBid2RHSkdbYWlHUGY6PUpgYV6fkYu4n4+GZFFQJSJ
+ 6P0N6PTYxTjewHCPYLjPCJSsrDxQ7FxyBQkONdnMAcFNTaXR8e5exUXyjLluEL1BqiYiGsKumo
+ p6ai4J8d2BfOi8yNB4bthskxSIpohsjYTw+gGpokouIk5WSAIg3NDhLOmt9ilt/nGaAmICVqZS
+ WoIuEf6GZkGdkYjEvMg8cICcNE4kVHpExNodeXpCDgZWUkZeWkqemoABVOzxCQT9ESUlfWV18Q
+ URydIKGjJ9PT1AuMDMVFx0ZHCA2FRlPMzVoYGCag4Gil5Oem5mbmpe4t7Db2tPBflx+nJpaZAA
+ AAABJRU5ErkJggg==')\; background-size: cover\; display: block\;"\n  ></spa
+ n>\n  <img\n        class="gatsby-resp-image-image"\n        alt="Lernfabr
+ ik"\n        title="Lernfabrik"\n        src="/static/903efdec1e01931509b7
+ 49db26582149/0a47e/lernfabrik.png"\n        srcset="/static/903efdec1e0193
+ 1509b749db26582149/8a4e8/lernfabrik.png 150w\,\n/static/903efdec1e01931509
+ b749db26582149/5a46d/lernfabrik.png 300w\,\n/static/903efdec1e01931509b749
+ db26582149/0a47e/lernfabrik.png 600w\,\n/static/903efdec1e01931509b749db26
+ 582149/31198/lernfabrik.png 694w"\n        sizes="(max-width: 600px) 100vw
+ \, 600px"\n        style="width:100%\;height:100%\;margin:0\;vertical-alig
+ n:middle\;position:absolute\;top:0\;left:0\;"\n        loading="lazy"\n   
+      decoding="async"\n      />\n  </a>\n    </span></p>\n<p>In diesem Vor
+ trag lernen wir die Technologien und Möglichkeiten von Industrie 4.0 prak
+ tisch kennen. Wir nutzen das\nIndustrieprotokoll <em>OPC-UA</em> zur Masch
+ inenkommunikation und Edge-Services um Fabrikdaten in die Cloud zu laden. 
+ Wir sehen\nuns die Services hinter einem Dashboard an und mit der Siemens 
+ <em>S7</em> Steuerung tunen wir unsere Fabrik.</p>\n<hr>\n<p>Hinweis: Bitt
+ e meldet euch zur <strong>Teilnahme über jug-gr(at)digitale-oberlausitz.e
+ u</strong> an. Wir haben eine begrenzte Anzahl\nvon 25 Plätzen zur Verfü
+ gung\, die nicht überschritten werden darf.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:ce1d11d4-8460-4fac-a17b-76737b57a57e
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20220622T210000
+DTEND:20220623T000000
+SUMMARY:Vortrag "Hebe deine IoT-Infrastruktur auf das Serverless-Level an"
+  - Pawel Adaszewski
+LOCATION:Carl Zeiss Digital Innovation\nBerliner Straße 63\,02826 Görlit
+ z
+DESCRIPTION:Die Persistenz von IoT Daten sowie die Steuerung von IoT-Endge
+ räten benötigt im klassischen Verständnis eine\nServereinheit. Bei den 
+ Bastlern…
+X-ALT-DESC;FMTTYPE=text/html:<p>Die Persistenz von IoT Daten sowie die Ste
+ uerung von IoT-Endgeräten benötigt im klassischen Verständnis eine\nSer
+ vereinheit. Bei den Bastlern sind das oft on-premise Raspberry-Pi-Geräte 
+ oder gehostete Linux-Maschinen. Ihre\nkorrekte Konfiguration und anschlie
+ ßende Wartung kann Kopfzerbrechen bereiten. Es ist jedoch möglich\, dies
+ e\nVerantwortung an den Cloud-Betreiber zu übertragen und eine entspreche
+ nde Infrastruktur zu schaffen. In der\nHands-On-Session wird gezeigt\, wie
+  man mit der Erstellung der gewünschten Infrastruktur in der AWS-Cloud be
+ ginnen kann.\nDazu wird ein Mikrocontroller vom Typ ESP als physisches IoT
+ -Gerät verwendet.</p>\n<hr>\n<p>Hinweis: Bitte meldet euch zur <strong>Te
+ ilnahme über jug-gr(at)digitale-oberlausitz.eu</strong> an. Wir haben ein
+ e begrenzte Anzahl\nvon 25 Plätzen zur Verfügung\, die nicht überschrit
+ ten werden darf.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:65f3d431-bd05-4d76-84f5-bf5de86f6397
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20210630T210000
+DTEND:20210701T000000
+SUMMARY:Vortrag "Ultraschnelle Java In-Memory Datenbank-Anwendungen & Micr
+ oservices mit MicroStream" - Christian Kümmel\, Markus Kett
+LOCATION:virtual
+DESCRIPTION:MicroStream ist ein fundamental neues Persistenz-Framework fü
+ r die native Speicherung komplexer Java Objektgraphen.\nD.h.\, Objekte wer
+ den…
+X-ALT-DESC;FMTTYPE=text/html:<p>MicroStream ist ein fundamental neues Pers
+ istenz-Framework für die native Speicherung komplexer Java Objektgraphen.
+ \nD.h.\, Objekte werden damit genau so persistent gespeichert\, wie diese 
+ im Hauptspeicher von der JVM verwaltet werden.\nUmgekehrt lassen sich zu j
+ eder Zeit einzelne Subgraphen in den RAM laden und der Objektgraph im Haup
+ tspeicher wird\nautomatisch aktualisiert.</p>\n<p>Dadurch ergeben sich vö
+ llig neue Möglichkeiten: Objektgraphen lassen sich als In-Memory Datenban
+ k verwenden. Ein\nObjektgraph ist dabei eine sehr mächtige Multi-Model Da
+ tenstruktur. Es lassen sich beliebige Java-Typen\, Collections\nsowie Form
+ ate wie JSON verwenden und beliebig kombinieren. Passend dazu bietet Java 
+ die perfekte Abfragesprache. Mit\nJava Streams dauert das Durchsuchen selb
+ st sehr großer und komplexer Objektgraphen nur Mikrosekunden - bis zu 100
+ 0 Mal\nschneller als vergleichbare SQL-Abfragen und sogar sehr viel schnel
+ ler als das direkte Lesen von Abfrageergebnissen aus\neinem lokalen Cache.
+  DB-spezifische Datenstrukturen oder Formate werden damit bedeutungslos f
+ ür Java. Keine teuren\nMappings mehr. Keine Datentyp-Konvertierungen mehr
+ . Keine DB-spezifischen Abfragesprachen. Nur noch ein Datenmodell:\nJava-K
+ lassen (POJOs). Kein zusätzliches Caching-Framework mehr. Keine unkomfort
+ ablen Objektkopien mehr. Simple\nArchitektur und typsicherer Abfrage-Code.
+  Reine Core-Java Features anstatt DB-spezifische Konzepte. Das Endresultat
+  ist\neine ultraschnelle Java In-Memory Datenbankanwendung oder Microservi
+ ce.</p>\n<p>MicroStream wird bereits seit über 5 Jahren in Unternehmensan
+ wendung produktiv eingesetzt. Jetzt wird MicroStream Open\nSource und Teil
+  der populären Microservice Frameworks Helidon und Open Liberty.</p>\n<p>
+ <strong>Materialien:</strong></p>\n<ul>\n<li><a href="/downloads/Java-In-M
+ emory-DB-Applications-with-MicroStream-JUG-Goerlitz_PDF.pdf">Folien zum Vo
+ rtrag</a></li>\n</ul>\n<hr>\n<h2>Hinweis</h2>\n<p><strong>Dieser Vortrag f
+ indet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgesetzt:\
+ n<a href="https://meet.digitale-oberlausitz.eu/jug">https://meet.digitale-
+ oberlausitz.eu/jug</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:f5ab00dc-79ec-4b1d-8f8b-d19068fe113f
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20210127T200000
+DTEND:20210127T230000
+SUMMARY:Vortrag "Web Components" - Manuel Mauky
+LOCATION:virtual
+DESCRIPTION:Web-Components sind eine Möglichkeit\, auf Basis von Web-Stan
+ dards wiederverwendbare UI-Komponenten zu bauen\, die sich\nbrowserübergr
+ eifend…
+X-ALT-DESC;FMTTYPE=text/html:<p>Web-Components sind eine Möglichkeit\, au
+ f Basis von Web-Standards wiederverwendbare UI-Komponenten zu bauen\, die 
+ sich\nbrowserübergreifend und unabhängig von JavaScript-Frameworks einse
+ tzen lassen. Im Vortrag möchte ich die relevanten\nWeb-Standards kurz vor
+ stellen und im Live-Coding eine Web-Componente from Scratch bauen.</p>\n<p
+ >Dabei möchte ich auch auf die Stärken und Schwächen von Web-Components
+  eingehen und einige Erfahrungen teilen\, die ich\nbei der Entwicklung ein
+ er firmeninternen Component-Library machen konnte.</p>\n<hr>\n<h2>Hinweis<
+ /h2>\n<p><strong>Dieser Vortrag findet Online statt.</strong> Dazu haben w
+ ir ein Jitsi-Meeting aufgesetzt:\n<a href="https://meet.digitale-oberlausi
+ tz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:edb00769-da69-4ed2-b7a4-fe60ddbea6ad
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20201125T200000
+DTEND:20201125T230000
+SUMMARY:Vortrag "Java Secure Coding in der Praxis" - Nico Förster
+LOCATION:virtual
+DESCRIPTION:Durch die Veröffentlichung von immer neuen Schwachstellen in 
+ Softwareprodukten rückt das Thema Application Security\nzunehmend in den 
+ Fokus…
+X-ALT-DESC;FMTTYPE=text/html:<p>Durch die Veröffentlichung von immer neue
+ n Schwachstellen in Softwareprodukten rückt das Thema Application Securit
+ y\nzunehmend in den Fokus vieler Softwareentwickler. Sichere Software zu e
+ rstellen muss aber keine große Herausforderung\nsein\, wenn man Best Prac
+ tices befolgt und der Application Security einen festen Platz im Entwicklu
+ ngszyklus einräumt.\nZiel des Vortrags ist es\, einen Überblick zu Secur
+ e Coding in Java zu vermitteln und die Wichtigkeit dieses Themas\nhervorzu
+ heben. Im Detail wird außerdem an praktischen Beispielen demonstriert\, w
+ ie Sicherheitsschwachstellen im\nProgrammcode aussehen\, ausgenutzt und be
+ hoben werden können.</p>\n<hr>\n<h2>Hinweis</h2>\n<p><strong>Dieser Vortr
+ ag findet Online statt.</strong> Dazu haben wir ein Jitsi-Meeting aufgeset
+ zt:\n<a href="https://meet.digitale-oberlausitz.eu/jug">https://meet.digit
+ ale-oberlausitz.eu/jug</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:db96f139-c30e-486a-8c83-2c222172d211
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20200722T210000
+DTEND:20200723T000000
+SUMMARY:Vortrag "Branching-Modelle" - Hannes Kretschmer
+LOCATION:virtual
+DESCRIPTION:Als Softwareentwickler ist man auf die Verwendung von Versions
+ verwaltungssystemen und deren Branching- und\nMerging-Strategien angewiese
+ n…
+X-ALT-DESC;FMTTYPE=text/html:<p>Als Softwareentwickler ist man auf die Ver
+ wendung von Versionsverwaltungssystemen und deren Branching- und\nMerging-
+ Strategien angewiesen. Vorgaben\, wie diese Strategien angewendet werden m
+ üssen\, liefern diverse\nBranching-Modelle. Sie sollen vor Allem den Entw
+ ickleralltag erleichtern\, indem sie für eine saubere Historie sorgen\,\n
+ den Softwarereleaseprozess unterstützen oder verhindern\, dass man in der
+  Merge-Hölle landet. In dem Vortrag werden\neinige Branching-Modelle vorg
+ estellt. Dabei wird der Frage auf den Grund gegangen\, welche Art von Mode
+ ll zu welcher Art\nvon Softwareprojekt passt und welche allgemeingültigen
+  Vorgehensweisen beim Branching und Merging daraus gezogen werden\nkönnen
+ .</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href="/downloads
+ /juggr_branching_models.pdf">Folien zum Vortrag</a></li>\n</ul>\n<hr>\n<h2
+ >Hinweis</h2>\n<p><strong>Dieser Vortrag findet Online statt.</strong> Daz
+ u haben wir ein Jitsi-Meeting aufgesetzt:\n<a href="https://meet.digitale-
+ oberlausitz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:1391b753-6b3c-41c0-9271-7f4f4b10e277
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20200429T200000
+DTEND:20200429T230000
+SUMMARY:Vortrag "JDK 14 und GraalVM im Java Ökosystem" - Wolfgang Weigend
+LOCATION:virtual
+DESCRIPTION:Nach der Freigabe vom JDK 14 werden die aktuellen Merkmale vor
+ gestellt. Neben Bug-Fixes und Security-Patches\, stecken im\nJDK 14 Featur
+ e…
+X-ALT-DESC;FMTTYPE=text/html:<p>Nach der Freigabe vom JDK 14 werden die ak
+ tuellen Merkmale vorgestellt. Neben Bug-Fixes und Security-Patches\, steck
+ en im\nJDK 14 Feature-Release\, Sprach- und JVM-Änderungen\, Erweiterunge
+ n\, zugefügte und entfernte Klassen und Methoden\,\ndeprecated markierte 
+ Features und JDK-Tool-Änderungen. Bereits mit der Einführung der JDK Ver
+ sion 11 wurden die\ntechnischen Unterschiede bei der Gleichstellung vom Or
+ acle JDK mit dem Oracle OpenJDK entfernt. Bei diesem\nTechnologietransfer 
+ sind alle Bestandteile vom Oracle JDK als Open-Source-Implentierungen in d
+ as OpenJDK geflossen\,\nsodass das Oracle JDK 14 durch das OpenJDK 14 auge
+ tauscht werden kann. Die Anwender können ein JDK oder ein OpenJDK\nversch
+ iedener Hersteller frei auswählen. Dazu werden die Migrationsaspekte ält
+ erer Java-Anwendungen zum JDK 14\nerläutert. Im Vortrag wird auch ein Bli
+ ck auf den langfristigen Einsatz vom Java Modulsystem geworfen und dies an
+ hand\nvon Beispielen durch Erstellung einer individueller Java Runtime mit
+  der Anwendung verdeutlicht. Zudem wird die die\nGraalVM als universelle V
+ irtuelle Maschine (VM) für Anwendungen im Java Ökosystem betrachtet.</p>
+ \n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href="/downloads/JDK_
+ 14_und_GraalVM_im_Java-%C3%96kosystem_WW.pdf">Folien zum Vortrag</a></li>\
+ n</ul>\n<hr>\n<h2>Hinweis</h2>\n<p><strong>Dieser Vortrag findet Online st
+ att.</strong> Dazu hat Wolfgang ein Zoom-Meeting aufgesetzt. Dieser Meetin
+ g-Raum ist\nPasswortgeschützt. Bitte meldet euch vorab per E-Mail an. Wir
+  schicken euch dann vor dem Meeting das Passwort per Mail\nzu.</p>\n<p>Die
+ ses Mal geht es schon <strong>18:00 Uhr los</strong>.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:46156647-2961-46bf-b8fa-0c91f8d4ae77
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20200129T200000
+DTEND:20200129T230000
+SUMMARY:Vortrag "Innovationsmotor Cloud Foundry!?" - Simon Roloff
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:"Create Apps\, Not the Platform" - Cloud Foundry verspricht\, 
+ dass sich Entwicker voll und ganz auf die\nAnwendungsentwicklung fokussier
+ en…
+X-ALT-DESC;FMTTYPE=text/html:<p>"Create Apps\, Not the Platform" - Cloud F
+ oundry verspricht\, dass sich Entwicker voll und ganz auf die\nAnwendungse
+ ntwicklung fokussieren können\, anstatt einen erheblichen Teil ihrer Zeit
+  auf Infrastruktur\, Deployment usw.\nverwenden zu müssen. Was ist Cloud 
+ Foundry überhaupt? Und hält sie\, was sie verspricht?</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:bcc8e538-fc9b-49e9-ba0d-cd697ca9fae0
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20191128T200000
+DTEND:20191128T230000
+SUMMARY:Vortrag "Advanced BDD Tests" - Maik Wagner
+LOCATION:Tallence AG\nNeißstraße 27\,02826 Görlitz
+DESCRIPTION:Hattest du auch schon mal das Problem\, dass du deine eigenen 
+ komplizierten und unleserlichen Testfälle nicht mehr\nverstanden hast? Wi
+ r…
+X-ALT-DESC;FMTTYPE=text/html:<p>Hattest du auch schon mal das Problem\, da
+ ss du deine eigenen komplizierten und unleserlichen Testfälle nicht mehr\
+ nverstanden hast? Wir kennen das Problem und zeigen euch mögliche Lösung
+ en.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:0d252f4a-b4e8-45e6-9a3f-9286c37919d0
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20190626T210000
+DTEND:20190627T000000
+SUMMARY:Vortrag "Wie gut kennst Du das Collections Framework?" - Thilo Fro
+ tscher
+LOCATION:CIDEON Software & Services GmbH & Co. KG\nUntermarkt 25\,02826 G
+ örlitz
+DESCRIPTION:HashMap und ArrayList kennt jeder\, na klar. Aber wann stellen
+  diese eigentlich die richtige Wahl dar? Und vor allem:\nWann nicht? Das
+ …
+X-ALT-DESC;FMTTYPE=text/html:<p>HashMap und ArrayList kennt jeder\, na kla
+ r. Aber wann stellen diese eigentlich die richtige Wahl dar? Und vor allem
+ :\nWann nicht? Das Collections Framework enthält zahlreiche\, teils recht
+  spezialisierte Implementierungen. Doch viele\nEntwickler kennen nur einen
+  kleinen Teil davon. Schon mal was von EnumSet oder WeakHashMap gehört? U
+ nd was ist der\nUnterschied zwischen ConcurrentSkipListMap und ConcurrentH
+ ashMap? Für jeden Java-Entwickler ist es wichtig\, die Stärken\nund Schw
+ ächen der einzelnen Implementierungen zu kennen. Dieser Vortrag diskutier
+ t Details wie Threadsicherheit\,\nLaufzeitverhalten und sinnvolle Initiali
+ sierung anhand einiger ausgewählter Collection-Klassen.</p>\n<p><strong>M
+ aterialien:</strong></p>\n<ul>\n<li><a href="/downloads/juggr_java_collect
+ ions.pdf">Folien zum Vortrag</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:af23fbb2-fdab-4775-826b-f4b78666053c
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20190529T210000
+DTEND:20190530T000000
+SUMMARY:Vortrag "OAuth 2.0/OpenIDConnect mit Keycloak" - Denny Israel
+LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
+DESCRIPTION:Der Vortrag erläutert zunächst die Grundlagen der Standards 
+ OAuth 2.0 und OpenID-Connect und geht danach auf den Einsatz\ndieser Stand
+ ards…
+X-ALT-DESC;FMTTYPE=text/html:<p>Der Vortrag erläutert zunächst die Grund
+ lagen der Standards OAuth 2.0 und OpenID-Connect und geht danach auf den E
+ insatz\ndieser Standards mittels Keycloak ein. Dabei wird anhand einer Bei
+ spielanwendung (React\, Spring Boot) gezeigt\, wie man\nKeycloak in seine 
+ Anwendung einbinden kann.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:6a392ad6-b36b-4c93-8bc3-6d064791f5a1
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20190424T210000
+DTEND:20190425T000000
+SUMMARY:Vortrag "It's a JDK jungle out there - oder wie es mit den neuen J
+ ava-Versionen geordnet weitergeht" - Wolfgang Weigend
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:Mit dem JDK-Enhancement-Proposal (JEP 322) wird die zeitbasier
+ te Java-Release-Versionierung definiert\, die auf dem\naktuellen Java SE V
+ ersion…
+X-ALT-DESC;FMTTYPE=text/html:<p>Mit dem JDK-Enhancement-Proposal (JEP 322)
+  wird die zeitbasierte Java-Release-Versionierung definiert\, die auf dem\
+ naktuellen Java SE Version-String-Schema basiert und die Namensgebung für
+  die kommenden Versionen der Java SE Plattform\nund vom JDK vorgibt. Seit 
+ dem Jahr 2018 erscheinen die künftigen Java-Feature-Releases alle 6 Monat
+ e. Das JDK 11 wurde\nals Long-Term-Support-Release (LTS-Release) im Septem
+ ber 2018 veröffentlicht und nach sechs Monaten folgte das OpenJDK\n12 im 
+ März 2019. Mit dem zeitlichen Abstand von sechs Monaten bekommen die Entw
+ ickler wesentlich schneller neue\nJava-Funktionsmerkmale als dies mit dem 
+ bisherigen Dreijahreszyklus der Fall war. Zwischen den\nOpenJDK/JDK-Featur
+ e-Releases sind zwei Updates geplant\, bei denen es um die Wartung und Bug
+ fixes geht\, die wie gewohnt\,\njeweils im Januar\, April\, Juli und Oktob
+ er eines Jahres als Java Critical Patch Update erscheinen werden. Die Plan
+ ung\nsieht vor\, jeweils alle drei Jahre ein weiteres Java-LTS-Release zu 
+ veröffentlichen\, damit der Anwendungsbetrieb eine\nstabile und ausgereif
+ te Java-Basis bekommt\, die mit der nachfolgenden Versionierung $FEATURE.$
+ INTERIM.$UPDATE.$PATCH\ngekennzeichnet wird. Im Vortrag werden Beispiele z
+ um Version-String besprochen\, sowie Empfehlungen diskutiert\, wie die\nk
+ ünftige Java-Strategie mit dem OpenJDK\, Oracle JDK (LTS) und der neuen J
+ ava SE Subscription (Support) für die\nEntwickler und für den Anwendungs
+ betrieb aussehen soll. Zudem wird die Weiterentwicklung der OpenJFX/JavaFX
+ \nUI-Technologie mit den Aktivitäten der Developer-Community dargestellt.
+ </p>
+END:VEVENT
+BEGIN:VEVENT
+UID:5418d00c-036a-4dcc-97f0-c36249fd41fe
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20190327T200000
+DTEND:20190327T230000
+SUMMARY:Vortrag "Static-Site-Generators" - Manuel Mauky
+LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
+DESCRIPTION:Die Website der JUG Görlitz läuft fast Serverless. Natürlic
+ h muss ein Webserver Dateien ausliefern aber ansonsten sind\nkeine Datenba
+ nk…
+X-ALT-DESC;FMTTYPE=text/html:<p>Die Website der JUG Görlitz läuft fast <
+ em>Serverless</em>. Natürlich muss ein Webserver Dateien ausliefern aber 
+ ansonsten sind\nkeine Datenbank\, Applicationserver\, PHP oder sonstige ak
+ tive Serverkomponenten im Einsatz. Stattdessen sind alle Inhalte\nals Mark
+ down-Textdateien in einem <a href="https://github.com/juggr/juggr.github.i
+ o">Git-Repository</a> abgelegt (dieser Talk\nbeispielsweise\n<a href="http
+ s://github.com/juggr/juggr.github.io/blob/source/content/talks/2019-03-27-
+ static-site-generators.md">hier</a>). Ein so\ngenannter "Static-Site-Gener
+ ator" generiert daraus HTML-\, CSS- und JavaScript-Dateien\, die nur noch 
+ von einem ganz\nnormalen HTTP-Server ausgeliefert werden müssen. Dieses V
+ orgehen vereinfacht das Hosting\, beschleunigt Website-Aufrufe\nund minimi
+ ert die Angriffsfläche des Servers.</p>\n<p>Im Vortrag wird das Konzept v
+ on Static-Site-Generators erklärt und die möglichen Einsatzgebiete besch
+ rieben. Mit dem\nTool <a href="https://www.gatsbyjs.org/">Gatsby</a> werde
+ n wir eine einfache Blog-Website bauen. Am Beispiel der JUG-Website wird\n
+ aber auch gezeigt\, wie komplexere Daten-Modelle mit mehreren Entitäten (
+ <a href="/talks">Vorträge</a>\, <a href="/speakers">Speaker</a>\,\n<a hre
+ f="/locations">Veranstaltungsorte</a>\, <a href="/tags">Tags</a>) umgesetz
+ t werden können. Die technische Grundlage von Gatsby stellt\n<a href="/ta
+ lks/2017-05-31-react">React</a> für Templates und <a href="/talks/2018-05
+ -30-graphql">GraphQL</a> für die Daten-Organisation dar.</p>\n<p><strong>
+ Materialien:</strong></p>\n<ul>\n<li><a href="https://docs.google.com/pres
+ entation/d/1YtvQDv-VwHDlmTsF-B6_9NfJ4GYfmdyBZLGsNo4_BRM/edit?usp=sharing">
+ Folien zum Vortrag</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:b10d506d-512f-4cf2-a3c5-745217860382
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20190227T200000
+DTEND:20190227T230000
+SUMMARY:Vortrag "Java Reflection: Classes behind the scenes" - Erik Jähne
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:Java Reflections sind ein Feature der Java Sprache und werden 
+ von der JVM für das interne Handling von Klassen\, Feldern\nund Methoden
+ …
+X-ALT-DESC;FMTTYPE=text/html:<p>Java Reflections sind ein Feature der Java
+  Sprache und werden von der JVM für das interne Handling von Klassen\, Fe
+ ldern\nund Methoden verwendet. Intern werden darüber Methodenaufrufe\, Zu
+ griffsrechte wie public/privat oder seit Java 9 auch\ndie Modulexporte ger
+ egelt.</p>\n<p>Dieses Feature kann man sich in der normalen Java Umgebung 
+ zu Nutze machen\, um auf alle Informationen einer Klasse\nzuzugreifen. So 
+ ist es möglich\, auf deren Methoden und Felder zuzugreifen\, selbst wenn 
+ diese privat sind. Felder können\nüberschreiben\, Template-Parameter in 
+ Feldern und Methoden angezeigt\, sowie auch Annotationen der Klasse\, Meth
+ oden und\nFelder gelesen werden. Am Beispiel eines abstrakten Klassen-Edit
+ ors werden diese Möglichkeiten in dem Vortrag näher\nbetrachtet.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:25e9e68a-8c00-4ebe-8baf-c04a4f5e3886
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20190131T200000
+DTEND:20190131T230000
+SUMMARY:Vortrag "Java APIs - the missing manual" - Hendrik Ebbers
+LOCATION:CIDEON Software & Services GmbH & Co. KG\nUntermarkt 25\,02826 G
+ örlitz
+DESCRIPTION:Anstelle über Microservices\, NO-SQL Lösungen oder Container
+ -Management zu reden werden im Workshop Bestandteile des\nStandard Java AP
+ I…
+X-ALT-DESC;FMTTYPE=text/html:<p>Anstelle über Microservices\, NO-SQL Lös
+ ungen oder Container-Management zu reden werden im Workshop Bestandteile d
+ es\nStandard Java API vorgestellt. Diese Java Features helfen jedem Entwic
+ kler eine wartbare und zukunftssichere Anwendung\nzu entwickeln\, egal ob 
+ mit Spring\, JavaFX oder JavaEE. Verschiedene Sprach-Features und Konzepte
+  der Standard Java APIs\nwerden genauer unter die Lupe genommen und deren 
+ sinnvoller Einsatz anhand von Beispielen gezeigt. Hierdurch werden\nunter 
+ anderem folgende Fragen beantwortet: Wie funktionieren eigentlich Annotati
+ ons? Wie entwickle ich Plug-In\nFunktionalität ohne auf OSGI zurückgreif
+ en zu müssen? Wie gehe ich am besten mit NullPointerExceptions um? Wie sc
+ hreibe\nich nebenläufigen Code der trotzdem wartbar ist?</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:d1d3bad9-1b96-4526-8045-9972a3e2b402
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20181123T200000
+DTEND:20181123T230000
+SUMMARY:Vortrag "Monadische Transaktionen" - Gregor Trefs
+LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
+DESCRIPTION:Spätestens seit Java 8 gibt es monadische Typen in Java. Aber
+  was bedeutet das eigentlich? Was sind die Eigenschaften\,\ndie Monaden au
+ smachen…
+X-ALT-DESC;FMTTYPE=text/html:<p>Spätestens seit Java 8 gibt es monadische
+  Typen in Java. Aber was bedeutet das eigentlich? Was sind die Eigenschaft
+ en\,\ndie Monaden ausmachen? Und wo liegen unsere Schwierigkeiten beim Ver
+ ständnis von Monaden? Dieser Vortrag beschreibt\, was\neine Monade ist un
+ d wie wir eine monadische Transaktion nutzen können\, um in domänenspezi
+ fischer Sprache mit einer\nDatenbank zu reden. Hierbei bauen wir monadisch
+ e Transaktionen in ein vorhandenes Repository ein. Weiter beleuchten wir\n
+ die Vor- und Nachteile dieses Ansatzes und diskutieren die Unterstützung 
+ von Monaden in Java. Voraussetzung sind erste\nErfahrungen mit funktionale
+ r Programmierung und Lambdas.</p>\n<p><strong>Materialien:</strong></p>\n<
+ ul>\n<li><a href="http://jug-gr.de/downloads/juggr_refactoring_towards_mon
+ adic_transactions.pdf">Folien zum Vortrag</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:a7528fe1-1d4b-44f9-9833-2baaeb88b29e
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20180627T210000
+DTEND:20180628T000000
+SUMMARY:Vortrag "Immutable Data - Unveränderliche Daten im Griff" - Manue
+ l Mauky
+LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
+DESCRIPTION:Unveränderliche Datenstrukturen sind ein wichtiges Werkzeug d
+ er funktionalen Programmierung. Aber auch abseits dessen\nkönnen Immutabl
+ es…
+X-ALT-DESC;FMTTYPE=text/html:<p>Unveränderliche Datenstrukturen sind ein 
+ wichtiges Werkzeug der funktionalen Programmierung. Aber auch abseits dess
+ en\nkönnen Immutables ungemein nützlich sein: Richtig angewandt erhöhen
+  sie die Verständlichkeit des Codes\, da\nEntwicklerInnen nicht mehr auf 
+ die mühsame Suche gehen müssen\, an welcher Stelle ein Objekt möglicher
+ weise ungewollt\nverändert wurde. Darüber hinaus sind Immutables inhäre
+ nt Threadsafe und können auch hier die Nachvollziehbarkeit des\nCodes erh
+ öhen.</p>\n<p>Da Java als Sprache aber keine besondere Unterstützung fü
+ r Immutables mitbringt\, müssen EntwicklerInnen auf Patterns und\nBibliot
+ heken zurückgreifen\, um in den Genuss von unveränderlichen Datenstruktu
+ ren zu kommen. Denn natürlich müssen auch\nin funktionalen Programmen le
+ tztlich Veränderungen der Daten abgebildet werden und dafür bedarf es ge
+ eigneter\nUnterstützung.</p>\n<p>Im Vortrag möchte ich neben einer grund
+ sätzlichen Einführung in die Thematik auch einige dieser Techniken vorst
+ ellen und\nihre Vor- und Nachteile besprechen.</p>\n<p><strong>Materialien
+ :</strong></p>\n<ul>\n<li><a href="https://docs.google.com/presentation/d/
+ 1xKfrXV5XY7NBdpdlHapW6-88vtN9ASdjmEDtGEAWGpk/edit?usp=sharing">Folien zum 
+ Vortrag</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:192748cc-07eb-49c7-bb77-8563b8ba95e2
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20180530T210000
+DTEND:20180531T000000
+SUMMARY:Vortrag "GraphQL" - Stephan Strehler
+LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
+DESCRIPTION:Die RESTful-Architektur ist eine etablierte Möglichkeit\, Sch
+ nittstellen zwischen Client und Server zu gestalten. Dies\nbringt allerdin
+ gs…
+X-ALT-DESC;FMTTYPE=text/html:<p>Die RESTful-Architektur ist eine etabliert
+ e Möglichkeit\, Schnittstellen zwischen Client und Server zu gestalten. D
+ ies\nbringt allerdings einige Nachteile mit sich. Als Beispiel können hie
+ r die hohe Anzahl an benötigten Requests sowie die\nnur unvollständige D
+ okumentation der Schnittstelle genannt werden. Mit GraphQL entwickelte Fac
+ ebook eine alternative\nAbfragesprache\, welche die genannten Nachteile be
+ seitigen sollte. Dabei wird eine Abfrage ähnlich der Struktur der\nJSON-S
+ yntax an den Server übermittelt\, welcher die gewünschten Daten mit nur 
+ einer Antwort zur Verfügung stellt.</p>\n<p>Im Vortrag wird GraphQL anhan
+ d von Beispielen vorgestellt und dabei sowohl die Client- als auch Servers
+ eite betrachtet.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a h
+ ref="https://docs.google.com/presentation/d/1WQEpOns5tpV-u5VixhJYCfIV_1TJX
+ mCWgfqQ28_oZms/edit?usp=sharing">Folien zum Vortrag</a></li>\n<li><a href=
+ "https://github.com/StevieSteven/graphql-example">Code auf Github</a></li>
+ \n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:a07fc33c-c936-4e30-ab0f-892ab09e1493
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20180425T210000
+DTEND:20180426T000000
+SUMMARY:Vortrag "Kotlin" - Tobias Blaschke
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:Die Ankündigung der Unterstützung von Kotlin für die Androi
+ d-Entwicklung auf der Google I/O Keynote 2017 bewirkte\nspontan kräftigen
+  Applaus…
+X-ALT-DESC;FMTTYPE=text/html:<p>Die Ankündigung der Unterstützung von Ko
+ tlin für die Android-Entwicklung auf der Google I/O Keynote 2017 bewirkte
+ \nspontan kräftigen Applaus. Kotlin ist nur eine weitere Programmiersprac
+ he für die JVM. Warum also bewirkt die\nverhältnismäßig dröge Ankünd
+ igung zur Unterstützung einer JVM-Sprache solche Begeisterung? Was ist da
+ s Besondere an\nKotlin gegenüber Java? Der Vortrag gibt einen ersten allg
+ emeinen Einblick in die Sprachfeatures von Kotlin und gibt\nKotlin-Neuling
+ en die Möglichkeit\, sich selbst einen Eindruck über die Sprache zu vers
+ chaffen.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href="htt
+ ps://gaerfield.github.io/2018-04-26_Kotlin_jug-gr/">Folien zum Vortrag</a>
+ </li>\n<li><a href="https://github.com/gaerfield/2018-04-26_Kotlin_jug-gr"
+ >Code auf Github</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:30aad882-6377-4b80-9a94-4ae199e4353e
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20180320T200000
+DTEND:20180320T230000
+SUMMARY:Vortrag "Mikro- vs. Makroarchitektur – Spielraum und Spielregeln
+ " - Stefan Zörner
+LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
+DESCRIPTION:Während in einer klassischen Konzern-IT Standards und Blaupau
+ sen für immer gleiche Anwendungsarchitekturen sorgen\,\nbetonen…
+X-ALT-DESC;FMTTYPE=text/html:<p>Während in einer klassischen Konzern-IT S
+ tandards und Blaupausen für immer gleiche Anwendungsarchitekturen sorgen\
+ ,\nbetonen Microservice-Ansätze die technologische Freiheit. Zwei extreme
+  Spielarten der Ausgestaltung von Makro- und\nMikroarchitektur. In diesem 
+ Vortrag lernt Ihr neben dem Konzept selbst auch die auf Eure Ziele abgesti
+ mmte Richtung\, die\nIhr in dieser Fragestellung einschlagen solltet. Wie 
+ sieht in Eurem Kontext die Balance aus -- was gebt Ihr für alle\nElemente
+  Eurer Anwendung(slandschaft) vor\, wo lasst Ihr bewusst Spielraum? Und gi
+ bt es auch noch etwas dazwischen? Zu\ndiesem Zweck passen wir organisatori
+ sche und technologische Trends wie 2-Speed/Bimodale Architekturen\, Cloud 
+ und\nDomänenorientierung in das Entwurfsdoppel Makro und Mikro ein.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:4a5a891e-303c-4b28-8192-f10dbb42a2a3
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20180228T200000
+DTEND:20180228T230000
+SUMMARY:Vortrag "Entwicklung von Java Applikationen auf der SAP Cloud Plat
+ form" - Jens Leuschner\, Mariusz Zienkiewicz
+LOCATION:CIDEON Software & Services GmbH & Co. KG\nUntermarkt 25\,02826 G
+ örlitz
+DESCRIPTION:Die SAP Cloud Platform (SCP) beschreibt ein „Platform as a S
+ ervice“ (PaaS) Angebot der SAP. Mit der SCP liefert SAP\nsowohl die…
+X-ALT-DESC;FMTTYPE=text/html:<p>Die SAP Cloud Platform (SCP) beschreibt ei
+ n „Platform as a Service“ (PaaS) Angebot der SAP. Mit der SCP liefert 
+ SAP\nsowohl die Entwicklungsumgebung als auch die Laufzeitumgebung zur Rea
+ lisierung kundenindividueller Erweiterungen von\nCloud- und On-Premise-Lö
+ sungen (z.B. SAP S/4HANA). Basierend auf der In-Memory-Plattform SAP HANA 
+ stellt die SCP eine\nVielzahl an Datenbank- und Cloud-Services zur Verfüg
+ ung\, welche das PaaS Angebot erweitern und die Integration von SAP-\nund 
+ Non-SAP-Lösungen ermöglichen. Im Vortrag wird illustriert\, wie die Verb
+ indung aus einer Java EE Applikation zu einem\nSAP On-Premise System herge
+ stellt und dessen Funktionalität in der Cloud genutzt wird.</p>\n<p><stro
+ ng>Materialien:</strong></p>\n<ul>\n<li><a href="https://github.com/juggr/
+ juggr.github.io/blob/master/downloads/juggr_java_auf_sap_cloud.pdf">Folien
+  zum Vortrag</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:5ad06813-38fe-44d8-9762-1c8a5a88b88d
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20180131T200000
+DTEND:20180131T230000
+SUMMARY:Vortrag "Refactoring to a System of Systems" - Oliver Gierke
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:Beim Bauen monolithischer Systeme nutzen Entwicklerteams eine 
+ Reihe typischer Muster um die Interaktion verschiedener\nSystemteile zu…
+X-ALT-DESC;FMTTYPE=text/html:<p>Beim Bauen monolithischer Systeme nutzen E
+ ntwicklerteams eine Reihe typischer Muster um die Interaktion verschiedene
+ r\nSystemteile zu implementieren. Behält man diese Interaktionsmuster bei
+ \, während man ein System in verschiedene aufteilt\,\nergeben sich oft gr
+ oße Komplexität und architektonische Nachteile\, die oft die ursprüngli
+ che Idee\, die hinter der\nAufteilung stand\, konterkarieren.</p>\n<p>Der 
+ Vortrag betrachtet ein konkretes Beispiel von Modulinteraktion in einem mo
+ nolithischen System und identifiziert die\nProblemstellungen die sich erge
+ ben\, wenn man dieses System in exakt dem gleichen Interaktionsstil auftei
+ lt. Danach wird\neine alternative Implementierungsstrategie für das monol
+ ithische System diskutiert\, die die Modularität des\nUrsprungssystems st
+ ark verbessert und im Falle einer Aufteilung in unabhängige Teilsysteme z
+ u einer besseren Architektur\nführt.</p>\n<p><strong>Materialien:</strong
+ ></p>\n<ul>\n<li><a href="https://speakerdeck.com/olivergierke/refactoring
+ -to-a-system-of-systems">Folien zum Vortrag</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:d3453ff4-e23d-44ae-8275-2a96c84899ff
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20171129T200000
+DTEND:20171129T230000
+SUMMARY:Vortrag "Neo4j: Panama Papers" - Michael Hunger
+LOCATION:SQS TestCenter Görlitz\nBrückenstraße 10\,02826 Görlitz
+DESCRIPTION:Im letzten Jahr waren die Panama Papers in aller Munde\, die J
+ ournalisten der Süddeutschen Zeitung und des ICIJ\nuntersuchten und publi
+ zierten…
+X-ALT-DESC;FMTTYPE=text/html:<p>Im letzten Jahr waren die Panama Papers in
+  aller Munde\, die Journalisten der Süddeutschen Zeitung und des ICIJ\nun
+ tersuchten und publizierten die breite Nutzung von Briefkastenfirmen durch
+  Politiker\, Geschäftsleute\, Banken usw. Für\ndie Untersuchung des grö
+ ßten Leaks einer Geldwäschefirma wurde unter anderem auch Neo4j genutzt.
+  Heute werde ich\ndemonstrieren\, wie solche Daten in einem Graph modellie
+ rt\, importiert und abgefragt werden können. Da die Informationen\nöffen
+ tlich verfügbar sind\, kann jetzt jeder zum Journalisten werden.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:3ce59724-237d-4cc5-ab3f-5459b867f6b2
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20171025T210000
+DTEND:20171026T000000
+SUMMARY:Vortrag "Serverless Application - Who the heck needs a Server?" - 
+ Lars Röwekamp
+LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
+DESCRIPTION:Kaum haben wir uns von dem klassischen Monolithen und der zuge
+ hörigen Ablaufumgebung namens Application Server\,\nzugunsten von Microse
+ rvices…
+X-ALT-DESC;FMTTYPE=text/html:<p>Kaum haben wir uns von dem klassischen Mon
+ olithen und der zugehörigen Ablaufumgebung namens Application Server\,\nz
+ ugunsten von Microservices und Embedded Runtimes\, verabschiedet\, taucht 
+ am Horizont mit Serverless Applications bzw.\nArchitectures schon die näc
+ hste Evolutionsstufe auf. Was bitte ist das jetzt schon wieder? Und wer br
+ aucht so etwas? Die\nSession zeigt\, wie sich dank BaaS\, FaaS und einiger
+  anderer Akronyme\, Mobile und Enterpriese Anwendungen implementieren\nlas
+ sen - ganz ohne Server! Ganz ohne? Naja\, fast.</p>\n<p><strong>Materialie
+ n:</strong></p>\n<ul>\n<li><a href="https://www.dropbox.com/s/nrt9jb5mtwkx
+ h2s/se_serverless.pdf">Folien zum Vortrag</a></li>\n</ul>\n<hr>\n<p>Bei be
+ i diesem Treffen verlosen wir unter den Teilnehmern ein Tutorial von\n<a h
+ ref="https://tutorials.entwickler.de/">https://tutorials.entwickler.de/</a
+ >. Mit freundlicher Unterstützung durch <strong>Software &#x26\;\nSupport
+  Media GmbH</strong>.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:40970605-a7b8-41a7-aab0-82f381b0ef12
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20170830T210000
+DTEND:20170831T000000
+SUMMARY:Vortrag "Spracherkennung mit Amazon Alexa" - Andre Tepper\, Maik W
+ agner
+LOCATION:DSER\nElisabethstraße 42/43\,02826 Görlitz
+DESCRIPTION:Amazon Alexa ist eine Smart-Home-Technologie\, die vor allem a
+ ls Lösung für Spracherkennung bekannt ist. Für Entwickler\nist dabei vo
+ r allem…
+X-ALT-DESC;FMTTYPE=text/html:<p>Amazon Alexa ist eine Smart-Home-Technolog
+ ie\, die vor allem als Lösung für Spracherkennung bekannt ist. Für Entw
+ ickler\nist dabei vor allem die Möglichkeit interessant\, eigene Anwendun
+ gen mit Spracherkennung erstellen zu können.</p>\n<p>Andre und Maik beleu
+ chten in ihrem Vortrag die Theorie hinter Spracherkennung und zeigen am Be
+ ispiel von Amazon Alexa\,\nwie damit Anwendungen gebaut werden können.</p
+ >
+END:VEVENT
+BEGIN:VEVENT
+UID:b1f39e0a-5301-4c99-afb2-1f45873ea3a9
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20170531T210000
+DTEND:20170601T000000
+SUMMARY:Vortrag "React und React-Native: Functional UI Development für Br
+ owser und mobile Endgeräte" - Manuel Mauky
+LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
+DESCRIPTION:React ist eine von Facebook entwickelte JavaScript-Bibliothek 
+ zur Entwicklung von UI-Komponenten. Dabei macht React\neiniges anders als
+ …
+X-ALT-DESC;FMTTYPE=text/html:<p>React ist eine von Facebook entwickelte Ja
+ vaScript-Bibliothek zur Entwicklung von UI-Komponenten. Dabei macht React\
+ neiniges anders als andere Web-Frameworks\, beispielsweise der Verzicht au
+ f Templates und die Limitierung auf\nunidirektionalen Datenfluss. Interess
+ ant ist auch der vollständig deklarative Ansatz\, der es u.a. ermöglicht
+ \,\nUI-Komponenten als Funktionen zu entwickeln.</p>\n<p>React ist aber ni
+ cht auf den Browser beschränkt: Mit React-Native können darüber hinaus 
+ auf die gleiche Art und Weise\nauch native Mobile-Apps entwickelt werden. 
+ Aber anders die meisten HTML5-Hybrid-Frameworks ist bei React-Native kein\
+ nHTML im Spiel. Stattdessen werden tatsächlich native UI-Controls gerende
+ rt.</p>\n<p>In diesem Vortrag möchte ich React und auch React-Native vors
+ tellen und mittels Live-Coding einen Eindruck von dem\nFramework vermittel
+ n. Dabei möchte ich aber auch auf die Ansätze aus der funktionalen Progr
+ ammierung eingehen\, die React\nmeines Erachtens so besonders machen.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:c45a4674-a10d-4b40-b5d2-cfb64488f4cc
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20170425T210000
+DTEND:20170426T000000
+SUMMARY:Vortrag "JDK 9" - Wolfgang Weigend
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:Nach der Ausdehnung vom JDK 9 Feature-Complete-Status\, begann
+  die Fehlerbereinigung\, mit allen notwendigen Vorarbeiten\,\num den final
+ en…
+X-ALT-DESC;FMTTYPE=text/html:<p>Nach der Ausdehnung vom JDK 9 Feature-Comp
+ lete-Status\, begann die Fehlerbereinigung\, mit allen notwendigen Vorarbe
+ iten\,\num den finalen Release-Candidate für das JDK 9 bereitzustellen. D
+ er Schwerpunkt vom JDK 9 liegt bei der neuen\nPlattformmodularisierung mit
+  dem Projekt Jigsaw. Über die JDK-Enhancement-Vorschläge JEP 200 (Modula
+ res JDK)\, JEP 201\n(Modularer Source-Code) und JEP 220 (Modulare Laufzeit
+ -Images) gelangen die technischen Vorschläge ins JDK 9. Der JSR\n376 (Jav
+ a Platform Module System) schafft die Grundlage für die Referenzimplement
+ ierung vom OpenJDK Projekt Jigsaw.\nDiese Veränderungen lassen es zu\, mi
+ t dem JDK 9 die gewünschte technische Paketierung von ausgewählter\nJava
+ -Funktionalität selbst zu bestimmen. Das Projekt Jigsaw hat die primäre 
+ Aufgabe\, das Design und die Implementierung\neines Standard-Modulsystems 
+ für die Java-Plattform und für das JDK 9 bereitzustellen. Dabei soll die
+  durchgängige\,\ndynamische und einfache Anpassbarkeit der Java-SE-Plattf
+ orm &#x26\; dem JDK\, auch für kleine Endgeräte berücksichtigt werden\,
+ \nsowie die Verbesserung von Sicherheit und Wartbarkeit von Java-SE-Plattf
+ orm-Implementierungen\, speziell vom JDK\,\nverwirklicht werden. Im Vortra
+ g werden Demo-Beispiele gezeigt\, die eine Erstellung von individueller Ja
+ va Runtime mit\nAnwendung anhand der JDK 9-Werkzeuge verdeutlichen. Die ge
+ plante Verfügbarkeit vom JDK 9 ist für Ende Juli 2017\nvorgesehen.</p>\n
+ <p><strong>Materialien:</strong></p>\n<ul>\n<li><a href="http://jug-gr.de/
+ downloads/juggr_JDK_9_Java_Platform_Module_System.pdf">Folien zum Vortrag<
+ /a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:79595cad-6d18-421d-99f8-5e27cc815ff1
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20170322T200000
+DTEND:20170322T230000
+SUMMARY:Vortrag "Angular 2 für Java Entwickler" - Sven Hoffmann
+LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
+DESCRIPTION:Mit Angular bietet Google ein komponenten-basiertes Webframewo
+ rk an\, welches den Anspruch erhebt\, die Anforderungen an\nzeitgemäße
+ …
+X-ALT-DESC;FMTTYPE=text/html:<p>Mit Angular bietet Google ein komponenten-
+ basiertes Webframework an\, welches den Anspruch erhebt\, die Anforderunge
+ n an\nzeitgemäße Softwareentwicklung ganzheitlich zu unterstützen.</p>\
+ n<p>Seit dem Release von Angular 2 war es für gestandene Java Entwickler 
+ noch nie so einfach in die Webentwicklung\neinzusteigen. Mit Klassen\, Dep
+ endency Injection\, Annotations und Data-Binding bietet Angular dem versie
+ rten Desktop\nEntwickler ein vertrautes Umfeld\, in dem man sich schnell z
+ urecht findet.</p>\n<p>In dieser Veranstaltung möchte ich am lebenden Bei
+ spiel zeigen\, wie es sich heutzutage anfühlt eine Webanwendung\,\nkonkre
+ t mit Angular 2\, zu erstellen.</p>\n<p><strong>Materialien:</strong></p>\
+ n<ul>\n<li><a href="http://jug-gr.de/downloads/juggr_pretalk_astrofotograf
+ ie.pdf">Folien zum Lightning-Talk</a></li>\n<li><a href="http://jug-gr.de/
+ downloads/juggr_angular.pdf">Folien zum Vortrag</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:3c006aa9-6281-4a6c-8939-e0ec162aab29
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20170222T200000
+DTEND:20170222T230000
+SUMMARY:Vortrag "CSS\, Aha-Effekte und Perspektiven" - Uwe Manteuffel
+LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
+DESCRIPTION:CSS ist verwirrend\, entbehrt jeglicher Logik und rendert mein
+  HTML völlig willkürlich. Ziel von CSS ist es\, den Alltag\neines Webent
+ wicklers…
+X-ALT-DESC;FMTTYPE=text/html:<p>CSS ist verwirrend\, entbehrt jeglicher Lo
+ gik und rendert mein HTML völlig willkürlich. Ziel von CSS ist es\, den 
+ Alltag\neines Webentwicklers möglichst qualvoll zu gestalten. FALSCH Mit 
+ Live-Coding gehen wir CSS auf den Grund und werden\neinige Aha-Effekte erz
+ ielen. Dafür erklären wir Grundlagen\, welche vielen Entwicklern unbekan
+ nt sind\, und zeigen den\nMehrwert von Präprozessoren. Um euch dann volle
+ nds von CSS zu überzeugen\, haben wir als Special Guest CSS3 eingeladen.\
+ nDa wird selbst JavaScript blass vor Neid.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:081d5373-1720-4588-b54d-2b83aadb4042
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20170125T200000
+DTEND:20170125T230000
+SUMMARY:Vortrag "JUnit 5" - Stefan Bley
+LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
+DESCRIPTION:Unit Testing in Java - dafür ist JUnit das Werkzeug der Wahl.
+  Die letzte Version JUnit 4 tat dabei viele Jahre ihre\nDienste und wurde
+ …
+X-ALT-DESC;FMTTYPE=text/html:<p>Unit Testing in Java - dafür ist JUnit da
+ s Werkzeug der Wahl. Die letzte Version JUnit 4 tat dabei viele Jahre ihre
+ \nDienste und wurde kontinuierlich weiterentwickelt\, stieß allerdings nu
+ n doch an ihre Grenzen. Der Nachfolger JUnit 5 ist\neine komplette Neuentw
+ icklung und steht kurz vor dem Release. Wir wollen uns ansehen\, welche Ne
+ uerungen JUnit 5 mit sich\nbringt und was es beim Umstieg zu beachten gilt
+ .</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href="http://jug
+ -gr.de/downloads/juggr_jUnit5.pdf">Folien zum Vortrag</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:4ef8c766-f55f-420b-ac4e-58838bcc0da6
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20161130T200000
+DTEND:20161130T230000
+SUMMARY:Vortrag "Inside JVM" - Michael Wiedeking
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:Wie funktioniert die virtuelle Maschine? Wo kommt der Just-in-
+ Time-Compiler ins Spiel und was hat es mit InvokeDynamic\nauf sich? Diese 
+ und…
+X-ALT-DESC;FMTTYPE=text/html:<p>Wie funktioniert die virtuelle Maschine? W
+ o kommt der Just-in-Time-Compiler ins Spiel und was hat es mit InvokeDynam
+ ic\nauf sich? Diese und weitere Fragen beantwortet Michael Wiedeking bei e
+ inem Blick unter die Haube der Java Virtual\nMachine.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:e541c6b8-cd45-490d-a68c-ca6d3639a253
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20160921T210000
+DTEND:20160922T000000
+SUMMARY:Vortrag "Kommunikationskultur im Softwareentwicklungsprozess" - Da
+ niel Sernow
+LOCATION:SQS TestCenter Görlitz\nBrückenstraße 10\,02826 Görlitz
+DESCRIPTION:Im Vortrag von Daniel Sernow wird die Kommunikation in Softwar
+ e-Projekten und mit den Projekt-Partnern thematisiert. Er\nwird uns an sei
+ nen…
+X-ALT-DESC;FMTTYPE=text/html:<p>Im Vortrag von Daniel Sernow wird die Komm
+ unikation in Software-Projekten und mit den Projekt-Partnern thematisiert.
+  Er\nwird uns an seinen Erfahrungen und Erkenntnissen aus langjähriger Pr
+ axis im Projektgeschäft teilhaben lassen. Für\nEntwickler dürfte dabei 
+ vor allem auch die Perspektive der Qualitätssicherung interessante neue E
+ inblicke bereithalten.</p>\n<p>Eine Besonderheit: Wir werden eine neuen Ve
+ ranstaltungsort einweihen - siehe unten.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:6ff6135c-78e1-4246-968c-c4fe76f0f49b
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20160727T210000
+DTEND:20160728T000000
+SUMMARY:Vortrag "Testwerkzeuge für JavaFX" - Kay Grebenstein
+LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
+DESCRIPTION:Softwareentwicklungsprojekte leben vom Einsatz von modernen We
+ rkzeugen\, die die Projektbeteiligten bei ihrer Arbeit\nunterstützen. Jav
+ aFX…
+X-ALT-DESC;FMTTYPE=text/html:<p>Softwareentwicklungsprojekte leben vom Ein
+ satz von modernen Werkzeugen\, die die Projektbeteiligten bei ihrer Arbeit
+ \nunterstützen. JavaFX-Entwicklungsprojekte haben hier eine besondere Her
+ ausforderung. Die „neue“ Technologie stellt eine\nHerausforderung an d
+ ie Testwerkzeuge\, speziell an die Werkzeuge zur Testautomatisierung. Viel
+ e Hersteller werben mit\nJavaFX-Unterstützung\, aber nicht immer wird Jav
+ aFX vollständig unterstützt.</p>\n<p>Der Vortrag geht den Fragen nach:</
+ p>\n<ul>\n<li>Welche Kategorien von Testwerkzeugen für JavaFX gibt es?</l
+ i>\n<li>Welche Unterschiede gibt es zwischen den Testwerkzeugen?</li>\n<li
+ >Wie werden die Testwerkzeuge in meine Toolkette eingebunden?</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:d11019a0-02f1-4900-a500-3611400d804a
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20160525T210000
+DTEND:20160526T000000
+SUMMARY:Vortrag "Performance-Analyse mit inspectIT" - Mario Mann
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:In vielen Software-Projekten wissen häufig nicht nur Anwender
+  sondern auch Entwickler nicht\, warum sich ihre Anwendung\nverhält wie s
+ ie sich…
+X-ALT-DESC;FMTTYPE=text/html:<p>In vielen Software-Projekten wissen häufi
+ g nicht nur Anwender sondern auch Entwickler nicht\, warum sich ihre Anwen
+ dung\nverhält wie sie sich eben verhält. Wieso ist meine Anwendung so la
+ ngsam? An Performance-Tests wurde während der\nEntwicklung nicht gespart.
+  Was kann also das Problem sein? Abhilfe kann in solchen Fällen ein Appli
+ cation Performance\nManagement Werkzeug schaffen\, wie beispielsweise das 
+ Open Source-Werkzeug inspectIT.</p>\n<p>inspectIT ist ein leistungsstarkes
+  Werkzeug\, dass dazu dient\, die Leistung von Software-Anwendungen sowohl
+  zu überwachen\nals auch zu analysieren. Mithilfe verschiedener Sensoren 
+ erfasst inspectIT Informationen über Abfragen des Endnutzers\nund die Ver
+ arbeitung im Business-Layer bis hin zum Backend. Mit der Nutzung von inspe
+ ctIT sind Informationen über die\nSoftware-Anwendung verfügbar\, um jede
+ s potenzielle Funktions-\, Leistungs- oder Zuverlässigkeitsproblem mühel
+ os\nanalysieren zu können. Dieser Vortrag wird das Open Source Projekt in
+ spectIT vorstellen und einen einfachen Einstieg in\ndie Performance-Analys
+ e mit inspectIT bieten.</p>\n<p>Website: <a href="http://inspectit.rocks">
+ http://inspectit.rocks</a></p>\n<p>Git: <a href="https://github.com/inspec
+ tIT/inspectIT">https://github.com/inspectIT/inspectIT</a></p>\n<p>Dokument
+ ation:\n<a href="https://inspectit-performance.atlassian.net/wiki/display/
+ HOME/inspectIT+Home">https://inspectit-performance.atlassian.net/wiki/disp
+ lay/HOME/inspectIT+Home</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:4a3d7707-83ec-4241-b9ea-69c80116283b
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20160330T210000
+DTEND:20160331T000000
+SUMMARY:Vortrag "Haskell und Frege" - Manuel Mauky
+LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
+DESCRIPTION:Haskell ist eine funktionale Programmiersprache\, die das Para
+ digma der funktionalen Programmierung so konsequent\numsetzt\, wie kaum ei
+ ne…
+X-ALT-DESC;FMTTYPE=text/html:<p>Haskell ist eine funktionale Programmiersp
+ rache\, die das Paradigma der funktionalen Programmierung so konsequent\nu
+ msetzt\, wie kaum eine andere Sprache. Beispielsweise sind Funktionen in H
+ askell standardmäßig "pure"\, können also keine\nSeiteneffekte besitzen
+ \, was durch das statische Typ-System sichergestellt wird. Eine weitere Ei
+ genschaft\, die Haskell\nvon den meisten anderen Sprachen unterscheidet\, 
+ ist die nicht-strikte Auswertung von Ausdrücken\, was im allgemeinen\ndur
+ ch Lazy-Evaluation umgesetzt wird. Dadurch kann Haskell beispielsweise ohn
+ e weiteres mit unendlichen Listen umgehen\,\nohne dafür besondere Sprachk
+ onstrukte zu benötigen.</p>\n<p>Haskell selbst läuft nicht auf der Java-
+ VM\, allerdings existiert mit der Programmiersprache "Frege" eine\nHaskell
+ -Variante\, die zu Java-Sourcecode kompiliert. Damit steht nun auch auf de
+ r JVM eine rein funktionale Sprache\nbereit.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:855a0750-5666-4539-9eb1-83fb6e08719f
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20160127T200000
+DTEND:20160127T230000
+SUMMARY:Vortrag "Funktionale Programmierung mit Java" - Manuel Mauky\, Max
+  Wielsch
+LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
+DESCRIPTION:Mit Java 8 wurden einige Features in die Sprache integriert\, 
+ die von funktionaler Programmierung inspiriert sind. Im\nVortrag Java 8: L
+ ambdas…
+X-ALT-DESC;FMTTYPE=text/html:<p>Mit Java 8 wurden einige Features in die S
+ prache integriert\, die von funktionaler Programmierung inspiriert sind. I
+ m\nVortrag <a href="http://www.jug-gr.de/2014/07/30/java8-streams.html">Ja
+ va 8: Lambdas und Streams</a> im Juli 2014 hat Paul uns die\ntechnischen M
+ öglichkeiten dazu bereits vorgestellt. Doch ist Java damit nun auch eine 
+ Funktionale Sprache? Gibt es\nüberhaupt noch Gründe\, andere funktionale
+  Sprachen zu beachten?</p>\n<p>In diesem Vortrag möchten wir tiefer in di
+ e Materie der funktionalen Programmierung eintauchen und die Konzepte dies
+ es\nParadigmas betrachten. Wir werden sehen\, wie Java-Programmierer von f
+ unktionalen Konzepten profitieren können. Dabei\ngehen wir unter anderem 
+ auf Dinge wie <em>Rekursion</em>\, <em>Pure Funktionen</em>\, <em>Immutabl
+ e Datenstrukturen</em>\, <em>Monaden</em> und\n<em>Funktionskomposition</e
+ m> ein.</p>\n<p>Wir werden aber auch zeigen\, wo die Grenzen von Java lieg
+ en und warum wir der Meinung sind\, dass Java letztlich doch\nkeine wirkli
+ ch funktionale Sprache ist und weshalb wir unbedingt empfehlen\, sich mit 
+ funktionalen Sprachen zu\nbeschäftigen. In diesem Sinne werden wir beim d
+ arauf folgenden JUG-Treffen die funktionale Sprache "Haskell" vorstellen\n
+ und dabei viele der hier vorgestellten Konzepte wiederfinden. Außerdem we
+ rden wir die Haskell-Variante "Frege"\nbesprechen\, die auch auf der JVM l
+ äuft.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href="/down
+ loads/juggr_funktionale_programmierung_java.pdf">Vortragsfolien</a></li>\n
+ </ul>\n<p><strong>Links:</strong></p>\n<ul>\n<li><a href="http://sebastian
+ -millies.blogspot.de/2015/09/cartesian-products-with-kleisli.html">Blog: K
+ leisli Composition in Java</a></li>\n<li><a href="http://techblog.realesta
+ te.com.au/how-we-used-category-theory-to-solve-a-problem-in-java/">Blog: H
+ ow we used Category Theory to solve a problem in Java</a></li>\n<li><a hre
+ f="http://mvanier.livejournal.com/2897.html?nojs=1">Blog: Ausführliche Er
+ klärung und Herleitung des Y-Combinators in Scheme</a></li>\n<li><a href=
+ "http://sebastian-millies.blogspot.de/2013/09/the-y-combinator.html">Blog:
+  Y-Combinator in Java</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:9f4c0db1-0a3b-4bd8-a29f-2ec9398933dc
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20151125T200000
+DTEND:20151125T230000
+SUMMARY:Vortrag "JavaFX auf Mobile" - Stefan Barth\, Stefan Heinze
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:JavaFX ist die neue Java-Technologie im Desktop-Bereich und so
+ mit die Ablösung von Swing. Damit ist es möglich\nJava-Anwendungen für 
+ Desktop…
+X-ALT-DESC;FMTTYPE=text/html:<p>JavaFX ist die neue Java-Technologie im De
+ sktop-Bereich und somit die Ablösung von Swing. Damit ist es möglich\nJa
+ va-Anwendungen für Desktop\, Browser und mobile Geräte zu entwickeln. Al
+ lerdings bietet Oracle keinen direkten Support\nfür mobile Endgeräte an\
+ , sondern überlässt dies der Community.</p>\n<p>In dem Vortrag geht es u
+ m den Aktuellen Stand der Entwicklung in diesem Bereich. Was muss gemacht 
+ werden\, um eine\nJavaFX-Anwendung auf einem Smartphone zum laufen zu beko
+ mmen und welche Grenzen hat dieser Ansatz für die Entwicklung\nvon mobile
+ n Anwendungen mit JavaFX.</p>\n<p>Einen weiteren Ansatz verfolgt die Firma
+  <a href="http://gluonhq.com/">Gluon</a> zum Erstellen von mobilen Anwendu
+ ngen auf JavaFX.\nEine gemeinsame Code-Basis für IOS- und Android-Anwendu
+ ngen basierend auf JavaFX. Was derzeit damit möglich ist wird\nebenfalls 
+ Inhalt des Vortrages sein.</p>\n<p>Abschließend wird unser Ansatz für mo
+ bile Anwendungen in JavaFX vorgestellt. Mittels des MVVM-Pattern in Kombin
+ ation mit\nJavaFX-Ports. Vorgestellt wird der aktuelle Entwicklungsstand m
+ it einer offenen Diskussion über Vor- und Nachteile des\nAnsatzes.</p>\n<
+ p><strong>Materialien:</strong></p>\n<ul>\n<li><a href="/downloads/juggr_j
+ avafx_on_mobile.pdf">Vortragsfolien</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:0587de17-f8eb-4167-aaea-c7487a1c1ccf
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20150930T210000
+DTEND:20151001T000000
+SUMMARY:Vortrag "Guava" - Steffen Seidler
+LOCATION:DSER\nElisabethstraße 42/43\,02826 Görlitz
+DESCRIPTION:Das Framework Guava wurde von Google geschaffen\, um eine einh
+ eitliche und einfach zu\nhandhabende Lösung für verschiedenste alltägli
+ ch…
+X-ALT-DESC;FMTTYPE=text/html:<p>Das Framework <a href="https://github.com/
+ google/guava">Guava</a> wurde von Google geschaffen\, um eine einheitliche
+  und einfach zu\nhandhabende Lösung für verschiedenste alltäglich wiede
+ rkehrende Probleme anzubieten. Insbesondere für die Codebasis von\nGoogle
+  selbst. Dabei wurde großen Wert darauf gelegt ältere JDK-Versionen 5+ (
+ ab Release 12 inzwischen JDK 6+) zu\nunterstützen. Damit ist Guava ein Fr
+ amework\, mit dem sich jeder JAVA-Entwickler näher beschäftigen sollte\,
+  um sich die\neigene Arbeit zu erleichtern.</p>\n<p>Auch wenn inzwischen e
+ inige Features mit JDK 7 (wie bspw. die Klasse Objects) und JDK 8 (wie bsp
+ w. Funktionale Ansätze)\nin ähnlicher Form inzwischen auch direkt in JAV
+ A nutzbar sind\, lohnt die Verwendung von Guava immernoch. Zudem ist Guava
+ \nnicht als Konkurrenz zu Lösungen des JDKs oder ähnlicher Libaries wie 
+ Apache Commons zu verstehen\, sondern als\nsymbiotische Ergänzung.</p>\n<
+ p>Zu einer solchen Ergänzung zählt definitiv die umfangreiche Erweiterun
+ g der JDK-Collection-Vielfalt um viele weitere\nnützliche Typen zu den Vo
+ zügen von Guava. Insbesondere kann der spezielle Ansatz bei deren Verarbe
+ itung immernoch\nVorteile gegenüber Streams bieten. Andersherum lassen vi
+ ele Dinge in Guava mit Lambdas inzwischen noch komfortabler\nbedienen.</p>
+ \n<p>In dem Vortrag wird ein Überblick über die zahlreichen Möglichkeit
+ en von Guava gegeben. Auch unter dem Gesichtspunkt der\nneuen Möglichkeit
+ en unter JDK 7/8. Die genannte Collection-Erweiterung ist dabei nur ein Br
+ uchteil dessen was Guava\nbietet. (Object- und StringUtils\, Orderings\, C
+ omparisons\, Preconditions\, ExceptionHandler\, neue Collections und ihr\n
+ Handling\, Funktionale Ansätze\, Ranges\, ReflectionUtils)</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:6b055702-4995-4482-8543-364196696d35
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20150729T210000
+DTEND:20150730T000000
+SUMMARY:Vortrag "Regelbasierte Systeme mit JBoss Drools" - Paul Weinhold
+LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
+DESCRIPTION:Drools ist ein Business-Rules-Mangement-System\, mit dem sich 
+ Regelbasierte Systeme entwickeln lassen. Dazu stellt es\neine Domainen…
+X-ALT-DESC;FMTTYPE=text/html:<p>Drools ist ein Business-Rules-Mangement-Sy
+ stem\, mit dem sich Regelbasierte Systeme entwickeln lassen. Dazu stellt e
+ s\neine Domainen-Spezifische Sprache zur Verfügung\, mit der Regeln defin
+ iert und anschließend durch die Rule-Engine\nverarbeitet werden können.<
+ /p>\n<p>Paul Weinhold ist Student im Masterstudiengang Informatik der Hoch
+ schule Zittau/Görlitz. Daneben arbeitet er bei der\nDB-Netz AG und setzt 
+ dort u.a. auch Drools ein. Im Vortrag stellt er die Technik vor und gibt e
+ inen Einblick anhand\npraktischer Beispiele.</p>\n<p><strong>Materialien:<
+ /strong></p>\n<ul>\n<li><a href="/downloads/juggr_drools.pdf">Vortragsfoli
+ en</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:09b5e3bb-7f8d-417b-83dc-4c7df7ac45ff
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20150527T210000
+DTEND:20150528T000000
+SUMMARY:Vortrag "Fortgeschrittene Android-Entwicklung" - Max Wielsch
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:Aufbauend auf dem letzten Beitrag der Java User Group Görlitz
+ \n(Einstieg in die Android-App-Entwicklung) soll das Beispiel der Notiz\nA
+ pp live…
+X-ALT-DESC;FMTTYPE=text/html:<p>Aufbauend auf dem letzten Beitrag der Java
+  User Group Görlitz\n(<a href="http://www.jug-gr.de/2015/03/25/android.ht
+ ml">Einstieg in die Android-App-Entwicklung</a>) soll das Beispiel der Not
+ iz\nApp live weiterentwickelt werden\, um Konzepte und deren Umsetzung fü
+ r die fortgeschrittene Android-Programmierung zu\nzeigen.</p>\n<p>Mit dem 
+ Ziel\, eine testbare und entkoppelte Applikationsarchitektur zu erreichen 
+ wird der Einsatz geeigneter Patterns\nund Frameworks diskutiert.</p>\n<p><
+ strong>Materialien:</strong></p>\n<ul>\n<li><a href="/downloads/juggr_adva
+ nced_android.pdf">Vortragsfolien</a></li>\n<li><a href="https://github.com
+ /muxmax/JugGrNotesApp">Beispiel-Code</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:947e4cd3-bf06-4d76-8ac0-fcb6435efc22
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20150325T200000
+DTEND:20150325T230000
+SUMMARY:Vortrag "Einstieg in die Android-App-Entwicklung" - Max Wielsch
+LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
+DESCRIPTION:Smartphones und Apps sind für viele Menschen mittlerweile une
+ ntbehrlich. Nahezu für jeden Aspekt des Alltags und auch in\nder Geschäf
+ tswelt…
+X-ALT-DESC;FMTTYPE=text/html:<p>Smartphones und Apps sind für viele Mensc
+ hen mittlerweile unentbehrlich. Nahezu für jeden Aspekt des Alltags und a
+ uch in\nder Geschäftswelt gibt es Anwendungen. Bei diesem JUG-Treffen wer
+ den wir in einer Praxisveranstaltung den Start eines\nApp-Entwicklungsproj
+ ekts mit Android betrachten. Die Veranstaltung richtet sich vor allem auch
+  an\nProgrammier-Einsteiger\, die einen Einblick in die Android-App-Entwic
+ klung bekommen wollen.</p>\n<hr>\n<p>These days mobile phones and apps are
+  indispensable to people. Nearly for every aspect of life and also in the 
+ business\nworld there are applications. In this JUG meeting we will take a
+  look at how to start an app development project in\npractice. The session
+  is especially addressed to programming beginners who like to get started 
+ with Android app\ndevelopment.</p>\n<p><strong>Materialien:</strong></p>\n
+ <ul>\n<li><a href="/downloads/juggr_android_programming.pdf">Vortragsfolie
+ n</a></li>\n<li><a href="https://github.com/muxmax/JugGrNotesApp">Beispiel
+ -Code</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:08c6a5ca-bb6a-423f-8cd4-6dafc2b4ea5f
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20150128T200000
+DTEND:20150128T230000
+SUMMARY:Vortrag "MoSKito - Monitoring Framework" - Steffen Seidler
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:Es wird immer wichtiger WebAnwendungen überwachen zu können\
+ , um Probleme frühzeitig zu erkennen und Gegenmaßnahmen\neinleiten zu k
+ önnen…
+X-ALT-DESC;FMTTYPE=text/html:<p>Es wird immer wichtiger WebAnwendungen üb
+ erwachen zu können\, um Probleme frühzeitig zu erkennen und Gegenmaßnah
+ men\neinleiten zu können. Hierfür wurde MoSKito geschaffen. Ursprünglic
+ h wurde es für Parship entwickelt\, aber inzwischen ist\nes in ein eigens
+ tändiges Projekt auf GitHub ausgegliedert und steht nun allen Interessier
+ ten zur Verfügung.</p>\n<p>In dem Vortrag werden wir die einzelnen Kompon
+ enten der MoSKito-Toolbox anhand einer simplen Beispiel-Anwendung\nvorstel
+ len. Dazu zählen die Datenerhebung für das Monitoring technischer Auffä
+ lligkeiten\, die Visualisierung über eine\nintegriertes oder standalone W
+ ebUI\, zentrale Persistierung zur späteren Auswertung\, sowie ein Kontrol
+ lzentrum\, welches\ndurchaus auch als Wall-Monitor eignet.</p>\n<p>Desweit
+ eren werden wir die einfache Integration\, sowie Möglichkeiten zur Erweit
+ erung näher beleuchten. Denn in MoSKito\nkann man nicht nur Informationen
+  technischer Natur sammeln\, die für Entwickler relevant sind (Verarbeitu
+ ngszeiten\,\nSystemlast\, etc.)\, sondern auch Daten mit Businessvalue (Ve
+ rkaufszahlen\, etc.). So kann MoSKito auch für Management und\nMarketing 
+ interessant sein.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:89ef4731-67a7-4689-afdd-84fd5bb6757d
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20141203T200000
+DTEND:20141203T230000
+SUMMARY:Vortrag "Model-View-*: UI-Design-Patterns im Detail" - Manuel Mauk
+ y
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:Die meisten Softwareentwickler haben irgendwann einmal Model-V
+ iew-Controller als Design-Pattern gelernt. In der\nPraxis existieren aber 
+ viele…
+X-ALT-DESC;FMTTYPE=text/html:<p>Die meisten Softwareentwickler haben irgen
+ dwann einmal <strong>Model-View-Controller</strong> als Design-Pattern gel
+ ernt. In der\nPraxis existieren aber viele verschiedene Ansichten darüber
+ \, was MVC eigentlich genau bedeutet und wie es implementiert\nwird. Darü
+ ber hinaus haben sich mit der Zeit auch neue\, eigenständige UI-Design-Pa
+ tterns entwickelt\, die aber oft noch\ngewissen Gemeinsamkeiten mit dem kl
+ assischen MVC aufweisen. Dazu gehören z.B. <strong>Model-View-Presenter</
+ strong>\,\n<strong>Presentation-Model</strong> und <strong>Model-View-View
+ Model</strong>.</p>\n<p>In diesem Vortrag soll zum einen ein Überblick ü
+ ber UI-Design-Patterns gegeben werden\, zum anderen aber auch ein\ntiefere
+ r Eindruck über die tatsächliche Umsetzung und der praktischen Konsequen
+ zen dieser Patterns gegeben werden. Dabei\nsollen weniger UML-Diagramme al
+ s viel mehr Code-Beispiele im Vordergrund stehen. Es wird dabei auch auf A
+ spekte wie\n<em>Testbarkeit</em>\, <em>Koppelung</em> und <em>Wiederverwen
+ dung</em> eingegangen.</p>\n<p>Der Vortragende ist Softwareentwickler bei 
+ der Saxonia Systems AG und ist dort vor allem im UI-Bereich tätig. Er hat
+ \nErfahrungen gesammelt mit <em>JavaServer-Faces</em>\, <em>HTML(5)+JavaSc
+ ript</em> sowie im Bereich Desktop-Oberflächen mit JavaFX.\nAktuell arbei
+ tet er als Hauptentwickler an dem OpenSource-Framework <a href="https://gi
+ thub.com/sialcasa/mvvmFX">MvvmFX</a>\,\nwelches Komponenten zur Umsetzung 
+ des Design-Patterns <em>Model-View-ViewModel</em> für JavaFX bereitstellt
+ .</p>\n<ul>\n<li><a href="https://github.com/lestard/juggr_model-view-star
+ /raw/master/jug_slides.pdf">Vortragsfolien</a></li>\n<li><a href="https://
+ github.com/lestard/juggr_model-view-star">Code auf Github</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:f3ebc51d-409b-479e-81b0-c913c4b9a179
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20141029T200000
+DTEND:20141029T230000
+SUMMARY:Vortrag "Infrastructure as Code" - Bruno Devic
+LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
+DESCRIPTION:Infrastructure as Code is one of the important cornerstones of
+  continuous delivery. The concept that infrastructure\nshould be treated a
+ s…
+X-ALT-DESC;FMTTYPE=text/html:<p>Infrastructure as Code is one of the impor
+ tant cornerstones of continuous delivery. The concept that infrastructure\
+ nshould be treated as code is really powerful. Server configuration\, serv
+ ices\, installed packages\, relationships with\nother servers etc...should
+  be modeled as code to be automated and have a predictable outcome\, remov
+ ing manual steps\nprone to errors and decreasing the cycle time.</p>\n<p>S
+ pinning up a new virtual environment or a new version of the environment t
+ hen becomes a matter of executing a script\nthat can create and provision 
+ an image or set of images – from the barebone operating system to the co
+ mplete application\nstack installed and configured.</p>\n<p>This concept i
+ s increasingly important today when the number of environments and their i
+ nstances has gone up by orders\nof magnitudes and the release frequency ha
+ s moved from monthly to weekly or even daily releases.</p>\n<p>In this ses
+ sion we will showcase a few popular tools used to implement this concept: 
+ <code>Vagrant</code>\, <code>Puppet</code> and <code>Docker</code>.</p>\n<
+ p><strong>Materialien:</strong></p>\n<ul>\n<li><a href="/downloads/infrast
+ ructure_as_code/slides-infrastructure-as-code.html">Vortragsfolien</a></li
+ >\n<li><a href="/downloads/infrastructure_as_code/infrastructure_as_code_d
+ emo.zip">Demos</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:4ed8a48e-eef0-4b60-a1c1-6f153b6d8a9e
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20140924T210000
+DTEND:20140925T000000
+SUMMARY:Vortrag "Solr - Eine Enterprise-Suchmaschine" - Steffen Seidler
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:Solr ist ein mächtiges Werkzeug um strukturierte Dokumente du
+ rchsuchbar zu machen. Solr kann als ein Aufsatz für Apache\nLucene versta
+ nden…
+X-ALT-DESC;FMTTYPE=text/html:<p>Solr ist ein mächtiges Werkzeug um strukt
+ urierte Dokumente durchsuchbar zu machen. Solr kann als ein Aufsatz für A
+ pache\nLucene verstanden werden und wartet mit zahlreichen Erweiterungen a
+ uf.</p>\n<p>Unter Anderem kann Solr in einem Apache Tomcat laufen und komm
+ uniziert über HTTP. Dabei können nicht nur mittels HTTP\nGET Suchanfrage
+ n auf den indizierten Datenbestand ausgelöst werden\, sondern mittels HTT
+ P POST auch neue Dokumente\nhinzugefügt werden.</p>\n<p>Dabei können ver
+ schiedene Datequellen (Filesystem\, Datenbanken\, REST-Services\, ...) ang
+ ebunden werden\, um den\nDatenbestand des Suchindex zu füllen. Dabei best
+ eht ein großer Vorteil bei den vielen Erweiterung bei der Indizierung\nde
+ r Daten. Z.B. Silbentrennung\, Wortstammbildung\, ...</p>\n<p>Zur eigentli
+ chen Suche existiert eine leicht zu erlernende Syntax. Insbesondere lassen
+  sich mehrere Felder der\nstrukturierten Dokumente gleichzeitig abfragen u
+ nd durch ein Ranking können die Suchergebnisse noch weiter verfeinert\nwe
+ rden.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:df2bf05e-bff6-4076-95a3-db64fa2ed7aa
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20140730T210000
+DTEND:20140731T000000
+SUMMARY:Vortrag "Java8 - Streams und Lambdas" - Paul Weinhold
+LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
+DESCRIPTION:Seit April ist die neue Version 8 von Java offiziell verfügba
+ r. Dieses Update ist sicherlich das bedeutendste Update\nseit Java 5\, da
+ …
+X-ALT-DESC;FMTTYPE=text/html:<p>Seit April ist die neue Version 8 von Java
+  offiziell verfügbar. Dieses Update ist sicherlich das bedeutendste Updat
+ e\nseit Java 5\, da zahlreiche interessante Neuerungen Einzug in die Sprac
+ he und das JDK gehalten haben.</p>\n<p>Die am meisten diskutierte Neuerung
+  stellt sicherlich die Einführung von Lambda-Ausdrücken dar\, mit denen 
+ Java nun auch\nfunktionale Eigenschaften bekommt.</p>\n<p>Im Vortrag wird 
+ <strong>Paul Weinhold</strong> die praktische Anwendung von Lambdas vorste
+ llen und dabei vor allem auch auf die neue\nStreams-API von Java eingehen\
+ , da diese ganz besonders von Lambda-Ausdrücken profitiert.</p>\n<p>Paul 
+ Weinhold ist Master-Student im Studiengang Informatik an der Hochschule in
+  Görlitz. Daneben arbeitet er als\nWerksstudent bei der Deutschen Bahn AG
+  und setzt dort seit einiger Zeit aktiv die neuen Möglichkeiten von Java 
+ 8 ein.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href="/down
+ loads/juggr_java8.pdf">Vortragsfolien</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:48bf5064-192b-42e9-ad0d-6b13638e16e3
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20140528T210000
+DTEND:20140529T000000
+SUMMARY:Vortrag "Hazelcast - Synchronisation von In-Memory-Daten" - Steffe
+ n Seidler
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:Hazelcast ist ein vielseitiges Framework zur einfachen Synchro
+ nization von Daten\, die sich In-Memory innerhalb einer\nApplikation befin
+ den…
+X-ALT-DESC;FMTTYPE=text/html:<p>Hazelcast ist ein vielseitiges Framework z
+ ur einfachen Synchronization von Daten\, die sich In-Memory innerhalb eine
+ r\nApplikation befinden. Damit ist es für Anwendungen gedacht\, bei denen
+  eine Synchronization durch eine "externe"\nTechnologie wie Datenbanken zu
+  einem erheblichen Performanceverlust führt.</p>\n<p>Durch die Verteilung
+  der Daten auf mehrere Knoten ist es ein gutes Mittel zur horizontalen Ska
+ lierbarkeit bei\nSynchronität der Daten innerhalb des Clusters. Zusätzli
+ ch lässt sich die Verfügbarkeit/Ausfallsicherheit durch die\nHinzunahme 
+ weiterer (Backup-)Knoten steigern.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:9523aeb8-cb2b-44d7-a54b-2bf467adde01
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20140402T210000
+DTEND:20140403T000000
+SUMMARY:Vortrag "Besser lesbare Unittests mit AssertJ" - Manuel Mauky
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:Damit Testgetriebene Entwicklung in der Praxis funktionieren k
+ ann\, müssen sich Tests möglichst einfach und trotzdem\nausdrucksstark s
+ chreiben…
+X-ALT-DESC;FMTTYPE=text/html:<p>Damit Testgetriebene Entwicklung in der Pr
+ axis funktionieren kann\, müssen sich Tests möglichst einfach und trotzd
+ em\nausdrucksstark schreiben lassen und gut lesbar sein. Auch die (Neben-)
+ Aufgabe von Unittests\, eine lebendige\nEntwicklerdokumentation zu bilden\
+ , kann nur erfüllt werden\, wenn die Tests gut lesbar sind.</p>\n<p>Die k
+ lassischen Assertions von JUnit lassen hier teilweise zu wünschen übrig.
+  Neben <code>assertTrue</code> und <code>assertNotNull</code>\nbestehen vi
+ ele Unittests nur aus unzähligen <code>assertEquals</code>-Anweisungen\, 
+ was in der Regel sehr weit weg von natürlicher\nSprache ist. Diese Lücke
+  versucht das <strong>Hamcrest</strong>-Projekt zu schließen\, welches mi
+ ttlerweile teilweise in JUnit\neingeflossen ist. Hamcrest ist jedoch ebenf
+ alls nicht unproblematisch und bietet durch seinen Aufbau aus statischen\n
+ Methoden in der Praxis zahlreiche Schwächen und Nachteile.</p>\n<p>Einen 
+ moderneren Ansatz verfolgt das Framework <strong>AssertJ</strong> bzw. <st
+ rong>FEST-Assert</strong>. Auf den ersten Blick sehen die\nAssertions dene
+ n von Hamcrest zwar sehr ähnlich\, jedoch wurde für die Implementierung 
+ statt statischer Methoden der\nmodernere Ansatz einer Fluent-API gewählt\
+ , wodurch sich einige Vorteile ergeben\, wie z.B. bessere IDE-Integration.
+ </p>\n<p>Im Vortrag wird das eigentliche Problem und die bisherige Lösung
+  mit Hamcrest gezeigt. Dem wird anschließend das\nFramework <strong>Asser
+ tJ</strong> gegenüber gestellt. Anhand von zahlreichen Core-Beispielen so
+ ll gezeigt werden\, wie einfach sich\nlesbare Unittests formulieren lassen
+ \, wenn man die richtigen Werkzeuge zur Hand hat. Anschließend wird ebenf
+ alls darauf\neingegangen\, wie mit AssertJ eigene\, domänenspezifische As
+ sertions erstellt werden können. Damit kann sich der Anwender\nseine eige
+ nen Werkzeuge erstellen\, um in seiner Domäne gut lesbare und ausdrucksst
+ arke Unittests schreiben zu können.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:67942d7f-cfc5-4665-8aca-4842f67974fe
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20140129T200000
+DTEND:20140129T230000
+SUMMARY:Vortrag "Tool-Integration im Softwareentwicklungsprozess" - Max Wi
+ elsch
+LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
+DESCRIPTION:Tool-Integration im Softwareentwicklungsprozess ist kein neues
+  Thema. Dennoch gibt es immer noch Bedarf\, die Integration\nvon Tools und
+ …
+X-ALT-DESC;FMTTYPE=text/html:<p>Tool-Integration im Softwareentwicklungspr
+ ozess ist kein neues Thema. Dennoch gibt es immer noch Bedarf\, die Integr
+ ation\nvon Tools und Systemen zu verbessern. Je nach konkretem Entwicklung
+ svorgehen bzw. -prozess werden weitere ergänzende\nFunktionalitäten und 
+ Daten benötigt\, die wenige Tools allein nicht liefern können. Das heiß
+ t\, es ist notwendig\,\nIntegration zwischen Tools und Systemen verschiede
+ ner Hersteller zu schaffen\, sodass diese so verwendet werden können\,\nw
+ ie es nötig ist. Ziel ist dabei\, Daten und Funktionalitäten unabhängig
+  von konkreten Tools oder Systemen dynamisch\nverwenden zu können. Neue u
+ nd bestehende Tools und kleine Skripte sollen genau an den Entwicklungspro
+ zess und die\nMenschen in diesem Prozess anpassbar sein. Einmal entwickelt
+ e Funktionalität soll frei wiederverwendbar sein. Unter\nanderem für die
+ se Ziele wurde OpenDIP\, eine offene Platform für die Integration im Entw
+ icklungsprozess\, entworfen. Über\ndie Konzepte und die Realisierung dies
+ er Platform wurden zwei Masterarbeiten und ein Paper\n<a href="http://arxi
+ v.org/find/all/1/all:+AND+Max+Wielsch/0/1/0/all/0/1">http://arxiv.org/find
+ /all/1/all:+AND+Max+Wielsch/0/1/0/all/0/1</a>\ngeschrieben. Im Vortrag wir
+ d auf die Motivation und die Verwendung der Platform eingangen\, wobei die
+  Architektur\nausgehend von einem Fallbeispiel erläutert wird.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:61f985ba-f336-4412-9b44-317e341a3777
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20131127T200000
+DTEND:20131127T230000
+SUMMARY:Vortrag "Performance-Optimierung im Web" - Maik Wagner
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:Google und Microsoft haben Studien zum Thema "Ladezeiten von W
+ ebseiten" durchgeführt. Kurzgefasst: Schnelle Websites\nhaben eine besser
+ e User…
+X-ALT-DESC;FMTTYPE=text/html:<p>Google und Microsoft haben Studien zum The
+ ma "Ladezeiten von Webseiten" durchgeführt. Kurzgefasst: Schnelle Website
+ s\nhaben eine bessere User Experience\, Nutzer bleiben länger\, und auch 
+ die Konversionsraten sind besser. Ab einer halben\nSekunde gingen die Ums
+ ätze pro Nutzer messbar zurück\, ab 2 Sekunden waren es über 4%. Es loh
+ nt sich also\, in die\nPerformance einer Webanwendung zu investieren.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:8a7d6673-e3e3-4850-969f-43ba99e0cfc5
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20131030T200000
+DTEND:20131030T230000
+SUMMARY:Vortrag "Modernes App-Design am Beispiel von Android" - Max Wielsc
+ h
+LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
+DESCRIPTION:Die Android-Plattform hat sich in den letzten 2 Jahren sehr st
+ ark weiterentwickelt. Sie wurde nicht nur um\nFunktionalitäten erweitert
+ …
+X-ALT-DESC;FMTTYPE=text/html:<p>Die Android-Plattform hat sich in den letz
+ ten 2 Jahren sehr stark weiterentwickelt. Sie wurde nicht nur um\nFunktion
+ alitäten erweitert\, sondern hat seit der Android-Version 4.0 eine attrak
+ tive und sehr gut dokumentierte\nDesign-Sprache erhalten. Die Bedeutung ei
+ nes konsistenten und funktionalen Designs ist damit ein kritischer\nErfolg
+ sfaktor für eine App. Dies ist die Motivation sich intensiver mit dem The
+ ma UI und UX-Design auseinandersetzen. In\neinem Vortrag wird dies zwar au
+ f die Entwicklung von Android-Apps bezogen\, jedoch werden auch allgemeine
+  Konzepte\nvorgestellt\, die auf das App-Design plattformübergreifend anw
+ endbar sind.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:a6ff6520-0974-4342-a78a-34a6e76bfd5c
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20130731T210000
+DTEND:20130801T000000
+SUMMARY:Vortrag "Persona - Werkzeug für die GUI-Entwicklung" - Marlene Kn
+ oche
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:In diesem Vortrag von Marlene Knoche geht es um Usability\, ge
+ nauer um so genannte Persona. Personas sind Modelle\nvon Usern. Sie…
+X-ALT-DESC;FMTTYPE=text/html:<p>In diesem Vortrag von <strong>Marlene Knoc
+ he</strong> geht es um Usability\, genauer um so genannte <strong>Persona<
+ /strong>. Personas sind Modelle\nvon Usern. Sie personifizieren eine besti
+ mmte (Ziel-)Gruppe von Benutzern einer Software. Ziel ist es\, Entwickler 
+ und\n(Usability-)Tester in die Lage zuversetzen\, sich besser in Nutzer hi
+ nein denken zu können.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<
+ li><a href="/downloads/juggr_personas.pdf">Vortragsfolien</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:ad259fee-59aa-4bf8-b1bf-9176365265b1
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20130529T210000
+DTEND:20130530T000000
+SUMMARY:Vortrag "JRuby - Ruby auf der Java VM" - Sebastian Schmeck
+LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
+DESCRIPTION:Sebastian Schmeck von der Saxonia Systems AG aus Dresden wird 
+ in diesem Vortrag die Programmiersprache Ruby\nvorstellen und anschließen
+ d…
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>Sebastian Schmeck</strong> von der
+  Saxonia Systems AG aus Dresden wird in diesem Vortrag die Programmierspra
+ che <strong>Ruby</strong>\nvorstellen und anschließend genauer auf die Im
+ plementierung <strong>JRuby</strong> eingehen. Damit lassen sich Ruby-Prog
+ ramme auf der\nJava VM ausführen\, was einige konkrete Vorteile gegenübe
+ r der Standard-Implementierung bietet.</p>\n<p>Ausserdem wird er zeigen\, 
+ wie die Integration von Java und Ruby in beiden Richtungen funktioniert\, 
+ d.h. wie man\nRuby-Code in Java benutzt und wie von Ruby aus auf Java-Klas
+ sen zugegriffen werden kann.</p>\n<p><strong>Materialien:</strong></p>\n<u
+ l>\n<li><a href="/downloads/juggr_jruby.pdf">Vortragsfolien</a></li>\n</ul
+ >
+END:VEVENT
+BEGIN:VEVENT
+UID:280684f5-5bec-4746-a8c1-8b2ac91d1286
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20130327T200000
+DTEND:20130327T230000
+SUMMARY:Vortrag "Lego NXT-Roboter mit Java programmieren" - Erik Jähne
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:Dieses Mal dreht sich alles um Roboter. Erik Jähne beschäfti
+ gt sich in seinem Studium mit NXT-Robotern von Lego\nund wird in seinem Vo
+ rtrag…
+X-ALT-DESC;FMTTYPE=text/html:<p>Dieses Mal dreht sich alles um Roboter. <s
+ trong>Erik Jähne</strong> beschäftigt sich in seinem Studium mit <strong
+ >NXT-Robotern von Lego</strong>\nund wird in seinem Vortrag die Programmie
+ rung dieser Roboter mit Java vorstellen. Natürlich wird es dabei auch ein
+ e\nLive-Vorführung der Roboter geben.</p>\n<p>Videos:</p>\n<ul>\n<li><a h
+ ref="https://www.youtube.com/watch?v=0dzeTUoiY1k">https://www.youtube.com/
+ watch?v=0dzeTUoiY1k</a></li>\n<li><a href="https://www.youtube.com/watch?v
+ =1oIQh48fBDI">https://www.youtube.com/watch?v=1oIQh48fBDI</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:4289b7c3-1710-4e48-a6ff-fc266677f84b
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20121128T200000
+DTEND:20121128T230000
+SUMMARY:Vortrag "JavaFX 2" - Alexander Casall\, Michael Thiele
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:Als Vortragende konnten wir Alexander Casall und Michael Thiel
+ e\, zwei Mittarbeiter der Saxonia Systems AG aus Dresden\ngewinnen\, die z
+ um…
+X-ALT-DESC;FMTTYPE=text/html:<p>Als Vortragende konnten wir Alexander Casa
+ ll und Michael Thiele\, zwei Mittarbeiter der Saxonia Systems AG aus Dresd
+ en\ngewinnen\, die zum Thema <strong>JavaFX 2</strong> sprechen werden.</p
+ >\n<p>Sie werden über das neue UI-Framework von Oracle berichten\, welche
+ s angetreten ist\, um das etwas angestaubte Swing\nabzulösen und neuen Sc
+ hwung in das Thema Java+Desktop zu bringen. Dabei werden sie speziell auf 
+ die Touch-Fähigkeiten\nvon JavaFX 2 eingehen und diese an einem großen T
+ ouchscreen live vorführen.</p>\n<p><strong>Materialien:</strong></p>\n<ul
+ >\n<li>[Beispielcode]](<a href="https://github.com/sialcasa/jfxusergroup">
+ https://github.com/sialcasa/jfxusergroup</a>)</li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:f0dd96ae-9e84-48cd-b963-76c462b630e3
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20120926T210000
+DTEND:20120927T000000
+SUMMARY:Vortrag "JSR-303 BeanValidation" - Manuel Mauky
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:Manuel Mauky stellt in seinem Vortrag den zu JavaEE 6 gehören
+ den Standard BeanValidation vor. Dabei wird mittels Annotationen im Java-C
+ ode…
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>Manuel Mauky</strong> stellt in se
+ inem Vortrag den zu JavaEE 6 gehörenden Standard <strong>BeanValidation</
+ strong> vor.</p>\n<p>Dabei wird mittels Annotationen im Java-Code bestimmt
+ \, welche Werte für bestimmte Felder valide sind\, z.B. <code>@NotNull</c
+ ode>\nfür einen Wert\, der nicht <code>null</code> sein darf oder <code>@
+ Size(min=1\, max=20)</code> für einen String\, der mindestens 1 und maxim
+ al 10\nZeichen lang sein darf. Ein Validator kann dann anhand dieser Metai
+ nformationen prüfen\, ob der Zustand eines Objekts\nvalide ist oder nicht
+ .</p>\n<p>Im Vortrag wird zunächst allgemein auf das Thema Validierung ei
+ ngegangen und anschließend Beispiele für\nBeanValidation-Annotationen ge
+ zeigt. Ebenfalls behandelt wird\, wie BeanValidation im Frontend mit JavaS
+ erver Faces und\nim Backend mit JPA kombiniert werden kann.</p>\n<p><stron
+ g>Materialien:</strong></p>\n<ul>\n<li><a href="/downloads/juggr_beanvalid
+ ation.pdf">Vortragsfolien</a></li>\n<li><a href="https://github.com/lestar
+ d/juggr_BeanValidation">Beispiel-Code</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:523d82b3-82e5-45d5-b88b-e00d93dd284e
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20120725T210000
+DTEND:20120726T000000
+SUMMARY:Vortrag "Selenium/Webdriver in der Praxis" - Maik Wagner
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:Selenium/webdriver - In Ergänzung zu der Vorstellung von Marc
+ us Döring mit praktischen\nBeispielen von Maik Wagner
+X-ALT-DESC;FMTTYPE=text/html:<p>Selenium/webdriver - In Ergänzung zu der 
+ <a href="/talks/2012-03-28-webtests/">Vorstellung von Marcus Döring</a> m
+ it praktischen\nBeispielen von Maik Wagner</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:923b2b31-cb2f-4942-99df-10ae7b710924
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20120627T210000
+DTEND:20120628T000000
+SUMMARY:Vortrag "GridGain - Parallel Computing und Data Grid Anwendungen" 
+ - Mario Reichel
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:GridGain - ein Java-Framework für Parallel Computing und Data
+  Grid Anwendungen von Mario Reichel
+X-ALT-DESC;FMTTYPE=text/html:<p>GridGain - ein Java-Framework für Paralle
+ l Computing und Data Grid Anwendungen von Mario Reichel</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:ec970e41-216d-4ca8-8b08-5fb94e13d452
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20120530T210000
+DTEND:20120531T000000
+SUMMARY:Vortrag "JMonkeyEngine 3 - 3D-Applikationen in Java" - Hans Markwa
+ rt
+LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
+DESCRIPTION:JMonkeyEngine3 und im Allgemeinen 3D-Applikationen in Java von
+  Hans Markwart
+X-ALT-DESC;FMTTYPE=text/html:<p>JMonkeyEngine3 und im Allgemeinen 3D-Appli
+ kationen in Java von Hans Markwart</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:a85d7a80-2af1-4032-b1d1-e9522b9f5778
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20120425T210000
+DTEND:20120426T000000
+SUMMARY:Vortrag "Maven" - Thomas Storch
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:maven von Thomas Storch Folien Beispiel-Code
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>maven</strong> von Thomas Storch</
+ p>\n<p><a href="/downloads/juggr_maven.pdf">Folien</a></p>\n<p><a href="/d
+ ownloads/code_maven.zip">Beispiel-Code</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:c6636ea7-c9da-47c1-b2de-6dc826cdbe35
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20120328T210000
+DTEND:20120329T000000
+SUMMARY:Vortrag "Webtests mit Selenium" - Marcus Döring
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:Webtests mit Selenium von Marcus Döring
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>Webtests mit Selenium</strong> von
+  Marcus Döring</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:6e85a071-b958-47d6-b04d-4f5f0f6cd568
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20120229T200000
+DTEND:20120229T230000
+SUMMARY:Vortrag "Webentwicklung mit Scala" - Stefan Bradl
+LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
+DESCRIPTION:Webentwicklung mit Scala von Stefan Bradl
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>Webentwicklung mit Scala</strong> 
+ von Stefan Bradl</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:adb6c575-1fc6-4db4-a207-cb947984ed7c
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20120125T200000
+DTEND:20120125T230000
+SUMMARY:Vortrag "Advanced JSF und CDI" - Manuel Mauky
+LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
+DESCRIPTION:Dieser Vortrag baut auf den Vortrag zur "Einführung in JavaSe
+ rver Faces 2" auf. Es werden\nfortgeschrittene Techniken aus dem Bereich J
+ SF…
+X-ALT-DESC;FMTTYPE=text/html:<p>Dieser Vortrag baut auf den Vortrag zur <a
+  href="/talks/2011-11-30-jsf-cdi">"Einführung in JavaServer Faces 2"</a> 
+ auf. Es werden\nfortgeschrittene Techniken aus dem Bereich JSF vorgestellt
+ :</p>\n<ul>\n<li>Navigation mit JSF</li>\n<li>Templates und Wiederverwendu
+ ng von Facelets</li>\n<li>Ajax</li>\n<li>PrimeFaces</li>\n</ul>\n<p>Im Ber
+ eich CDI wird zunächst das Konzept der CDI-Producer beleuchtet\, mit welc
+ hem der Entwickler Einfluss auf die\nDependency Injection nehmen kann. Ans
+ chließend wird das Design Pattern "Observer" mit den Techniken von CDI\ni
+ mplementiert und gezeigt\, wie damit (im Gegensatz zur klassischen Observe
+ r-Implementierung) der Beobachter und die\nbeobachtete Klasse komplett von
+  einander entkoppelt werden können.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:61e32891-54f8-42c4-ab15-6979c739e7c2
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20120104T200000
+DTEND:20120104T230000
+SUMMARY:Vortrag "JPA - Hibernate" - Marko Modsching
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:JPA - Hibernate von Marko Modsching Materialien: Vortragsfolie
+ n Beispiel-Code
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>JPA - Hibernate</strong> von Marko
+  Modsching</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href="/
+ downloads/juggr_orm_hibernate.pdf">Vortragsfolien</a></li>\n<li><a href="/
+ downloads/code_hibernate.zip">Beispiel-Code</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:6b577c47-1a33-4dcb-924b-624d571c6c75
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20111130T200000
+DTEND:20111130T230000
+SUMMARY:Vortrag "JavaServer Faces 2 und CDI" - Manuel Mauky
+LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
+DESCRIPTION:Der Vortrag bietet eine Einführung in JavaServer Faces 2 und 
+ Beleuchtet unter anderem folgende Aspekte: Facelets als Nachfolger von\nJS
+ P…
+X-ALT-DESC;FMTTYPE=text/html:<p>Der Vortrag bietet eine Einführung in <st
+ rong>JavaServer Faces 2</strong> und Beleuchtet unter anderem folgende Asp
+ ekte:</p>\n<ul>\n<li><a href="https://en.wikipedia.org/wiki/Facelets">Face
+ lets</a> als Nachfolger von\n<a href="https://en.wikipedia.org/wiki/JavaSe
+ rver_Pages">JSP</a></li>\n<li>ManagedBeans</li>\n<li>Scopes und Gültigkei
+ tsbereiche</li>\n<li><a href="https://en.wikipedia.org/wiki/Expression_Lan
+ guage">Expression Language</a> (EL)</li>\n<li>JSF-LiveCycle</li>\n</ul>\n<
+ p>Ausserdem wird kurz <strong>Contexts and Dependency Injection</strong> (
+ CDI) vorgestellt und dessen Kombination mit JSF\nhervorgehoben.</p>\n<p>Di
+ ese theoretischen Aspekte werden anschließend anhand eines praktischen Be
+ ispiels inklusive Live-Coding gezeigt und\nerklärt.</p>\n<p><strong>Mater
+ ialien:</strong></p>\n<ul>\n<li><a href="/downloads/jsf_cdi/juggr_jsf_cdi.
+ pdf">Vortragsfolien</a></li>\n<li><a href="https://github.com/juggr/juggr_
+ jsf_cdi">Code auf github</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:82350df7-1064-4d46-ad75-05c94c43e101
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20111026T210000
+DTEND:20111027T000000
+SUMMARY:Vortrag "Android" - Max Wielsch
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:Mit einem Vortrag und der Programmierung einer Biepsiel-App f
+ ür Notitzen führte Max Wielsch in die\nAndroid-Programmierung ein. Im Vo
+ rtrag…
+X-ALT-DESC;FMTTYPE=text/html:<p>Mit einem Vortrag und der Programmierung e
+ iner Biepsiel-App für Notitzen führte Max Wielsch in die\n<strong>Androi
+ d-Programmierung</strong> ein. Im Vortrag ging es zunächst um die Motivat
+ ion\, eine App für die Android-Plattform zu\nentwickeln. Darauffolgend wu
+ rden die grundlegeneden Konzepte und Systemmerkmale erläutert. Nach der T
+ heorie folgte die\nPraxis. Max Wielsch programmierte Schritt für Schritte
+  eine "kleine" Notitz-App wobei die theoretischen Konzepte in der\nPraxis 
+ erläutert wurden.</p>\n<p>Die Präsentation und das Beispielprojekt könn
+ en auf seinem\n<a href="http://max-wielsch.blogspot.de/2011/10/android-der
+ -vortrag-in-der-java-user.html">Blog</a> heruntergeladen werden.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:27370fa6-7106-42bc-b333-03f8156a1095
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20110928T210000
+DTEND:20110929T000000
+SUMMARY:Vortrag "JDOM" - Mark Ziener
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:JDOM- Einlesen\, Verändern und Erzeugen von XML-Dokumenten (M
+ ark Ziener)
+X-ALT-DESC;FMTTYPE=text/html:<p>JDOM- Einlesen\, Verändern und Erzeugen v
+ on XML-Dokumenten (Mark Ziener)</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:9babb2c0-3a43-4c7d-87d7-1979c36f655b
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20110928T210000
+DTEND:20110929T000000
+SUMMARY:Vortrag "Single Sign-On mit JAAS und JGSS" - Mario Reichel
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:Vom Single Sign-On zum sicheren Kanal - Authentifizierung und 
+ Autorisierung mit JAAS und JGSS (Mario Reichel)
+X-ALT-DESC;FMTTYPE=text/html:<p>Vom Single Sign-On zum sicheren Kanal - Au
+ thentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:930df95a-c1e7-480e-83df-154b27a659ef
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20110831T210000
+DTEND:20110901T000000
+SUMMARY:Vortrag "Testen - Patterns und Best Practices" - Marko Modsching
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:Das Thema wird diesmal Testen sein. Marko Modsching wird Testp
+ atterns und Best Practices vorstellen
+X-ALT-DESC;FMTTYPE=text/html:<p>Das Thema wird diesmal Testen sein. Marko 
+ Modsching wird Testpatterns und Best Practices vorstellen</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:fe726196-2762-4b9f-bc3a-c850bb04f02a
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20110727T210000
+DTEND:20110728T000000
+SUMMARY:Vortrag "Scala" - Stefan Bradl
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:Scala - Vorstellung der Sprache\, Demo und das Testen (Stefan 
+ Bradl) Materialien: Vortragsfolien Beispiel-Code
+X-ALT-DESC;FMTTYPE=text/html:<p>Scala - Vorstellung der Sprache\, Demo und
+  das Testen (Stefan Bradl)</p>\n<p><strong>Materialien:</strong></p>\n<ul>
+ \n<li><a href="/downloads/juggr_scala.pdf">Vortragsfolien</a></li>\n<li><a
+  href="/downloads/code_scala.zip">Beispiel-Code</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:3f2ce4b5-f196-4a63-923a-89ee7efea8cd
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20110727T210000
+DTEND:20110728T000000
+SUMMARY:Vortrag "TestNG" - Marcus Döring
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:TestNG (Marcus Döring)
+X-ALT-DESC;FMTTYPE=text/html:<p>TestNG (Marcus Döring)</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:f085e0f7-d181-499a-893e-7ef45ebfa704
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20110629T210000
+DTEND:20110630T000000
+SUMMARY:Vortrag "JavaEE und JBoss" - Michael Förster
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:Diesmal stellt Michael Förster Java EE vor. Es wird sowohl Ei
+ nblicke in Theorie\, wie auch wieder praktische Beispiele\ngeben.
+X-ALT-DESC;FMTTYPE=text/html:<p>Diesmal stellt Michael Förster Java EE vo
+ r. Es wird sowohl Einblicke in Theorie\, wie auch wieder praktische Beispi
+ ele\ngeben.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:06b9d161-ee9a-455b-bf7d-98c1431c5551
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20110527T210000
+DTEND:20110528T000000
+SUMMARY:Vortrag "Google Guice" - Robert Wirbs
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:Google Guice - Dependency Injection (DI) und Aspect-Orientiert
+ e Programmierung (AOP) von Robert Wirbs
+X-ALT-DESC;FMTTYPE=text/html:<p>Google Guice - Dependency Injection (DI) u
+ nd Aspect-Orientierte Programmierung (AOP) von Robert Wirbs</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:858f75b8-48b2-4d2b-b92b-7fc53b4def98
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20110427T210000
+DTEND:20110428T000000
+SUMMARY:Vortrag "GWT - Google Web Toolkit" - Ingo Körner
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:GWT - Google Web Toolkit (Ingo Körner)
+X-ALT-DESC;FMTTYPE=text/html:<p>GWT - Google Web Toolkit (Ingo Körner)</p
+ >
+END:VEVENT
+BEGIN:VEVENT
+UID:ff9884d7-8230-4f21-94ef-4438f0de63fd
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20110427T210000
+DTEND:20110428T000000
+SUMMARY:Vortrag "OSGi mit SpringDM" - Manuel Mauky
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:Die OSGi beschreibt eine spezifikation\, auf deren Basis Softw
+ are Modular entwickelt werden kann. Die einzelnen Module\nsind in sich…
+X-ALT-DESC;FMTTYPE=text/html:<p>Die OSGi beschreibt eine spezifikation\, a
+ uf deren Basis Software Modular entwickelt werden kann. Die einzelnen Modu
+ le\nsind in sich geschlossene Einheiten mit einem klaren Interface\, welch
+ es einerseits ihre angebotene Funktionalität inf\nForm von Services besch
+ reibt und andererseits die Abhängigkeiten auf Services anderer Module ent
+ hält.</p>\n<p>Spring-DM (DM steht für Dynamic Modules) ist eine auf OSGi
+  basierende Plattform\, die OSGi mit den Vorteilen von Spring\,\nallen vor
+ an Dependency Injection\, verbindet.</p>\n<p>Im Vortrag wird neben den the
+ oretischen Grundlagen vor allem an praktischen Beispielen inklusive Live-C
+ oding gezeigt\,\nwie mit Spring-DM und OSGi lose gekoppelte Module erstell
+ t und diese dynamisch zur Laufzeit getauscht werden können.</p>\n<p><stro
+ ng>Materialien:</strong></p>\n<ul>\n<li><a href="/downloads/juggr_osgi_spr
+ ing_dm.pdf">Vortragsfolien</a></li>\n</ul>
+END:VEVENT
+BEGIN:VEVENT
+UID:1b1e2087-f5e9-4459-98c0-83931a4a24a7
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20110322T200000
+DTEND:20110322T230000
+SUMMARY:Vortrag "EasyMock" - Richard Hauswald
+LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
+DESCRIPTION:EasyMock - Was ist ein Mock?\, Warum sollte ich mocken? Was is
+ t EasyMock? Wie kann ich es\nbenutzen? All diese Fragen werden in der…
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="http://easymock.org/">EasyMock</a
+ > - Was ist ein Mock?\, Warum sollte ich mocken? Was ist EasyMock? Wie kan
+ n ich es\nbenutzen? All diese Fragen werden in der Präsentation beantwort
+ et.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:48f71078-975d-41d1-b8b8-2253ff8044fa
+SEQUENCE:0
+DTSTAMP:20230812T075248
+DTSTART:20110322T200000
+DTEND:20110322T230000
+SUMMARY:Vortrag "Jenkins/Hudson" - Stefan Scheumann
+LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
+DESCRIPTION:Hudson bzw. Jenkins ist ein Build-Server\, der für\nContinuou
+ s Integration eingesetzt wird. Darunter versteht\nman das Vorgehen\, nach 
+ jeder…
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="http://hudson-ci.org/">Hudson</a>
+  bzw. <a href="http://jenkins-ci.org/">Jenkins</a> ist ein Build-Server\, 
+ der für\n<a href="http://de.wikipedia.org/wiki/Kontinuierliche_Integratio
+ n">Continuous Integration</a> eingesetzt wird. Darunter versteht\nman das 
+ Vorgehen\, nach jeder Code-Änderung einen Build-Vorgang (inklusive Kompil
+ ieren des Codes und Ausführen der Tests)\ndurchzuführen. Damit kann sich
+ ergestellt werden\, dass Fehlerhafte Änderungen sofort auffallen und beho
+ ben werden können.</p>\n<p>Im Vortrag werden die Begriffe "Build Manageme
+ nt" und "Continuous Integration" näher erleutert und am konkreten Beispie
+ l\nvon Jenkins gezeigt\, wie dies in der Praxis umgesetzt werden kann.</p>
+END:VEVENT
+END:VCALENDAR
