@@ -1,16 +1,3 @@
 {
-  "banner": [
-    {
-      "id": "jax_2023",
-      "imageName": "banner_jax_2023.jpg",
-      "linkTarget": "https://jax.de/mainz/",
-      "altText": "Banner für JAX 2023"
-    },
-    {
-      "id": "javaland_2023",
-      "imageName": "banner_javaland_2023.jpg",
-      "linkTarget": "https://www.javaland.eu/",
-      "altText": "Banner für Javaland 2023"
-    }
-  ]
+  "banner": []
 }
