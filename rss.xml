@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Sun, 13 Aug 2023 11:01:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 11:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -2110,26 +2110,6 @@ Praxis erläutert wurden.</p>
 <a href="http://max-wielsch.blogspot.de/2011/10/android-der-vortrag-in-der-java-user.html">Blog</a> heruntergeladen werden.</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Single Sign-On mit JAAS und JGSS]]></title>
-            <link>https://jug-gr.de/talks/2011-09-28-single-sign-on/</link>
-            <guid>https://jug-gr.de/talks/2011-09-28-single-sign-on/</guid>
-            <pubDate>Wed, 28 Sep 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>Single Sign-On mit JAAS und JGSS</h1>
-      <p>Date: September 28, 2011, 19:00 Uhr</p>
-      <p>Speakers: Mario Reichel</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[JDOM]]></title>
             <link>https://jug-gr.de/talks/2011-09-28-jdom/</link>
             <guid>https://jug-gr.de/talks/2011-09-28-jdom/</guid>
@@ -2148,6 +2128,26 @@ Praxis erläutert wurden.</p>
       </address>
   ]]></description>
             <content:encoded><![CDATA[<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Single Sign-On mit JAAS und JGSS]]></title>
+            <link>https://jug-gr.de/talks/2011-09-28-single-sign-on/</link>
+            <guid>https://jug-gr.de/talks/2011-09-28-single-sign-on/</guid>
+            <pubDate>Wed, 28 Sep 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Single Sign-On mit JAAS und JGSS</h1>
+      <p>Date: September 28, 2011, 19:00 Uhr</p>
+      <p>Speakers: Mario Reichel</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Testen - Patterns und Best Practices]]></title>
