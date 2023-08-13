@@ -175,8 +175,8 @@ export const createIcal = ({
       }
 
       cal.createEvent({
-        start: start,
-        end: end,
+        start: start.toJSDate(),
+        end: end.toJSDate(),
         timezone: "Europe/Berlin",
         summary: `Vortrag "${title}" - ${speakerNodes.map((node) => node.frontmatter.name).join(", ")}`,
         description: {
