@@ -177,6 +177,7 @@ export const createIcal = ({
       cal.createEvent({
         start: start,
         end: end,
+        timezone: "Europe/Berlin",
         summary: `Vortrag "${title}" - ${speakerNodes.map((node) => node.frontmatter.name).join(", ")}`,
         description: {
           plain: excerpt,
@@ -201,5 +202,5 @@ const writeIcalFile = (content, icalTargetPath) => {
 
 export const createDate = (date: FrontmatterDate, time: FrontmatterTime): DateTime => {
   const iso = `${date.split("T")[0]}T${time}`
-  return DateTime.fromISO(iso).setZone("Europe/Berlin")
+  return DateTime.fromISO(iso)
 }
