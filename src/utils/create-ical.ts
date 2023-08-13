@@ -201,5 +201,5 @@ const writeIcalFile = (content, icalTargetPath) => {
 
 export const createDate = (date: FrontmatterDate, time: FrontmatterTime): DateTime => {
   const iso = `${date.split("T")[0]}T${time}`
-  return DateTime.fromISO(iso)
+  return DateTime.fromISO(iso).setZone("Europe/Berlin")
 }

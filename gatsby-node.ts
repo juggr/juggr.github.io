@@ -309,8 +309,8 @@ const createPostsPages = async ({ createPage, graphql }) => {
 }
 
 export const onPostBuild: GatsbyNode["onPostBuild"] = async ({ graphql }) => {
-  createFeeds({ graphql })
-  createIcal({
+  await createFeeds({ graphql })
+  await createIcal({
     graphql,
     icalName: "JUG Görlitz",
     icalUrl: "https://jug-gr.de",
