@@ -1,6 +1,6 @@
 ---
 name: Oliver Drotbohm
-pic: ../images/persons/oliver_gierke.png
+pic: ../images/persons/oliver_drotbohm.png
 twitter_name: odrotbohm
 ---
 
