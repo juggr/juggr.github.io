@@ -13,6 +13,14 @@
             "date_modified": "2023-11-29T00:00:00.000Z"
         },
         {
+            "id": "https://jug-gr.de/talks/2023-09-27-kollaborative-anwendungen/",
+            "content_html": "<p>Wie funktionieren eigentlich kollaborative Web-Anwendungen, bei denen mehrere Leute gleichzeitig an den gleichen\nDokumenten arbeiten können? Live-Kollaboration bieten Anwendungen wie Google-Docs schon seit Langem. Das Verfahren,\nwelches hier zum Einsatz kommt, setzt aber immer einen zentralen Server voraus, was für die Anwender*innen auch\nNachteile mit sich bringt.</p>\n<p>Eine moderne Alternative können so genannte \"Conflict-Free Replicated DataTypes\", kurz CRDT sein. Anwendungen auf dieser\nBasis können prinzipiell auch ohne eine zentrale Instanz auskommen. Im Vortrag wollen wir uns die verschiedenen\nVarianten anschauen und sehen, wie sich damit Anwendungen bauen lassen, die moderne Annehmlichkeiten wie\nLive-Kollaboration, Synchronisierung zwischen Geräten und Offline-Fähigkeit bieten, ohne dabei zwingend auf eine\nzentrale Cloud angewiesen zu sein.</p>",
+            "url": "https://jug-gr.de/talks/2023-09-27-kollaborative-anwendungen/",
+            "title": "Kollaborative Anwendungen und 'local first apps'",
+            "summary": "\n      <h1>Kollaborative Anwendungen und 'local first apps'</h1>\n      <p>Date: September 27, 2023, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        Carl Zeiss Digital Innovation\n        <br />\n        Berliner Straße 63\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2023-09-27T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2023-06-28-graalvm_23/",
             "content_html": "<p>Die GraalVM ist eine Virtuelle Maschine (VM) für Anwendungen, die in JavaScript, Python, Ruby, R oder mit den JVM-basierten Programmiersprachen Java, Scala, Kotlin, Clojure und LLVM-basierten Sprachen C/C++ geschrieben wurden. Am 13. Juni 2023 wurde die GraalVM 23 freigegeben, mit Performanceverbesserungen und Native-Image-Optimierungen, sowie polyglotter Unterstützung für verschiedene Programmiersprachen, zur Interoperabilität in einer gemeinsamen Laufzeitumgebung. GraalVM kann eigenständig oder im Kontext von OpenJDK, Node.js und Datenbanken betrieben werden. Mit GraalVM‘s Ahead-of-Time-Fähigkeit kompilierte Native Images verfügen über eine optimierte Startup-Time und sie verringern den Memory-Verbrauch von JVM-basierten Applikationen. Die GraalVM kann wahlweise als Open-Source-Community-Edition (CE) oder als optimierte Oracle GraalVM mit GFTC-Lizenz “GraalVM Free Terms and Conditions (GFTC) including License for Early Adopter Versions” verwendet werden. Im Vortrag wird die GraalVM-Architektur im Java-Ökosystem dargestellt und die Einsatzgebiete erläutert, beispielsweise der in Java entwickelte C2-JIT-Compiler und die Verwendung von GraalVM Native Images. GraalVM kann für Spring Boot und Microservices-Frameworks verwendet werden.</p>",
             "url": "https://jug-gr.de/talks/2023-06-28-graalvm_23/",
@@ -621,19 +629,19 @@
             "date_modified": "2011-08-31T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-07-27-testng/",
-            "content_html": "<p>TestNG (Marcus Döring)</p>",
-            "url": "https://jug-gr.de/talks/2011-07-27-testng/",
-            "title": "TestNG",
-            "summary": "\n      <h1>TestNG</h1>\n      <p>Date: July 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Marcus Döring</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-07-27T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-07-27-scala/",
             "content_html": "<p>Scala - Vorstellung der Sprache, Demo und das Testen (Stefan Bradl)</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_scala.pdf\">Vortragsfolien</a></li>\n<li><a href=\"/downloads/code_scala.zip\">Beispiel-Code</a></li>\n</ul>",
             "url": "https://jug-gr.de/talks/2011-07-27-scala/",
             "title": "Scala",
             "summary": "\n      <h1>Scala</h1>\n      <p>Date: July 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Stefan Bradl</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-07-27T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-07-27-testng/",
+            "content_html": "<p>TestNG (Marcus Döring)</p>",
+            "url": "https://jug-gr.de/talks/2011-07-27-testng/",
+            "title": "TestNG",
+            "summary": "\n      <h1>TestNG</h1>\n      <p>Date: July 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Marcus Döring</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-07-27T00:00:00.000Z"
         },
         {

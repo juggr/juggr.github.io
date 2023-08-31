@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2023-08-21T10:13:57.276Z</updated>
+    <updated>2023-08-31T07:28:12.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -37,6 +37,34 @@ Schnappschuss der laufenden JVM zu machen, diesen in Dateien zu speichern und di
 sogar auf einer anderen Maschine) wiederherzustellen.</p>
 <p>Dieser Vortrag gibt Ihnen einen kurzen Überblick über das CRaC-Projekt und zeigt einige Ergebnisse einer
 Proof-of-Concept-Implementierung.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kollaborative Anwendungen und 'local first apps']]></title>
+        <id>https://jug-gr.de/talks/2023-09-27-kollaborative-anwendungen/</id>
+        <link href="https://jug-gr.de/talks/2023-09-27-kollaborative-anwendungen/"/>
+        <updated>2023-09-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>Kollaborative Anwendungen und 'local first apps'</h1>
+      <p>Date: September 27, 2023, 19:00 Uhr</p>
+      <p>Speakers: Manuel Mauky</p>
+      <p>Location:</p>
+      <address>
+        Carl Zeiss Digital Innovation
+        <br />
+        Berliner Straße 63
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></summary>
+        <content type="html"><![CDATA[<p>Wie funktionieren eigentlich kollaborative Web-Anwendungen, bei denen mehrere Leute gleichzeitig an den gleichen
+Dokumenten arbeiten können? Live-Kollaboration bieten Anwendungen wie Google-Docs schon seit Langem. Das Verfahren,
+welches hier zum Einsatz kommt, setzt aber immer einen zentralen Server voraus, was für die Anwender*innen auch
+Nachteile mit sich bringt.</p>
+<p>Eine moderne Alternative können so genannte "Conflict-Free Replicated DataTypes", kurz CRDT sein. Anwendungen auf dieser
+Basis können prinzipiell auch ohne eine zentrale Instanz auskommen. Im Vortrag wollen wir uns die verschiedenen
+Varianten anschauen und sehen, wie sich damit Anwendungen bauen lassen, die moderne Annehmlichkeiten wie
+Live-Kollaboration, Synchronisierung zwischen Geräten und Offline-Fähigkeit bieten, ohne dabei zwingend auf eine
+zentrale Cloud angewiesen zu sein.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GraalVM 23 – Konzepte und Features]]></title>
@@ -2168,26 +2196,6 @@ Praxis erläutert wurden.</p>
         <content type="html"><![CDATA[<p>Das Thema wird diesmal Testen sein. Marko Modsching wird Testpatterns und Best Practices vorstellen</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TestNG]]></title>
-        <id>https://jug-gr.de/talks/2011-07-27-testng/</id>
-        <link href="https://jug-gr.de/talks/2011-07-27-testng/"/>
-        <updated>2011-07-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[
-      <h1>TestNG</h1>
-      <p>Date: July 27, 2011, 19:00 Uhr</p>
-      <p>Speakers: Marcus Döring</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></summary>
-        <content type="html"><![CDATA[<p>TestNG (Marcus Döring)</p>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scala]]></title>
         <id>https://jug-gr.de/talks/2011-07-27-scala/</id>
         <link href="https://jug-gr.de/talks/2011-07-27-scala/"/>
@@ -2211,6 +2219,26 @@ Praxis erläutert wurden.</p>
 <li><a href="/downloads/juggr_scala.pdf">Vortragsfolien</a></li>
 <li><a href="/downloads/code_scala.zip">Beispiel-Code</a></li>
 </ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TestNG]]></title>
+        <id>https://jug-gr.de/talks/2011-07-27-testng/</id>
+        <link href="https://jug-gr.de/talks/2011-07-27-testng/"/>
+        <updated>2011-07-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>TestNG</h1>
+      <p>Date: July 27, 2011, 19:00 Uhr</p>
+      <p>Speakers: Marcus Döring</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></summary>
+        <content type="html"><![CDATA[<p>TestNG (Marcus Döring)</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaEE und JBoss]]></title>
