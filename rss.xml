@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Thu, 31 Aug 2023 07:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 07:05:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -39,6 +39,30 @@ Schnappschuss der laufenden JVM zu machen, diesen in Dateien zu speichern und di
 sogar auf einer anderen Maschine) wiederherzustellen.</p>
 <p>Dieser Vortrag gibt Ihnen einen kurzen Überblick über das CRaC-Projekt und zeigt einige Ergebnisse einer
 Proof-of-Concept-Implementierung.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[AWS-Infrastruktur mit Java erstellen - CDK in Action]]></title>
+            <link>https://jug-gr.de/talks/2023-10-25-_aws_cdk_in_action/</link>
+            <guid>https://jug-gr.de/talks/2023-10-25-_aws_cdk_in_action/</guid>
+            <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>AWS-Infrastruktur mit Java erstellen - CDK in Action</h1>
+      <p>Date: October 25, 2023, 19:00 Uhr</p>
+      <p>Speakers: Damian Dudziec, Pawel Adaszewski</p>
+      <p>Location:</p>
+      <address>
+        Carl Zeiss Digital Innovation
+        <br />
+        Berliner Straße 63
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>Heutzutage gibt es viele Möglichkeiten, um Cloud-Infrastrukturen aufzubauen. Dazu gehören die Containerisierung, die manuelle Erstellung von Ressourcen (auch bekannt als Click-Ops) und die populären deklarativen YAML-Definitionen. Jede dieser Lösungen hat ihre Vorteile. Allerdings haben sie auch Limitierungen, die bei der Entwicklung von Produktionssoftware vermieden werden sollten.</p>
+<p>Einige Lösungen bieten einen einfachen Einstieg, dafür muss mangelnde Skalierbarkeit und Replizierbarkeit in Kauf genommen werden. Andere bieten zwar Skalierbarkeit, können aber nicht modularisiert werden, was den Aufbau und die Wartung großer Infrastrukturen erschwert.</p>
+<p>Das AWS CDK Framework löst diese Probleme und ermöglicht die Erstellung von Ressourcen mit bekannten Programmiersprachen wie Java. Mit dessen Hilfe wird vorgestellt, wie die Entwicklung von Cloud-Infrastrukturen auf ein höheres Level gebracht werden kann. Der Vortrag wird aus der Sicht eines Anfängers, der in der neuen Technologie die Lösung für alle Probleme der Welt sieht, und aus der Sicht eines erfahrenen Anwenders, der täglich mit dem Framework arbeitet und sich an seine Anfänge im Jahr 2019 erinnert, präsentiert.</p>
+<p>Durch die Kombination dieser beiden Perspektiven wird nicht nur veranschaulicht, wie einfach der Einstieg in diese Art von Technologie ist, sondern es werden auch praktische Erfahrungen weitergegeben. Auch mögliche Probleme und deren Lösungen werden angesprochen.
+Im Live Coding wird vorgeführt, wie das AWS CDK Framework für den Aufbau, die Skalierung und Modularisierung von Serverless AWS Infrastrukturen verwendet werden kann.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Kollaborative Anwendungen und 'local first apps']]></title>
