@@ -7,7 +7,7 @@ import { Container, Col, Row } from "reactstrap"
 
 const SpeakerProfile = ({ speaker }) => {
   return (
-    <Container>
+    <Container style={{ marginBottom: "1.5em" }}>
       <Row>
         {speaker.frontmatter.pic && (
           <Col sm="6" xs="12" style={{ textAlign: "center", maxWidth: "400px" }}>
