@@ -21,11 +21,11 @@
             "date_modified": "2023-10-25T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2023-09-27-kollaborative-anwendungen/",
-            "content_html": "<p>Wie funktionieren eigentlich kollaborative Web-Anwendungen, bei denen mehrere Leute gleichzeitig an den gleichen\nDokumenten arbeiten können? Live-Kollaboration bieten Anwendungen wie Google-Docs schon seit Langem. Das Verfahren,\nwelches hier zum Einsatz kommt, setzt aber immer einen zentralen Server voraus, was für die Anwender*innen auch\nNachteile mit sich bringt.</p>\n<p>Eine moderne Alternative können so genannte \"Conflict-Free Replicated DataTypes\", kurz CRDT sein. Anwendungen auf dieser\nBasis können prinzipiell auch ohne eine zentrale Instanz auskommen. Im Vortrag wollen wir uns die verschiedenen\nVarianten anschauen und sehen, wie sich damit Anwendungen bauen lassen, die moderne Annehmlichkeiten wie\nLive-Kollaboration, Synchronisierung zwischen Geräten und Offline-Fähigkeit bieten, ohne dabei zwingend auf eine\nzentrale Cloud angewiesen zu sein.</p>",
-            "url": "https://jug-gr.de/talks/2023-09-27-kollaborative-anwendungen/",
-            "title": "Kollaborative Anwendungen und 'local first apps'",
-            "summary": "\n      <h1>Kollaborative Anwendungen und 'local first apps'</h1>\n      <p>Date: September 27, 2023, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        Carl Zeiss Digital Innovation\n        <br />\n        Berliner Straße 63\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "id": "https://jug-gr.de/talks/2023-09-27-virtual-threads/",
+            "content_html": "<p>In September 2023 the latest version of JDK 21 will be officially released. During this lecture we will look into most\nimportant changes in Java Development Kit and their impact on everyday use of the Java Language. In particular, we will\ndive into performance impact of virtual threads and their comparison to existing solutions, the further improvements in\nrecently introduced record objects and also look into the future plans for Java.</p>",
+            "url": "https://jug-gr.de/talks/2023-09-27-virtual-threads/",
+            "title": "Java 21: Virtual Threads - Why should I care?",
+            "summary": "\n      <h1>Java 21: Virtual Threads - Why should I care?</h1>\n      <p>Date: September 27, 2023, 19:00 Uhr</p>\n      <p>Speakers: Patryk Lewandowski</p>\n      <p>Location:</p>\n      <address>\n        Carl Zeiss Digital Innovation\n        <br />\n        Berliner Straße 63\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2023-09-27T00:00:00.000Z"
         },
         {

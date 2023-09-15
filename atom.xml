@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2023-09-07T07:05:48.755Z</updated>
+    <updated>2023-09-15T12:45:50.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -63,14 +63,14 @@ Proof-of-Concept-Implementierung.</p>]]></content>
 Im Live Coding wird vorgeführt, wie das AWS CDK Framework für den Aufbau, die Skalierung und Modularisierung von Serverless AWS Infrastrukturen verwendet werden kann.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kollaborative Anwendungen und 'local first apps']]></title>
-        <id>https://jug-gr.de/talks/2023-09-27-kollaborative-anwendungen/</id>
-        <link href="https://jug-gr.de/talks/2023-09-27-kollaborative-anwendungen/"/>
+        <title type="html"><![CDATA[Java 21: Virtual Threads - Why should I care?]]></title>
+        <id>https://jug-gr.de/talks/2023-09-27-virtual-threads/</id>
+        <link href="https://jug-gr.de/talks/2023-09-27-virtual-threads/"/>
         <updated>2023-09-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
-      <h1>Kollaborative Anwendungen und 'local first apps'</h1>
+      <h1>Java 21: Virtual Threads - Why should I care?</h1>
       <p>Date: September 27, 2023, 19:00 Uhr</p>
-      <p>Speakers: Manuel Mauky</p>
+      <p>Speakers: Patryk Lewandowski</p>
       <p>Location:</p>
       <address>
         Carl Zeiss Digital Innovation
@@ -80,15 +80,10 @@ Im Live Coding wird vorgeführt, wie das AWS CDK Framework für den Aufbau, die 
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Wie funktionieren eigentlich kollaborative Web-Anwendungen, bei denen mehrere Leute gleichzeitig an den gleichen
-Dokumenten arbeiten können? Live-Kollaboration bieten Anwendungen wie Google-Docs schon seit Langem. Das Verfahren,
-welches hier zum Einsatz kommt, setzt aber immer einen zentralen Server voraus, was für die Anwender*innen auch
-Nachteile mit sich bringt.</p>
-<p>Eine moderne Alternative können so genannte "Conflict-Free Replicated DataTypes", kurz CRDT sein. Anwendungen auf dieser
-Basis können prinzipiell auch ohne eine zentrale Instanz auskommen. Im Vortrag wollen wir uns die verschiedenen
-Varianten anschauen und sehen, wie sich damit Anwendungen bauen lassen, die moderne Annehmlichkeiten wie
-Live-Kollaboration, Synchronisierung zwischen Geräten und Offline-Fähigkeit bieten, ohne dabei zwingend auf eine
-zentrale Cloud angewiesen zu sein.</p>]]></content>
+        <content type="html"><![CDATA[<p>In September 2023 the latest version of JDK 21 will be officially released. During this lecture we will look into most
+important changes in Java Development Kit and their impact on everyday use of the Java Language. In particular, we will
+dive into performance impact of virtual threads and their comparison to existing solutions, the further improvements in
+recently introduced record objects and also look into the future plans for Java.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GraalVM 23 – Konzepte und Features]]></title>
