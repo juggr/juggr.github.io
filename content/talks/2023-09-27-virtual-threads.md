@@ -1,12 +1,13 @@
 ---
-title: "Java 21: Virtual Threads - Why should I care?"
+title: "Java 21: Virtuelle Threads"
 date: 2023-09-27
 speaker: [patryk_lewandowski]
-tags: []
+tags: [java]
 location: zeiss
 ---
 
-In September 2023 the latest version of JDK 21 will be officially released. During this lecture we will look into most
-important changes in Java Development Kit and their impact on everyday use of the Java Language. In particular, we will
-dive into performance impact of virtual threads and their comparison to existing solutions, the further improvements in
-recently introduced record objects and also look into the future plans for Java.
+Erkunden Sie das aufregende Feature von Java 21: Virtuelle Threads. Diese neue Ergänzung revolutioniert die Art und
+Weise, wie Threads in Java verwaltet werden. Erfahren Sie, wie virtuelle Threads eine leichtgewichtige und effiziente
+Alternative zu herkömmlichen Threads bieten und die Leistung Ihrer Anwendungen verbessern können. Dieser Vortrag bietet
+Einblicke in virtuelle Threads und zeigt praktische Anwendungsbeispiele für deren Einsatz in Java 21. Entwickler aller
+Erfahrungsstufen sind herzlich willkommen, sich dieser spannenden Diskussion anzuschließen.
