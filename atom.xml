@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2023-09-15T12:45:50.214Z</updated>
+    <updated>2023-09-18T16:38:50.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -63,12 +63,12 @@ Proof-of-Concept-Implementierung.</p>]]></content>
 Im Live Coding wird vorgeführt, wie das AWS CDK Framework für den Aufbau, die Skalierung und Modularisierung von Serverless AWS Infrastrukturen verwendet werden kann.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java 21: Virtual Threads - Why should I care?]]></title>
+        <title type="html"><![CDATA[Java 21: Virtuelle Threads]]></title>
         <id>https://jug-gr.de/talks/2023-09-27-virtual-threads/</id>
         <link href="https://jug-gr.de/talks/2023-09-27-virtual-threads/"/>
         <updated>2023-09-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
-      <h1>Java 21: Virtual Threads - Why should I care?</h1>
+      <h1>Java 21: Virtuelle Threads</h1>
       <p>Date: September 27, 2023, 19:00 Uhr</p>
       <p>Speakers: Patryk Lewandowski</p>
       <p>Location:</p>
@@ -80,10 +80,11 @@ Im Live Coding wird vorgeführt, wie das AWS CDK Framework für den Aufbau, die 
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>In September 2023 the latest version of JDK 21 will be officially released. During this lecture we will look into most
-important changes in Java Development Kit and their impact on everyday use of the Java Language. In particular, we will
-dive into performance impact of virtual threads and their comparison to existing solutions, the further improvements in
-recently introduced record objects and also look into the future plans for Java.</p>]]></content>
+        <content type="html"><![CDATA[<p>Erkunden Sie das aufregende Feature von Java 21: Virtuelle Threads. Diese neue Ergänzung revolutioniert die Art und
+Weise, wie Threads in Java verwaltet werden. Erfahren Sie, wie virtuelle Threads eine leichtgewichtige und effiziente
+Alternative zu herkömmlichen Threads bieten und die Leistung Ihrer Anwendungen verbessern können. Dieser Vortrag bietet
+Einblicke in virtuelle Threads und zeigt praktische Anwendungsbeispiele für deren Einsatz in Java 21. Entwickler aller
+Erfahrungsstufen sind herzlich willkommen, sich dieser spannenden Diskussion anzuschließen.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GraalVM 23 – Konzepte und Features]]></title>
