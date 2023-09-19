@@ -1,5 +1,6 @@
 ---
 name: Patryk Lewandowski
+pic: ../images/persons/patryk_lewandowski.jpg
 ---
 
 **Patryk Lewandowski** ist ein Softwareentwickler, der bei Zeiss Digital Innovation GmbH arbeitet. Kürzlich hat er
