@@ -2,6 +2,10 @@
 title: "AWS-Infrastruktur mit Java erstellen - CDK in Action"
 date: 2023-10-25
 speaker: [pawel_adaszewski, damian_dudziec]
+poster: ../images/posters/plakat_2023_10.png
+poster_alt:
+  "Poster: Jürgen ist auf eine Wolke gestützt, die aussieht wie ein Kopfkissen. Er trägt einen roten Bauarbeiter-Helm und grinst verschmitzt
+  Auf der Wolke ist ein Baukran zu sehen. Am Baukran hängt eine kleine Wolke und zusätzlich fliegen noch Wolken umher."
 tags: [java, cloud]
 location: zeiss
 ---
