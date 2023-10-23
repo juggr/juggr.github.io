@@ -33,7 +33,7 @@
     "gatsby-remark-images": "^7.0.0",
     "gatsby-remark-source-name": "^1.0.0",
     "gatsby-source-filesystem": "^5.0.0",
-    "gatsby-transformer-remark": "^6.0.0",
+    "gatsby-transformer-remark": "^6.3.2",
     "gatsby-transformer-sharp": "^5.0.0",
     "gh-pages": "^4.0.0",
     "ical-generator": "^5.0.0",
