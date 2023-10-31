@@ -1,6 +1,6 @@
 ---
-name: Gerrit Grundwald
-pic: ../images/persons/gerrit_grundwald.jpg
+name: Gerrit Grunwald
+pic: ../images/persons/gerrit_grunwald.jpg
 ---
 
 Gerrit Grunwald ist ein Softwareentwickler, der schon seit 40 Jahren gerne programmiert. Er ist ein echter Anhänger von
