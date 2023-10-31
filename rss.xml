@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Thu, 12 Oct 2023 16:54:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 08:34:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -17,7 +17,7 @@
             <description><![CDATA[
       <h1>What the CRaC - Superfast JVM startup</h1>
       <p>Date: November 29, 2023, 19:00 Uhr</p>
-      <p>Speakers: Gerrit Grundwald</p>
+      <p>Speakers: Gerrit Grunwald</p>
       <p>Location:</p>
       <address>
         Carl Zeiss Digital Innovation
@@ -2304,6 +2304,26 @@ geben.</p>]]></content:encoded>
             <content:encoded><![CDATA[<p>Google Guice - Dependency Injection (DI) und Aspect-Orientierte Programmierung (AOP) von Robert Wirbs</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[GWT - Google Web Toolkit]]></title>
+            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
+            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
+            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>GWT - Google Web Toolkit</h1>
+      <p>Date: April 27, 2011, 19:00 Uhr</p>
+      <p>Speakers: Ingo Körner</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[OSGi mit SpringDM]]></title>
             <link>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</link>
             <guid>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</guid>
@@ -2332,26 +2352,6 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 <ul>
 <li><a href="/downloads/juggr_osgi_spring_dm.pdf">Vortragsfolien</a></li>
 </ul>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GWT - Google Web Toolkit]]></title>
-            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
-            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
-            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>GWT - Google Web Toolkit</h1>
-      <p>Date: April 27, 2011, 19:00 Uhr</p>
-      <p>Speakers: Ingo Körner</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[EasyMock]]></title>
