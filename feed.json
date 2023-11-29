@@ -5,6 +5,14 @@
     "feed_url": "https://jug-gr.de/feed.json",
     "items": [
         {
+            "id": "https://jug-gr.de/talks/2024-01-31-flutter/",
+            "content_html": "<p>Wenn sich Google einem Thema widmet, dann meist richtig und mit vollem Einsatz. Genau das sieht man beim Thema Cross-Plattform: Google entwickelte Flutter, ein UI Framework, mit dem Native Apps für Mobile, Web, Desktop und Embedded mit einer einzigen Codebase in sehr kurzer Zeit entwickelt werden können.\nWas Flutter so einzigartig macht und warum wir es bei inovex bereits produktiv für Apps einsetzen, zeige ich dir in diesem Talk.\nAnhand verschiedener Beispiele und Live-Codings siehst du, warum uns Flutter so überzeugt hat. Damit sind wir nicht alleine - Toyota verwendet Flutter bereits für ihre neuen Infotainment Systems und viele weitere namhafte Firmen wie Microsoft, Canonical und BMW setzen ebenfalls auf das Framework.\nLass dich in Flutters Welt der Cross-Plattform entführen und davon begeistern!</p>",
+            "url": "https://jug-gr.de/talks/2024-01-31-flutter/",
+            "title": "Flutter, der heilige Gral der Cross-Plattform-Entwicklung?!",
+            "summary": "\n      <h1>Flutter, der heilige Gral der Cross-Plattform-Entwicklung?!</h1>\n      <p>Date: January 31, 2024, 19:00 Uhr</p>\n      <p>Speakers: Christoph Menzel</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Brückenstraße 1\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2024-01-31T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2023-11-29-crac/",
             "content_html": "<p>In einer Welt, in der Microservices mehr und mehr zu einer Standardarchitektur für Java-basierte Anwendungen in der\nCloud werden, kann die JVM-Aufwärmzeit zu einer Einschränkung werden.</p>\n<p>Vor allem wenn es darum geht, als Reaktion auf Laständerungen neue Instanzen einer Anwendung aufzusetzen, kann die\nAufwärmzeit ein Problem darstellen. Native Images sind eine Möglichkeit, diese Probleme zu lösen, da ihr statisch im\nVoraus kompilierter Code keine Aufwärmzeit benötigt und somit eine kurze Startzeit hat. Aber selbst die kürzere\nStartzeit und der geringere Platzbedarf sind nicht ohne Nachteil. Die Gesamtleistung kann aufgrund der fehlenden\nJIT-Optimierungen zur Laufzeit langsamer sein. Es gibt ein neues OpenJDK-Projekt namens CRaC (Coordinated Restore at\nCheckpoint), dessen Ziel es ist, das JVM-Aufwärmproblem mit einem anderen Ansatz anzugehen. Die Idee ist, einen\nSchnappschuss der laufenden JVM zu machen, diesen in Dateien zu speichern und die JVM zu einem späteren Zeitpunkt (oder\nsogar auf einer anderen Maschine) wiederherzustellen.</p>\n<p>Dieser Vortrag gibt Ihnen einen kurzen Überblick über das CRaC-Projekt und zeigt einige Ergebnisse einer\nProof-of-Concept-Implementierung.</p>",
             "url": "https://jug-gr.de/talks/2023-11-29-crac/",
