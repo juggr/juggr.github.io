@@ -5,12 +5,6 @@
       "imageName": "javaland_2024_banner.jpg",
       "linkTarget": "https://www.javaland.eu/",
       "altText": "Banner für JavaLand 2024"
-    },
-    {
-      "id": "jdd_2023",
-      "imageName": "jdd_2023_banner.jpg",
-      "linkTarget": "https://jdd.org.pl/",
-      "altText": "Banner für JDD Konferenz 2024"
     }
   ]
 }
