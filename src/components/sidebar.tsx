@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 import bannerJSON from "../../content/banner.json"
 
-import { faFacebook, faGithub, faTwitter } from "@fortawesome/free-brands-svg-icons"
+import { faFacebook, faGithub, faTwitter, faMastodon } from "@fortawesome/free-brands-svg-icons"
 import { faCalendarAlt, faEnvelope, faRss } from "@fortawesome/free-solid-svg-icons"
 
 import { Col, Row } from "reactstrap"
@@ -16,14 +16,20 @@ const Sidebar = () => (
           <img alt="Logo der JUG Görlitz" src={require("../../content/images/logo.png").default} />
         </Col>
         <Col sm="6" xs="12" md="12">
-          <h3>
+          <strong>Organisiert vom <br/><a href="https://digitale-oberlausitz.eu">Digitale Oberlausitz e.V.</a></strong>
+          <p>
             Wir sind Mitglied im
             <br />
             <a href="http://www.ijug.eu/">iJUG Verband</a>
-          </h3>
+          </p>
 
-          <h3>Andere Medien</h3>
+          <p>Links:</p>
           <ul className="list-unstyled">
+            <li>
+              <a href="https://ijug.social/@Juggr">
+                <FontAwesomeIcon icon={faMastodon} /> Mastodon
+              </a>
+            </li>
             <li>
               <a href="https://twitter.com/jug_gr">
                 <FontAwesomeIcon icon={faTwitter} /> Twitter

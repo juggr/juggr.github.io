@@ -25,8 +25,14 @@ h2 {
   margin-bottom: 0;
 }
 
-.sidebar h3 {
+.sidebar strong {
+  display: block;
+  font-size: 1.3em;
+  margin-bottom: 1em;
+}
+.sidebar p {
   font-size: 1.2em;
+  margin-bottom: .5em;
 }
 
 .sidebar ul {
@@ -34,7 +40,7 @@ h2 {
 }
 
 .sidebar li {
-  margin-bottom: 0;
+  margin-bottom: 0.2em;
 }
 
 .sidebar li > ul {
@@ -59,7 +65,7 @@ a:hover {
   color: #23527c;
   text-decoration: none;
 
-  /* 
+  /*
     this adds a line under the link that (other then text-decoration: underline) will also
      be below the icons
      */
