@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2023-11-30T08:48:18.757Z</updated>
+    <updated>2023-12-07T16:15:34.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -300,7 +300,7 @@ gezeigt, wie man diese Möglichkeiten nutzen kann, um ein kundenspezifisches IAM
         <content type="html"><![CDATA[<p>Mit der <em>fischertechnik</em> Lernfabrik haben wir eine Fabrik im Kleinformat! Steuerung, Edge und Cloud in Einem!</p>
 <p><span
       class="gatsby-resp-image-wrapper"
-      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 600px; "
+      style="position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 694px; "
     >
       <a
     class="gatsby-resp-image-link"
@@ -311,18 +311,17 @@ gezeigt, wie man diese Möglichkeiten nutzen kann, um ein kundenspezifisches IAM
   >
     <span
     class="gatsby-resp-image-background-image"
-    style="padding-bottom: 147.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,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'); background-size: cover; display: block;"
+    style="padding-bottom: 147.5%; position: relative; bottom: 0; left: 0; background-image: url('data:image/png;base64,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'); background-size: cover; display: block;"
   ></span>
   <img
         class="gatsby-resp-image-image"
         alt="Lernfabrik"
         title="Lernfabrik"
-        src="/static/903efdec1e01931509b749db26582149/0a47e/lernfabrik.png"
-        srcset="/static/903efdec1e01931509b749db26582149/8a4e8/lernfabrik.png 150w,
-/static/903efdec1e01931509b749db26582149/5a46d/lernfabrik.png 300w,
-/static/903efdec1e01931509b749db26582149/0a47e/lernfabrik.png 600w,
+        src="/static/903efdec1e01931509b749db26582149/31198/lernfabrik.png"
+        srcset="/static/903efdec1e01931509b749db26582149/772e8/lernfabrik.png 200w,
+/static/903efdec1e01931509b749db26582149/e17e5/lernfabrik.png 400w,
 /static/903efdec1e01931509b749db26582149/31198/lernfabrik.png 694w"
-        sizes="(max-width: 600px) 100vw, 600px"
+        sizes="(max-width: 694px) 100vw, 694px"
         style="width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;"
         loading="lazy"
         decoding="async"
@@ -2379,27 +2378,6 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EasyMock]]></title>
-        <id>https://jug-gr.de/talks/2011-03-22-easymock/</id>
-        <link href="https://jug-gr.de/talks/2011-03-22-easymock/"/>
-        <updated>2011-03-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[
-      <h1>EasyMock</h1>
-      <p>Date: March 22, 2011, 19:00 Uhr</p>
-      <p>Speakers: Richard Hauswald</p>
-      <p>Location:</p>
-      <address>
-        Hochschule Zittau/Görlitz
-        <br />
-        Obermarkt 17
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></summary>
-        <content type="html"><![CDATA[<p><a href="http://easymock.org/">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es
-benutzen? All diese Fragen werden in der Präsentation beantwortet.</p>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jenkins/Hudson]]></title>
         <id>https://jug-gr.de/talks/2011-03-22-jenkins/</id>
         <link href="https://jug-gr.de/talks/2011-03-22-jenkins/"/>
@@ -2423,5 +2401,26 @@ man das Vorgehen, nach jeder Code-Änderung einen Build-Vorgang (inklusive Kompi
 durchzuführen. Damit kann sichergestellt werden, dass Fehlerhafte Änderungen sofort auffallen und behoben werden können.</p>
 <p>Im Vortrag werden die Begriffe "Build Management" und "Continuous Integration" näher erleutert und am konkreten Beispiel
 von Jenkins gezeigt, wie dies in der Praxis umgesetzt werden kann.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EasyMock]]></title>
+        <id>https://jug-gr.de/talks/2011-03-22-easymock/</id>
+        <link href="https://jug-gr.de/talks/2011-03-22-easymock/"/>
+        <updated>2011-03-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>EasyMock</h1>
+      <p>Date: March 22, 2011, 19:00 Uhr</p>
+      <p>Speakers: Richard Hauswald</p>
+      <p>Location:</p>
+      <address>
+        Hochschule Zittau/Görlitz
+        <br />
+        Obermarkt 17
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></summary>
+        <content type="html"><![CDATA[<p><a href="http://easymock.org/">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es
+benutzen? All diese Fragen werden in der Präsentation beantwortet.</p>]]></content>
     </entry>
 </feed>
