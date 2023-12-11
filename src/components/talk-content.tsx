@@ -119,7 +119,7 @@ const TalkContent = ({ talk, speakerList, location, linkToDetailsPage }) => (
       <br />
       <p>
         Die Veranstaltung wird durch die <i>Java User Group Görlitz</i> (im{" "}
-        <a href="http://www.ijug.eu/">iJUG Verband</a>) organisiert.
+        <a href="http://www.ijug.eu/">iJUG Verband</a>) organisiert. <br />Die Java User Group Görlitz ist ein Projekt des <a href="https://digitale-oberlausitz.eu">Digitale Oberlausitz e.V.</a>
       </p>
     </article>
   </>

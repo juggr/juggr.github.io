@@ -1,9 +1,10 @@
 import React from "react"
 
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
+import TalkOverview from "../components/talk-overview"
 
 const SpeakerPage = ({ data }) => {
   const { speaker, talks } = data
@@ -30,18 +31,7 @@ const SpeakerPage = ({ data }) => {
       <div className="description" dangerouslySetInnerHTML={{ __html: speaker.html }} />
 
       <hr />
-      {talks && (
-        <>
-          {talks.edges.length} Talks:
-          <ul>
-            {talks.edges.map(({ node }) => (
-              <li key={node.fields.slug}>
-                <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
-              </li>
-            ))}
-          </ul>
-        </>
-      )}
+      {talks && <TalkOverview talks={talks.edges.map((edge) => edge.node)} />}
     </Layout>
   )
 }
