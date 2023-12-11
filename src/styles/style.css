@@ -97,3 +97,19 @@ a.supporter-page-image {
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
+
+
+.all-talks {
+  margin:0.5em;
+}
+
+.all-talks li {
+  display: flex;
+  list-style: none;
+  margin-left: 0;
+  gap: 1em;
+}
+
+.all-talks li .talk-number {
+  display: block;
+}

@@ -24,11 +24,22 @@ const TalksPage = ({ data }) => {
     <Layout>
       <h2>Alle Vortragsthemen</h2>
 
-      <ul>
-        {talks.map((talk) => {
+      <ul className="all-talks">
+        {talks.map((talk, index) => {
           const speakersOfTalk = findSpeakersForTalk({ allSpeakers, talk })
 
-          const speakersString = R.join(", ")(speakersOfTalk.map((speaker) => speaker.frontmatter.name))
+          const speakersLine = (
+            <span>
+              {R.intersperse(
+                ", ",
+                speakersOfTalk.map((speaker) => (
+                  <Link key={speaker.fields.slug} to={speaker.fields.slug}>
+                    {speaker.frontmatter.name}
+                  </Link>
+                ))
+              )}
+            </span>
+          )
 
           const isNextTalk = upcomingEvent && talk.frontmatter.date === upcomingEvent.frontmatter.date
 
@@ -36,12 +47,15 @@ const TalksPage = ({ data }) => {
 
           return (
             <li key={talk.id} style={style}>
-              <span className="lead">
-                <Link to={talk.fields.slug}>{talk.frontmatter.title}</Link>
-              </span>
-              {" | "}
-              <time dateTime={talk.frontmatter.date}>{formatDate(talk.frontmatter.date)}</time>
-              <p>von {speakersString}</p>
+              <span className="talk-number">#{talks.length - index} </span>
+              <div>
+                <span className="lead">
+                  <Link to={talk.fields.slug}>{talk.frontmatter.title}</Link>
+                </span>
+                {" | "}
+                <time dateTime={talk.frontmatter.date}>{formatDate(talk.frontmatter.date)}</time>
+                <p>von {speakersLine}</p>
+              </div>
             </li>
           )
         })}
