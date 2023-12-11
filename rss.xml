@@ -4,11 +4,70 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Thu, 07 Dec 2023 16:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 13:40:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
         <copyright>CC-0</copyright>
+        <item>
+            <title><![CDATA[Rust (Teil 2)]]></title>
+            <link>https://jug-gr.de/talks/2024-04-24-rust2/</link>
+            <guid>https://jug-gr.de/talks/2024-04-24-rust2/</guid>
+            <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Rust (Teil 2)</h1>
+      <p>Date: April 24, 2024, 19:00 Uhr</p>
+      <p>Speakers: Konstantin Eger</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></description>
+            <content:encoded><![CDATA[<p>Infos demnächst.</p>
+<p>Dieser Vortrag ist der <strong>zweite von zwei Teilen</strong> einer kleinen Rust-Vortragsreihe.</p>
+<ul>
+<li>Im <a href="/talks/2024-03-20-rust">ersten Teil</a> wurde ein Einstieg in die Programmiersprache gegeben und die wesentlichen Konzepte - auch im Vergleich zu Java - beleuchtet.</li>
+<li>In diesem Teil wird stärker auf den konkreten Einsatz der Sprache in Projekten und existierende Bibliotheken und Frameworks eingegangen.</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Rust (Teil 1): Einführung in die Sprache]]></title>
+            <link>https://jug-gr.de/talks/2024-03-20-rust/</link>
+            <guid>https://jug-gr.de/talks/2024-03-20-rust/</guid>
+            <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Rust (Teil 1): Einführung in die Sprache</h1>
+      <p>Date: March 20, 2024, 19:00 Uhr</p>
+      <p>Speakers: Manuel Mauky</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></description>
+            <content:encoded><![CDATA[<p>Rust ist eine relativ neue Programmiersprache, die vor allem als Systems-Level Programmiersprache und damit als Alternative zu C und C++
+entwickelt wurde. Der Fokus der Sprache liegt auf Speichersicherheit und der Vermeidung von Bugs, unter anderem auf Grund solcher Speicherfehler.</p>
+<p>Speichersicherheit ist bei Java kein so großes Thema wie bei C/C++, trotzdem gibt es einige Dinge in Rust, die auch für Java-Entwickler*innen
+interessant sein könnten, um den eigenen Horizont zu erweitern. Denn genau wie Java hat auch Rust in gewisser Weise ein automatisches Speichermanagement,
+jedoch ohne eine Virtuelle Maschine und ohne Garbage-Collector.
+Und mittlerweile wird Rust auch immer häufiger außerhalb von klassischen C-Anwendungsgebieten wie Systemprogrammierung eingesetzt.
+Rust kommt zur Entwicklung von Command-Line-Tools, Desktop-Applikationen, Server-Anwendungen und in der Cloud zum Einsatz.
+Und mittels Web-Assembly lässt sich Rust sogar in Browsern ausführen.</p>
+<p>Dieser Vortrag ist der <strong>erste von zwei Teilen</strong> einer kleinen Rust-Vortragsreihe.</p>
+<ul>
+<li>In diesem Teil wird ein Einstieg in die Programmiersprache gegeben und die wesentlichen Konzepte - auch im Vergleich zu Java - beleuchtet.</li>
+<li>Im <a href="/talks/2024-04-24-rust2">nächsten Teil</a> wird dann stärker auf den konkreten Einsatz der Sprache in Projekten und existierende Bibliotheken und Frameworks eingegangen.</li>
+</ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Wie geht Architekturbewertung?]]></title>
+            <link>https://jug-gr.de/talks/2024-02-28-architekturbewertung/</link>
+            <guid>https://jug-gr.de/talks/2024-02-28-architekturbewertung/</guid>
+            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Wie geht Architekturbewertung?</h1>
+      <p>Date: February 28, 2024, 19:00 Uhr</p>
+      <p>Speakers: Stefan Zörner</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></description>
+            <content:encoded><![CDATA[<p>Infos demnächst.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Flutter, der heilige Gral der Cross-Plattform-Entwicklung?!]]></title>
             <link>https://jug-gr.de/talks/2024-01-31-flutter/</link>
@@ -69,8 +128,8 @@ Proof-of-Concept-Implementierung.</p>
         </item>
         <item>
             <title><![CDATA[AWS-Infrastruktur mit Java erstellen - CDK in Action]]></title>
-            <link>https://jug-gr.de/talks/2023-10-25-_aws_cdk_in_action/</link>
-            <guid>https://jug-gr.de/talks/2023-10-25-_aws_cdk_in_action/</guid>
+            <link>https://jug-gr.de/talks/2023-10-25-aws_cdk_in_action/</link>
+            <guid>https://jug-gr.de/talks/2023-10-25-aws_cdk_in_action/</guid>
             <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[
       <h1>AWS-Infrastruktur mit Java erstellen - CDK in Action</h1>
@@ -2380,6 +2439,27 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 </ul>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[EasyMock]]></title>
+            <link>https://jug-gr.de/talks/2011-03-22-easymock/</link>
+            <guid>https://jug-gr.de/talks/2011-03-22-easymock/</guid>
+            <pubDate>Tue, 22 Mar 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>EasyMock</h1>
+      <p>Date: March 22, 2011, 19:00 Uhr</p>
+      <p>Speakers: Richard Hauswald</p>
+      <p>Location:</p>
+      <address>
+        Hochschule Zittau/Görlitz
+        <br />
+        Obermarkt 17
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p><a href="http://easymock.org/">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es
+benutzen? All diese Fragen werden in der Präsentation beantwortet.</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Jenkins/Hudson]]></title>
             <link>https://jug-gr.de/talks/2011-03-22-jenkins/</link>
             <guid>https://jug-gr.de/talks/2011-03-22-jenkins/</guid>
@@ -2403,27 +2483,6 @@ man das Vorgehen, nach jeder Code-Änderung einen Build-Vorgang (inklusive Kompi
 durchzuführen. Damit kann sichergestellt werden, dass Fehlerhafte Änderungen sofort auffallen und behoben werden können.</p>
 <p>Im Vortrag werden die Begriffe "Build Management" und "Continuous Integration" näher erleutert und am konkreten Beispiel
 von Jenkins gezeigt, wie dies in der Praxis umgesetzt werden kann.</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EasyMock]]></title>
-            <link>https://jug-gr.de/talks/2011-03-22-easymock/</link>
-            <guid>https://jug-gr.de/talks/2011-03-22-easymock/</guid>
-            <pubDate>Tue, 22 Mar 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>EasyMock</h1>
-      <p>Date: March 22, 2011, 19:00 Uhr</p>
-      <p>Speakers: Richard Hauswald</p>
-      <p>Location:</p>
-      <address>
-        Hochschule Zittau/Görlitz
-        <br />
-        Obermarkt 17
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p><a href="http://easymock.org/">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es
-benutzen? All diese Fragen werden in der Präsentation beantwortet.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
