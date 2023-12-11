@@ -4,7 +4,7 @@ date: 2023-05-31
 speaker: [daniel_sulyok]
 poster: ../images/posters/plakat_2023_05.png
 poster_alt: "Poster: Jürgen hat einen Baseballschläger in den Händen und zerstört damit eine Verkehrsbake."
-tags: [java]
+tags: [java, a11y]
 location: tallence
 ---
 

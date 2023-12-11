@@ -7,7 +7,7 @@ poster_alt:
   "Poster: Jürgen sitzt am Tisch und überlegt. Er spielt Memory und hat gerade eine aufgedeckte Memory-Karte mit dem
   Java-Duke darauf in der Hand. Auf dem Tisch sind die anderen Karten zugedeckt, bis auf eine offene Karte. Auf dieser
   ist ein Datenbank-Symbol zu sehen."
-tags: [web]
+tags: [database, java]
 virtual: true
 ---
 

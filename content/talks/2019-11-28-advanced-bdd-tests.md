@@ -2,7 +2,7 @@
 title: "Advanced BDD Tests"
 date: 2019-11-28
 speaker: [maik_wagner]
-tags: [java, test]
+tags: [java, testen]
 location: tallence
 poster: ../images/posters/plakat_2019_11.png
 poster_alt:

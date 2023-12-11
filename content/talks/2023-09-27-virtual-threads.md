@@ -3,8 +3,8 @@ title: "Java 21: Virtuelle Threads"
 date: 2023-09-27
 speaker: [patryk_lewandowski]
 poster: ../images/posters/plakat_2023_09.png
-poster_alt: "Poster: Jürgen hat sich in einem virtuellen Faden verheddert."
-tags: [java]
+poster_alt: "Poster: Jürgen hat sich in einem virtuellen Faden verheddert und schaut etwas verzweifelt."
+tags: [java, performance]
 location: zeiss
 ---
 

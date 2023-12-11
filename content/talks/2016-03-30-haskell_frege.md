@@ -7,7 +7,7 @@ poster: ../images/posters/plakat_2016_03.png
 poster_alt:
   "Poster: Jürgen sitzt auf einem Sessel und liest ein Buch. Er trägt eine Lese-Brille und schaut konzentriert aus. Auf
   dem Buch ist das Haskell-Logo, ein Lambda-Symbol, zusehen"
-tags: [programmiersprachen, functional-programming]
+tags: [programmiersprachen, functional-programming, non-jvm-language]
 ---
 
 Haskell ist eine funktionale Programmiersprache, die das Paradigma der funktionalen Programmierung so konsequent

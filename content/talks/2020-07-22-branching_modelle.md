@@ -2,7 +2,7 @@
 title: "Branching-Modelle"
 date: 2020-07-22
 speaker: [hannes_kretschmer]
-tags: [java]
+tags: [java, git]
 virtual: true
 poster: ../images/posters/plakat_2020_07.png
 poster_alt:

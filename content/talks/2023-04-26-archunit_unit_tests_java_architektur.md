@@ -3,8 +3,8 @@ title: "ArchUnit: Unit-Tests für deine Java-Architektur"
 date: 2023-04-26
 speaker: [roland_weisleder]
 poster: ../images/posters/plakat_2023_04.png
-poster_alt: "Poster: Jürgens trägt ein grünes Cape und einen Hut mit einer Feder. In den Hängen hat er Pfeil und Bogen parat, am Rücken trägt er einen Köcher mit weiteren Pfeilen."
-tags: [architektur,test]
+poster_alt: "Poster: Jürgens trägt ein grünes Cape und einen Hut mit einer Feder. Er sieht aus wie Robin Hood. In den Händen hat er Pfeil und Bogen parat, am Rücken trägt er einen Köcher mit weiteren Pfeilen."
+tags: [architektur,testen]
 location: expleo
 ---
 

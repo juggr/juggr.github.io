@@ -2,7 +2,7 @@
 title: "It's a JDK jungle out there - oder wie es mit den neuen Java-Versionen geordnet weitergeht"
 date: 2019-04-24
 speaker: [wolfgang_weigend]
-tags: [java]
+tags: [java, jdk]
 location: saxsys
 poster: ../images/posters/plakat_2019_04.png
 poster_alt:

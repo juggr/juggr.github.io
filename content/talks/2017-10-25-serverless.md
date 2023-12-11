@@ -5,7 +5,7 @@ speaker: [lars_roewekamp]
 poster: ../images/posters/plakat_2017_10.png
 poster_alt: "Poster: Jürgen grinst und hält eine Tasse Kaffee in der Hand."
 location: hochschule_campus
-tags: [architektur]
+tags: [architektur, serverless]
 ---
 
 Kaum haben wir uns von dem klassischen Monolithen und der zugehörigen Ablaufumgebung namens Application Server,
