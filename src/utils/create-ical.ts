@@ -168,9 +168,11 @@ export const createIcal = ({
         }
       } else {
         const locationNode = locations.find((loc) => loc.fields.locationId === location)
-        icalLocation = {
-          title: locationNode.frontmatter.name,
-          address: `${locationNode.frontmatter.street} ${locationNode.frontmatter.number},${locationNode.frontmatter.zip} ${locationNode.frontmatter.city}`,
+        if(locationNode) {
+          icalLocation = {
+            title: locationNode.frontmatter.name,
+            address: `${locationNode.frontmatter.street} ${locationNode.frontmatter.number},${locationNode.frontmatter.zip} ${locationNode.frontmatter.city}`,
+          }
         }
       }
 
