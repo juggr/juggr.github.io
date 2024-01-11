@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Wed, 03 Jan 2024 19:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 07:34:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -55,18 +55,19 @@ Und mittels Web-Assembly lässt sich Rust sogar in Browsern ausführen.</p>
 </ul>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Wie geht Architekturbewertung?]]></title>
-            <link>https://jug-gr.de/talks/2024-02-28-architekturbewertung/</link>
-            <guid>https://jug-gr.de/talks/2024-02-28-architekturbewertung/</guid>
+            <title><![CDATA[Schlanke Architektur-Reviews]]></title>
+            <link>https://jug-gr.de/talks/2024-02-28-architektur-reviews/</link>
+            <guid>https://jug-gr.de/talks/2024-02-28-architektur-reviews/</guid>
             <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[
-      <h1>Wie geht Architekturbewertung?</h1>
+      <h1>Schlanke Architektur-Reviews</h1>
       <p>Date: February 28, 2024, 19:00 Uhr</p>
       <p>Speakers: Stefan Zörner</p>
       <p>Location:</p>
       wird noch bekannt gegeben
   ]]></description>
-            <content:encoded><![CDATA[<p>Infos demnächst.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Mit Architekturbewertungen ist es möglich, Schwächen und Potenziale von Softwarelösungen herauszuarbeiten, Entscheidungen abzusichern und Verbesserungsmaßnahmen zu bewerten. Klassische Analyseansätze aus diesem Umfeld wie ATAM sind fundiert, kommen aber gerade in beweglichen Softwarevorhaben etwas schwergewichtig, mitunter fast zeremoniell daher.
+In diesem Vortrag mit interaktiven Elementen gebe ich einen lebendigen Einstieg in die Welt der Architekturbewertung. Vor allem lernt Ihr eine leichtgewichtige Herangehensweise kennen. Ihr  könnt diese mit Eurem Team unmittelbar anwenden, Euer Softwaresystem beleuchten und zügig zu ersten Erkenntnissen kommen. Wir greifen auf die Essenzen etablierter Bewertungsmethoden zurück. Und erarbeiten uns einen roten Faden durch ein Review, inkl. möglicher Vertiefungspunkte für eine höhere Konfidenz im Bewertungsergebnis.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Flutter, der heilige Gral der Cross-Plattform-Entwicklung?!]]></title>
