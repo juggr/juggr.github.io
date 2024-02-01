@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2024-01-16T22:41:22.955Z</updated>
+    <updated>2024-02-01T16:56:14.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -85,10 +85,17 @@ In diesem Vortrag mit interaktiven Elementen gebe ich einen lebendigen Einstieg 
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>Wenn sich Google einem Thema widmet, dann meist richtig und mit vollem Einsatz. Genau das sieht man beim Thema Cross-Plattform: Google entwickelte Flutter, ein UI Framework, mit dem Native Apps für Mobile, Web, Desktop und Embedded mit einer einzigen Codebase in sehr kurzer Zeit entwickelt werden können.
-Was Flutter so einzigartig macht und warum wir es bei inovex bereits produktiv für Apps einsetzen, zeige ich dir in diesem Talk.
-Anhand verschiedener Beispiele und Live-Codings siehst du, warum uns Flutter so überzeugt hat. Damit sind wir nicht alleine - Toyota verwendet Flutter bereits für ihre neuen Infotainment Systems und viele weitere namhafte Firmen wie Microsoft, Canonical und BMW setzen ebenfalls auf das Framework.
-Lass dich in Flutters Welt der Cross-Plattform entführen und davon begeistern!</p>]]></content>
+        <content type="html"><![CDATA[<p>Wenn sich Google einem Thema widmet, dann meist richtig und mit vollem Einsatz. Genau das sieht man beim Thema
+Cross-Plattform: Google entwickelte Flutter, ein UI Framework, mit dem Native Apps für Mobile, Web, Desktop und Embedded
+mit einer einzigen Codebase in sehr kurzer Zeit entwickelt werden können. Was Flutter so einzigartig macht und warum wir
+es bei inovex bereits produktiv für Apps einsetzen, zeige ich dir in diesem Talk. Anhand verschiedener Beispiele und
+Live-Codings siehst du, warum uns Flutter so überzeugt hat. Damit sind wir nicht alleine - Toyota verwendet Flutter
+bereits für ihre neuen Infotainment Systems und viele weitere namhafte Firmen wie Microsoft, Canonical und BMW setzen
+ebenfalls auf das Framework. Lass dich in Flutters Welt der Cross-Plattform entführen und davon begeistern!</p>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="/downloads/juggr_flutter.pdf">Folien zum Vortrag</a></li>
+</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[What the CRaC - Superfast JVM startup]]></title>
