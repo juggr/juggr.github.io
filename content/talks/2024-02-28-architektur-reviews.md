@@ -3,6 +3,7 @@ title: "Schlanke Architektur-Reviews"
 date: 2024-02-28
 speaker: [stefan_zoerner_2]
 tags: [architektur]
+location: cideon
 ---
 
 Mit Architekturbewertungen ist es möglich, Schwächen und Potenziale von Softwarelösungen herauszuarbeiten, Entscheidungen abzusichern und Verbesserungsmaßnahmen zu bewerten. Klassische Analyseansätze aus diesem Umfeld wie ATAM sind fundiert, kommen aber gerade in beweglichen Softwarevorhaben etwas schwergewichtig, mitunter fast zeremoniell daher.
