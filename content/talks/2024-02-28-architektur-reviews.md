@@ -2,6 +2,9 @@
 title: "Schlanke Architektur-Reviews"
 date: 2024-02-28
 speaker: [stefan_zoerner_2]
+poster: ../images/posters/plakat_2024_02.png
+poster_alt:
+  "Poster: Jürgen sieht skeptisch auf ein Backsteinhaus und schwänkt seinen Daumen wertend auf und ab."
 tags: [architektur]
 location: cideon
 ---
