@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2024-02-18T13:12:25.997Z</updated>
+    <updated>2024-03-07T20:07:52.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -36,7 +36,13 @@
       <p>Date: March 20, 2024, 19:00 Uhr</p>
       <p>Speakers: Manuel Mauky</p>
       <p>Location:</p>
-      wird noch bekannt gegeben
+      <address>
+        Carl Zeiss Digital Innovation
+        <br />
+        Berliner Straße 63
+        <br />
+        02826 Görlitz
+      </address>
   ]]></summary>
         <content type="html"><![CDATA[<p>Rust ist eine relativ neue Programmiersprache, die vor allem als Systems-Level Programmiersprache und damit als Alternative zu C und C++
 entwickelt wurde. Der Fokus der Sprache liegt auf Speichersicherheit und der Vermeidung von Bugs, unter anderem auf Grund solcher Speicherfehler.</p>
