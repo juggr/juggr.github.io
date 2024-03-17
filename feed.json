@@ -6,7 +6,7 @@
     "items": [
         {
             "id": "https://jug-gr.de/talks/2024-04-24-rust2/",
-            "content_html": "<p>Infos demnächst.</p>\n<p>Dieser Vortrag ist der <strong>zweite von zwei Teilen</strong> einer kleinen Rust-Vortragsreihe.</p>\n<ul>\n<li>Im <a href=\"/talks/2024-03-20-rust\">ersten Teil</a> wurde ein Einstieg in die Programmiersprache gegeben und die wesentlichen Konzepte - auch im Vergleich zu Java - beleuchtet.</li>\n<li>In diesem Teil wird stärker auf den konkreten Einsatz der Sprache in Projekten und existierende Bibliotheken und Frameworks eingegangen.</li>\n</ul>",
+            "content_html": "<p>Im zweiten Teil der Vortragsreihe zu Rust (<a href=\"/talks/2024-03-20-rust\">Teil 1 - Einfürhung und Vergleich zu Java</a>) soll es nun konkret werden. Nachdem man einen Einblick in die Kernkonzepte der Sprache gewinnen konnte, soll nun gezeigt werden, wie man Anwendungen in dieser Programmiersprache entwickelt. Welche Frameworks für Server-Anwendungen gibt es? Welche Bibliotheken werden dafür benötigt oder empfohlen? Wie geht man mit Logging, Fehlern und Datenbanken um? Was ist Async Rust? Diese Fragen und weitere werden im Detail beantwortet, um eine Basis für die Entwicklung der ersten eigenen Anwendung in Rust zu erhalten.</p>",
             "url": "https://jug-gr.de/talks/2024-04-24-rust2/",
             "title": "Rust (Teil 2)",
             "summary": "\n      <h1>Rust (Teil 2)</h1>\n      <p>Date: April 24, 2024, 19:00 Uhr</p>\n      <p>Speakers: Konstantin Eger</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",

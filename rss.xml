@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Thu, 07 Mar 2024 20:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Mar 2024 09:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -21,12 +21,7 @@
       <p>Location:</p>
       wird noch bekannt gegeben
   ]]></description>
-            <content:encoded><![CDATA[<p>Infos demnächst.</p>
-<p>Dieser Vortrag ist der <strong>zweite von zwei Teilen</strong> einer kleinen Rust-Vortragsreihe.</p>
-<ul>
-<li>Im <a href="/talks/2024-03-20-rust">ersten Teil</a> wurde ein Einstieg in die Programmiersprache gegeben und die wesentlichen Konzepte - auch im Vergleich zu Java - beleuchtet.</li>
-<li>In diesem Teil wird stärker auf den konkreten Einsatz der Sprache in Projekten und existierende Bibliotheken und Frameworks eingegangen.</li>
-</ul>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Im zweiten Teil der Vortragsreihe zu Rust (<a href="/talks/2024-03-20-rust">Teil 1 - Einfürhung und Vergleich zu Java</a>) soll es nun konkret werden. Nachdem man einen Einblick in die Kernkonzepte der Sprache gewinnen konnte, soll nun gezeigt werden, wie man Anwendungen in dieser Programmiersprache entwickelt. Welche Frameworks für Server-Anwendungen gibt es? Welche Bibliotheken werden dafür benötigt oder empfohlen? Wie geht man mit Logging, Fehlern und Datenbanken um? Was ist Async Rust? Diese Fragen und weitere werden im Detail beantwortet, um eine Basis für die Entwicklung der ersten eigenen Anwendung in Rust zu erhalten.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Rust (Teil 1): Einführung in die Sprache]]></title>
