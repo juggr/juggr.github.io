@@ -5,6 +5,14 @@
     "feed_url": "https://jug-gr.de/feed.json",
     "items": [
         {
+            "id": "https://jug-gr.de/talks/2024-05-29-parallele-programmiermodelle/",
+            "content_html": "<p>Das \"Supercomputing\" beschäftigt sich mit den leistungsfähigsten Rechner auf dem Planeten, um besonders anspruchsvolle Aufgaben bewältigen zu können. Diese speziellen Rechner und ihre Programmierung haben eine Reihe von Gemeinsamkeiten mit üblicher Hardware und Software, jedoch auch einige Besonderheiten.\nDer Vortrag gibt einen kurzen Überblick über das Supercomputing, die Hardware sowie die Top500-Liste der leistungsfähigsten Rechner in den letzten 30 Jahren und widmet sich im Hauptteil den verschiedenen Methoden der parallelen Programmierung für Supercomputer. Dabei stehen nicht die Programmiersprachen im Vordergrund sondern die Konzepte, wie Rechenaufgaben verteilt und parallel abgearbeitet werden. Auch hier gibt es Gemeinsamkeiten zur \"normalen\" Programmierung aber auch deutliche Unterschiede einschließlich einiger gravierender Kompromisse, die beispielsweise im Cloud-Computing niemand wagen würde.\nJe nach Zeit und Interesse besteht am Ende die Möglichkeit, tiefer in einige der Parallelisierungsmodelle einzutauchen oder Einblicke in wissenschaftliche Anwendungsfälle zu geben, die ohne das Supercomputing unmöglich gewesen wären.</p>",
+            "url": "https://jug-gr.de/talks/2024-05-29-parallele-programmiermodelle/",
+            "title": "Parallele Programmiermodelle für Supercomputer",
+            "summary": "\n      <h1>Parallele Programmiermodelle für Supercomputer</h1>\n      <p>Date: May 29, 2024, 19:00 Uhr</p>\n      <p>Speakers: Andreas Knüpfer</p>\n      <p>Location:</p>\n      <address>\n        CASUS - Center for Advanced Systems Understanding, Görlitz\n        <br />\n        Untermarkt 20\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2024-05-29T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2024-04-24-rust2/",
             "content_html": "<p>Im zweiten Teil der Vortragsreihe zu Rust (<a href=\"/talks/2024-03-20-rust\">Teil 1 - Einführung und Vergleich zu Java</a>) soll es nun konkret werden. Nachdem man einen Einblick in die Kernkonzepte der Sprache gewinnen konnte, soll nun gezeigt werden, wie man Anwendungen in dieser Programmiersprache entwickelt. Welche Frameworks für Server-Anwendungen gibt es? Welche Bibliotheken werden dafür benötigt oder empfohlen? Wie geht man mit Logging, Fehlern und Datenbanken um? Was ist Async Rust?</p>\n<p>Diese Fragen und weitere werden im Detail beantwortet, um eine Basis für die Entwicklung der ersten eigenen Anwendung in Rust zu erhalten.</p>",
             "url": "https://jug-gr.de/talks/2024-04-24-rust2/",
@@ -669,19 +677,19 @@
             "date_modified": "2011-08-31T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-07-27-scala/",
-            "content_html": "<p>Scala - Vorstellung der Sprache, Demo und das Testen (Stefan Bradl)</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_scala.pdf\">Vortragsfolien</a></li>\n<li><a href=\"/downloads/code_scala.zip\">Beispiel-Code</a></li>\n</ul>",
-            "url": "https://jug-gr.de/talks/2011-07-27-scala/",
-            "title": "Scala",
-            "summary": "\n      <h1>Scala</h1>\n      <p>Date: July 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Stefan Bradl</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-07-27T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-07-27-testng/",
             "content_html": "<p>TestNG (Marcus Döring)</p>",
             "url": "https://jug-gr.de/talks/2011-07-27-testng/",
             "title": "TestNG",
             "summary": "\n      <h1>TestNG</h1>\n      <p>Date: July 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Marcus Döring</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-07-27T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-07-27-scala/",
+            "content_html": "<p>Scala - Vorstellung der Sprache, Demo und das Testen (Stefan Bradl)</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_scala.pdf\">Vortragsfolien</a></li>\n<li><a href=\"/downloads/code_scala.zip\">Beispiel-Code</a></li>\n</ul>",
+            "url": "https://jug-gr.de/talks/2011-07-27-scala/",
+            "title": "Scala",
+            "summary": "\n      <h1>Scala</h1>\n      <p>Date: July 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Stefan Bradl</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-07-27T00:00:00.000Z"
         },
         {
