@@ -1,5 +1,5 @@
 ---
-name: Andreas Knüpfer
+name: Dr. Andreas Knüpfer
 pic: ../images/persons/andreas_knuepfer.png
 ---
 
