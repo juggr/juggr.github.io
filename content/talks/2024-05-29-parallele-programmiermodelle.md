@@ -3,7 +3,7 @@ title: "Parallele Programmiermodelle für Supercomputer"
 date: 2024-05-29
 speaker: [andreas_knuepfer]
 tags: [programmiersprachen, parallel, non-jvm-language, supercomputer]
-location: casus
+location: innolabs
 ---
 
 Das "Supercomputing" beschäftigt sich mit den leistungsfähigsten Rechner auf dem Planeten, um besonders anspruchsvolle Aufgaben bewältigen zu können. Diese speziellen Rechner und ihre Programmierung haben eine Reihe von Gemeinsamkeiten mit üblicher Hardware und Software, jedoch auch einige Besonderheiten.
