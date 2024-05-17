@@ -2,6 +2,8 @@
 title: "Parallele Programmiermodelle für Supercomputer"
 date: 2024-05-29
 speaker: [andreas_knuepfer]
+poster: ../images/posters/plakat_2024_05.png
+poster_alt: "Poster: Jürgen ist gekleidet als superheld mit Handschuhen und Cape und schaut heroisch nach oben."
 tags: [programmiersprachen, parallel, non-jvm-language, supercomputer]
 location: innolabs
 ---
