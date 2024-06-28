@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2024-05-17T15:50:14.605Z</updated>
+    <updated>2024-06-28T09:47:54.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
     <rights>CC-0</rights>
+    <entry>
+        <title type="html"><![CDATA[JavaFX State of the Technology]]></title>
+        <id>https://jug-gr.de/talks/2024-09-25-javafx-state-of-the-technology/</id>
+        <link href="https://jug-gr.de/talks/2024-09-25-javafx-state-of-the-technology/"/>
+        <updated>2024-09-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>JavaFX State of the Technology</h1>
+      <p>Date: September 25, 2024, 19:00 Uhr</p>
+      <p>Speakers: Wolfgang Weigend</p>
+      <p>Location:</p>
+      <address>
+        Carl Zeiss Digital Innovation
+        <br />
+        Berliner Straße 63
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></summary>
+        <content type="html"><![CDATA[<p>Der aktuelle Stand der JavaFX-UI-Entwicklung wird aus der Sicht von Oracle erläutert, mit einer Bestandsaufnahme der
+vorhandenen Entwicklungsressourcen und der Fortführung von JavaFX in einem freien Ökosystem. JavaFX ist vom JDK
+entkoppelt, sodass es separat entwickelt werden kann und alle davon profitieren. Gemeinsam mit Oracle Engineering wurde
+ein JavaFX-Ökosystem aufgebaut, dass die langfristige technologische Lebensfähigkeit von JavaFX sicherstellt. Die
+organisatorische Beteiligung der Entwickler erfolgt über das OpenJDK und von dort aus kann die Open-Source-Software
+weiterverteilt werden. Oracle entwickelt und veröffentlicht JavaFX als eigenständige Module über das OpenJFX-Projekt im
+OpenJDK. Oracle plant, diese kostenlosen und Open-Source-OpenJFX-Builds weiterhin mit den neuesten Java-Versionen
+bereitzustellen, wie derzeit JavaFX 22 auf Oracle JDK 22, dann JavaFX 23 für Oracle JDK 23 im September 2024 und sie,
+wie seit vielen Jahren regelmäßig auf jdk.java.net verfügbar zu machen.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Parallele Programmiermodelle für Supercomputer]]></title>
         <id>https://jug-gr.de/talks/2024-05-29-parallele-programmiermodelle/</id>

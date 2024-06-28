@@ -4,11 +4,39 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Fri, 17 May 2024 15:50:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 09:47:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
         <copyright>CC-0</copyright>
+        <item>
+            <title><![CDATA[JavaFX State of the Technology]]></title>
+            <link>https://jug-gr.de/talks/2024-09-25-javafx-state-of-the-technology/</link>
+            <guid>https://jug-gr.de/talks/2024-09-25-javafx-state-of-the-technology/</guid>
+            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>JavaFX State of the Technology</h1>
+      <p>Date: September 25, 2024, 19:00 Uhr</p>
+      <p>Speakers: Wolfgang Weigend</p>
+      <p>Location:</p>
+      <address>
+        Carl Zeiss Digital Innovation
+        <br />
+        Berliner Straße 63
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>Der aktuelle Stand der JavaFX-UI-Entwicklung wird aus der Sicht von Oracle erläutert, mit einer Bestandsaufnahme der
+vorhandenen Entwicklungsressourcen und der Fortführung von JavaFX in einem freien Ökosystem. JavaFX ist vom JDK
+entkoppelt, sodass es separat entwickelt werden kann und alle davon profitieren. Gemeinsam mit Oracle Engineering wurde
+ein JavaFX-Ökosystem aufgebaut, dass die langfristige technologische Lebensfähigkeit von JavaFX sicherstellt. Die
+organisatorische Beteiligung der Entwickler erfolgt über das OpenJDK und von dort aus kann die Open-Source-Software
+weiterverteilt werden. Oracle entwickelt und veröffentlicht JavaFX als eigenständige Module über das OpenJFX-Projekt im
+OpenJDK. Oracle plant, diese kostenlosen und Open-Source-OpenJFX-Builds weiterhin mit den neuesten Java-Versionen
+bereitzustellen, wie derzeit JavaFX 22 auf Oracle JDK 22, dann JavaFX 23 für Oracle JDK 23 im September 2024 und sie,
+wie seit vielen Jahren regelmäßig auf jdk.java.net verfügbar zu machen.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Parallele Programmiermodelle für Supercomputer]]></title>
             <link>https://jug-gr.de/talks/2024-05-29-parallele-programmiermodelle/</link>
