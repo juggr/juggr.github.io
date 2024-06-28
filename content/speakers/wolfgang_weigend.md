@@ -1,9 +1,9 @@
 ---
 name: Wolfgang Weigend
-pic: ../images/persons/wolfgang_weigend.jpg
+pic: ../images/persons/wolfgang_weigend.png
 twitter_name: wolflook
 ---
 
-Wolfgang Weigend arbeitet als Sen. Leitender Systemberater bei ORACLE Global Services Germany GmbH. Er gehört zum
-weltweiten Java Team und ist zuständig für Java Technologie & GraalVM und Architektur für unternehmensweite
+Wolfgang Weigend arbeitet als Master Principal Solution Engineer bei der ORACLE Global Services Germany GmbH im
+weltweiten Java Team. Er beschäftigt sich mit Java-Technologie, GraalVM und Architektur für unternehmensweite
 Anwendungsentwicklung.
