@@ -1,10 +1,3 @@
 {
-  "banner": [
-    {
-      "id": "javaland_2024",
-      "imageName": "javaland_2024_banner.jpg",
-      "linkTarget": "https://www.javaland.eu/",
-      "altText": "Banner für JavaLand 2024"
-    }
-  ]
+  "banner": []
 }
