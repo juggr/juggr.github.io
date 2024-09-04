@@ -2,6 +2,8 @@
 title: "JavaFX State of the Technology"
 date: 2024-09-25
 speaker: [wolfgang_weigend]
+poster: ../images/posters/plakat_2024_09.png
+poster_alt: "Poster: Jürgen ist hat eine 3D-Brille auf und isst Popcorn."
 tags: [javafx, frontend]
 location: zeiss
 ---
