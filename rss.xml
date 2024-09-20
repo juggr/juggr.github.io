@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Thu, 12 Sep 2024 20:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 15:56:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -27,7 +27,9 @@
         02826 Görlitz
       </address>
   ]]></description>
-            <content:encoded><![CDATA[<p>Der aktuelle Stand der JavaFX-UI-Entwicklung wird aus der Sicht von Oracle erläutert, mit einer Bestandsaufnahme der
+            <content:encoded><![CDATA[<p><em>Diese Veranstaltung besteht aus einem Doppel-Vortrag</em></p>
+<p><strong>1. Teil (Wolfgang Weigend)</strong></p>
+<p>Der aktuelle Stand der JavaFX-UI-Entwicklung wird aus der Sicht von Oracle erläutert, mit einer Bestandsaufnahme der
 vorhandenen Entwicklungsressourcen und der Fortführung von JavaFX in einem freien Ökosystem. JavaFX ist vom JDK
 entkoppelt, sodass es separat entwickelt werden kann und alle davon profitieren. Gemeinsam mit Oracle Engineering wurde
 ein JavaFX-Ökosystem aufgebaut, dass die langfristige technologische Lebensfähigkeit von JavaFX sicherstellt. Die
@@ -35,7 +37,17 @@ organisatorische Beteiligung der Entwickler erfolgt über das OpenJDK und von do
 weiterverteilt werden. Oracle entwickelt und veröffentlicht JavaFX als eigenständige Module über das OpenJFX-Projekt im
 OpenJDK. Oracle plant, diese kostenlosen und Open-Source-OpenJFX-Builds weiterhin mit den neuesten Java-Versionen
 bereitzustellen, wie derzeit JavaFX 22 auf Oracle JDK 22, dann JavaFX 23 für Oracle JDK 23 im September 2024 und sie,
-wie seit vielen Jahren regelmäßig auf jdk.java.net verfügbar zu machen.</p>]]></content:encoded>
+wie seit vielen Jahren regelmäßig auf jdk.java.net verfügbar zu machen.</p>
+<p><strong>2. Teil (Christian Heilmann)</strong></p>
+<p>Interaktiver Vortrag</p>
+<p>Schrittweises und effizientes Neuschreiben einer 16 Jahre alten Swing-Anwendung in JavaFX</p>
+<p>„Zeiss Forum Viewer, eine JavaFX-Anwendung für die diagnostische Bildgebung in der Ophthalmologie“</p>
+<p>Anhand des ZEISS FORUM Viewer 4.5 werden wir einen praktischen Einblick in den digitalen Arbeitsablauf geben und die
+verschiedenen Entwicklungen, die bei seiner Erstellung aufgetreten sind, näher beleuchten. Die Teilnehmer erhalten einen
+Einblick in die Feinheiten der Entwicklung eines kompletten FDA-zertifizierten digitalen Ophthalmologie-Workflows unter
+Verwendung des JavaFX UI-Technologie-Stacks. Darüber hinaus erhalten sie wertvolles Wissen über Design, Architektur und
+die Leistungsfähigkeit von JavaFX bei der Erstellung anspruchsvoller Anwendungen, die seit über 16 Jahren in diesem
+Bereich eingesetzt werden.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Parallele Programmiermodelle für Supercomputer]]></title>
@@ -2461,26 +2473,6 @@ geben.</p>]]></content:encoded>
             <content:encoded><![CDATA[<p>Google Guice - Dependency Injection (DI) und Aspect-Orientierte Programmierung (AOP) von Robert Wirbs</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GWT - Google Web Toolkit]]></title>
-            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
-            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
-            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>GWT - Google Web Toolkit</h1>
-      <p>Date: April 27, 2011, 19:00 Uhr</p>
-      <p>Speakers: Ingo Körner</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[OSGi mit SpringDM]]></title>
             <link>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</link>
             <guid>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</guid>
@@ -2509,6 +2501,26 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 <ul>
 <li><a href="/downloads/juggr_osgi_spring_dm.pdf">Vortragsfolien</a></li>
 </ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GWT - Google Web Toolkit]]></title>
+            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
+            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
+            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>GWT - Google Web Toolkit</h1>
+      <p>Date: April 27, 2011, 19:00 Uhr</p>
+      <p>Speakers: Ingo Körner</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[EasyMock]]></title>
