@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2024-09-20T15:56:55.570Z</updated>
+    <updated>2024-09-27T11:16:24.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
@@ -45,7 +45,11 @@ verschiedenen Entwicklungen, die bei seiner Erstellung aufgetreten sind, näher 
 Einblick in die Feinheiten der Entwicklung eines kompletten FDA-zertifizierten digitalen Ophthalmologie-Workflows unter
 Verwendung des JavaFX UI-Technologie-Stacks. Darüber hinaus erhalten sie wertvolles Wissen über Design, Architektur und
 die Leistungsfähigkeit von JavaFX bei der Erstellung anspruchsvoller Anwendungen, die seit über 16 Jahren in diesem
-Bereich eingesetzt werden.</p>]]></content>
+Bereich eingesetzt werden.</p>
+<p><strong>Materialien:</strong></p>
+<ul>
+<li><a href="/downloads/juggr_JavaFX-Wolfgang_Weigend_2024-09-25.pdf">Folien zum Vortrag</a></li>
+</ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Parallele Programmiermodelle für Supercomputer]]></title>
@@ -2471,6 +2475,26 @@ geben.</p>]]></content>
         <content type="html"><![CDATA[<p>Google Guice - Dependency Injection (DI) und Aspect-Orientierte Programmierung (AOP) von Robert Wirbs</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GWT - Google Web Toolkit]]></title>
+        <id>https://jug-gr.de/talks/2011-04-27-gwt/</id>
+        <link href="https://jug-gr.de/talks/2011-04-27-gwt/"/>
+        <updated>2011-04-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>GWT - Google Web Toolkit</h1>
+      <p>Date: April 27, 2011, 19:00 Uhr</p>
+      <p>Speakers: Ingo Körner</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></summary>
+        <content type="html"><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OSGi mit SpringDM]]></title>
         <id>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</id>
         <link href="https://jug-gr.de/talks/2011-04-27-osgi_springdm/"/>
@@ -2499,26 +2523,6 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 <ul>
 <li><a href="/downloads/juggr_osgi_spring_dm.pdf">Vortragsfolien</a></li>
 </ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GWT - Google Web Toolkit]]></title>
-        <id>https://jug-gr.de/talks/2011-04-27-gwt/</id>
-        <link href="https://jug-gr.de/talks/2011-04-27-gwt/"/>
-        <updated>2011-04-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[
-      <h1>GWT - Google Web Toolkit</h1>
-      <p>Date: April 27, 2011, 19:00 Uhr</p>
-      <p>Speakers: Ingo Körner</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></summary>
-        <content type="html"><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EasyMock]]></title>
