@@ -37,3 +37,9 @@ Verwendung des JavaFX UI-Technologie-Stacks. Darüber hinaus erhalten sie wertvo
 die Leistungsfähigkeit von JavaFX bei der Erstellung anspruchsvoller Anwendungen, die seit über 16 Jahren in diesem
 Bereich eingesetzt werden.
 
+
+
+**Materialien:**
+
+- [Folien zum Vortrag](/downloads/juggr_JavaFX-Wolfgang_Weigend_2024-09-25.pdf)
+
