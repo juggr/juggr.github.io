@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 import bannerJSON from "../../content/banner.json"
 
-import { faFacebook, faGithub, faTwitter, faMastodon } from "@fortawesome/free-brands-svg-icons"
+import { faFacebook, faGithub, faMastodon } from "@fortawesome/free-brands-svg-icons"
 import { faCalendarAlt, faEnvelope, faRss } from "@fortawesome/free-solid-svg-icons"
 
 import { Col, Row } from "reactstrap"
@@ -28,11 +28,6 @@ const Sidebar = () => (
             <li>
               <a href="https://ijug.social/@Juggr">
                 <FontAwesomeIcon icon={faMastodon} /> Mastodon
-              </a>
-            </li>
-            <li>
-              <a href="https://twitter.com/jug_gr">
-                <FontAwesomeIcon icon={faTwitter} /> Twitter
               </a>
             </li>
             <li>
