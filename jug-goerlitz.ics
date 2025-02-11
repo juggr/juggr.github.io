@@ -7,11 +7,11 @@ X-WR-CALNAME:JUG Görlitz
 TIMEZONE-ID:Europe/Berlin
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:14da604a-43e9-4437-92c4-f9905bcd00bd
+UID:9f447b9e-18b3-4d97-8eca-0c017d8d6b91
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20240925T190000
-DTEND;TZID=Europe/Berlin:20240925T220000
+DTSTAMP:20250211T163753
+DTSTART:20240925T190000
+DTEND:20240925T220000
 SUMMARY:Vortrag "JavaFX State of the Technology" - Christian Heilmann\, Wo
  lfgang Weigend
 LOCATION:Carl Zeiss Digital Innovation\nBerliner Straße 63\,02826 Görlit
@@ -52,11 +52,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p><em>Diese Veranstaltung besteht aus einem
  gend_2024-09-25.pdf">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:f089463e-c3fe-44b6-aebd-2b54b806c7ea
+UID:cd098c2c-d668-435e-9a66-678e1a5fd3d7
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20240529T190000
-DTEND;TZID=Europe/Berlin:20240529T220000
+DTSTAMP:20250211T163753
+DTSTART:20240529T190000
+DTEND:20240529T220000
 SUMMARY:Vortrag "Parallele Programmiermodelle für Supercomputer" - Dr. An
  dreas Knüpfer
 LOCATION:Innolabs Görlitz\nBahnhofstraße 22\,02826 Görlitz
@@ -82,11 +82,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Das "Supercomputing" beschäftigt sich mit
  glich gewesen wären.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:87241aac-714c-43dc-b12d-3bc04ad7ff53
+UID:66aa4bce-7a88-4dfc-abaa-0004abc55b99
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20240424T190000
-DTEND;TZID=Europe/Berlin:20240424T220000
+DTSTAMP:20250211T163753
+DTSTART:20240424T190000
+DTEND:20240424T220000
 SUMMARY:Vortrag "Rust (Teil 2)" - Konstantin Eger
 LOCATION:Tallence AG\nNeißstraße 27\,02826 Görlitz
 DESCRIPTION:Im zweiten Teil der Vortragsreihe zu Rust (Teil 1 - Einführun
@@ -104,11 +104,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Im zweiten Teil der Vortragsreihe zu Rust
  ust zu erhalten.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:4c27d7f5-a2ba-4ed4-aea4-5ae5cd7b1ecf
+UID:935f7b63-6186-4322-a6ed-43e230d7676c
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20240320T190000
-DTEND;TZID=Europe/Berlin:20240320T220000
+DTSTAMP:20250211T163753
+DTSTART:20240320T190000
+DTEND:20240320T220000
 SUMMARY:Vortrag "Rust (Teil 1): Einführung in die Sprache" - Manuel Mauky
 LOCATION:Carl Zeiss Digital Innovation\nBerliner Straße 63\,02826 Görlit
  z
@@ -138,11 +138,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Rust ist eine relativ neue Programmierspra
  </li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:8a0bc66b-2dd4-41a9-8eee-1677325cf27f
+UID:0f8fbf4b-46ac-4fb7-80c6-e17065c10d0c
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20240228T190000
-DTEND;TZID=Europe/Berlin:20240228T220000
+DTSTAMP:20250211T163753
+DTSTART:20240228T190000
+DTEND:20240228T220000
 SUMMARY:Vortrag "Schlanke Architektur-Reviews" - Stefan Zörner
 LOCATION:CIDEON Software & Services GmbH & Co. KG\nUntermarkt 25\,02826 G
  örlitz
@@ -164,11 +164,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Mit Architekturbewertungen ist es möglich
  idenz im Bewertungsergebnis.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:6196c76f-9fb1-4c11-8deb-df0505aa9d9b
+UID:6561864f-2ba4-470a-b9a8-fdf4a37b109e
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20240131T190000
-DTEND;TZID=Europe/Berlin:20240131T220000
+DTSTAMP:20250211T163753
+DTSTART:20240131T190000
+DTEND:20240131T220000
 SUMMARY:Vortrag "Flutter\, der heilige Gral der Cross-Plattform-Entwicklun
  g?!" - Christoph Menzel
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
@@ -191,11 +191,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Wenn sich Google einem Thema widmet\, dann
   zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:20490630-99a0-4411-b0f7-3174e58cc632
+UID:35f99e8a-9e63-46b0-a9ad-ac3e5decb586
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20231129T190000
-DTEND;TZID=Europe/Berlin:20231129T220000
+DTSTAMP:20250211T163753
+DTSTART:20231129T190000
+DTEND:20231129T220000
 SUMMARY:Vortrag "What the CRaC - Superfast JVM startup" - Gerrit Grunwald
 LOCATION:Carl Zeiss Digital Innovation\nBerliner Straße 63\,02826 Görlit
  z
@@ -223,11 +223,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>In einer Welt\, in der Microservices mehr
  nloads/juggr_What_The_CRaC.pdf">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:e7918aec-97a0-46f6-8610-2ecb16fcee9d
+UID:50e39aca-add5-4073-87cf-87fb633396b2
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20231025T190000
-DTEND;TZID=Europe/Berlin:20231025T220000
+DTSTAMP:20250211T163753
+DTSTART:20231025T190000
+DTEND:20231025T220000
 SUMMARY:Vortrag "AWS-Infrastruktur mit Java erstellen - CDK in Action" - D
  amian Dudziec\, Pawel Adaszewski
 LOCATION:Carl Zeiss Digital Innovation\nBerliner Straße 63\,02826 Görlit
@@ -261,11 +261,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Heutzutage gibt es viele Möglichkeiten\,
  nn.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:b78e2d63-97bc-4ac9-8455-3b2d8bd393be
+UID:192f2190-b7bd-4391-9c31-4735e27e0be3
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20230927T190000
-DTEND;TZID=Europe/Berlin:20230927T220000
+DTSTAMP:20250211T163753
+DTSTART:20230927T190000
+DTEND:20230927T220000
 SUMMARY:Vortrag "Java 21: Virtuelle Threads" - Patryk Lewandowski
 LOCATION:Carl Zeiss Digital Innovation\nBerliner Straße 63\,02826 Görlit
  z
@@ -283,11 +283,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Erkunden Sie das aufregende Feature von Ja
   anzuschließen.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:a5eed2e4-426f-4668-8e76-f51f30711523
+UID:040d9ab5-becd-4286-9b09-4ecc4cc98747
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20230628T190000
-DTEND;TZID=Europe/Berlin:20230628T220000
+DTSTAMP:20250211T163753
+DTSTART:20230628T190000
+DTEND:20230628T220000
 SUMMARY:Vortrag "GraalVM 23 – Konzepte und Features" - Wolfgang Weigend
 LOCATION:Carl Zeiss Digital Innovation\nBerliner Straße 63\,02826 Görlit
  z
@@ -313,11 +313,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die GraalVM ist eine Virtuelle Maschine (V
  ng Boot und Microservices-Frameworks verwendet werden.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:5e82d045-1270-4061-b963-10b041cbf422
+UID:2b6cd35f-c639-4998-b4bd-fcefe7da63c8
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20230531T190000
-DTEND;TZID=Europe/Berlin:20230531T220000
+DTSTAMP:20250211T163753
+DTSTART:20230531T190000
+DTEND:20230531T220000
 SUMMARY:Vortrag "Accessibility in the Wild" - Dániel Sulyok
 LOCATION:Tallence AG\nNeißstraße 27\,02826 Görlitz
 DESCRIPTION:Dániel Sulyok von der Tallence AG stellt seine Arbeit im Rahm
@@ -334,11 +334,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Dániel Sulyok von der Tallence AG stellt
  gr_a11y.pdf">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:c12e25ec-860f-4409-96d7-9eefaceb8181
+UID:0728d51d-121a-44bc-a43e-34c8c650ead8
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20230426T190000
-DTEND;TZID=Europe/Berlin:20230426T220000
+DTSTAMP:20250211T163753
+DTSTART:20230426T190000
+DTEND:20230426T220000
 SUMMARY:Vortrag "ArchUnit: Unit-Tests für deine Java-Architektur" - Rolan
  d Weisleder
 LOCATION:Expleo\nKonsulstraße 23\,02826 Görlitz
@@ -357,11 +357,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Architektur und Code driften immer weiter
  rekt im Code abbilden können.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:dba99685-2a0c-428b-9a12-6af049429a40
+UID:5037704e-67c6-4c23-ba59-8b162accd401
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20230329T183000
-DTEND;TZID=Europe/Berlin:20230329T213000
+DTSTAMP:20250211T163753
+DTSTART:20230329T183000
+DTEND:20230329T213000
 SUMMARY:Vortrag "Spring für architekturinteressierte Entwickler:innen" - 
  Oliver Drotbohm
 LOCATION:Fraunhofer-Institut IOSB - Angewandte Systemtechnik\nWilhelmsplat
@@ -394,11 +394,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die Architektur und das Design einer Appli
  te der Digitalen Oberlausitz e. V.</a> nachlesen.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:553c5f35-d1fd-43f7-8421-a452f3b27767
+UID:e8be045a-e8bd-4b2b-99e5-c31e04e3e285
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20230222T190000
-DTEND;TZID=Europe/Berlin:20230222T220000
+DTSTAMP:20250211T163753
+DTSTART:20230222T190000
+DTEND:20230222T220000
 SUMMARY:Vortrag "Exception First – Stabilisiere deinen Code mit mehr Exc
  eptions" - Sergej Tihonov
 LOCATION:Carl Zeiss Digital Innovation\nBerliner Straße 63\,02826 Görlit
@@ -423,11 +423,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Fehler sind ein fester Bestandteil unserer
  nst.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:6bcd9332-5855-4d7d-bdec-3e77c09f2cf3
+UID:cb061364-c6d8-464c-ac22-642d9a4beb65
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20230125T190000
-DTEND;TZID=Europe/Berlin:20230125T220000
+DTSTAMP:20250211T163753
+DTSTART:20230125T190000
+DTEND:20230125T220000
 SUMMARY:Vortrag "Content Management neu gedacht mit Contentlab" - Markus W
  eiland
 LOCATION:CIDEON Software & Services GmbH & Co. KG\nUntermarkt 25\,02826 G
@@ -444,11 +444,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die Mehrheit aktueller Content Management
   Instanz zum Verwalten von Veranstaltungen.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:9126e99b-2f7b-45b8-bd73-f7e35918d75a
+UID:93d761fb-1a84-431f-8fa4-548ed6879358
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20221130T190000
-DTEND;TZID=Europe/Berlin:20221130T220000
+DTSTAMP:20250211T163753
+DTSTART:20221130T190000
+DTEND:20221130T220000
 SUMMARY:Vortrag "Kundenspezifisches IAM mit Keycloak" - Daniel Fesenmeyer
 LOCATION:Innolabs Görlitz\nBahnhofstraße 22\,02826 Görlitz
 DESCRIPTION:Keycloak ist ein Open Source IAM (Identity and Access Manageme
@@ -465,11 +465,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Keycloak ist ein Open Source IAM (Identity
  en.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:60a9f89e-49b7-4451-b3e4-ff7cc3f1cc80
+UID:36232c17-d61c-4ceb-a5ed-56793a91164e
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20221012T190000
-DTEND;TZID=Europe/Berlin:20221012T220000
+DTSTAMP:20250211T163753
+DTSTART:20221012T190000
+DTEND:20221012T220000
 SUMMARY:Vortrag "Industrie 4.0? Das JUGt mich!" - Marco Gotthans
 LOCATION:Carl Zeiss Digital Innovation\nBerliner Straße 63\,02826 Görlit
  z
@@ -540,11 +540,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Mit der <em>fischertechnik</em> Lernfabrik
  t überschritten werden darf.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:9bd44493-f5dc-4f5f-a3d5-600ab7bb66f0
+UID:411cc6e5-87ba-499b-a1fb-90c5ddb25196
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20220622T190000
-DTEND;TZID=Europe/Berlin:20220622T220000
+DTSTAMP:20250211T163753
+DTSTART:20220622T190000
+DTEND:20220622T220000
 SUMMARY:Vortrag "Hebe deine IoT-Infrastruktur auf das Serverless-Level an"
   - Pawel Adaszewski
 LOCATION:Carl Zeiss Digital Innovation\nBerliner Straße 63\,02826 Görlit
@@ -567,11 +567,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die Persistenz von IoT Daten sowie die Ste
  ten werden darf.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:46220128-94d1-4b9a-b49e-44527616d689
+UID:e1b8d9d1-6dc2-4e6f-b1e2-8b1e19326a39
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20210630T190000
-DTEND;TZID=Europe/Berlin:20210630T220000
+DTSTAMP:20250211T163753
+DTSTART:20210630T190000
+DTEND:20210630T220000
 SUMMARY:Vortrag "Ultraschnelle Java In-Memory Datenbank-Anwendungen & Micr
  oservices mit MicroStream" - Christian Kümmel\, Markus Kett
 LOCATION:virtual
@@ -610,11 +610,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>MicroStream ist ein fundamental neues Pers
  oberlausitz.eu/jug</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:b8ca255b-739f-4657-a015-6d502ccbb001
+UID:efa53f4c-204a-4c84-9160-1ea115653b41
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20210127T190000
-DTEND;TZID=Europe/Berlin:20210127T220000
+DTSTAMP:20250211T163753
+DTSTART:20210127T190000
+DTEND:20210127T220000
 SUMMARY:Vortrag "Web Components" - Manuel Mauky
 LOCATION:virtual
 DESCRIPTION:Web-Components sind eine Möglichkeit\, auf Basis von Web-Stan
@@ -633,11 +633,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Web-Components sind eine Möglichkeit\, au
  tz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:1169d3f2-95a2-4887-9b15-fd334270f262
+UID:38bd1ffa-40e1-4d81-b201-602a52a39cc6
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20201125T190000
-DTEND;TZID=Europe/Berlin:20201125T220000
+DTSTAMP:20250211T163753
+DTSTART:20201125T190000
+DTEND:20201125T220000
 SUMMARY:Vortrag "Java Secure Coding in der Praxis" - Nico Förster
 LOCATION:virtual
 DESCRIPTION:Durch die Veröffentlichung von immer neuen Schwachstellen in 
@@ -658,11 +658,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Durch die Veröffentlichung von immer neue
  ale-oberlausitz.eu/jug</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:a0229144-8ed7-447b-bcc7-93e427f30576
+UID:dd26975d-597a-4052-9b74-53f5130ec120
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20200722T190000
-DTEND;TZID=Europe/Berlin:20200722T220000
+DTSTAMP:20250211T163753
+DTSTART:20200722T190000
+DTEND:20200722T220000
 SUMMARY:Vortrag "Branching-Modelle" - Hannes Kretschmer
 LOCATION:virtual
 DESCRIPTION:Als Softwareentwickler ist man auf die Verwendung von Versions
@@ -685,11 +685,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Als Softwareentwickler ist man auf die Ver
  oberlausitz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:6cbe96cc-ae9f-47c7-9594-a379ef6b299c
+UID:93ef80c7-7c39-4941-86a3-5cb7e48db3f7
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20200429T180000
-DTEND;TZID=Europe/Berlin:20200429T210000
+DTSTAMP:20250211T163753
+DTSTART:20200429T180000
+DTEND:20200429T210000
 SUMMARY:Vortrag "JDK 14 und GraalVM im Java Ökosystem" - Wolfgang Weigend
 LOCATION:virtual
 DESCRIPTION:Nach der Freigabe vom JDK 14 werden die aktuellen Merkmale vor
@@ -720,11 +720,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Nach der Freigabe vom JDK 14 werden die ak
  ses Mal geht es schon <strong>18:00 Uhr los</strong>.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:20feea0f-4a79-456b-8d3a-6db2520af0fe
+UID:8d9330fc-41b5-491a-9e95-e6af932a2559
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20200129T190000
-DTEND;TZID=Europe/Berlin:20200129T220000
+DTSTAMP:20250211T163753
+DTSTART:20200129T190000
+DTEND:20200129T220000
 SUMMARY:Vortrag "Innovationsmotor Cloud Foundry!?" - Simon Roloff
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
 DESCRIPTION:"Create Apps\, Not the Platform" - Cloud Foundry verspricht\, 
@@ -737,11 +737,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>"Create Apps\, Not the Platform" - Cloud F
  Foundry überhaupt? Und hält sie\, was sie verspricht?</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:91e4b345-c06d-4d11-b37f-7ad1426c022e
+UID:c5709f7e-cb1f-4355-af44-47cf9e0201c1
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20191128T190000
-DTEND;TZID=Europe/Berlin:20191128T220000
+DTSTAMP:20250211T163753
+DTSTART:20191128T190000
+DTEND:20191128T220000
 SUMMARY:Vortrag "Advanced BDD Tests" - Maik Wagner
 LOCATION:Tallence AG\nNeißstraße 27\,02826 Görlitz
 DESCRIPTION:Hattest du auch schon mal das Problem\, dass du deine eigenen 
@@ -753,11 +753,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Hattest du auch schon mal das Problem\, da
  en.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:a6dcc667-8743-4b5a-8019-b2456e9f39f8
+UID:db7e6f63-8c50-48d7-bc64-0ccbcfbad9d2
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20190626T190000
-DTEND;TZID=Europe/Berlin:20190626T220000
+DTSTAMP:20250211T163753
+DTSTART:20190626T190000
+DTEND:20190626T220000
 SUMMARY:Vortrag "Wie gut kennst Du das Collections Framework?" - Thilo Fro
  tscher
 LOCATION:CIDEON Software & Services GmbH & Co. KG\nUntermarkt 25\,02826 G
@@ -779,11 +779,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>HashMap und ArrayList kennt jeder\, na kla
  ions.pdf">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:6f49b467-1c08-40cd-9f29-14d67559cc3b
+UID:6d297be4-7871-4cba-ba8d-83284dde7579
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20190529T190000
-DTEND;TZID=Europe/Berlin:20190529T220000
+DTSTAMP:20250211T163753
+DTSTART:20190529T190000
+DTEND:20190529T220000
 SUMMARY:Vortrag "OAuth 2.0/OpenIDConnect mit Keycloak" - Denny Israel
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
 DESCRIPTION:Der Vortrag erläutert zunächst die Grundlagen der Standards 
@@ -796,11 +796,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Der Vortrag erläutert zunächst die Grund
  Anwendung einbinden kann.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:48bd3733-3616-4af3-af78-c9893725976b
+UID:49e0efa7-a171-4943-8a08-88b6a516bed4
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20190424T190000
-DTEND;TZID=Europe/Berlin:20190424T220000
+DTSTAMP:20250211T163753
+DTSTART:20190424T190000
+DTEND:20190424T220000
 SUMMARY:Vortrag "It's a JDK jungle out there - oder wie es mit den neuen J
  ava-Versionen geordnet weitergeht" - Wolfgang Weigend
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
@@ -832,11 +832,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Mit dem JDK-Enhancement-Proposal (JEP 322)
  </p>
 END:VEVENT
 BEGIN:VEVENT
-UID:0a350220-2b6d-48eb-a4fc-b437b891823f
+UID:375d1823-f9a7-49c9-bf8f-c48b19cb1413
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20190327T190000
-DTEND;TZID=Europe/Berlin:20190327T220000
+DTSTAMP:20250211T163753
+DTSTART:20190327T190000
+DTEND:20190327T220000
 SUMMARY:Vortrag "Static-Site-Generators" - Manuel Mauky
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
 DESCRIPTION:Die Website der JUG Görlitz läuft fast Serverless. Natürlic
@@ -868,11 +868,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die Website der JUG Görlitz läuft fast <
  Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:4c13ef14-30d2-4fd8-8551-8ceca9b3dbe6
+UID:7750b379-5775-4a54-a194-3e26a5595d73
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20190227T190000
-DTEND;TZID=Europe/Berlin:20190227T220000
+DTSTAMP:20250211T163753
+DTSTART:20190227T190000
+DTEND:20190227T220000
 SUMMARY:Vortrag "Java Reflection: Classes behind the scenes" - Erik Jähne
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
 DESCRIPTION:Java Reflections sind ein Feature der Java Sprache und werden 
@@ -891,11 +891,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Java Reflections sind ein Feature der Java
  ors werden diese Möglichkeiten in dem Vortrag näher\nbetrachtet.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:43809356-1c44-4a21-8451-aa04bba1b349
+UID:e4c723de-e4f0-44d3-8c22-9e45b01944b8
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20190131T190000
-DTEND;TZID=Europe/Berlin:20190131T220000
+DTSTAMP:20250211T163753
+DTSTART:20190131T190000
+DTEND:20190131T220000
 SUMMARY:Vortrag "Java APIs - the missing manual" - Hendrik Ebbers
 LOCATION:CIDEON Software & Services GmbH & Co. KG\nUntermarkt 25\,02826 G
  örlitz
@@ -915,11 +915,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Anstelle über Microservices\, NO-SQL Lös
  hreibe\nich nebenläufigen Code der trotzdem wartbar ist?</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:d040b6eb-4a8b-4805-9bfd-398062f2b18e
+UID:b1f98d79-c8ad-4a4a-a943-8b0d908fd126
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20181123T190000
-DTEND;TZID=Europe/Berlin:20181123T220000
+DTSTAMP:20250211T163753
+DTSTART:20181123T190000
+DTEND:20181123T220000
 SUMMARY:Vortrag "Monadische Transaktionen" - Gregor Trefs
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
 DESCRIPTION:Spätestens seit Java 8 gibt es monadische Typen in Java. Aber
@@ -939,11 +939,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Spätestens seit Java 8 gibt es monadische
  adic_transactions.pdf">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:0dbe85d8-f9d4-469a-8029-dfca6a9ae74c
+UID:1b5602de-78b5-4edc-b3c8-4cc224999bae
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20180627T190000
-DTEND;TZID=Europe/Berlin:20180627T220000
+DTSTAMP:20250211T163753
+DTSTART:20180627T190000
+DTEND:20180627T220000
 SUMMARY:Vortrag "Immutable Data - Unveränderliche Daten im Griff" - Manue
  l Mauky
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
@@ -970,11 +970,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Unveränderliche Datenstrukturen sind ein
  Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:e58a9eee-623c-4f6b-a033-d48b6c6c7e23
+UID:9ba90359-1a69-41b4-8709-284f02fe4258
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20180530T190000
-DTEND;TZID=Europe/Berlin:20180530T220000
+DTSTAMP:20250211T163753
+DTSTART:20180530T190000
+DTEND:20180530T220000
 SUMMARY:Vortrag "GraphQL" - Stephan Strehler
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
 DESCRIPTION:Die RESTful-Architektur ist eine etablierte Möglichkeit\, Sch
@@ -997,11 +997,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die RESTful-Architektur ist eine etabliert
  \n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:ac25da94-3ef7-4bae-b386-53ed8b756706
+UID:c7a7add9-8304-4dab-bb08-42f268ce1092
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20180425T190000
-DTEND;TZID=Europe/Berlin:20180425T220000
+DTSTAMP:20250211T163753
+DTSTART:20180425T190000
+DTEND:20180425T220000
 SUMMARY:Vortrag "Kotlin" - Tobias Blaschke
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
 DESCRIPTION:Die Ankündigung der Unterstützung von Kotlin für die Androi
@@ -1021,11 +1021,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die Ankündigung der Unterstützung von Ko
  >Code auf Github</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:48879c40-89df-429d-84be-e27e85ad2947
+UID:f65bc069-3d88-4b00-aa19-3c3b71033cfc
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20180320T190000
-DTEND;TZID=Europe/Berlin:20180320T220000
+DTSTAMP:20250211T163753
+DTSTART:20180320T190000
+DTEND:20180320T220000
 SUMMARY:Vortrag "Mikro- vs. Makroarchitektur – Spielraum und Spielregeln
  " - Stefan Zörner
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
@@ -1044,11 +1044,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Während in einer klassischen Konzern-IT S
  und\nDomänenorientierung in das Entwurfsdoppel Makro und Mikro ein.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:79635962-d2f9-4018-b69d-d7d1da9c4594
+UID:c50bd346-259b-472b-ad25-9e107b5a6e0c
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20180228T190000
-DTEND;TZID=Europe/Berlin:20180228T220000
+DTSTAMP:20250211T163753
+DTSTART:20180228T190000
+DTEND:20180228T220000
 SUMMARY:Vortrag "Entwicklung von Java Applikationen auf der SAP Cloud Plat
  form" - Jens Leuschner\, Mariusz Zienkiewicz
 LOCATION:CIDEON Software & Services GmbH & Co. KG\nUntermarkt 25\,02826 G
@@ -1070,11 +1070,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die SAP Cloud Platform (SCP) beschreibt ei
   zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:f12619df-b261-43cd-b048-138dd6ae9a13
+UID:4f9ac363-5d64-4aed-bd68-6aea2bd8e99a
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20180131T190000
-DTEND;TZID=Europe/Berlin:20180131T220000
+DTSTAMP:20250211T163753
+DTSTART:20180131T190000
+DTEND:20180131T220000
 SUMMARY:Vortrag "Refactoring to a System of Systems" - Oliver Drotbohm
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
 DESCRIPTION:Beim Bauen monolithischer Systeme nutzen Entwicklerteams eine 
@@ -1096,11 +1096,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Beim Bauen monolithischer Systeme nutzen E
  -to-a-system-of-systems">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:35ee3fe6-a94f-4e0c-be96-e7abf612d1f8
+UID:6c1d1f4a-d6e6-4a54-80b5-b517f08798a5
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20171129T190000
-DTEND;TZID=Europe/Berlin:20171129T220000
+DTSTAMP:20250211T163753
+DTSTART:20171129T190000
+DTEND:20171129T220000
 SUMMARY:Vortrag "Neo4j: Panama Papers" - Michael Hunger
 LOCATION:SQS TestCenter Görlitz\nBrückenstraße 10\,02826 Görlitz
 DESCRIPTION:Im letzten Jahr waren die Panama Papers in aller Munde\, die J
@@ -1116,11 +1116,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Im letzten Jahr waren die Panama Papers in
  tlich verfügbar sind\, kann jetzt jeder zum Journalisten werden.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:a7b9bb83-42cb-4864-b4dd-1fdb50394270
+UID:a72dd99e-bfb5-4086-8e05-190ebccc4e5c
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20171025T190000
-DTEND;TZID=Europe/Berlin:20171025T220000
+DTSTAMP:20250211T163753
+DTSTART:20171025T190000
+DTEND:20171025T220000
 SUMMARY:Vortrag "Serverless Application - Who the heck needs a Server?" - 
  Lars Röwekamp
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
@@ -1143,11 +1143,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Kaum haben wir uns von dem klassischen Mon
   Media GmbH</strong>.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:a0b8d971-03c6-49ed-9a43-a54ad9ba86ef
+UID:d0bc5068-cf82-42ba-bd37-d86e4ad9a425
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20170830T190000
-DTEND;TZID=Europe/Berlin:20170830T220000
+DTSTAMP:20250211T163753
+DTSTART:20170830T190000
+DTEND:20170830T220000
 SUMMARY:Vortrag "Spracherkennung mit Amazon Alexa" - Andre Tepper\, Maik W
  agner
 LOCATION:DSER\nElisabethstraße 42/43\,02826 Görlitz
@@ -1163,11 +1163,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Amazon Alexa ist eine Smart-Home-Technolog
  >
 END:VEVENT
 BEGIN:VEVENT
-UID:c46ba1b3-e66b-4485-8683-f3d3892d7378
+UID:3b16d99b-221d-4339-a588-014085404adb
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20170531T190000
-DTEND;TZID=Europe/Berlin:20170531T220000
+DTSTAMP:20250211T163753
+DTSTART:20170531T190000
+DTEND:20170531T220000
 SUMMARY:Vortrag "React und React-Native: Functional UI Development für Br
  owser und mobile Endgeräte" - Manuel Mauky
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
@@ -1190,11 +1190,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>React ist eine von Facebook entwickelte Ja
  ammierung eingehen\, die React\nmeines Erachtens so besonders machen.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:ddfa526e-73d7-408e-b0ea-f465f855aa4a
+UID:bb94379f-7379-4c0a-8582-497b2e2cb4d6
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20170425T190000
-DTEND;TZID=Europe/Berlin:20170425T220000
+DTSTAMP:20250211T163753
+DTSTART:20170425T190000
+DTEND:20170425T220000
 SUMMARY:Vortrag "JDK 9" - Wolfgang Weigend
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
 DESCRIPTION:Nach der Ausdehnung vom JDK 9 Feature-Complete-Status\, begann
@@ -1225,11 +1225,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Nach der Ausdehnung vom JDK 9 Feature-Comp
  /a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:443237ae-1735-4d36-bfec-9a616b48fb0a
+UID:862b3a5d-78d6-4d95-8bed-1a13d6f31976
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20170322T190000
-DTEND;TZID=Europe/Berlin:20170322T220000
+DTSTAMP:20250211T163753
+DTSTART:20170322T190000
+DTEND:20170322T220000
 SUMMARY:Vortrag "Angular 2 für Java Entwickler" - Sven Hoffmann
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
 DESCRIPTION:Mit Angular bietet Google ein komponenten-basiertes Webframewo
@@ -1250,11 +1250,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Mit Angular bietet Google ein komponenten-
  downloads/juggr_angular.pdf">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:eb60db6f-6210-4994-82c0-b43293e9143f
+UID:9ba2856d-ea76-4daa-8917-768205cef998
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20170222T190000
-DTEND;TZID=Europe/Berlin:20170222T220000
+DTSTAMP:20250211T163753
+DTSTART:20170222T190000
+DTEND:20170222T220000
 SUMMARY:Vortrag "CSS\, Aha-Effekte und Perspektiven" - Uwe Manteuffel
 LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
 DESCRIPTION:CSS ist verwirrend\, entbehrt jeglicher Logik und rendert mein
@@ -1270,11 +1270,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>CSS ist verwirrend\, entbehrt jeglicher Lo
  nDa wird selbst JavaScript blass vor Neid.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:ac15359e-ab5a-4d08-85f3-edbf5a2463d3
+UID:dfc328fa-7903-40a0-93ab-7b1fbae5ef7f
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20170125T190000
-DTEND;TZID=Europe/Berlin:20170125T220000
+DTSTAMP:20250211T163753
+DTSTART:20170125T190000
+DTEND:20170125T220000
 SUMMARY:Vortrag "JUnit 5" - Stefan Bley
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
 DESCRIPTION:Unit Testing in Java - dafür ist JUnit das Werkzeug der Wahl.
@@ -1290,11 +1290,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Unit Testing in Java - dafür ist JUnit da
  -gr.de/downloads/juggr_jUnit5.pdf">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:57b6b333-67ee-488b-b742-22aea1ffbd7f
+UID:1cd9c5e5-a850-4bc4-a3f2-ecc2490bba60
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20161130T190000
-DTEND;TZID=Europe/Berlin:20161130T220000
+DTSTAMP:20250211T163753
+DTSTART:20161130T190000
+DTEND:20161130T220000
 SUMMARY:Vortrag "Inside JVM" - Michael Wiedeking
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
 DESCRIPTION:Wie funktioniert die virtuelle Maschine? Wo kommt der Just-in-
@@ -1306,11 +1306,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Wie funktioniert die virtuelle Maschine? W
  inem Blick unter die Haube der Java Virtual\nMachine.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:45d1c4bf-49d1-417a-adf1-6800fdea441b
+UID:3cabe36c-d703-4314-bf46-b9e835288b6b
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20160921T190000
-DTEND;TZID=Europe/Berlin:20160921T220000
+DTSTAMP:20250211T163753
+DTSTART:20160921T190000
+DTEND:20160921T220000
 SUMMARY:Vortrag "Kommunikationskultur im Softwareentwicklungsprozess" - Da
  niel Sernow
 LOCATION:SQS TestCenter Görlitz\nBrückenstraße 10\,02826 Görlitz
@@ -1326,11 +1326,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Im Vortrag von Daniel Sernow wird die Komm
  ranstaltungsort einweihen - siehe unten.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:1f42277d-94cc-4fd5-aee6-3abf5a38b4ab
+UID:6bd14cbe-836b-454b-aba8-99fbf797e609
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20160727T190000
-DTEND;TZID=Europe/Berlin:20160727T220000
+DTSTAMP:20250211T163753
+DTSTART:20160727T190000
+DTEND:20160727T220000
 SUMMARY:Vortrag "Testwerkzeuge für JavaFX" - Kay Grebenstein
 LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
 DESCRIPTION:Softwareentwicklungsprojekte leben vom Einsatz von modernen We
@@ -1348,11 +1348,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Softwareentwicklungsprojekte leben vom Ein
  >Wie werden die Testwerkzeuge in meine Toolkette eingebunden?</li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:3e5d7905-e9a1-45be-878a-9763857fc902
+UID:a7da1f48-9e2a-4d51-8648-fce9e3cc8bab
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20160525T190000
-DTEND;TZID=Europe/Berlin:20160525T220000
+DTSTAMP:20250211T163753
+DTSTART:20160525T190000
+DTEND:20160525T220000
 SUMMARY:Vortrag "Performance-Analyse mit inspectIT" - Mario Mann
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
 DESCRIPTION:In vielen Software-Projekten wissen häufig nicht nur Anwender
@@ -1381,11 +1381,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>In vielen Software-Projekten wissen häufi
  lay/HOME/inspectIT+Home</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:a901b7ad-55a4-423b-a12f-0186a64093e1
+UID:164d9ca0-94c1-4bb7-90dc-5fb684c1257e
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20160330T190000
-DTEND;TZID=Europe/Berlin:20160330T220000
+DTSTAMP:20250211T163753
+DTSTART:20160330T190000
+DTEND:20160330T220000
 SUMMARY:Vortrag "Haskell und Frege" - Manuel Mauky
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
 DESCRIPTION:Haskell ist eine funktionale Programmiersprache\, die das Para
@@ -1406,11 +1406,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Haskell ist eine funktionale Programmiersp
  r JVM eine rein funktionale Sprache\nbereit.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:83be5854-59e7-4b61-b215-d203add1ce00
+UID:7d7130fa-f01e-4764-a727-864c6a23681b
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20160127T190000
-DTEND;TZID=Europe/Berlin:20160127T220000
+DTSTAMP:20250211T163753
+DTSTART:20160127T190000
+DTEND:20160127T220000
 SUMMARY:Vortrag "Funktionale Programmierung mit Java" - Manuel Mauky\, Max
   Wielsch
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
@@ -1449,11 +1449,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Mit Java 8 wurden einige Features in die S
   Y-Combinator in Java</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:0f946a1e-c2a4-40b1-96a9-3512f37cfe04
+UID:28f95edd-d3bd-4293-ab89-1a2a95330cf0
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20151125T190000
-DTEND;TZID=Europe/Berlin:20151125T220000
+DTSTAMP:20250211T163753
+DTSTART:20151125T190000
+DTEND:20151125T220000
 SUMMARY:Vortrag "JavaFX auf Mobile" - Stefan Barth\, Stefan Heinze
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
 DESCRIPTION:JavaFX ist die neue Java-Technologie im Desktop-Bereich und so
@@ -1479,11 +1479,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>JavaFX ist die neue Java-Technologie im De
  avafx_on_mobile.pdf">Vortragsfolien</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:09e5cac0-bbbc-4e52-9ae8-b35c73a03496
+UID:ece34316-7b3e-43b3-af44-ed7b1f578119
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20150930T190000
-DTEND;TZID=Europe/Berlin:20150930T220000
+DTSTAMP:20250211T163753
+DTSTART:20150930T190000
+DTEND:20150930T220000
 SUMMARY:Vortrag "Guava" - Steffen Seidler
 LOCATION:DSER\nElisabethstraße 42/43\,02826 Görlitz
 DESCRIPTION:Das Framework Guava wurde von Google geschaffen\, um eine einh
@@ -1515,11 +1515,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Das Framework <a href="https://github.com/
  Handling\, Funktionale Ansätze\, Ranges\, ReflectionUtils)</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:ff9c2d56-3de9-4724-b2b0-0d652ae85f95
+UID:0ba6e131-e327-44ee-bd3f-5a99ede86b99
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20150729T190000
-DTEND;TZID=Europe/Berlin:20150729T220000
+DTSTAMP:20250211T163753
+DTSTART:20150729T190000
+DTEND:20150729T220000
 SUMMARY:Vortrag "Regelbasierte Systeme mit JBoss Drools" - Paul Weinhold
 LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
 DESCRIPTION:Drools ist ein Business-Rules-Mangement-System\, mit dem sich 
@@ -1536,11 +1536,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Drools ist ein Business-Rules-Mangement-Sy
  en</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:925151d4-6cf0-4a88-a192-a128ea1f210d
+UID:f98c1033-1d2d-4cbc-aad2-440af83503a5
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20150527T190000
-DTEND;TZID=Europe/Berlin:20150527T220000
+DTSTAMP:20250211T163753
+DTSTART:20150527T190000
+DTEND:20150527T220000
 SUMMARY:Vortrag "Fortgeschrittene Android-Entwicklung" - Max Wielsch
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
 DESCRIPTION:Aufbauend auf dem letzten Beitrag der Java User Group Görlitz
@@ -1558,11 +1558,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Aufbauend auf dem letzten Beitrag der Java
  /muxmax/JugGrNotesApp">Beispiel-Code</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:d7e69bd2-511d-44e8-9f5a-464bd0335f53
+UID:06e42a01-7087-41b1-b511-58212c9ddfab
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20150325T190000
-DTEND;TZID=Europe/Berlin:20150325T220000
+DTSTAMP:20250211T163753
+DTSTART:20150325T190000
+DTEND:20150325T220000
 SUMMARY:Vortrag "Einstieg in die Android-App-Entwicklung" - Max Wielsch
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
 DESCRIPTION:Smartphones und Apps sind für viele Menschen mittlerweile une
@@ -1585,11 +1585,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Smartphones und Apps sind für viele Mensc
  -Code</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:103cf2b3-a503-4bcc-8cfa-04a6d727430c
+UID:bd72be83-52c3-489d-8f1f-7f0e87c2adab
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20150128T190000
-DTEND;TZID=Europe/Berlin:20150128T220000
+DTSTAMP:20250211T163753
+DTSTART:20150128T190000
+DTEND:20150128T220000
 SUMMARY:Vortrag "MoSKito - Monitoring Framework" - Steffen Seidler
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:Es wird immer wichtiger WebAnwendungen überwachen zu können\
@@ -1614,11 +1614,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Es wird immer wichtiger WebAnwendungen üb
  interessant sein.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:aa145690-984f-478b-a688-df3c1dbf1071
+UID:ec295cf6-299b-438f-8a7b-e88aa2c12d60
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20141203T190000
-DTEND;TZID=Europe/Berlin:20141203T220000
+DTSTAMP:20250211T163753
+DTSTART:20141203T190000
+DTEND:20141203T220000
 SUMMARY:Vortrag "Model-View-*: UI-Design-Patterns im Detail" - Manuel Mauk
  y
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
@@ -1651,11 +1651,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die meisten Softwareentwickler haben irgen
  github.com/lestard/juggr_model-view-star">Code auf Github</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:ea8e267f-5166-4c05-8733-e8998c916ef6
+UID:7f61470b-3e65-4c30-9e84-8d54611c8f19
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20141029T190000
-DTEND;TZID=Europe/Berlin:20141029T220000
+DTSTAMP:20250211T163753
+DTSTART:20141029T190000
+DTEND:20141029T220000
 SUMMARY:Vortrag "Infrastructure as Code" - Bruno Devic
 LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
 DESCRIPTION:Infrastructure as Code is one of the important cornerstones of
@@ -1682,11 +1682,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Infrastructure as Code is one of the impor
  emo.zip">Demos</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:49db1f14-6af1-47ae-8725-94b3e9d8a56f
+UID:70b56f1e-3ec1-4cd6-b129-831b1b47e245
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20140924T190000
-DTEND;TZID=Europe/Berlin:20140924T220000
+DTSTAMP:20250211T163753
+DTSTART:20140924T190000
+DTEND:20140924T220000
 SUMMARY:Vortrag "Solr - Eine Enterprise-Suchmaschine" - Steffen Seidler
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:Solr ist ein mächtiges Werkzeug um strukturierte Dokumente du
@@ -1709,11 +1709,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Solr ist ein mächtiges Werkzeug um strukt
  rden.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:1c5769ab-0e3e-407c-99b2-94916ea2d61a
+UID:bffcc27b-969b-46ad-a264-b5d741948659
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20140730T190000
-DTEND;TZID=Europe/Berlin:20140730T220000
+DTSTAMP:20250211T163753
+DTSTART:20140730T190000
+DTEND:20140730T220000
 SUMMARY:Vortrag "Java8 - Streams und Lambdas" - Paul Weinhold
 LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
 DESCRIPTION:Seit April ist die neue Version 8 von Java offiziell verfügba
@@ -1735,11 +1735,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Seit April ist die neue Version 8 von Java
  loads/juggr_java8.pdf">Vortragsfolien</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:e1bc196a-942c-40cf-99d8-4a3f0840b7c5
+UID:92cb3542-f994-405a-8697-3a33747cbd13
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20140528T190000
-DTEND;TZID=Europe/Berlin:20140528T220000
+DTSTAMP:20250211T163753
+DTSTART:20140528T190000
+DTEND:20140528T220000
 SUMMARY:Vortrag "Hazelcast - Synchronisation von In-Memory-Daten" - Steffe
  n Seidler
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
@@ -1757,11 +1757,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Hazelcast ist ein vielseitiges Framework z
  weiterer (Backup-)Knoten steigern.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:10cd526e-eb0c-47bb-8e28-7620584f5c85
+UID:bce7698e-fe27-4c02-822c-c3163f098f9b
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20140402T190000
-DTEND;TZID=Europe/Berlin:20140402T220000
+DTSTAMP:20250211T163753
+DTSTART:20140402T190000
+DTEND:20140402T220000
 SUMMARY:Vortrag "Besser lesbare Unittests mit AssertJ" - Manuel Mauky
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
 DESCRIPTION:Damit Testgetriebene Entwicklung in der Praxis funktionieren k
@@ -1796,11 +1796,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Damit Testgetriebene Entwicklung in der Pr
  arke Unittests schreiben zu können.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:5990d404-2af1-4cae-ae9f-a80c4106be5d
+UID:22f3b7d0-72e4-4ba0-bfc7-21651b618dd1
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20140129T190000
-DTEND;TZID=Europe/Berlin:20140129T220000
+DTSTAMP:20250211T163753
+DTSTART:20140129T190000
+DTEND:20140129T220000
 SUMMARY:Vortrag "Tool-Integration im Softwareentwicklungsprozess" - Max Wi
  elsch
 LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
@@ -1828,11 +1828,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Tool-Integration im Softwareentwicklungspr
   Architektur\nausgehend von einem Fallbeispiel erläutert wird.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:2d9b739d-dd5c-4ec3-8b3b-202f2309b6ab
+UID:80ff503e-63ba-4f6e-98c1-52ebfa9a9fc5
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20131127T190000
-DTEND;TZID=Europe/Berlin:20131127T220000
+DTSTAMP:20250211T163753
+DTSTART:20131127T190000
+DTEND:20131127T220000
 SUMMARY:Vortrag "Performance-Optimierung im Web" - Maik Wagner
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:Google und Microsoft haben Studien zum Thema "Ladezeiten von W
@@ -1846,11 +1846,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Google und Microsoft haben Studien zum The
  nt sich also\, in die\nPerformance einer Webanwendung zu investieren.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:a3874836-292d-4705-a53c-50a8226ddf84
+UID:ceea2dba-6e87-4c9e-8920-db389cbc70a8
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20131030T190000
-DTEND;TZID=Europe/Berlin:20131030T220000
+DTSTAMP:20250211T163753
+DTSTART:20131030T190000
+DTEND:20131030T220000
 SUMMARY:Vortrag "Modernes App-Design am Beispiel von Android" - Max Wielsc
  h
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
@@ -1869,11 +1869,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die Android-Plattform hat sich in den letz
  endbar sind.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:e4444ca4-e324-40f1-a2ba-5427141ca86d
+UID:5194bf70-82b9-4c9e-8f33-d0c93d227e45
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20130731T190000
-DTEND;TZID=Europe/Berlin:20130731T220000
+DTSTAMP:20250211T163753
+DTSTART:20130731T190000
+DTEND:20130731T220000
 SUMMARY:Vortrag "Persona - Werkzeug für die GUI-Entwicklung" - Marlene Kn
  oche
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
@@ -1888,11 +1888,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>In diesem Vortrag von <strong>Marlene Knoc
  li><a href="/downloads/juggr_personas.pdf">Vortragsfolien</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:d9c982ae-5ffe-45ce-b7b3-855f2dda2aa5
+UID:b179b96d-84ce-408b-865f-638215cfda12
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20130529T190000
-DTEND;TZID=Europe/Berlin:20130529T220000
+DTSTAMP:20250211T163753
+DTSTART:20130529T190000
+DTEND:20130529T220000
 SUMMARY:Vortrag "JRuby - Ruby auf der Java VM" - Sebastian Schmeck
 LOCATION:Hochschule Zittau/Görlitz\nBrückenstraße 1\,02826 Görlitz
 DESCRIPTION:Sebastian Schmeck von der Saxonia Systems AG aus Dresden wird 
@@ -1911,11 +1911,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p><strong>Sebastian Schmeck</strong> von der
  >
 END:VEVENT
 BEGIN:VEVENT
-UID:b40eea7c-d2ce-4854-aeb6-6cae6c4070ad
+UID:a3052b29-44b4-45ea-b871-193d8193020a
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20130327T190000
-DTEND;TZID=Europe/Berlin:20130327T220000
+DTSTAMP:20250211T163753
+DTSTART:20130327T190000
+DTEND:20130327T220000
 SUMMARY:Vortrag "Lego NXT-Roboter mit Java programmieren" - Erik Jähne
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:Dieses Mal dreht sich alles um Roboter. Erik Jähne beschäfti
@@ -1931,11 +1931,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Dieses Mal dreht sich alles um Roboter. <s
  =1oIQh48fBDI">https://www.youtube.com/watch?v=1oIQh48fBDI</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:459e1cae-bfb0-41ba-b7bd-b3a7f8d726d2
+UID:82bebf7a-ea17-48c3-88eb-d3e03810dd70
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20121128T190000
-DTEND;TZID=Europe/Berlin:20121128T220000
+DTSTAMP:20250211T163753
+DTSTART:20121128T190000
+DTEND:20121128T220000
 SUMMARY:Vortrag "JavaFX 2" - Alexander Casall\, Michael Thiele
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
 DESCRIPTION:Als Vortragende konnten wir Alexander Casall und Michael Thiel
@@ -1953,11 +1953,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Als Vortragende konnten wir Alexander Casa
  https://github.com/sialcasa/jfxusergroup</a>)</li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:bdec1b06-59a6-4b2b-8421-46ea55b4aed1
+UID:4bd9442e-3750-4d94-9851-9bcda038b167
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20120926T190000
-DTEND;TZID=Europe/Berlin:20120926T220000
+DTSTAMP:20250211T163753
+DTSTART:20120926T190000
+DTEND:20120926T220000
 SUMMARY:Vortrag "JSR-303 BeanValidation" - Manuel Mauky
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
 DESCRIPTION:Manuel Mauky stellt in seinem Vortrag den zu JavaEE 6 gehören
@@ -1980,11 +1980,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p><strong>Manuel Mauky</strong> stellt in se
  d/juggr_BeanValidation">Beispiel-Code</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:bead12d9-55a5-4f0e-8f95-07c6d793062f
+UID:2963f308-08db-47fa-9e18-01b2e71e50be
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20120725T190000
-DTEND;TZID=Europe/Berlin:20120725T220000
+DTSTAMP:20250211T163753
+DTSTART:20120725T190000
+DTEND:20120725T220000
 SUMMARY:Vortrag "Selenium/Webdriver in der Praxis" - Maik Wagner
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:Selenium/webdriver - In Ergänzung zu der Vorstellung von Marc
@@ -1994,11 +1994,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Selenium/webdriver - In Ergänzung zu der
  it praktischen\nBeispielen von Maik Wagner</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:657435d6-c090-4dbb-86d8-78f8d2d7b9b2
+UID:294b7a6c-47d8-48ec-922c-0fef03bfe55d
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20120627T190000
-DTEND;TZID=Europe/Berlin:20120627T220000
+DTSTAMP:20250211T163753
+DTSTART:20120627T190000
+DTEND:20120627T220000
 SUMMARY:Vortrag "GridGain - Parallel Computing und Data Grid Anwendungen" 
  - Mario Reichel
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
@@ -2008,11 +2008,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>GridGain - ein Java-Framework für Paralle
  l Computing und Data Grid Anwendungen von Mario Reichel</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:716252f7-b3ed-47ee-9991-5540edfd2cc8
+UID:1d1f520c-2f5d-4867-9337-a3aaf4a0961a
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20120530T190000
-DTEND;TZID=Europe/Berlin:20120530T220000
+DTSTAMP:20250211T163753
+DTSTART:20120530T190000
+DTEND:20120530T220000
 SUMMARY:Vortrag "JMonkeyEngine 3 - 3D-Applikationen in Java" - Hans Markwa
  rt
 LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
@@ -2022,11 +2022,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>JMonkeyEngine3 und im Allgemeinen 3D-Appli
  kationen in Java von Hans Markwart</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:40286a4b-ae30-42c5-bc62-4a03c7695c89
+UID:38f2add2-f015-432d-842f-dd53895a2634
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20120425T190000
-DTEND;TZID=Europe/Berlin:20120425T220000
+DTSTAMP:20250211T163753
+DTSTART:20120425T190000
+DTEND:20120425T220000
 SUMMARY:Vortrag "Maven" - Thomas Storch
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:maven von Thomas Storch Folien Beispiel-Code
@@ -2035,11 +2035,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p><strong>maven</strong> von Thomas Storch</
  ownloads/code_maven.zip">Beispiel-Code</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:74973f29-3fdc-450a-8c68-fd32501d4dc1
+UID:1dc50921-c496-471c-9bda-965d22cf17bc
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20120328T190000
-DTEND;TZID=Europe/Berlin:20120328T220000
+DTSTAMP:20250211T163753
+DTSTART:20120328T190000
+DTEND:20120328T220000
 SUMMARY:Vortrag "Webtests mit Selenium" - Marcus Döring
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
 DESCRIPTION:Webtests mit Selenium von Marcus Döring
@@ -2047,11 +2047,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p><strong>Webtests mit Selenium</strong> von
   Marcus Döring</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:d3c85258-2455-43eb-8aba-1c71c3abc783
+UID:77e81f9c-7e99-4c77-ad17-1db1ed494ffc
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20120229T190000
-DTEND;TZID=Europe/Berlin:20120229T220000
+DTSTAMP:20250211T163753
+DTSTART:20120229T190000
+DTEND:20120229T220000
 SUMMARY:Vortrag "Webentwicklung mit Scala" - Stefan Bradl
 LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
 DESCRIPTION:Webentwicklung mit Scala von Stefan Bradl
@@ -2059,11 +2059,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p><strong>Webentwicklung mit Scala</strong>
  von Stefan Bradl</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:5991cab3-1b84-4da8-baa7-1c9985ea2f87
+UID:1f562f22-b33e-4e7f-90c5-fa4b97c5bd8c
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20120125T190000
-DTEND;TZID=Europe/Berlin:20120125T220000
+DTSTAMP:20250211T163753
+DTSTART:20120125T190000
+DTEND:20120125T220000
 SUMMARY:Vortrag "Advanced JSF und CDI" - Manuel Mauky
 LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
 DESCRIPTION:Dieser Vortrag baut auf den Vortrag zur "Einführung in JavaSe
@@ -2082,11 +2082,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Dieser Vortrag baut auf den Vortrag zur <a
   einander entkoppelt werden können.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:deda7609-45ac-4585-be3e-29605b26cfa2
+UID:2ff99f50-fe75-4db9-8599-20e87c4496fc
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20120104T190000
-DTEND;TZID=Europe/Berlin:20120104T220000
+DTSTAMP:20250211T163753
+DTSTART:20120104T190000
+DTEND:20120104T220000
 SUMMARY:Vortrag "JPA - Hibernate" - Marko Modsching
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:JPA - Hibernate von Marko Modsching Materialien: Vortragsfolie
@@ -2097,11 +2097,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p><strong>JPA - Hibernate</strong> von Marko
  downloads/code_hibernate.zip">Beispiel-Code</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:e16a3b35-495e-4156-9db4-0e6dfe787941
+UID:3cb857cb-5602-4d91-bcdc-7fa5fc2c9c1f
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20111130T190000
-DTEND;TZID=Europe/Berlin:20111130T220000
+DTSTAMP:20250211T163753
+DTSTART:20111130T190000
+DTEND:20111130T220000
 SUMMARY:Vortrag "JavaServer Faces 2 und CDI" - Manuel Mauky
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
 DESCRIPTION:Der Vortrag bietet eine Einführung in JavaServer Faces 2 und 
@@ -2123,11 +2123,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Der Vortrag bietet eine Einführung in <st
  jsf_cdi">Code auf github</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:1bc4a122-a44b-4b62-ad8c-acf71d9a4c94
+UID:58d87197-8dd1-420f-97f2-9626c5ff7f49
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20111026T190000
-DTEND;TZID=Europe/Berlin:20111026T220000
+DTSTAMP:20250211T163753
+DTSTART:20111026T190000
+DTEND:20111026T220000
 SUMMARY:Vortrag "Android" - Max Wielsch
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:Mit einem Vortrag und der Programmierung einer Biepsiel-App f
@@ -2145,11 +2145,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Mit einem Vortrag und der Programmierung e
  -vortrag-in-der-java-user.html">Blog</a> heruntergeladen werden.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:50b3257a-0b48-4d53-93fd-6f110e756be7
+UID:bdc2a61d-b6df-4752-b36b-4251c92b8c6b
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20110928T190000
-DTEND;TZID=Europe/Berlin:20110928T220000
+DTSTAMP:20250211T163753
+DTSTART:20110928T190000
+DTEND:20110928T220000
 SUMMARY:Vortrag "JDOM" - Mark Ziener
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:JDOM- Einlesen\, Verändern und Erzeugen von XML-Dokumenten (M
@@ -2158,11 +2158,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>JDOM- Einlesen\, Verändern und Erzeugen v
  on XML-Dokumenten (Mark Ziener)</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:5c672701-b558-4cbb-a88b-1d2564d959c0
+UID:e58dd95b-ce64-43da-962b-a87e33f6b008
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20110928T190000
-DTEND;TZID=Europe/Berlin:20110928T220000
+DTSTAMP:20250211T163753
+DTSTART:20110928T190000
+DTEND:20110928T220000
 SUMMARY:Vortrag "Single Sign-On mit JAAS und JGSS" - Mario Reichel
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:Vom Single Sign-On zum sicheren Kanal - Authentifizierung und 
@@ -2171,11 +2171,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Vom Single Sign-On zum sicheren Kanal - Au
  thentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:603171a7-d54c-4b1f-9d6c-7068e5038810
+UID:fff4353b-16b0-46a1-85b7-ecee4a18311e
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20110831T190000
-DTEND;TZID=Europe/Berlin:20110831T220000
+DTSTAMP:20250211T163753
+DTSTART:20110831T190000
+DTEND:20110831T220000
 SUMMARY:Vortrag "Testen - Patterns und Best Practices" - Marko Modsching
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:Das Thema wird diesmal Testen sein. Marko Modsching wird Testp
@@ -2184,11 +2184,22 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Das Thema wird diesmal Testen sein. Marko
  Modsching wird Testpatterns und Best Practices vorstellen</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:22729b29-9cfe-41e6-a068-86f964798405
+UID:26e88b70-ac65-41f7-95c8-c922e4b6b7ec
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20110727T190000
-DTEND;TZID=Europe/Berlin:20110727T220000
+DTSTAMP:20250211T163753
+DTSTART:20110727T190000
+DTEND:20110727T220000
+SUMMARY:Vortrag "TestNG" - Marcus Döring
+LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
+DESCRIPTION:TestNG (Marcus Döring)
+X-ALT-DESC;FMTTYPE=text/html:<p>TestNG (Marcus Döring)</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:c546c03f-fb9e-4db0-bdcf-70bc0d944df3
+SEQUENCE:0
+DTSTAMP:20250211T163753
+DTSTART:20110727T190000
+DTEND:20110727T220000
 SUMMARY:Vortrag "Scala" - Stefan Bradl
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:Scala - Vorstellung der Sprache\, Demo und das Testen (Stefan 
@@ -2199,22 +2210,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Scala - Vorstellung der Sprache\, Demo und
   href="/downloads/code_scala.zip">Beispiel-Code</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:e503a727-977f-48f6-9f73-966f112026c4
+UID:1f9d6830-6a96-408e-8453-55e56c299baf
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20110727T190000
-DTEND;TZID=Europe/Berlin:20110727T220000
-SUMMARY:Vortrag "TestNG" - Marcus Döring
-LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
-DESCRIPTION:TestNG (Marcus Döring)
-X-ALT-DESC;FMTTYPE=text/html:<p>TestNG (Marcus Döring)</p>
-END:VEVENT
-BEGIN:VEVENT
-UID:123a3415-3256-4e5b-94af-eae0e512796a
-SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20110629T190000
-DTEND;TZID=Europe/Berlin:20110629T220000
+DTSTAMP:20250211T163753
+DTSTART:20110629T190000
+DTEND:20110629T220000
 SUMMARY:Vortrag "JavaEE und JBoss" - Michael Förster
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:Diesmal stellt Michael Förster Java EE vor. Es wird sowohl Ei
@@ -2224,11 +2224,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Diesmal stellt Michael Förster Java EE vo
  ele\ngeben.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:f5a85ebb-c28a-48f2-832a-691a6f1143b9
+UID:46a6bea6-14ec-4c6e-ab68-e33acd4b98ad
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20110527T190000
-DTEND;TZID=Europe/Berlin:20110527T220000
+DTSTAMP:20250211T163753
+DTSTART:20110527T190000
+DTEND:20110527T220000
 SUMMARY:Vortrag "Google Guice" - Robert Wirbs
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:Google Guice - Dependency Injection (DI) und Aspect-Orientiert
@@ -2237,11 +2237,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Google Guice - Dependency Injection (DI) u
  nd Aspect-Orientierte Programmierung (AOP) von Robert Wirbs</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:7edc6d2d-57b4-4f6a-9719-20ee4b23945b
+UID:345a1b10-730d-4283-8237-f960b3e609ff
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20110427T190000
-DTEND;TZID=Europe/Berlin:20110427T220000
+DTSTAMP:20250211T163753
+DTSTART:20110427T190000
+DTEND:20110427T220000
 SUMMARY:Vortrag "GWT - Google Web Toolkit" - Ingo Körner
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:GWT - Google Web Toolkit (Ingo Körner)
@@ -2249,11 +2249,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>GWT - Google Web Toolkit (Ingo Körner)</p
  >
 END:VEVENT
 BEGIN:VEVENT
-UID:b1580293-bed6-4531-9eed-f49a1fc9a504
+UID:050ee125-8555-4a75-b86a-3baaaf75673c
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20110427T190000
-DTEND;TZID=Europe/Berlin:20110427T220000
+DTSTAMP:20250211T163753
+DTSTART:20110427T190000
+DTEND:20110427T220000
 SUMMARY:Vortrag "OSGi mit SpringDM" - Manuel Mauky
 LOCATION:DSER\nSteinstraße 11\,02826 Görlitz
 DESCRIPTION:Die OSGi beschreibt eine spezifikation\, auf deren Basis Softw
@@ -2273,11 +2273,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die OSGi beschreibt eine spezifikation\, a
  ing_dm.pdf">Vortragsfolien</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:78db1039-4174-4f6e-acb1-8bd0ca2852c7
+UID:0597ed17-f709-4262-818f-e74da83db5f7
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20110322T190000
-DTEND;TZID=Europe/Berlin:20110322T220000
+DTSTAMP:20250211T163753
+DTSTART:20110322T190000
+DTEND:20110322T220000
 SUMMARY:Vortrag "EasyMock" - Richard Hauswald
 LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
 DESCRIPTION:EasyMock - Was ist ein Mock?\, Warum sollte ich mocken? Was is
@@ -2288,11 +2288,11 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="http://easymock.org/">EasyMock</a
  et.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:1549763c-eaee-4996-9f6a-7a9c2abe3b57
+UID:221f0403-ae91-43ff-929b-efb6b2a88450
 SEQUENCE:0
-DTSTAMP:20250122T193248
-DTSTART;TZID=Europe/Berlin:20110322T190000
-DTEND;TZID=Europe/Berlin:20110322T220000
+DTSTAMP:20250211T163753
+DTSTART:20110322T190000
+DTEND:20110322T220000
 SUMMARY:Vortrag "Jenkins/Hudson" - Stefan Scheumann
 LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
 DESCRIPTION:Hudson bzw. Jenkins ist ein Build-Server\, der für\nContinuou
