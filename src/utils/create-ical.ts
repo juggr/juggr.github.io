@@ -62,13 +62,11 @@ export const createIcal = ({
   icalTargetPath,
   icalUrl,
   icalName,
-  icalTimezone = "Europe/Berlin",
 }: {
   graphql: any
   icalTargetPath: string
   icalUrl: string
   icalName: string
-  icalTimezone?: string
 }) => {
   return graphql(`
     {
@@ -142,7 +140,6 @@ export const createIcal = ({
     const cal = ical({
       url: icalUrl,
       name: icalName,
-      timezone: icalTimezone,
     })
 
     talks.forEach((talk) => {
@@ -177,8 +174,8 @@ export const createIcal = ({
       }
 
       cal.createEvent({
-        start: start.toJSDate(),
-        end: end.toJSDate(),
+        start,
+        end,
         summary: `Vortrag "${title}" - ${speakerNodes.map((node) => node.frontmatter.name).join(", ")}`,
         description: {
           plain: excerpt,
@@ -204,4 +201,8 @@ const writeIcalFile = (content, icalTargetPath) => {
 export const createDate = (date: FrontmatterDate, time: FrontmatterTime): DateTime => {
   const iso = `${date.split("T")[0]}T${time}`
   return DateTime.fromISO(iso)
+    // make sure that the time is defined in german time
+    .setZone("Europe/Berlin", {keepLocalTime: true})
+    // then transform to UTC to be compliant with ical standard
+    .toUTC()
 }
