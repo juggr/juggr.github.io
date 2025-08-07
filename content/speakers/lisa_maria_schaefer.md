@@ -1,6 +1,6 @@
 ---
 name: Lisa Maria Schäfer
-pic: ../images/persons/lisa_maria_schaefer.JPG
+pic: ../images/persons/lisa_maria_schaefer.jpg
 ---
 
 Lisa ist Produkt- und Marketingmanagerin beim IT-Trainingsanbieter Socreatory, wo sie nicht mehr nur Trainings gibt, 
