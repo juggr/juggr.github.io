@@ -3,6 +3,7 @@ title: "Sketchnotes in der IT"
 date: 2025-09-24
 speaker: [ lisa_maria_schaefer ]
 tags: [ softwareentwicklung ]
+location: zeiss
 ---
 
 Jeder von uns macht in seinem Berufsalltag unzählige Notizen - von Vorträgen, Meetings, komplexen Aufgaben, ...
