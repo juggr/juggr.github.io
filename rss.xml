@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Thu, 07 Aug 2025 14:48:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Sep 2025 18:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -19,7 +19,13 @@
       <p>Date: September 24, 2025, 19:00 Uhr</p>
       <p>Speakers: Lisa Maria Schäfer</p>
       <p>Location:</p>
-      wird noch bekannt gegeben
+      <address>
+        Carl Zeiss Digital Innovation
+        <br />
+        Berliner Straße 63
+        <br />
+        02826 Görlitz
+      </address>
   ]]></description>
             <content:encoded><![CDATA[<p>Jeder von uns macht in seinem Berufsalltag unzählige Notizen - von Vorträgen, Meetings, komplexen Aufgaben, ...
 Die meisten dieser Notizen leiden unter dem „Lang-und-unleserlich”-Syndrom, weswegen sie schnell im Altpapier landen. Oft helfen diese Notizen nicht dabei, sich an die wichtigen Dinge zu erinnern. Dabei haben wir sie doch genau dafür erstellt!</p>
@@ -2495,26 +2501,6 @@ geben.</p>]]></content:encoded>
             <content:encoded><![CDATA[<p>Google Guice - Dependency Injection (DI) und Aspect-Orientierte Programmierung (AOP) von Robert Wirbs</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[GWT - Google Web Toolkit]]></title>
-            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
-            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
-            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>GWT - Google Web Toolkit</h1>
-      <p>Date: April 27, 2011, 19:00 Uhr</p>
-      <p>Speakers: Ingo Körner</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[OSGi mit SpringDM]]></title>
             <link>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</link>
             <guid>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</guid>
@@ -2543,6 +2529,26 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 <ul>
 <li><a href="/downloads/juggr_osgi_spring_dm.pdf">Vortragsfolien</a></li>
 </ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[GWT - Google Web Toolkit]]></title>
+            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
+            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
+            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>GWT - Google Web Toolkit</h1>
+      <p>Date: April 27, 2011, 19:00 Uhr</p>
+      <p>Speakers: Ingo Körner</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[EasyMock]]></title>
