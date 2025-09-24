@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2025-09-10T13:25:35.374Z</updated>
+    <updated>2025-09-24T12:30:33.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
     <rights>CC-0</rights>
+    <entry>
+        <title type="html"><![CDATA[Fullstack-Entwicklung mit Vaadin - Verbindung zwischen Frontends und Backends mit Java]]></title>
+        <id>https://jug-gr.de/talks/2025-11-13-vaadin/</id>
+        <link href="https://jug-gr.de/talks/2025-11-13-vaadin/"/>
+        <updated>2025-11-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>Fullstack-Entwicklung mit Vaadin - Verbindung zwischen Frontends und Backends mit Java</h1>
+      <p>Date: November 13, 2025, 19:00 Uhr</p>
+      <p>Speakers: Sebastian Kühnau</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></summary>
+        <content type="html"><![CDATA[<p>Die Webentwicklung hat sich in den letzten Jahren dank TypeScript und moderner Web-Frameworks deutlich weiterentwickelt.
+Heutige Webanwendungen integrieren verschiedene Technologien, um unterschiedliche Datenquellen zu verarbeiten und nativ
+auf unterschiedlichen Geräten zu laufen.
+Vaadin bietet eine effiziente Lösung für die Erstellung jeder Art von Webanwendung unter Verwendung moderner
+Webtechnologien mit Java. Es bietet eine umfassende UI-Bibliothek mit über 50 barrierefreien Web-Komponenten, leicht
+anpassbare Stile, eine intuitive Java-API und automatisierte Server-Client-Kommunikation. Vaadin ermöglicht die
+vollständige Entwicklung von Java-Webanwendungen und lässt sich bei Bedarf nahtlos mit modernen Front-End-Technologien
+wie React integrieren. Die Plattform betont die Einfachheit und erlaubt es Entwicklern, sich auf die geschäftlichen
+Anforderungen zu konzentrieren und nicht auf technische Details.
+In meinem Vortrag werde ich Vaadin, seine Tools und Komponenten vorstellen, die wichtigsten Funktionen der Plattform
+hervorheben und anhand einer praktischen Demo zeigen, wie einfach es ist, moderne Webanwendungen zu implementieren.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sketchnotes in der IT]]></title>
         <id>https://jug-gr.de/talks/2025-09-24-sketchnotes-in-der-it/</id>
@@ -2499,6 +2523,26 @@ geben.</p>]]></content>
         <content type="html"><![CDATA[<p>Google Guice - Dependency Injection (DI) und Aspect-Orientierte Programmierung (AOP) von Robert Wirbs</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GWT - Google Web Toolkit]]></title>
+        <id>https://jug-gr.de/talks/2011-04-27-gwt/</id>
+        <link href="https://jug-gr.de/talks/2011-04-27-gwt/"/>
+        <updated>2011-04-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>GWT - Google Web Toolkit</h1>
+      <p>Date: April 27, 2011, 19:00 Uhr</p>
+      <p>Speakers: Ingo Körner</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></summary>
+        <content type="html"><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OSGi mit SpringDM]]></title>
         <id>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</id>
         <link href="https://jug-gr.de/talks/2011-04-27-osgi_springdm/"/>
@@ -2529,24 +2573,25 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GWT - Google Web Toolkit]]></title>
-        <id>https://jug-gr.de/talks/2011-04-27-gwt/</id>
-        <link href="https://jug-gr.de/talks/2011-04-27-gwt/"/>
-        <updated>2011-04-27T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[EasyMock]]></title>
+        <id>https://jug-gr.de/talks/2011-03-22-easymock/</id>
+        <link href="https://jug-gr.de/talks/2011-03-22-easymock/"/>
+        <updated>2011-03-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[
-      <h1>GWT - Google Web Toolkit</h1>
-      <p>Date: April 27, 2011, 19:00 Uhr</p>
-      <p>Speakers: Ingo Körner</p>
+      <h1>EasyMock</h1>
+      <p>Date: March 22, 2011, 19:00 Uhr</p>
+      <p>Speakers: Richard Hauswald</p>
       <p>Location:</p>
       <address>
-        DSER
+        Hochschule Zittau/Görlitz
         <br />
-        Steinstraße 11
+        Obermarkt 17
         <br />
         02826 Görlitz
       </address>
   ]]></summary>
-        <content type="html"><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content>
+        <content type="html"><![CDATA[<p><a href="http://easymock.org/">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es
+benutzen? All diese Fragen werden in der Präsentation beantwortet.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jenkins/Hudson]]></title>
@@ -2572,26 +2617,5 @@ man das Vorgehen, nach jeder Code-Änderung einen Build-Vorgang (inklusive Kompi
 durchzuführen. Damit kann sichergestellt werden, dass Fehlerhafte Änderungen sofort auffallen und behoben werden können.</p>
 <p>Im Vortrag werden die Begriffe "Build Management" und "Continuous Integration" näher erleutert und am konkreten Beispiel
 von Jenkins gezeigt, wie dies in der Praxis umgesetzt werden kann.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EasyMock]]></title>
-        <id>https://jug-gr.de/talks/2011-03-22-easymock/</id>
-        <link href="https://jug-gr.de/talks/2011-03-22-easymock/"/>
-        <updated>2011-03-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[
-      <h1>EasyMock</h1>
-      <p>Date: March 22, 2011, 19:00 Uhr</p>
-      <p>Speakers: Richard Hauswald</p>
-      <p>Location:</p>
-      <address>
-        Hochschule Zittau/Görlitz
-        <br />
-        Obermarkt 17
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></summary>
-        <content type="html"><![CDATA[<p><a href="http://easymock.org/">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es
-benutzen? All diese Fragen werden in der Präsentation beantwortet.</p>]]></content>
     </entry>
 </feed>

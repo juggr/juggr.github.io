@@ -5,6 +5,14 @@
     "feed_url": "https://jug-gr.de/feed.json",
     "items": [
         {
+            "id": "https://jug-gr.de/talks/2025-11-13-vaadin/",
+            "content_html": "<p>Die Webentwicklung hat sich in den letzten Jahren dank TypeScript und moderner Web-Frameworks deutlich weiterentwickelt.\nHeutige Webanwendungen integrieren verschiedene Technologien, um unterschiedliche Datenquellen zu verarbeiten und nativ\nauf unterschiedlichen Geräten zu laufen.\nVaadin bietet eine effiziente Lösung für die Erstellung jeder Art von Webanwendung unter Verwendung moderner\nWebtechnologien mit Java. Es bietet eine umfassende UI-Bibliothek mit über 50 barrierefreien Web-Komponenten, leicht\nanpassbare Stile, eine intuitive Java-API und automatisierte Server-Client-Kommunikation. Vaadin ermöglicht die\nvollständige Entwicklung von Java-Webanwendungen und lässt sich bei Bedarf nahtlos mit modernen Front-End-Technologien\nwie React integrieren. Die Plattform betont die Einfachheit und erlaubt es Entwicklern, sich auf die geschäftlichen\nAnforderungen zu konzentrieren und nicht auf technische Details.\nIn meinem Vortrag werde ich Vaadin, seine Tools und Komponenten vorstellen, die wichtigsten Funktionen der Plattform\nhervorheben und anhand einer praktischen Demo zeigen, wie einfach es ist, moderne Webanwendungen zu implementieren.</p>",
+            "url": "https://jug-gr.de/talks/2025-11-13-vaadin/",
+            "title": "Fullstack-Entwicklung mit Vaadin - Verbindung zwischen Frontends und Backends mit Java",
+            "summary": "\n      <h1>Fullstack-Entwicklung mit Vaadin - Verbindung zwischen Frontends und Backends mit Java</h1>\n      <p>Date: November 13, 2025, 19:00 Uhr</p>\n      <p>Speakers: Sebastian Kühnau</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",
+            "date_modified": "2025-11-13T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2025-09-24-sketchnotes-in-der-it/",
             "content_html": "<p>Jeder von uns macht in seinem Berufsalltag unzählige Notizen - von Vorträgen, Meetings, komplexen Aufgaben, ...\nDie meisten dieser Notizen leiden unter dem „Lang-und-unleserlich”-Syndrom, weswegen sie schnell im Altpapier landen. Oft helfen diese Notizen nicht dabei, sich an die wichtigen Dinge zu erinnern. Dabei haben wir sie doch genau dafür erstellt!</p>\n<p>In meinem Vortrag siehst du, wie du Sketchnotes in deinen Arbeitsalltag als Techie integrierst und welche Vorteile sie für dich haben. Du erfährst, was Sketchnotes sind, wie du sie für deine Zwecke einsetzt und wie sie dafür sorgen, dass du dich endlich an die wichtigen Dinge erinnern kannst. Damit du mit allem wichtigen Handwerkszeug nach Hause gehst, zeichnen wir gemeinsam Schritt für Schritt einige in der Softwareentwicklung und -architektur häufig nutzbare Symbole.</p>\n<p>Du bist hier richtig, wenn du deine Notizen endlich hilfreicher gestalten möchtest. Dafür brauchst du keine 1 in Kunst, sondern einfach nur Lust, mal etwas Neues auszuprobieren.</p>\n<p>An die Stifte, fertig, los!</p>",
             "url": "https://jug-gr.de/talks/2025-09-24-sketchnotes-in-der-it/",
@@ -725,14 +733,6 @@
             "date_modified": "2011-05-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
-            "content_html": "<p>Die OSGi beschreibt eine spezifikation, auf deren Basis Software Modular entwickelt werden kann. Die einzelnen Module\nsind in sich geschlossene Einheiten mit einem klaren Interface, welches einerseits ihre angebotene Funktionalität inf\nForm von Services beschreibt und andererseits die Abhängigkeiten auf Services anderer Module enthält.</p>\n<p>Spring-DM (DM steht für Dynamic Modules) ist eine auf OSGi basierende Plattform, die OSGi mit den Vorteilen von Spring,\nallen voran Dependency Injection, verbindet.</p>\n<p>Im Vortrag wird neben den theoretischen Grundlagen vor allem an praktischen Beispielen inklusive Live-Coding gezeigt,\nwie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch zur Laufzeit getauscht werden können.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_osgi_spring_dm.pdf\">Vortragsfolien</a></li>\n</ul>",
-            "url": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
-            "title": "OSGi mit SpringDM",
-            "summary": "\n      <h1>OSGi mit SpringDM</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-04-27T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-04-27-gwt/",
             "content_html": "<p>GWT - Google Web Toolkit (Ingo Körner)</p>",
             "url": "https://jug-gr.de/talks/2011-04-27-gwt/",
@@ -741,12 +741,12 @@
             "date_modified": "2011-04-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-03-22-jenkins/",
-            "content_html": "<p><a href=\"http://hudson-ci.org/\">Hudson</a> bzw. <a href=\"http://jenkins-ci.org/\">Jenkins</a> ist ein Build-Server, der für\n<a href=\"http://de.wikipedia.org/wiki/Kontinuierliche_Integration\">Continuous Integration</a> eingesetzt wird. Darunter versteht\nman das Vorgehen, nach jeder Code-Änderung einen Build-Vorgang (inklusive Kompilieren des Codes und Ausführen der Tests)\ndurchzuführen. Damit kann sichergestellt werden, dass Fehlerhafte Änderungen sofort auffallen und behoben werden können.</p>\n<p>Im Vortrag werden die Begriffe \"Build Management\" und \"Continuous Integration\" näher erleutert und am konkreten Beispiel\nvon Jenkins gezeigt, wie dies in der Praxis umgesetzt werden kann.</p>",
-            "url": "https://jug-gr.de/talks/2011-03-22-jenkins/",
-            "title": "Jenkins/Hudson",
-            "summary": "\n      <h1>Jenkins/Hudson</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Stefan Scheumann</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-03-22T00:00:00.000Z"
+            "id": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
+            "content_html": "<p>Die OSGi beschreibt eine spezifikation, auf deren Basis Software Modular entwickelt werden kann. Die einzelnen Module\nsind in sich geschlossene Einheiten mit einem klaren Interface, welches einerseits ihre angebotene Funktionalität inf\nForm von Services beschreibt und andererseits die Abhängigkeiten auf Services anderer Module enthält.</p>\n<p>Spring-DM (DM steht für Dynamic Modules) ist eine auf OSGi basierende Plattform, die OSGi mit den Vorteilen von Spring,\nallen voran Dependency Injection, verbindet.</p>\n<p>Im Vortrag wird neben den theoretischen Grundlagen vor allem an praktischen Beispielen inklusive Live-Coding gezeigt,\nwie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch zur Laufzeit getauscht werden können.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_osgi_spring_dm.pdf\">Vortragsfolien</a></li>\n</ul>",
+            "url": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
+            "title": "OSGi mit SpringDM",
+            "summary": "\n      <h1>OSGi mit SpringDM</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-04-27T00:00:00.000Z"
         },
         {
             "id": "https://jug-gr.de/talks/2011-03-22-easymock/",
@@ -754,6 +754,14 @@
             "url": "https://jug-gr.de/talks/2011-03-22-easymock/",
             "title": "EasyMock",
             "summary": "\n      <h1>EasyMock</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Richard Hauswald</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-03-22T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-03-22-jenkins/",
+            "content_html": "<p><a href=\"http://hudson-ci.org/\">Hudson</a> bzw. <a href=\"http://jenkins-ci.org/\">Jenkins</a> ist ein Build-Server, der für\n<a href=\"http://de.wikipedia.org/wiki/Kontinuierliche_Integration\">Continuous Integration</a> eingesetzt wird. Darunter versteht\nman das Vorgehen, nach jeder Code-Änderung einen Build-Vorgang (inklusive Kompilieren des Codes und Ausführen der Tests)\ndurchzuführen. Damit kann sichergestellt werden, dass Fehlerhafte Änderungen sofort auffallen und behoben werden können.</p>\n<p>Im Vortrag werden die Begriffe \"Build Management\" und \"Continuous Integration\" näher erleutert und am konkreten Beispiel\nvon Jenkins gezeigt, wie dies in der Praxis umgesetzt werden kann.</p>",
+            "url": "https://jug-gr.de/talks/2011-03-22-jenkins/",
+            "title": "Jenkins/Hudson",
+            "summary": "\n      <h1>Jenkins/Hudson</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Stefan Scheumann</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-03-22T00:00:00.000Z"
         }
     ]
