@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Wed, 24 Sep 2025 12:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 16:04:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -32,6 +32,28 @@ wie React integrieren. Die Plattform betont die Einfachheit und erlaubt es Entwi
 Anforderungen zu konzentrieren und nicht auf technische Details.
 In meinem Vortrag werde ich Vaadin, seine Tools und Komponenten vorstellen, die wichtigsten Funktionen der Plattform
 hervorheben und anhand einer praktischen Demo zeigen, wie einfach es ist, moderne Webanwendungen zu implementieren.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[MemCP: Spaltenbasierte In-Memory-Datenbank für Höchstgeschwindigkeit]]></title>
+            <link>https://jug-gr.de/talks/2025-10-29-in-memory-datanbank-memcp/</link>
+            <guid>https://jug-gr.de/talks/2025-10-29-in-memory-datanbank-memcp/</guid>
+            <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>MemCP: Spaltenbasierte In-Memory-Datenbank für Höchstgeschwindigkeit</h1>
+      <p>Date: October 29, 2025, 19:00 Uhr</p>
+      <p>Speakers: Carl-Philip Hänsch</p>
+      <p>Location:</p>
+      <address>
+        Hochschule Zittau/Görlitz
+        <br />
+        Brückenstraße 1
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>Wer mit MySQL oder MariaDB arbeitet, kennt die Herausforderungen: komplexe Aggregationen, große Datenmengen oder Echtzeitanalysen bringen klassische Systeme schnell an ihre Grenzen. MemCP setzt hier an – eine spaltenbasierte In-Memory-Datenbank, die MySQL-Protokoll-kompatibel ist und damit nahtlos in bestehende Anwendungen eingebunden werden kann.</p>
+<p>Im Talk zeigt Carl-Philip Hänsch, wie MemCP durch spaltenorientierte Speicherung, automatische Kompression und massiv parallele Verarbeitung enorme Geschwindigkeitsvorteile erzielt. Typische Anwendungsfälle reichen von schnellen Aggregationen in Sensor- und Messdaten über Realtime-Dashboards im Business-Kontext bis hin zu Big-Data-Auswertungen mit Map-Reduce-Ansätzen.</p>
+<p>Für Entwickler:innen bedeutet das: bestehende Tools und Libraries (inkl. JDBC) können weiter genutzt werden, während unter der Haube eine neue Datenbank-Engine für Performance sorgt.</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Sketchnotes in der IT]]></title>
@@ -1497,7 +1519,7 @@ bereit.</p>]]></content:encoded>
             <description><![CDATA[
       <h1>Funktionale Programmierung mit Java</h1>
       <p>Date: January 27, 2016, 19:00 Uhr</p>
-      <p>Speakers: Manuel Mauky, Max Wielsch</p>
+      <p>Speakers: Max Wielsch, Manuel Mauky</p>
       <p>Location:</p>
       <address>
         Hochschule Zittau/Görlitz
@@ -2575,27 +2597,6 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 </ul>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[EasyMock]]></title>
-            <link>https://jug-gr.de/talks/2011-03-22-easymock/</link>
-            <guid>https://jug-gr.de/talks/2011-03-22-easymock/</guid>
-            <pubDate>Tue, 22 Mar 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>EasyMock</h1>
-      <p>Date: March 22, 2011, 19:00 Uhr</p>
-      <p>Speakers: Richard Hauswald</p>
-      <p>Location:</p>
-      <address>
-        Hochschule Zittau/Görlitz
-        <br />
-        Obermarkt 17
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p><a href="http://easymock.org/">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es
-benutzen? All diese Fragen werden in der Präsentation beantwortet.</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Jenkins/Hudson]]></title>
             <link>https://jug-gr.de/talks/2011-03-22-jenkins/</link>
             <guid>https://jug-gr.de/talks/2011-03-22-jenkins/</guid>
@@ -2619,6 +2620,27 @@ man das Vorgehen, nach jeder Code-Änderung einen Build-Vorgang (inklusive Kompi
 durchzuführen. Damit kann sichergestellt werden, dass Fehlerhafte Änderungen sofort auffallen und behoben werden können.</p>
 <p>Im Vortrag werden die Begriffe "Build Management" und "Continuous Integration" näher erleutert und am konkreten Beispiel
 von Jenkins gezeigt, wie dies in der Praxis umgesetzt werden kann.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[EasyMock]]></title>
+            <link>https://jug-gr.de/talks/2011-03-22-easymock/</link>
+            <guid>https://jug-gr.de/talks/2011-03-22-easymock/</guid>
+            <pubDate>Tue, 22 Mar 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>EasyMock</h1>
+      <p>Date: March 22, 2011, 19:00 Uhr</p>
+      <p>Speakers: Richard Hauswald</p>
+      <p>Location:</p>
+      <address>
+        Hochschule Zittau/Görlitz
+        <br />
+        Obermarkt 17
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p><a href="http://easymock.org/">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es
+benutzen? All diese Fragen werden in der Präsentation beantwortet.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>

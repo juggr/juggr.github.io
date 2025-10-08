@@ -13,6 +13,14 @@
             "date_modified": "2025-11-13T00:00:00.000Z"
         },
         {
+            "id": "https://jug-gr.de/talks/2025-10-29-in-memory-datanbank-memcp/",
+            "content_html": "<p>Wer mit MySQL oder MariaDB arbeitet, kennt die Herausforderungen: komplexe Aggregationen, große Datenmengen oder Echtzeitanalysen bringen klassische Systeme schnell an ihre Grenzen. MemCP setzt hier an – eine spaltenbasierte In-Memory-Datenbank, die MySQL-Protokoll-kompatibel ist und damit nahtlos in bestehende Anwendungen eingebunden werden kann.</p>\n<p>Im Talk zeigt Carl-Philip Hänsch, wie MemCP durch spaltenorientierte Speicherung, automatische Kompression und massiv parallele Verarbeitung enorme Geschwindigkeitsvorteile erzielt. Typische Anwendungsfälle reichen von schnellen Aggregationen in Sensor- und Messdaten über Realtime-Dashboards im Business-Kontext bis hin zu Big-Data-Auswertungen mit Map-Reduce-Ansätzen.</p>\n<p>Für Entwickler:innen bedeutet das: bestehende Tools und Libraries (inkl. JDBC) können weiter genutzt werden, während unter der Haube eine neue Datenbank-Engine für Performance sorgt.</p>",
+            "url": "https://jug-gr.de/talks/2025-10-29-in-memory-datanbank-memcp/",
+            "title": "MemCP: Spaltenbasierte In-Memory-Datenbank für Höchstgeschwindigkeit",
+            "summary": "\n      <h1>MemCP: Spaltenbasierte In-Memory-Datenbank für Höchstgeschwindigkeit</h1>\n      <p>Date: October 29, 2025, 19:00 Uhr</p>\n      <p>Speakers: Carl-Philip Hänsch</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Brückenstraße 1\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2025-10-29T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2025-09-24-sketchnotes-in-der-it/",
             "content_html": "<p>Jeder von uns macht in seinem Berufsalltag unzählige Notizen - von Vorträgen, Meetings, komplexen Aufgaben, ...\nDie meisten dieser Notizen leiden unter dem „Lang-und-unleserlich”-Syndrom, weswegen sie schnell im Altpapier landen. Oft helfen diese Notizen nicht dabei, sich an die wichtigen Dinge zu erinnern. Dabei haben wir sie doch genau dafür erstellt!</p>\n<p>In meinem Vortrag siehst du, wie du Sketchnotes in deinen Arbeitsalltag als Techie integrierst und welche Vorteile sie für dich haben. Du erfährst, was Sketchnotes sind, wie du sie für deine Zwecke einsetzt und wie sie dafür sorgen, dass du dich endlich an die wichtigen Dinge erinnern kannst. Damit du mit allem wichtigen Handwerkszeug nach Hause gehst, zeichnen wir gemeinsam Schritt für Schritt einige in der Softwareentwicklung und -architektur häufig nutzbare Symbole.</p>\n<p>Du bist hier richtig, wenn du deine Notizen endlich hilfreicher gestalten möchtest. Dafür brauchst du keine 1 in Kunst, sondern einfach nur Lust, mal etwas Neues auszuprobieren.</p>\n<p>An die Stifte, fertig, los!</p>",
             "url": "https://jug-gr.de/talks/2025-09-24-sketchnotes-in-der-it/",
@@ -433,7 +441,7 @@
             "content_html": "<p>Mit Java 8 wurden einige Features in die Sprache integriert, die von funktionaler Programmierung inspiriert sind. Im\nVortrag <a href=\"http://www.jug-gr.de/2014/07/30/java8-streams.html\">Java 8: Lambdas und Streams</a> im Juli 2014 hat Paul uns die\ntechnischen Möglichkeiten dazu bereits vorgestellt. Doch ist Java damit nun auch eine Funktionale Sprache? Gibt es\nüberhaupt noch Gründe, andere funktionale Sprachen zu beachten?</p>\n<p>In diesem Vortrag möchten wir tiefer in die Materie der funktionalen Programmierung eintauchen und die Konzepte dieses\nParadigmas betrachten. Wir werden sehen, wie Java-Programmierer von funktionalen Konzepten profitieren können. Dabei\ngehen wir unter anderem auf Dinge wie <em>Rekursion</em>, <em>Pure Funktionen</em>, <em>Immutable Datenstrukturen</em>, <em>Monaden</em> und\n<em>Funktionskomposition</em> ein.</p>\n<p>Wir werden aber auch zeigen, wo die Grenzen von Java liegen und warum wir der Meinung sind, dass Java letztlich doch\nkeine wirklich funktionale Sprache ist und weshalb wir unbedingt empfehlen, sich mit funktionalen Sprachen zu\nbeschäftigen. In diesem Sinne werden wir beim darauf folgenden JUG-Treffen die funktionale Sprache \"Haskell\" vorstellen\nund dabei viele der hier vorgestellten Konzepte wiederfinden. Außerdem werden wir die Haskell-Variante \"Frege\"\nbesprechen, die auch auf der JVM läuft.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_funktionale_programmierung_java.pdf\">Vortragsfolien</a></li>\n</ul>\n<p><strong>Links:</strong></p>\n<ul>\n<li><a href=\"http://sebastian-millies.blogspot.de/2015/09/cartesian-products-with-kleisli.html\">Blog: Kleisli Composition in Java</a></li>\n<li><a href=\"http://techblog.realestate.com.au/how-we-used-category-theory-to-solve-a-problem-in-java/\">Blog: How we used Category Theory to solve a problem in Java</a></li>\n<li><a href=\"http://mvanier.livejournal.com/2897.html?nojs=1\">Blog: Ausführliche Erklärung und Herleitung des Y-Combinators in Scheme</a></li>\n<li><a href=\"http://sebastian-millies.blogspot.de/2013/09/the-y-combinator.html\">Blog: Y-Combinator in Java</a></li>\n</ul>",
             "url": "https://jug-gr.de/talks/2016-01-27-functional_java/",
             "title": "Funktionale Programmierung mit Java",
-            "summary": "\n      <h1>Funktionale Programmierung mit Java</h1>\n      <p>Date: January 27, 2016, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky, Max Wielsch</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Brückenstraße 1\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "summary": "\n      <h1>Funktionale Programmierung mit Java</h1>\n      <p>Date: January 27, 2016, 19:00 Uhr</p>\n      <p>Speakers: Max Wielsch, Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Brückenstraße 1\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2016-01-27T00:00:00.000Z"
         },
         {
@@ -749,19 +757,19 @@
             "date_modified": "2011-04-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-03-22-easymock/",
-            "content_html": "<p><a href=\"http://easymock.org/\">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es\nbenutzen? All diese Fragen werden in der Präsentation beantwortet.</p>",
-            "url": "https://jug-gr.de/talks/2011-03-22-easymock/",
-            "title": "EasyMock",
-            "summary": "\n      <h1>EasyMock</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Richard Hauswald</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-03-22T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-03-22-jenkins/",
             "content_html": "<p><a href=\"http://hudson-ci.org/\">Hudson</a> bzw. <a href=\"http://jenkins-ci.org/\">Jenkins</a> ist ein Build-Server, der für\n<a href=\"http://de.wikipedia.org/wiki/Kontinuierliche_Integration\">Continuous Integration</a> eingesetzt wird. Darunter versteht\nman das Vorgehen, nach jeder Code-Änderung einen Build-Vorgang (inklusive Kompilieren des Codes und Ausführen der Tests)\ndurchzuführen. Damit kann sichergestellt werden, dass Fehlerhafte Änderungen sofort auffallen und behoben werden können.</p>\n<p>Im Vortrag werden die Begriffe \"Build Management\" und \"Continuous Integration\" näher erleutert und am konkreten Beispiel\nvon Jenkins gezeigt, wie dies in der Praxis umgesetzt werden kann.</p>",
             "url": "https://jug-gr.de/talks/2011-03-22-jenkins/",
             "title": "Jenkins/Hudson",
             "summary": "\n      <h1>Jenkins/Hudson</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Stefan Scheumann</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-03-22T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-03-22-easymock/",
+            "content_html": "<p><a href=\"http://easymock.org/\">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es\nbenutzen? All diese Fragen werden in der Präsentation beantwortet.</p>",
+            "url": "https://jug-gr.de/talks/2011-03-22-easymock/",
+            "title": "EasyMock",
+            "summary": "\n      <h1>EasyMock</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Richard Hauswald</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-03-22T00:00:00.000Z"
         }
     ]
