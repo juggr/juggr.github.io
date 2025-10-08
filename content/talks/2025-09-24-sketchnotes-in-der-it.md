@@ -2,6 +2,8 @@
 title: "Sketchnotes in der IT"
 date: 2025-09-24
 speaker: [ lisa_maria_schaefer ]
+poster: ../images/posters/plakat_2025_09.png
+poster_alt: "Poster: Jürgen hat einen Marker und ein Notizbuch in der Hand und freut sich."
 tags: [ softwareentwicklung ]
 location: zeiss
 ---
