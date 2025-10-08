@@ -4,7 +4,7 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Wed, 08 Oct 2025 16:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 16:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
@@ -1519,7 +1519,7 @@ bereit.</p>]]></content:encoded>
             <description><![CDATA[
       <h1>Funktionale Programmierung mit Java</h1>
       <p>Date: January 27, 2016, 19:00 Uhr</p>
-      <p>Speakers: Max Wielsch, Manuel Mauky</p>
+      <p>Speakers: Manuel Mauky, Max Wielsch</p>
       <p>Location:</p>
       <address>
         Hochschule Zittau/Görlitz
@@ -2401,26 +2401,6 @@ Praxis erläutert wurden.</p>
 <a href="http://max-wielsch.blogspot.de/2011/10/android-der-vortrag-in-der-java-user.html">Blog</a> heruntergeladen werden.</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[JDOM]]></title>
-            <link>https://jug-gr.de/talks/2011-09-28-jdom/</link>
-            <guid>https://jug-gr.de/talks/2011-09-28-jdom/</guid>
-            <pubDate>Wed, 28 Sep 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>JDOM</h1>
-      <p>Date: September 28, 2011, 19:00 Uhr</p>
-      <p>Speakers: Mark Ziener</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Single Sign-On mit JAAS und JGSS]]></title>
             <link>https://jug-gr.de/talks/2011-09-28-single-sign-on/</link>
             <guid>https://jug-gr.de/talks/2011-09-28-single-sign-on/</guid>
@@ -2439,6 +2419,26 @@ Praxis erläutert wurden.</p>
       </address>
   ]]></description>
             <content:encoded><![CDATA[<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[JDOM]]></title>
+            <link>https://jug-gr.de/talks/2011-09-28-jdom/</link>
+            <guid>https://jug-gr.de/talks/2011-09-28-jdom/</guid>
+            <pubDate>Wed, 28 Sep 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>JDOM</h1>
+      <p>Date: September 28, 2011, 19:00 Uhr</p>
+      <p>Speakers: Mark Ziener</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Testen - Patterns und Best Practices]]></title>
@@ -2597,6 +2597,27 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 </ul>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[EasyMock]]></title>
+            <link>https://jug-gr.de/talks/2011-03-22-easymock/</link>
+            <guid>https://jug-gr.de/talks/2011-03-22-easymock/</guid>
+            <pubDate>Tue, 22 Mar 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>EasyMock</h1>
+      <p>Date: March 22, 2011, 19:00 Uhr</p>
+      <p>Speakers: Richard Hauswald</p>
+      <p>Location:</p>
+      <address>
+        Hochschule Zittau/Görlitz
+        <br />
+        Obermarkt 17
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p><a href="http://easymock.org/">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es
+benutzen? All diese Fragen werden in der Präsentation beantwortet.</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Jenkins/Hudson]]></title>
             <link>https://jug-gr.de/talks/2011-03-22-jenkins/</link>
             <guid>https://jug-gr.de/talks/2011-03-22-jenkins/</guid>
@@ -2620,27 +2641,6 @@ man das Vorgehen, nach jeder Code-Änderung einen Build-Vorgang (inklusive Kompi
 durchzuführen. Damit kann sichergestellt werden, dass Fehlerhafte Änderungen sofort auffallen und behoben werden können.</p>
 <p>Im Vortrag werden die Begriffe "Build Management" und "Continuous Integration" näher erleutert und am konkreten Beispiel
 von Jenkins gezeigt, wie dies in der Praxis umgesetzt werden kann.</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[EasyMock]]></title>
-            <link>https://jug-gr.de/talks/2011-03-22-easymock/</link>
-            <guid>https://jug-gr.de/talks/2011-03-22-easymock/</guid>
-            <pubDate>Tue, 22 Mar 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>EasyMock</h1>
-      <p>Date: March 22, 2011, 19:00 Uhr</p>
-      <p>Speakers: Richard Hauswald</p>
-      <p>Location:</p>
-      <address>
-        Hochschule Zittau/Görlitz
-        <br />
-        Obermarkt 17
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p><a href="http://easymock.org/">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es
-benutzen? All diese Fragen werden in der Präsentation beantwortet.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
