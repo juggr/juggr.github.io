@@ -2,6 +2,8 @@
 title: "MemCP: Spaltenbasierte In-Memory-Datenbank für Höchstgeschwindigkeit"
 date: 2025-10-29
 speaker: [ carl_philip_haensch ]
+poster: ../images/posters/plakat_2025_10.png
+poster_alt: "Poster: Jürgen denkt an eine Bank mit Zettelstapeln."
 tags: [ softwareentwicklung, performance, datenbank ]
 location: hochschule_campus
 ---
