@@ -5,7 +5,7 @@ speaker: [ carl_philip_haensch ]
 poster: ../images/posters/plakat_2025_10.png
 poster_alt: "Poster: Jürgen denkt an eine Bank mit Zettelstapeln."
 tags: [ softwareentwicklung, performance, datenbank ]
-location: hochschule_campus
+location: hochschule_campus_r210
 ---
 
 Wer mit MySQL oder MariaDB arbeitet, kennt die Herausforderungen: komplexe Aggregationen, große Datenmengen oder Echtzeitanalysen bringen klassische Systeme schnell an ihre Grenzen. MemCP setzt hier an – eine spaltenbasierte In-Memory-Datenbank, die MySQL-Protokoll-kompatibel ist und damit nahtlos in bestehende Anwendungen eingebunden werden kann.
