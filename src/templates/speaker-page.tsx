@@ -5,6 +5,7 @@ import { GatsbyImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import TalkOverview from "../components/talk-overview"
+import { SpeakerLinks } from "../components/speaker-links"
 
 const SpeakerPage = ({ data }) => {
   const { speaker, talks } = data
@@ -19,16 +20,10 @@ const SpeakerPage = ({ data }) => {
         </div>
       )}
 
-      {speaker.frontmatter.twitter_name && (
-        <p>
-          Twitter:{" "}
-          <a
-            href={`https://twitter.com/${speaker.frontmatter.twitter_name}`}
-          >{`@${speaker.frontmatter.twitter_name}`}</a>
-        </p>
-      )}
-
+      <br />
       <div className="description" dangerouslySetInnerHTML={{ __html: speaker.html }} />
+
+      <SpeakerLinks frontmatter={speaker.frontmatter} />
 
       <hr />
       {talks && <TalkOverview talks={talks.edges.map((edge) => edge.node)} />}
@@ -47,7 +42,10 @@ export const query = graphql`
       }
       frontmatter {
         name
-        twitter_name
+        mastodon
+        linkedin
+        blog
+        github
         pic {
           childImageSharp {
             gatsbyImageData(width: 400, layout: CONSTRAINED)

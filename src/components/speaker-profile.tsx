@@ -4,6 +4,7 @@ import { Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
 
 import { Container, Col, Row } from "reactstrap"
+import { SpeakerLinks } from "./speaker-links"
 
 const SpeakerProfile = ({ speaker }) => {
   return (
@@ -27,18 +28,10 @@ const SpeakerProfile = ({ speaker }) => {
                 <strong>{speaker.frontmatter.name}</strong>
               </Link>
             </p>
-
-            {speaker.frontmatter.twitter_name && (
-              <p>
-                Twitter:{" "}
-                <a
-                  href={`https://twitter.com/${speaker.frontmatter.twitter_name}`}
-                >{`@${speaker.frontmatter.twitter_name}`}</a>
-              </p>
-            )}
           </div>
 
           <div className="description" dangerouslySetInnerHTML={{ __html: speaker.html }} />
+          <SpeakerLinks frontmatter={speaker.frontmatter} />
         </Col>
       </Row>
     </Container>

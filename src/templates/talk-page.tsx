@@ -57,7 +57,10 @@ export const query = graphql`
                 gatsbyImageData(width: 400, layout: CONSTRAINED)
               }
             }
-            twitter_name
+            mastodon
+            linkedin
+            blog
+            github
           }
           fields {
             slug

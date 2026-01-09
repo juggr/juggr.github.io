@@ -1,7 +1,7 @@
 ---
 name: Gregor Trefs
 pic: ../images/persons/gregor_trefs.png
-twitter_name: gtrefs
+linkedin: https://www.linkedin.com/in/gregor-trefs
 ---
 
 Gregor ist einer der Organisatoren der Java User Group Mannheim und Gründer der Softwerkskammer Rhein-Neckar. Er

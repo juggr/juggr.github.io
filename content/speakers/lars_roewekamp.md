@@ -1,7 +1,7 @@
 ---
 name: Lars Röwekamp
 pic: ../images/persons/lars_roewekamp.png
-twitter_name: mobileLarson
+linkedin: https://www.linkedin.com/in/lars-roewekamp/
 ---
 
 Lars Röwekamp, Gründer des IT-Beratungs- und Entwicklungsunternehmens open knowledge GmbH, beschäftigt sich im Rahmen

@@ -1,6 +1,7 @@
 ---
 name: Sebastian Kühnau
 pic: ../images/persons/sebastian_kuehnau.jpeg
+linkedin: https://www.linkedin.com/in/sebastian-kuehnau-2b733b13/
 ---
 
 Sebastian Kühnau ist seit zwei Jahrzehnten ein Java-Enthusiast und entdeckte während seines Studiums in Berlin seine Begeisterung für Vaadin. 

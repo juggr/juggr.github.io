@@ -1,7 +1,7 @@
 ---
 name: Thilo Frotscher
 pic: ../images/persons/thilo_frotscher.jpg
-twitter_name: thfro
+blog: https://frotscher.com/
 ---
 
 Thilo Frotscher arbeitet als freiberuflicher Software-Architekt und Trainer. Als Experte für Enterprise Java und

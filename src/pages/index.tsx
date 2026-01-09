@@ -123,7 +123,9 @@ export const query = graphql`
                 gatsbyImageData(layout: FULL_WIDTH)
               }
             }
-            twitter_name
+            mastodon
+            linkedin
+            blog
           }
           fields {
             slug

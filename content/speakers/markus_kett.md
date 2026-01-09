@@ -1,8 +1,7 @@
 ---
 name: Markus Kett
 pic: ../images/persons/markus_kett.png
-twitter_name: MarkusKett
-linkedin_name: https://www.linkedin.com/in/markuskett/
+linkedin: https://www.linkedin.com/in/markuskett/
 ---
 
 Markus entwickelt seit 20 Jahren mit seinem Team Developer-Tools für Java und alle wichtigen Datenbanksysteme sowie

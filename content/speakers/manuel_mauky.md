@@ -1,7 +1,11 @@
 ---
 name: Manuel Mauky
 pic: ../images/persons/manuel_mauky.jpg
-twitter_name: manuel_mauky
+mastodon: https://mastodon.social/@manuelmauky
+blog: https://lestard.eu
+github: https://github.com/manuel-mauky
+gitother_name: GitLab
+gitother_link: https://gitlab.com
 ---
 
 Manuel arbeitet als Softwareentwickler bei ZEISS Digital Innovation in Görlitz. Er beschäftigt sich mit allen Aspekten

@@ -1,6 +1,8 @@
 ---
 name: Stefan Zörner
 pic: ../images/persons/stefan_zoerner.jpg
+linkedin: https://www.linkedin.com/in/stefan-zoerner/
+mastodon: https://mastodon.social/@StefanZoerner
 ---
 
 Von der Bayer AG über IBM und oose zu embarc. **Stefan Zörner** blickt auf zwanzig Jahre IT-Erfahrung zurück und stets

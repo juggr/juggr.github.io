@@ -1,6 +1,8 @@
 ---
 name: Hendrik Lösch
 pic: ../images/persons/hendrik_loesch.jpg
+linkedin: https://www.linkedin.com/in/hendrik-l%C3%B6sch-88aa7511b/
+blog: https://hendrik-loesch.de/
 ---
 
 Hendrik Lösch is a management consultant and architect at ZEISS Digital Innovation. The focus of his work is on the

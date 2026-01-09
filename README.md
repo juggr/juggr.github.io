@@ -155,9 +155,16 @@ Innerhalb der Markdown-Datei muss ein Frontmatter nach folgendem Muster hinterle
 **pic**: ist eine Referenz auf ein Speaker-Bild. Dieses muss ein relativer Pfad zu einem Bild in `/content/images/`
 sein. (Optional)
 
-**twitter_name**: kann benutzt werden, um einen Link zum Twitter-Profil des Speakers zu generieren. Der Name entspricht
+
+**mastodon**: ein Link auf das Mastodon-Profil (Optional)
+
+**linkedin**: ein Link auf das LinkedIn-Profil (Optional)
+
+**github**: ein Link auf das Github-Profil (Optional)
+
+~~**twitter_name**: kann benutzt werden, um einen Link zum Twitter-Profil des Speakers zu generieren. Der Name entspricht
 dem Namensbestandteil aus der Twitter-URL bzw. dem Profil-Name. Beispiel: Aus `jug_gr` folgt der Profil-Name `@jug_gr`
-sowie der Link `https://twitter.com/jug_gr`. (Optional)
+sowie der Link `https://twitter.com/jug_gr`. (Optional)~~
 
 Unter dem Frontmatter kann beliebiger Text im Markdown-Format hinterlegt werden, welcher als Beschreibungstext des
 Speakers fungiert.

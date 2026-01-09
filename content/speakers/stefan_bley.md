@@ -1,7 +1,7 @@
 ---
 name: Stefan Bley
 pic: ../images/persons/stefan_bley.jpg
-twitter_name: sbley
+linkedin: https://www.linkedin.com/in/sbley/
 ---
 
 Stefan Bley ist Senior Consultant und Coach bei der Saxonia Systems AG in Dresden. Sein Schwerpunkt in Kundenprojekten

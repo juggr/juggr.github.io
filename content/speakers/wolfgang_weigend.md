@@ -1,7 +1,7 @@
 ---
 name: Wolfgang Weigend
 pic: ../images/persons/wolfgang_weigend.png
-twitter_name: wolflook
+linkedin: https://www.linkedin.com/in/wolfgang-weigend-87b53898/
 ---
 
 Wolfgang Weigend arbeitet als Master Principal Solution Engineer bei der ORACLE Global Services Germany GmbH im

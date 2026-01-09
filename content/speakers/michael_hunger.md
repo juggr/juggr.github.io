@@ -1,7 +1,9 @@
 ---
 name: Michael Hunger
 pic: ../images/persons/michael_hunger.png
-twitter_name: mesirii
+linkedin: https://www.linkedin.com/in/jexpde/
+mastodon: https://chaos.social/@mesirii
+blog: https://www.jexp.de/
 ---
 
 Seit Mitte 2010 arbeitet <strong>Michael Hunger</strong> eng mit Neo Technology zusammen, um deren Graphendatenbank

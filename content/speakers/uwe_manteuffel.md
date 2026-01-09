@@ -1,7 +1,6 @@
 ---
 pic: ../images/persons/uwe_manteuffel.jpg
 name: Uwe Manteuffel
-twitter_name: dasuew
 ---
 
 Uwe Manteuffel ist Senior Consultant für Webentwicklung bei Saxonia Systems AG in Görlitz. Er ist seit 2008 im Umfeld

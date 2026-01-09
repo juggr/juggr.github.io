@@ -1,6 +1,7 @@
 ---
 name: Christoph Menzel
 pic: ../images/persons/christoph_menzel.png
+linkedin: https://www.linkedin.com/in/christoph-menzel/
 ---
 
 **Christoph Menzel** ist Software-Entwickler mit Leib und Seele und seit 2022 als Head of Mobile & Web Development Teil des inovex Teams. Clean Code und Testautomatisierung sind für ihn zwei fundamentale Bestandteile guter Software-Entwicklung.

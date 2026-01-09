@@ -1,7 +1,6 @@
 ---
 name: Denny Israel
 pic: ../images/persons/denny.israel.jpg
-twitter_name: sideisra
 ---
 
 Denny arbeitet als Softwareentwickler bei der Ottogroup Solution Provider (OSP) GmbH, derzeit mit den Schwerpunkten

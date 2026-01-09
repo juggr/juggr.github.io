@@ -39,8 +39,6 @@ Software-Entwickler
 
 [Blog: http://www.lestard.eu](http://www.lestard.eu)
 
-Twitter: [@manuel_mauky](https://twitter.com/manuel_mauky)
-
 ---
 
 ### Max Wielsch
@@ -56,8 +54,6 @@ Software-Entwickler
 [max.wielsch@zeiss.com](mailto:max.wielsch@zeiss.com)
 
 [Blog: http://max-wielsch.blogspot.de](http://max-wielsch.blogspot.de)
-
-Twitter: [@simawiel](https://twitter.com/simawiel)
 
 ---
 
@@ -75,8 +71,6 @@ Freischaffende Künstlerin und Illustratorin
 
 [Blog: http://www.sanguinik.de](http://www.sanguinik.de)
 
-Twitter: [@SanguinikDE](https://twitter.com/SanguinikDE)
-
 ---
 
 ### Markus Ullrich
@@ -92,8 +86,6 @@ Wissenschaftlicher Mitarbeiter
 [mullrich@hszg.de](mailto:mullrich@hszg.de)
 
 [Webseite: www.ead-group.org/group/core-team/markus-ullrich.html](http://www.ead-group.org/group/core-team/markus-ullrich.html)
-
-Twitter: [@ead_markus](https://twitter.com/ead_markus)
 
 ---
 

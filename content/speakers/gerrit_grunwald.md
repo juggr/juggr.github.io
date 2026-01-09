@@ -1,6 +1,9 @@
 ---
 name: Gerrit Grunwald
 pic: ../images/persons/gerrit_grunwald.jpg
+linkedin: https://www.linkedin.com/in/gerritgrunwald/
+mastodon: https://mastodon.social/@hansolo_
+blog: https://harmoniccode.blogspot.com
 ---
 
 Gerrit Grunwald ist ein Softwareentwickler, der schon seit 40 Jahren gerne programmiert. Er ist ein echter Anhänger von
