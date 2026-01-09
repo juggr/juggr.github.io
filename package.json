@@ -1,6 +1,11 @@
 {
   "name": "jug-goerlitz",
   "description": "Website der JUG Görlitz",
+  "engines": {
+    "node": "^22.10.0",
+    "yarn": "^4.12.0"
+  },
+  "packageManager": "yarn@4.12.0",
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
