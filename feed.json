@@ -5,6 +5,14 @@
     "feed_url": "https://jug-gr.de/feed.json",
     "items": [
         {
+            "id": "https://jug-gr.de/talks/2026-01-28-resource-efficient-software/",
+            "content_html": "<p>Nachhaltigkeit und Ressourceneffizienz sind auch für die Softwareentwicklung aus ökologischen und wirtschaftlichen\nGründen von entscheidender Bedeutung. Die Reduzierung von CO2-Emissionen und die Senkung der Betriebskosten gehen dabei\nHand in Hand. Dieser Vortrag bietet einen Leitfaden und einen Überblick über ressourcenschonende Softwareentwicklung,\nmit einem Fokus auf umsetzbare Strategien.</p>\n<p>Wir beginnen mit einem kurzen Überblick darüber, warum Ressourceneffizienz und Nachhaltigkeit in der Softwareentwicklung\nwichtig sind. Anschließend teilen wir praktische Tipps für Projektmanager, Softwarearchitekten und Entwickler, um die\nRessourcenbedarfe ihrer Systeme zu reduzieren. Diese Tipps decken verschiedene Themen und Phasen des\nEntwicklungsprozesses ab und bieten den Teilnehmern praktische Schritte, die sie direkt anwenden können.</p>\n<p>Der Vortrag ist dabei eine Zusammenfassung eines entsprechenden Leitfadens der Bitkom und in Zusammenarbeit\nunterschiedlichster Experten entstanden.</p>",
+            "url": "https://jug-gr.de/talks/2026-01-28-resource-efficient-software/",
+            "title": "Praxisguide Ressourceneffiziente Softwareentwicklung",
+            "summary": "\n      <h1>Praxisguide Ressourceneffiziente Softwareentwicklung</h1>\n      <p>Date: January 28, 2026, 19:00 Uhr</p>\n      <p>Speakers: Hendrik Lösch</p>\n      <p>Location:</p>\n      <address>\n        Carl Zeiss Digital Innovation\n        <br />\n        Berliner Straße 63\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2026-01-28T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2025-11-13-vaadin/",
             "content_html": "<p>Die Webentwicklung hat sich in den letzten Jahren dank TypeScript und moderner Web-Frameworks deutlich weiterentwickelt.\nHeutige Webanwendungen integrieren verschiedene Technologien, um unterschiedliche Datenquellen zu verarbeiten und nativ\nauf unterschiedlichen Geräten zu laufen.\nVaadin bietet eine effiziente Lösung für die Erstellung jeder Art von Webanwendung unter Verwendung moderner\nWebtechnologien mit Java. Es bietet eine umfassende UI-Bibliothek mit über 50 barrierefreien Web-Komponenten, leicht\nanpassbare Stile, eine intuitive Java-API und automatisierte Server-Client-Kommunikation. Vaadin ermöglicht die\nvollständige Entwicklung von Java-Webanwendungen und lässt sich bei Bedarf nahtlos mit modernen Front-End-Technologien\nwie React integrieren. Die Plattform betont die Einfachheit und erlaubt es Entwicklern, sich auf die geschäftlichen\nAnforderungen zu konzentrieren und nicht auf technische Details.\nIn meinem Vortrag werde ich Vaadin, seine Tools und Komponenten vorstellen, die wichtigsten Funktionen der Plattform\nhervorheben und anhand einer praktischen Demo zeigen, wie einfach es ist, moderne Webanwendungen zu implementieren.</p>",
             "url": "https://jug-gr.de/talks/2025-11-13-vaadin/",
@@ -685,19 +693,19 @@
             "date_modified": "2011-10-26T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
-            "content_html": "<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>",
-            "url": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
-            "title": "Single Sign-On mit JAAS und JGSS",
-            "summary": "\n      <h1>Single Sign-On mit JAAS und JGSS</h1>\n      <p>Date: September 28, 2011, 19:00 Uhr</p>\n      <p>Speakers: Mario Reichel</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-09-28T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-09-28-jdom/",
             "content_html": "<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>",
             "url": "https://jug-gr.de/talks/2011-09-28-jdom/",
             "title": "JDOM",
             "summary": "\n      <h1>JDOM</h1>\n      <p>Date: September 28, 2011, 19:00 Uhr</p>\n      <p>Speakers: Mark Ziener</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-09-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
+            "content_html": "<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>",
+            "url": "https://jug-gr.de/talks/2011-09-28-single-sign-on/",
+            "title": "Single Sign-On mit JAAS und JGSS",
+            "summary": "\n      <h1>Single Sign-On mit JAAS und JGSS</h1>\n      <p>Date: September 28, 2011, 19:00 Uhr</p>\n      <p>Speakers: Mario Reichel</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-09-28T00:00:00.000Z"
         },
         {
@@ -741,19 +749,19 @@
             "date_modified": "2011-05-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
-            "content_html": "<p>Die OSGi beschreibt eine spezifikation, auf deren Basis Software Modular entwickelt werden kann. Die einzelnen Module\nsind in sich geschlossene Einheiten mit einem klaren Interface, welches einerseits ihre angebotene Funktionalität inf\nForm von Services beschreibt und andererseits die Abhängigkeiten auf Services anderer Module enthält.</p>\n<p>Spring-DM (DM steht für Dynamic Modules) ist eine auf OSGi basierende Plattform, die OSGi mit den Vorteilen von Spring,\nallen voran Dependency Injection, verbindet.</p>\n<p>Im Vortrag wird neben den theoretischen Grundlagen vor allem an praktischen Beispielen inklusive Live-Coding gezeigt,\nwie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch zur Laufzeit getauscht werden können.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_osgi_spring_dm.pdf\">Vortragsfolien</a></li>\n</ul>",
-            "url": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
-            "title": "OSGi mit SpringDM",
-            "summary": "\n      <h1>OSGi mit SpringDM</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-04-27T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-04-27-gwt/",
             "content_html": "<p>GWT - Google Web Toolkit (Ingo Körner)</p>",
             "url": "https://jug-gr.de/talks/2011-04-27-gwt/",
             "title": "GWT - Google Web Toolkit",
             "summary": "\n      <h1>GWT - Google Web Toolkit</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Ingo Körner</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-04-27T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
+            "content_html": "<p>Die OSGi beschreibt eine spezifikation, auf deren Basis Software Modular entwickelt werden kann. Die einzelnen Module\nsind in sich geschlossene Einheiten mit einem klaren Interface, welches einerseits ihre angebotene Funktionalität inf\nForm von Services beschreibt und andererseits die Abhängigkeiten auf Services anderer Module enthält.</p>\n<p>Spring-DM (DM steht für Dynamic Modules) ist eine auf OSGi basierende Plattform, die OSGi mit den Vorteilen von Spring,\nallen voran Dependency Injection, verbindet.</p>\n<p>Im Vortrag wird neben den theoretischen Grundlagen vor allem an praktischen Beispielen inklusive Live-Coding gezeigt,\nwie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch zur Laufzeit getauscht werden können.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_osgi_spring_dm.pdf\">Vortragsfolien</a></li>\n</ul>",
+            "url": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
+            "title": "OSGi mit SpringDM",
+            "summary": "\n      <h1>OSGi mit SpringDM</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-04-27T00:00:00.000Z"
         },
         {

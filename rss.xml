@@ -4,11 +4,40 @@
         <title>null</title>
         <link>https://jug-gr.de/</link>
         <description>null</description>
-        <lastBuildDate>Tue, 04 Nov 2025 18:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jan 2026 20:02:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
         <copyright>CC-0</copyright>
+        <item>
+            <title><![CDATA[Praxisguide Ressourceneffiziente Softwareentwicklung]]></title>
+            <link>https://jug-gr.de/talks/2026-01-28-resource-efficient-software/</link>
+            <guid>https://jug-gr.de/talks/2026-01-28-resource-efficient-software/</guid>
+            <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Praxisguide Ressourceneffiziente Softwareentwicklung</h1>
+      <p>Date: January 28, 2026, 19:00 Uhr</p>
+      <p>Speakers: Hendrik Lösch</p>
+      <p>Location:</p>
+      <address>
+        Carl Zeiss Digital Innovation
+        <br />
+        Berliner Straße 63
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>Nachhaltigkeit und Ressourceneffizienz sind auch für die Softwareentwicklung aus ökologischen und wirtschaftlichen
+Gründen von entscheidender Bedeutung. Die Reduzierung von CO2-Emissionen und die Senkung der Betriebskosten gehen dabei
+Hand in Hand. Dieser Vortrag bietet einen Leitfaden und einen Überblick über ressourcenschonende Softwareentwicklung,
+mit einem Fokus auf umsetzbare Strategien.</p>
+<p>Wir beginnen mit einem kurzen Überblick darüber, warum Ressourceneffizienz und Nachhaltigkeit in der Softwareentwicklung
+wichtig sind. Anschließend teilen wir praktische Tipps für Projektmanager, Softwarearchitekten und Entwickler, um die
+Ressourcenbedarfe ihrer Systeme zu reduzieren. Diese Tipps decken verschiedene Themen und Phasen des
+Entwicklungsprozesses ab und bieten den Teilnehmern praktische Schritte, die sie direkt anwenden können.</p>
+<p>Der Vortrag ist dabei eine Zusammenfassung eines entsprechenden Leitfadens der Bitkom und in Zusammenarbeit
+unterschiedlichster Experten entstanden.</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Fullstack-Entwicklung mit Vaadin - Verbindung zwischen Frontends und Backends mit Java]]></title>
             <link>https://jug-gr.de/talks/2025-11-13-vaadin/</link>
@@ -2407,26 +2436,6 @@ Praxis erläutert wurden.</p>
 <a href="http://max-wielsch.blogspot.de/2011/10/android-der-vortrag-in-der-java-user.html">Blog</a> heruntergeladen werden.</p>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Single Sign-On mit JAAS und JGSS]]></title>
-            <link>https://jug-gr.de/talks/2011-09-28-single-sign-on/</link>
-            <guid>https://jug-gr.de/talks/2011-09-28-single-sign-on/</guid>
-            <pubDate>Wed, 28 Sep 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>Single Sign-On mit JAAS und JGSS</h1>
-      <p>Date: September 28, 2011, 19:00 Uhr</p>
-      <p>Speakers: Mario Reichel</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[JDOM]]></title>
             <link>https://jug-gr.de/talks/2011-09-28-jdom/</link>
             <guid>https://jug-gr.de/talks/2011-09-28-jdom/</guid>
@@ -2445,6 +2454,26 @@ Praxis erläutert wurden.</p>
       </address>
   ]]></description>
             <content:encoded><![CDATA[<p>JDOM- Einlesen, Verändern und Erzeugen von XML-Dokumenten (Mark Ziener)</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Single Sign-On mit JAAS und JGSS]]></title>
+            <link>https://jug-gr.de/talks/2011-09-28-single-sign-on/</link>
+            <guid>https://jug-gr.de/talks/2011-09-28-single-sign-on/</guid>
+            <pubDate>Wed, 28 Sep 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>Single Sign-On mit JAAS und JGSS</h1>
+      <p>Date: September 28, 2011, 19:00 Uhr</p>
+      <p>Speakers: Mario Reichel</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>Vom Single Sign-On zum sicheren Kanal - Authentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Testen - Patterns und Best Practices]]></title>
@@ -2553,6 +2582,26 @@ geben.</p>]]></content:encoded>
             <content:encoded><![CDATA[<p>Google Guice - Dependency Injection (DI) und Aspect-Orientierte Programmierung (AOP) von Robert Wirbs</p>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[GWT - Google Web Toolkit]]></title>
+            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
+            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
+            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[
+      <h1>GWT - Google Web Toolkit</h1>
+      <p>Date: April 27, 2011, 19:00 Uhr</p>
+      <p>Speakers: Ingo Körner</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></description>
+            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[OSGi mit SpringDM]]></title>
             <link>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</link>
             <guid>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</guid>
@@ -2581,26 +2630,6 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 <ul>
 <li><a href="/downloads/juggr_osgi_spring_dm.pdf">Vortragsfolien</a></li>
 </ul>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GWT - Google Web Toolkit]]></title>
-            <link>https://jug-gr.de/talks/2011-04-27-gwt/</link>
-            <guid>https://jug-gr.de/talks/2011-04-27-gwt/</guid>
-            <pubDate>Wed, 27 Apr 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[
-      <h1>GWT - Google Web Toolkit</h1>
-      <p>Date: April 27, 2011, 19:00 Uhr</p>
-      <p>Speakers: Ingo Körner</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></description>
-            <content:encoded><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[EasyMock]]></title>
