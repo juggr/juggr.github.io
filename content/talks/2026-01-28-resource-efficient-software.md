@@ -2,6 +2,8 @@
 title: "Praxisguide Ressourceneffiziente Softwareentwicklung"
 date: 2026-01-28
 speaker: [ hendrik_loesch ]
+poster: ../images/posters/plakat_2026_01.png
+poster_alt: "Poster: Jürgen sitzt auf einem Ohrensessel und liest ein Buch namens Ressourceneffiziente Softwareentwicklung"
 tags: [ environment ]
 location: zeiss
 ---
