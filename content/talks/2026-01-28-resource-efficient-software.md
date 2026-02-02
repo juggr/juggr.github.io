@@ -21,3 +21,7 @@ Entwicklungsprozesses ab und bieten den Teilnehmern praktische Schritte, die sie
 
 Der Vortrag ist dabei eine Zusammenfassung eines entsprechenden Leitfadens der Bitkom und in Zusammenarbeit
 unterschiedlichster Experten entstanden.
+
+**Materialien:**
+
+- [Folien zum Vortrag](/downloads/juggr_hitchickers_guide_to_ressource_efficient_software_1.pdf)
