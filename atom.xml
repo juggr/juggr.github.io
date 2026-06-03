@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2026-02-02T11:31:14.195Z</updated>
+    <updated>2026-06-03T17:37:43.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
     <rights>CC-0</rights>
+    <entry>
+        <title type="html"><![CDATA[Was du nicht siehst, wird dich später einholen: Observability für Entwickler:innen]]></title>
+        <id>https://jug-gr.de/talks/2026-06-29-observability/</id>
+        <link href="https://jug-gr.de/talks/2026-06-29-observability/"/>
+        <updated>2026-06-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>Was du nicht siehst, wird dich später einholen: Observability für Entwickler:innen</h1>
+      <p>Date: June 29, 2026, 19:00 Uhr</p>
+      <p>Speakers: Nora Schöner</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></summary>
+        <content type="html"><![CDATA[<p>Software-Anwendungen sind längst nicht mehr einfach oder überschaubar. Sie sind verteilt, dynamisch und verändern sich
+ständig. Damit wächst auch die Herausforderung, ihre Stabilität und Performance zuverlässig sicherzustellen. Ohne
+umfassende Observability wird es für Entwickler:innen schwierig, Probleme frühzeitig zu erkennen und gezielt zu beheben.
+In diesem Vortrag zeige ich dir, warum Observability heute nicht nur ein Thema für den Betrieb, sondern ein zentraler
+Bestandteil moderner Softwareentwicklung ist. Anhand praktischer Beispiele erkläre ich, wie Entwickler:innen ihre
+Anwendungen besser verstehen und somit robuster zu machen.
+Neben typischen Fallstricken aus der Praxis gibt's konkrete Tipps, wie sich Observability-Komponenten wie Metriken, Logs
+und Traces integrieren lassen. Am Ende wissen die Teilnehmenden: Wer früh auf Observability setzt, spart später viel
+Zeit, Nerven und Ärger.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Praxisguide Ressourceneffiziente Softwareentwicklung]]></title>
         <id>https://jug-gr.de/talks/2026-01-28-resource-efficient-software/</id>
