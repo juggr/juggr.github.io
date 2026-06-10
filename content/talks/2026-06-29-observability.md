@@ -2,6 +2,8 @@
 title: "Was du nicht siehst, wird dich später einholen: Observability für Entwickler:innen"
 date: 2026-06-29
 speaker: [ nora_schoener ]
+poster: ../images/posters/plakat_2026_06.png
+poster_alt: "Poster: Jürgen hält ein Notizbuch in der einen Hand und ein Fernglas in der anderen Hand vor dem Gesicht. Er schaut durch das Fernglas."
 tags: [ architektur, infrastructure]
 location: hochschule_campus_r210
 ---
