@@ -465,7 +465,7 @@
             "content_html": "<p>JavaFX ist die neue Java-Technologie im Desktop-Bereich und somit die Ablösung von Swing. Damit ist es möglich\nJava-Anwendungen für Desktop, Browser und mobile Geräte zu entwickeln. Allerdings bietet Oracle keinen direkten Support\nfür mobile Endgeräte an, sondern überlässt dies der Community.</p>\n<p>In dem Vortrag geht es um den Aktuellen Stand der Entwicklung in diesem Bereich. Was muss gemacht werden, um eine\nJavaFX-Anwendung auf einem Smartphone zum laufen zu bekommen und welche Grenzen hat dieser Ansatz für die Entwicklung\nvon mobilen Anwendungen mit JavaFX.</p>\n<p>Einen weiteren Ansatz verfolgt die Firma <a href=\"http://gluonhq.com/\">Gluon</a> zum Erstellen von mobilen Anwendungen auf JavaFX.\nEine gemeinsame Code-Basis für IOS- und Android-Anwendungen basierend auf JavaFX. Was derzeit damit möglich ist wird\nebenfalls Inhalt des Vortrages sein.</p>\n<p>Abschließend wird unser Ansatz für mobile Anwendungen in JavaFX vorgestellt. Mittels des MVVM-Pattern in Kombination mit\nJavaFX-Ports. Vorgestellt wird der aktuelle Entwicklungsstand mit einer offenen Diskussion über Vor- und Nachteile des\nAnsatzes.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_javafx_on_mobile.pdf\">Vortragsfolien</a></li>\n</ul>",
             "url": "https://jug-gr.de/talks/2015-11-25-javafx-mobile/",
             "title": "JavaFX auf Mobile",
-            "summary": "\n      <h1>JavaFX auf Mobile</h1>\n      <p>Date: November 25, 2015, 19:00 Uhr</p>\n      <p>Speakers: Stefan Heinze, Stefan Barth</p>\n      <p>Location:</p>\n      <address>\n        Saxonia Systems AG\n        <br />\n        Berliner Straße 63\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "summary": "\n      <h1>JavaFX auf Mobile</h1>\n      <p>Date: November 25, 2015, 19:00 Uhr</p>\n      <p>Speakers: Stefan Barth, Stefan Heinze</p>\n      <p>Location:</p>\n      <address>\n        Saxonia Systems AG\n        <br />\n        Berliner Straße 63\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2015-11-25T00:00:00.000Z"
         },
         {
@@ -773,19 +773,19 @@
             "date_modified": "2011-04-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-03-22-easymock/",
-            "content_html": "<p><a href=\"http://easymock.org/\">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es\nbenutzen? All diese Fragen werden in der Präsentation beantwortet.</p>",
-            "url": "https://jug-gr.de/talks/2011-03-22-easymock/",
-            "title": "EasyMock",
-            "summary": "\n      <h1>EasyMock</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Richard Hauswald</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-03-22T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-03-22-jenkins/",
             "content_html": "<p><a href=\"http://hudson-ci.org/\">Hudson</a> bzw. <a href=\"http://jenkins-ci.org/\">Jenkins</a> ist ein Build-Server, der für\n<a href=\"http://de.wikipedia.org/wiki/Kontinuierliche_Integration\">Continuous Integration</a> eingesetzt wird. Darunter versteht\nman das Vorgehen, nach jeder Code-Änderung einen Build-Vorgang (inklusive Kompilieren des Codes und Ausführen der Tests)\ndurchzuführen. Damit kann sichergestellt werden, dass Fehlerhafte Änderungen sofort auffallen und behoben werden können.</p>\n<p>Im Vortrag werden die Begriffe \"Build Management\" und \"Continuous Integration\" näher erleutert und am konkreten Beispiel\nvon Jenkins gezeigt, wie dies in der Praxis umgesetzt werden kann.</p>",
             "url": "https://jug-gr.de/talks/2011-03-22-jenkins/",
             "title": "Jenkins/Hudson",
             "summary": "\n      <h1>Jenkins/Hudson</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Stefan Scheumann</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-03-22T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-03-22-easymock/",
+            "content_html": "<p><a href=\"http://easymock.org/\">EasyMock</a> - Was ist ein Mock?, Warum sollte ich mocken? Was ist EasyMock? Wie kann ich es\nbenutzen? All diese Fragen werden in der Präsentation beantwortet.</p>",
+            "url": "https://jug-gr.de/talks/2011-03-22-easymock/",
+            "title": "EasyMock",
+            "summary": "\n      <h1>EasyMock</h1>\n      <p>Date: March 22, 2011, 19:00 Uhr</p>\n      <p>Speakers: Richard Hauswald</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Obermarkt 17\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-03-22T00:00:00.000Z"
         }
     ]

@@ -5,9 +5,9 @@ URL:https://jug-gr.de
 NAME:JUG Görlitz
 X-WR-CALNAME:JUG Görlitz
 BEGIN:VEVENT
-UID:9ca9ccaf-3c3e-417d-bc6b-91c79d28b551
+UID:56ef1481-8c74-43ac-be3a-85f61e515ddd
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20260629T170000Z
 DTEND:20260629T200000Z
 SUMMARY:Vortrag "Was du nicht siehst\, wird dich später einholen: Observa
@@ -32,9 +32,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Software-Anwendungen sind längst nicht me
   Ärger.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:93abe8e4-7087-4881-b977-fd7e70f35604
+UID:3036ea83-b01a-4ec9-8237-8289084913bd
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20260128T180000Z
 DTEND:20260128T210000Z
 SUMMARY:Vortrag "Praxisguide Ressourceneffiziente Softwareentwicklung" - H
@@ -62,9 +62,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Nachhaltigkeit und Ressourceneffizienz sin
  ware_1.pdf">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:09297ec1-a18f-42c7-97ba-4b85fa1b58df
+UID:d1b45c7c-6427-410e-98e4-a09538df7f00
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20251113T180000Z
 DTEND:20251113T210000Z
 SUMMARY:Vortrag "Fullstack-Entwicklung mit Vaadin - Verbindung zwischen Fr
@@ -91,9 +91,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die Webentwicklung hat sich in den letzten
  ndungen zu implementieren.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:7d3e2f6f-e25b-4d79-afac-d9bd9656f580
+UID:7cbd34d3-7506-4864-a51b-e4822339d870
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20251029T180000Z
 DTEND:20251029T210000Z
 SUMMARY:Vortrag "MemCP: Spaltenbasierte In-Memory-Datenbank für Höchstge
@@ -118,9 +118,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Wer mit MySQL oder MariaDB arbeitet\, kenn
  sorgt.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:0f288a86-3ffe-49d2-9b6c-a5a304ddc49c
+UID:4cc85f3f-c9f4-4160-8ded-e3168c12acc5
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20250924T170000Z
 DTEND:20250924T200000Z
 SUMMARY:Vortrag "Sketchnotes in der IT" - Lisa Maria Schäfer
@@ -147,9 +147,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Jeder von uns macht in seinem Berufsalltag
  ertig\, los!</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:c389055f-dfbf-4c06-887d-949ed0b2fc29
+UID:3fc79628-8c52-4246-9ca8-14f3de83471c
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20240925T170000Z
 DTEND:20240925T200000Z
 SUMMARY:Vortrag "JavaFX State of the Technology" - Christian Heilmann\, Wo
@@ -192,9 +192,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p><em>Diese Veranstaltung besteht aus einem
  gend_2024-09-25.pdf">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:781ef840-ef72-46b5-bedb-6db96fc44219
+UID:707b30ed-3d5b-45de-8c6d-73b8da5fb817
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20240529T170000Z
 DTEND:20240529T200000Z
 SUMMARY:Vortrag "Parallele Programmiermodelle für Supercomputer" - Dr. An
@@ -222,9 +222,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Das "Supercomputing" beschäftigt sich mit
  glich gewesen wären.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:242557b0-8e87-4bd5-bf2e-17e357857e4e
+UID:9dc4b0d8-849f-4b20-9d43-36aac4719e26
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20240424T170000Z
 DTEND:20240424T200000Z
 SUMMARY:Vortrag "Rust (Teil 2)" - Konstantin Eger
@@ -244,9 +244,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Im zweiten Teil der Vortragsreihe zu Rust
  ust zu erhalten.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:056fd81e-51e0-4ced-be0f-1494a1bdc7f5
+UID:50d22a9e-1dd3-45ef-9535-a7eafc7ff9ce
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20240320T180000Z
 DTEND:20240320T210000Z
 SUMMARY:Vortrag "Rust (Teil 1): Einführung in die Sprache" - Manuel Mauky
@@ -278,9 +278,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Rust ist eine relativ neue Programmierspra
  </li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:74c38f26-4b6e-4d65-8276-8a9b96b6240b
+UID:67f2db67-ac52-4aba-ac1f-73e8efb3bafa
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20240228T180000Z
 DTEND:20240228T210000Z
 SUMMARY:Vortrag "Schlanke Architektur-Reviews" - Stefan Zörner
@@ -304,9 +304,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Mit Architekturbewertungen ist es möglich
  idenz im Bewertungsergebnis.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:5daf4d10-c7e9-477d-809e-734de47db195
+UID:f703e607-c1d8-43d8-91c8-e983e6f0fc90
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20240131T180000Z
 DTEND:20240131T210000Z
 SUMMARY:Vortrag "Flutter\, der heilige Gral der Cross-Plattform-Entwicklun
@@ -331,9 +331,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Wenn sich Google einem Thema widmet\, dann
   zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:5bbc32d4-c6fc-4958-828b-da9a6463ae7b
+UID:193f8705-4091-474a-8228-c0976e4e1b5b
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20231129T180000Z
 DTEND:20231129T210000Z
 SUMMARY:Vortrag "What the CRaC - Superfast JVM startup" - Gerrit Grunwald
@@ -363,9 +363,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>In einer Welt\, in der Microservices mehr
  nloads/juggr_What_The_CRaC.pdf">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:97834364-faef-49d1-9dd5-c5a31fc19bc5
+UID:eb88debf-99e8-43cc-af97-c7d099e6238a
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20231025T170000Z
 DTEND:20231025T200000Z
 SUMMARY:Vortrag "AWS-Infrastruktur mit Java erstellen - CDK in Action" - D
@@ -401,9 +401,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Heutzutage gibt es viele Möglichkeiten\,
  nn.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:a5acba82-8084-40d5-be51-9f91edef71c3
+UID:5310a582-f6d5-400d-b30e-52272c0001bc
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20230927T170000Z
 DTEND:20230927T200000Z
 SUMMARY:Vortrag "Java 21: Virtuelle Threads" - Patryk Lewandowski
@@ -423,9 +423,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Erkunden Sie das aufregende Feature von Ja
   anzuschließen.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:5213ab3f-f23a-4a8e-acee-27e2b53f71c8
+UID:b4675d87-0d57-4c4a-9735-cb7c17065765
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20230628T170000Z
 DTEND:20230628T200000Z
 SUMMARY:Vortrag "GraalVM 23 – Konzepte und Features" - Wolfgang Weigend
@@ -453,9 +453,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die GraalVM ist eine Virtuelle Maschine (V
  ng Boot und Microservices-Frameworks verwendet werden.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:1aa0fc5c-4248-4b7a-a75e-ea08fe8c1d79
+UID:3acafaa8-c01a-4e82-8373-53ed4ea2e874
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20230531T170000Z
 DTEND:20230531T200000Z
 SUMMARY:Vortrag "Accessibility in the Wild" - Dániel Sulyok
@@ -474,9 +474,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Dániel Sulyok von der Tallence AG stellt
  gr_a11y.pdf">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:cda9e91f-4257-4eda-9510-9fe83c5e5ad6
+UID:001d0f2f-0b24-4cc7-8616-70c5b0baa311
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20230426T170000Z
 DTEND:20230426T200000Z
 SUMMARY:Vortrag "ArchUnit: Unit-Tests für deine Java-Architektur" - Rolan
@@ -497,9 +497,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Architektur und Code driften immer weiter
  rekt im Code abbilden können.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:5d982ceb-5ee1-4161-9e53-dc14ac0feb0b
+UID:b7cb35fe-af1b-4354-8f6d-3647ad2fefb7
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20230329T163000Z
 DTEND:20230329T193000Z
 SUMMARY:Vortrag "Spring für architekturinteressierte Entwickler:innen" - 
@@ -534,9 +534,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die Architektur und das Design einer Appli
  te der Digitalen Oberlausitz e. V.</a> nachlesen.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:10dce9e2-95f3-4afe-9b2a-1442494ccd7d
+UID:232939a4-9335-4423-9c62-e4cf58cd32d2
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20230222T180000Z
 DTEND:20230222T210000Z
 SUMMARY:Vortrag "Exception First – Stabilisiere deinen Code mit mehr Exc
@@ -563,9 +563,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Fehler sind ein fester Bestandteil unserer
  nst.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:3e1c6ac2-4f4a-4aba-8cd0-ab1f6f3154d6
+UID:4f0fa990-cd04-4c1a-bad4-05200ccc2edf
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20230125T180000Z
 DTEND:20230125T210000Z
 SUMMARY:Vortrag "Content Management neu gedacht mit Contentlab" - Markus W
@@ -584,9 +584,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die Mehrheit aktueller Content Management
   Instanz zum Verwalten von Veranstaltungen.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:74bc3c98-783c-4e7e-8077-21ee8f889eb1
+UID:22bb0236-a461-40cb-a48b-2e1d9d32e57a
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20221130T180000Z
 DTEND:20221130T210000Z
 SUMMARY:Vortrag "Kundenspezifisches IAM mit Keycloak" - Daniel Fesenmeyer
@@ -605,9 +605,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Keycloak ist ein Open Source IAM (Identity
  en.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:1396226f-d169-4da1-bc48-79d4037b4ce4
+UID:69a8000f-7aab-4dba-9148-fa2adb692a86
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20221012T170000Z
 DTEND:20221012T200000Z
 SUMMARY:Vortrag "Industrie 4.0? Das JUGt mich!" - Marco Gotthans
@@ -680,9 +680,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Mit der <em>fischertechnik</em> Lernfabrik
  t überschritten werden darf.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:1489fd8d-3866-4e5d-a6aa-b83036d04f57
+UID:0e6bffd8-8a96-430e-8814-ac44edaaaf5a
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20220622T170000Z
 DTEND:20220622T200000Z
 SUMMARY:Vortrag "Hebe deine IoT-Infrastruktur auf das Serverless-Level an"
@@ -707,9 +707,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die Persistenz von IoT Daten sowie die Ste
  ten werden darf.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:36c50f05-37db-4560-88de-8db08207032e
+UID:742d2947-1369-4d5a-9d29-1a64a6afad9e
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20210630T170000Z
 DTEND:20210630T200000Z
 SUMMARY:Vortrag "Ultraschnelle Java In-Memory Datenbank-Anwendungen & Micr
@@ -750,9 +750,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>MicroStream ist ein fundamental neues Pers
  oberlausitz.eu/jug</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:41ead454-f2d0-491c-9207-3e84af7bb72c
+UID:167d33b0-eae1-4cd9-a31a-43c4f06648ac
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20210127T180000Z
 DTEND:20210127T210000Z
 SUMMARY:Vortrag "Web Components" - Manuel Mauky
@@ -773,9 +773,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Web-Components sind eine Möglichkeit\, au
  tz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:e30c14f8-3900-43bc-9aae-d5d02dfac9f9
+UID:07c56e34-f980-4946-9668-fbd7e327261a
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20201125T180000Z
 DTEND:20201125T210000Z
 SUMMARY:Vortrag "Java Secure Coding in der Praxis" - Nico Förster
@@ -798,9 +798,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Durch die Veröffentlichung von immer neue
  ale-oberlausitz.eu/jug</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:515380ac-d652-4c87-9911-92b14d100e7b
+UID:f3159742-bf54-44bf-9dd8-8ae2e5dc1989
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20200722T170000Z
 DTEND:20200722T200000Z
 SUMMARY:Vortrag "Branching-Modelle" - Hannes Kretschmer
@@ -825,9 +825,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Als Softwareentwickler ist man auf die Ver
  oberlausitz.eu/jug">https://meet.digitale-oberlausitz.eu/jug</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:e9def17f-cde4-4645-b1ab-e9a49400fa2e
+UID:c79a631f-df6e-4090-ab84-92d0904bf984
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20200429T160000Z
 DTEND:20200429T190000Z
 SUMMARY:Vortrag "JDK 14 und GraalVM im Java Ökosystem" - Wolfgang Weigend
@@ -860,9 +860,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Nach der Freigabe vom JDK 14 werden die ak
  ses Mal geht es schon <strong>18:00 Uhr los</strong>.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:eba879c8-37a5-48b0-a166-efe5a4907ec8
+UID:c50973fc-f274-4de8-b076-a49d41b5c577
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20200129T180000Z
 DTEND:20200129T210000Z
 SUMMARY:Vortrag "Innovationsmotor Cloud Foundry!?" - Simon Roloff
@@ -877,9 +877,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>"Create Apps\, Not the Platform" - Cloud F
  Foundry überhaupt? Und hält sie\, was sie verspricht?</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:bf0ba887-3537-41ac-970b-7b2637f64484
+UID:bb5f9ae7-8d5f-4deb-8c1e-89b78b1f5372
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20191128T180000Z
 DTEND:20191128T210000Z
 SUMMARY:Vortrag "Advanced BDD Tests" - Maik Wagner
@@ -893,9 +893,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Hattest du auch schon mal das Problem\, da
  en.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:be78566c-4ac5-4c55-bce2-817a8bcde651
+UID:8719f301-45e5-48f5-bc5d-524ee94d2491
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20190626T170000Z
 DTEND:20190626T200000Z
 SUMMARY:Vortrag "Wie gut kennst Du das Collections Framework?" - Thilo Fro
@@ -919,9 +919,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>HashMap und ArrayList kennt jeder\, na kla
  ions.pdf">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:7b387b24-8d56-4787-a265-cfe8e2997b3b
+UID:c40ef1c7-bc12-4753-881d-063da184d7de
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20190529T170000Z
 DTEND:20190529T200000Z
 SUMMARY:Vortrag "OAuth 2.0/OpenIDConnect mit Keycloak" - Denny Israel
@@ -936,9 +936,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Der Vortrag erläutert zunächst die Grund
  Anwendung einbinden kann.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:2d564c9b-116d-4def-b9ae-5a8f4d36c9cb
+UID:c1a1ee18-f3a1-4c3c-9b03-9157dbd9ac80
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20190424T170000Z
 DTEND:20190424T200000Z
 SUMMARY:Vortrag "It's a JDK jungle out there - oder wie es mit den neuen J
@@ -972,9 +972,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Mit dem JDK-Enhancement-Proposal (JEP 322)
  </p>
 END:VEVENT
 BEGIN:VEVENT
-UID:9c70a7b2-77df-44ae-858e-b78a0febe08b
+UID:80b0e256-141d-4fa6-b54c-c2eb95e07aaa
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20190327T180000Z
 DTEND:20190327T210000Z
 SUMMARY:Vortrag "Static-Site-Generators" - Manuel Mauky
@@ -1008,9 +1008,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die Website der JUG Görlitz läuft fast <
  Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:d7f17df5-06f6-43c5-98d4-8ab3e896223a
+UID:ab212e58-0b5c-4463-8b12-3863e92b3360
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20190227T180000Z
 DTEND:20190227T210000Z
 SUMMARY:Vortrag "Java Reflection: Classes behind the scenes" - Erik Jähne
@@ -1031,9 +1031,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Java Reflections sind ein Feature der Java
  ors werden diese Möglichkeiten in dem Vortrag näher\nbetrachtet.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:c136e173-b8b9-4c31-beb4-fee9d9748a04
+UID:21618b78-2fb0-456d-9568-66af47a3ccf1
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20190131T180000Z
 DTEND:20190131T210000Z
 SUMMARY:Vortrag "Java APIs - the missing manual" - Hendrik Ebbers
@@ -1055,9 +1055,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Anstelle über Microservices\, NO-SQL Lös
  hreibe\nich nebenläufigen Code der trotzdem wartbar ist?</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:e613f1b0-4998-4c83-9ea0-fa8f649d7808
+UID:ee87d741-4e92-4511-bf88-407afc071303
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20181123T180000Z
 DTEND:20181123T210000Z
 SUMMARY:Vortrag "Monadische Transaktionen" - Gregor Trefs
@@ -1079,9 +1079,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Spätestens seit Java 8 gibt es monadische
  adic_transactions.pdf">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:0be3072e-d3ec-44c4-97d6-df16b86ad167
+UID:ad84bfae-abb9-42f9-ac38-b77727d21cb2
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20180627T170000Z
 DTEND:20180627T200000Z
 SUMMARY:Vortrag "Immutable Data - Unveränderliche Daten im Griff" - Manue
@@ -1110,9 +1110,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Unveränderliche Datenstrukturen sind ein
  Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:64577366-0fde-4301-a294-d4a4695e5840
+UID:b486c8fd-9117-4b10-9ba3-eef522fb9d46
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20180530T170000Z
 DTEND:20180530T200000Z
 SUMMARY:Vortrag "GraphQL" - Stephan Strehler
@@ -1137,9 +1137,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die RESTful-Architektur ist eine etabliert
  \n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:bbab3871-53af-4049-9982-2781accdf21f
+UID:18934bb0-8575-40b5-96a7-8469214c52bd
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20180425T170000Z
 DTEND:20180425T200000Z
 SUMMARY:Vortrag "Kotlin" - Tobias Blaschke
@@ -1161,9 +1161,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die Ankündigung der Unterstützung von Ko
  >Code auf Github</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:b2835786-a1f8-4efd-b983-016270a4f94e
+UID:61f82cd6-e455-4e2b-8fa6-a95d216b5a61
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20180320T180000Z
 DTEND:20180320T210000Z
 SUMMARY:Vortrag "Mikro- vs. Makroarchitektur – Spielraum und Spielregeln
@@ -1184,9 +1184,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Während in einer klassischen Konzern-IT S
  und\nDomänenorientierung in das Entwurfsdoppel Makro und Mikro ein.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:12935f89-51e0-40b0-899a-97b8e8cfcc0d
+UID:80cae345-2614-488c-b59f-812f88b283bf
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20180228T180000Z
 DTEND:20180228T210000Z
 SUMMARY:Vortrag "Entwicklung von Java Applikationen auf der SAP Cloud Plat
@@ -1210,9 +1210,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die SAP Cloud Platform (SCP) beschreibt ei
   zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:02f544f7-3343-434a-982a-67807ff59d49
+UID:21d94f17-fb16-4ea7-8f53-7488f08e7505
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20180131T180000Z
 DTEND:20180131T210000Z
 SUMMARY:Vortrag "Refactoring to a System of Systems" - Oliver Drotbohm
@@ -1236,9 +1236,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Beim Bauen monolithischer Systeme nutzen E
  -to-a-system-of-systems">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:ea8e3229-4834-45da-a577-a315d4ec3b7b
+UID:85543d4a-4c2d-400e-8710-e10d0d5d81cf
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20171129T180000Z
 DTEND:20171129T210000Z
 SUMMARY:Vortrag "Neo4j: Panama Papers" - Michael Hunger
@@ -1256,9 +1256,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Im letzten Jahr waren die Panama Papers in
  tlich verfügbar sind\, kann jetzt jeder zum Journalisten werden.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:c289cc3e-a75d-4ee9-b3f7-9ee155854838
+UID:bf5b2e53-d0eb-48e0-b862-c44c128d5ba9
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20171025T170000Z
 DTEND:20171025T200000Z
 SUMMARY:Vortrag "Serverless Application - Who the heck needs a Server?" - 
@@ -1283,9 +1283,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Kaum haben wir uns von dem klassischen Mon
   Media GmbH</strong>.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:77df4612-6955-48df-b7b6-5e748cd5cbba
+UID:c7d2291f-d3b6-4bc7-9e37-98da9314a385
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20170830T170000Z
 DTEND:20170830T200000Z
 SUMMARY:Vortrag "Spracherkennung mit Amazon Alexa" - Andre Tepper\, Maik W
@@ -1303,9 +1303,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Amazon Alexa ist eine Smart-Home-Technolog
  >
 END:VEVENT
 BEGIN:VEVENT
-UID:8987ca4e-740e-44ec-b13c-f90bdd8a2ebc
+UID:e2c1b217-97dc-4687-93f6-84463bad2a1f
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20170531T170000Z
 DTEND:20170531T200000Z
 SUMMARY:Vortrag "React und React-Native: Functional UI Development für Br
@@ -1330,9 +1330,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>React ist eine von Facebook entwickelte Ja
  ammierung eingehen\, die React\nmeines Erachtens so besonders machen.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:65545194-e83b-4378-910a-1a019fb75acb
+UID:b4577fbc-8358-4ecc-9cee-393344fa1421
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20170425T170000Z
 DTEND:20170425T200000Z
 SUMMARY:Vortrag "JDK 9" - Wolfgang Weigend
@@ -1365,9 +1365,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Nach der Ausdehnung vom JDK 9 Feature-Comp
  /a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:2aca5dfc-7b73-406b-b9e7-eace8418679f
+UID:d2afebb8-61e7-4d73-86c4-42335d628a96
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20170322T180000Z
 DTEND:20170322T210000Z
 SUMMARY:Vortrag "Angular 2 für Java Entwickler" - Sven Hoffmann
@@ -1390,9 +1390,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Mit Angular bietet Google ein komponenten-
  downloads/juggr_angular.pdf">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:c3ce7d06-2f43-4b47-8baf-6b9d7728a874
+UID:9e78a92e-4322-49cc-971e-e3fffb4137cd
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20170222T180000Z
 DTEND:20170222T210000Z
 SUMMARY:Vortrag "CSS\, Aha-Effekte und Perspektiven" - Uwe Manteuffel
@@ -1410,9 +1410,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>CSS ist verwirrend\, entbehrt jeglicher Lo
  nDa wird selbst JavaScript blass vor Neid.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:2775107a-54e9-4504-ad46-ee31e4765f05
+UID:30904b8f-4a28-4cf0-8e91-08e74c964c68
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20170125T180000Z
 DTEND:20170125T210000Z
 SUMMARY:Vortrag "JUnit 5" - Stefan Bley
@@ -1430,9 +1430,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Unit Testing in Java - dafür ist JUnit da
  -gr.de/downloads/juggr_jUnit5.pdf">Folien zum Vortrag</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:c2b3d207-1587-4aff-b3c5-52b89c2f1d4c
+UID:05ab4cc1-4c94-426a-a54a-d1f69fbbc7ca
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20161130T180000Z
 DTEND:20161130T210000Z
 SUMMARY:Vortrag "Inside JVM" - Michael Wiedeking
@@ -1446,9 +1446,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Wie funktioniert die virtuelle Maschine? W
  inem Blick unter die Haube der Java Virtual\nMachine.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:4134d152-744d-415d-8b97-047b20a10ecd
+UID:35a492c1-693a-479d-b466-a83b28104cd6
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20160921T170000Z
 DTEND:20160921T200000Z
 SUMMARY:Vortrag "Kommunikationskultur im Softwareentwicklungsprozess" - Da
@@ -1466,9 +1466,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Im Vortrag von Daniel Sernow wird die Komm
  ranstaltungsort einweihen - siehe unten.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:fb4086f5-a8ca-4beb-9a19-1e5ec1c1e580
+UID:d33518fe-1fc9-4c97-8673-85ae80fa53e7
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20160727T170000Z
 DTEND:20160727T200000Z
 SUMMARY:Vortrag "Testwerkzeuge für JavaFX" - Kay Grebenstein
@@ -1488,9 +1488,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Softwareentwicklungsprojekte leben vom Ein
  >Wie werden die Testwerkzeuge in meine Toolkette eingebunden?</li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:b1a78c46-03bd-4134-adcf-901ce7481b1b
+UID:b9b45dab-7e76-4519-afd5-98d5d935602c
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20160525T170000Z
 DTEND:20160525T200000Z
 SUMMARY:Vortrag "Performance-Analyse mit inspectIT" - Mario Mann
@@ -1521,9 +1521,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>In vielen Software-Projekten wissen häufi
  lay/HOME/inspectIT+Home</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:ff329ec9-276e-49bb-8fd5-7935668af3a6
+UID:0c16d456-0045-4cdf-a979-7accd32f61d0
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20160330T170000Z
 DTEND:20160330T200000Z
 SUMMARY:Vortrag "Haskell und Frege" - Manuel Mauky
@@ -1546,9 +1546,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Haskell ist eine funktionale Programmiersp
  r JVM eine rein funktionale Sprache\nbereit.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:f6ff5980-f90b-4142-957c-8643107d22f4
+UID:08ce4212-6f86-4bfe-bb3a-9585f47bbc3a
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20160127T180000Z
 DTEND:20160127T210000Z
 SUMMARY:Vortrag "Funktionale Programmierung mit Java" - Manuel Mauky\, Max
@@ -1589,12 +1589,12 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Mit Java 8 wurden einige Features in die S
   Y-Combinator in Java</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:8399d951-b8e3-431c-af83-a6ddcc142dc6
+UID:ac9348bc-5e09-4d3e-890d-cc69622479ea
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20151125T180000Z
 DTEND:20151125T210000Z
-SUMMARY:Vortrag "JavaFX auf Mobile" - Stefan Heinze\, Stefan Barth
+SUMMARY:Vortrag "JavaFX auf Mobile" - Stefan Barth\, Stefan Heinze
 LOCATION:Saxonia Systems AG\nBerliner Straße 63\,02826 Görlitz
 DESCRIPTION:JavaFX ist die neue Java-Technologie im Desktop-Bereich und so
  mit die Ablösung von Swing. Damit ist es möglich\nJava-Anwendungen für 
@@ -1619,9 +1619,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>JavaFX ist die neue Java-Technologie im De
  avafx_on_mobile.pdf">Vortragsfolien</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:62b08ae9-e62b-4b83-b6ac-5c3ebc0eb3fa
+UID:a036c650-e354-49ed-8c2e-71dcfce494cb
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20150930T170000Z
 DTEND:20150930T200000Z
 SUMMARY:Vortrag "Guava" - Steffen Seidler
@@ -1655,9 +1655,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Das Framework <a href="https://github.com/
  Handling\, Funktionale Ansätze\, Ranges\, ReflectionUtils)</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:43f1bf58-5f21-4049-a015-542f2c8bf5fd
+UID:8ec9f261-1828-440d-9560-81b6b8f0ceda
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20150729T170000Z
 DTEND:20150729T200000Z
 SUMMARY:Vortrag "Regelbasierte Systeme mit JBoss Drools" - Paul Weinhold
@@ -1676,9 +1676,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Drools ist ein Business-Rules-Mangement-Sy
  en</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:1bd3d5e0-ef6a-4041-b132-b8be6c136ac0
+UID:c8bb9d8b-a880-4525-843f-1bbd1476c557
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20150527T170000Z
 DTEND:20150527T200000Z
 SUMMARY:Vortrag "Fortgeschrittene Android-Entwicklung" - Max Wielsch
@@ -1698,9 +1698,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Aufbauend auf dem letzten Beitrag der Java
  /muxmax/JugGrNotesApp">Beispiel-Code</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:15e31de1-3de1-4778-a24a-8ca656cd4020
+UID:30377a25-de4f-4ec2-b787-31469245b35d
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20150325T180000Z
 DTEND:20150325T210000Z
 SUMMARY:Vortrag "Einstieg in die Android-App-Entwicklung" - Max Wielsch
@@ -1725,9 +1725,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Smartphones und Apps sind für viele Mensc
  -Code</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:e453ce31-cbb0-4783-9eec-9117e4dcb9f1
+UID:6700c079-d1b2-4628-9965-048916b943a3
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20150128T180000Z
 DTEND:20150128T210000Z
 SUMMARY:Vortrag "MoSKito - Monitoring Framework" - Steffen Seidler
@@ -1754,9 +1754,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Es wird immer wichtiger WebAnwendungen üb
  interessant sein.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:70f98caf-bcd3-435a-984c-af2a1b268da3
+UID:12328f2a-2518-41b8-99b0-64066729b065
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20141203T180000Z
 DTEND:20141203T210000Z
 SUMMARY:Vortrag "Model-View-*: UI-Design-Patterns im Detail" - Manuel Mauk
@@ -1791,9 +1791,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die meisten Softwareentwickler haben irgen
  github.com/lestard/juggr_model-view-star">Code auf Github</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:ac5933ac-aa06-4721-afb5-6c9c8b39a37a
+UID:5f013efd-c80d-4d9e-a188-623507bae3b9
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20141029T180000Z
 DTEND:20141029T210000Z
 SUMMARY:Vortrag "Infrastructure as Code" - Bruno Devic
@@ -1822,9 +1822,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Infrastructure as Code is one of the impor
  emo.zip">Demos</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:1a1077cf-aa12-4001-b543-119212914c96
+UID:27981980-0f75-49bc-ba6b-154e44f05321
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20140924T170000Z
 DTEND:20140924T200000Z
 SUMMARY:Vortrag "Solr - Eine Enterprise-Suchmaschine" - Steffen Seidler
@@ -1849,9 +1849,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Solr ist ein mächtiges Werkzeug um strukt
  rden.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:0d02b64f-2509-4e1d-b24c-334a7e1da78d
+UID:71a49d76-b374-42a3-83d4-8d3e7f58311b
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20140730T170000Z
 DTEND:20140730T200000Z
 SUMMARY:Vortrag "Java8 - Streams und Lambdas" - Paul Weinhold
@@ -1875,9 +1875,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Seit April ist die neue Version 8 von Java
  loads/juggr_java8.pdf">Vortragsfolien</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:be9d2732-0367-4059-94e5-710c73a2056b
+UID:36fae2f2-4ce6-4086-9229-3e911f071ac5
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20140528T170000Z
 DTEND:20140528T200000Z
 SUMMARY:Vortrag "Hazelcast - Synchronisation von In-Memory-Daten" - Steffe
@@ -1897,9 +1897,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Hazelcast ist ein vielseitiges Framework z
  weiterer (Backup-)Knoten steigern.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:9e1a96fd-cef4-414b-a421-41850771ba31
+UID:4ab2a02e-8088-49bb-ac83-319ef0507f74
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20140402T170000Z
 DTEND:20140402T200000Z
 SUMMARY:Vortrag "Besser lesbare Unittests mit AssertJ" - Manuel Mauky
@@ -1936,9 +1936,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Damit Testgetriebene Entwicklung in der Pr
  arke Unittests schreiben zu können.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:1f6a77d4-ed67-4d8a-900f-ebc488cdf208
+UID:035c89ad-4700-4fcc-8758-966fa8d326da
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20140129T180000Z
 DTEND:20140129T210000Z
 SUMMARY:Vortrag "Tool-Integration im Softwareentwicklungsprozess" - Max Wi
@@ -1968,9 +1968,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Tool-Integration im Softwareentwicklungspr
   Architektur\nausgehend von einem Fallbeispiel erläutert wird.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:3e862daa-38a8-48ec-9791-3170519ac1a8
+UID:c375ded2-2aac-4072-bc81-c2264e45a49f
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20131127T180000Z
 DTEND:20131127T210000Z
 SUMMARY:Vortrag "Performance-Optimierung im Web" - Maik Wagner
@@ -1986,9 +1986,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Google und Microsoft haben Studien zum The
  nt sich also\, in die\nPerformance einer Webanwendung zu investieren.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:f9419de1-1d6d-486a-805c-5e310eb44aa3
+UID:00a03426-6b7d-441a-b453-a204bf0cbd4d
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20131030T180000Z
 DTEND:20131030T210000Z
 SUMMARY:Vortrag "Modernes App-Design am Beispiel von Android" - Max Wielsc
@@ -2009,9 +2009,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die Android-Plattform hat sich in den letz
  endbar sind.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:aa3c04dd-9b7e-4a4a-8611-87224f67b121
+UID:e6fc8ff7-5c3c-441d-9ee3-1b24c42007e8
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20130731T170000Z
 DTEND:20130731T200000Z
 SUMMARY:Vortrag "Persona - Werkzeug für die GUI-Entwicklung" - Marlene Kn
@@ -2028,9 +2028,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>In diesem Vortrag von <strong>Marlene Knoc
  li><a href="/downloads/juggr_personas.pdf">Vortragsfolien</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:ab0c124e-45b1-4942-9dc7-776c8786dae8
+UID:3bcd145f-7274-4550-a0ec-df9414f764ef
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20130529T170000Z
 DTEND:20130529T200000Z
 SUMMARY:Vortrag "JRuby - Ruby auf der Java VM" - Sebastian Schmeck
@@ -2051,9 +2051,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p><strong>Sebastian Schmeck</strong> von der
  >
 END:VEVENT
 BEGIN:VEVENT
-UID:2478d67e-3e39-40ce-bbd8-697cea52b40b
+UID:d9f1afa1-f52b-43bd-a7d2-79e391dc92e5
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20130327T180000Z
 DTEND:20130327T210000Z
 SUMMARY:Vortrag "Lego NXT-Roboter mit Java programmieren" - Erik Jähne
@@ -2071,9 +2071,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Dieses Mal dreht sich alles um Roboter. <s
  =1oIQh48fBDI">https://www.youtube.com/watch?v=1oIQh48fBDI</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:c2dfacc5-189b-404a-b447-df73451309a8
+UID:e6393677-0b77-4082-86bc-8bff3450cd35
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20121128T180000Z
 DTEND:20121128T210000Z
 SUMMARY:Vortrag "JavaFX 2" - Alexander Casall\, Michael Thiele
@@ -2093,9 +2093,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Als Vortragende konnten wir Alexander Casa
  https://github.com/sialcasa/jfxusergroup</a>)</li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:87c0833b-0929-4067-8cf8-783fb0e46f76
+UID:8b85553c-2909-4fdd-b6a2-75cc75e1d3dc
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20120926T170000Z
 DTEND:20120926T200000Z
 SUMMARY:Vortrag "JSR-303 BeanValidation" - Manuel Mauky
@@ -2120,9 +2120,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p><strong>Manuel Mauky</strong> stellt in se
  d/juggr_BeanValidation">Beispiel-Code</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:22577617-1592-4c94-8009-b3c618a1ee4a
+UID:d67cbbc7-eee4-4180-91af-2fb13f3152d5
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20120725T170000Z
 DTEND:20120725T200000Z
 SUMMARY:Vortrag "Selenium/Webdriver in der Praxis" - Maik Wagner
@@ -2134,9 +2134,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Selenium/webdriver - In Ergänzung zu der
  it praktischen\nBeispielen von Maik Wagner</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:ac63e1ef-703d-41cb-a362-a7509300a1ef
+UID:2c902689-0026-4514-93d4-a98b6e6e5ea5
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20120627T170000Z
 DTEND:20120627T200000Z
 SUMMARY:Vortrag "GridGain - Parallel Computing und Data Grid Anwendungen" 
@@ -2148,9 +2148,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>GridGain - ein Java-Framework für Paralle
  l Computing und Data Grid Anwendungen von Mario Reichel</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:3dc31f56-3f05-4107-9824-af905c879515
+UID:1ab008ee-d530-43fc-a0c0-b17855264c62
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20120530T170000Z
 DTEND:20120530T200000Z
 SUMMARY:Vortrag "JMonkeyEngine 3 - 3D-Applikationen in Java" - Hans Markwa
@@ -2162,9 +2162,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>JMonkeyEngine3 und im Allgemeinen 3D-Appli
  kationen in Java von Hans Markwart</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:2499148c-36ad-4898-8821-a8644d75cce1
+UID:8d369334-316e-48dc-89d4-0de9520740ec
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20120425T170000Z
 DTEND:20120425T200000Z
 SUMMARY:Vortrag "Maven" - Thomas Storch
@@ -2175,9 +2175,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p><strong>maven</strong> von Thomas Storch</
  ownloads/code_maven.zip">Beispiel-Code</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:39bc368b-66bb-4d48-8ea2-05f476727dfc
+UID:9ff99c4d-1e6e-4603-a5a1-087baa363f0b
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20120328T170000Z
 DTEND:20120328T200000Z
 SUMMARY:Vortrag "Webtests mit Selenium" - Marcus Döring
@@ -2187,9 +2187,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p><strong>Webtests mit Selenium</strong> von
   Marcus Döring</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:9edf46bb-ee8c-4bf3-aa55-0ea57ed81dbb
+UID:704a5c0c-686c-4500-9bbb-d2b2185b3a30
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20120229T180000Z
 DTEND:20120229T210000Z
 SUMMARY:Vortrag "Webentwicklung mit Scala" - Stefan Bradl
@@ -2199,9 +2199,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p><strong>Webentwicklung mit Scala</strong>
  von Stefan Bradl</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:3f56a2b6-d19c-4435-8131-3353ec50afb5
+UID:ed5db3bf-c934-408b-ae90-51ee816ded48
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20120125T180000Z
 DTEND:20120125T210000Z
 SUMMARY:Vortrag "Advanced JSF und CDI" - Manuel Mauky
@@ -2222,9 +2222,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Dieser Vortrag baut auf den Vortrag zur <a
   einander entkoppelt werden können.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:6a2cb775-1677-4e5b-a82a-2b580c936d4b
+UID:7104ded4-cb42-420d-9612-9f0a94518f4c
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20120104T180000Z
 DTEND:20120104T210000Z
 SUMMARY:Vortrag "JPA - Hibernate" - Marko Modsching
@@ -2237,9 +2237,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p><strong>JPA - Hibernate</strong> von Marko
  downloads/code_hibernate.zip">Beispiel-Code</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:853bccb3-b4c6-45f3-aced-08a06ef098a9
+UID:7f2fe36a-1f1d-4c79-8faf-ae2823c824d6
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20111130T180000Z
 DTEND:20111130T210000Z
 SUMMARY:Vortrag "JavaServer Faces 2 und CDI" - Manuel Mauky
@@ -2263,9 +2263,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Der Vortrag bietet eine Einführung in <st
  jsf_cdi">Code auf github</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:5c0ed307-bac1-4819-91f4-90d85fc7c02d
+UID:07b7a7f8-9b79-4c84-953f-0fc481ec38bd
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20111026T170000Z
 DTEND:20111026T200000Z
 SUMMARY:Vortrag "Android" - Max Wielsch
@@ -2285,9 +2285,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Mit einem Vortrag und der Programmierung e
  -vortrag-in-der-java-user.html">Blog</a> heruntergeladen werden.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:c177055c-c424-49fa-98bd-74dad24912ff
+UID:0ec55d87-0292-459b-902e-be15836fd0b1
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20110928T170000Z
 DTEND:20110928T200000Z
 SUMMARY:Vortrag "JDOM" - Mark Ziener
@@ -2298,9 +2298,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>JDOM- Einlesen\, Verändern und Erzeugen v
  on XML-Dokumenten (Mark Ziener)</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:6de0f63d-ec4b-4875-9746-219b8027a48a
+UID:75b1be32-4922-46a2-97a5-868783174499
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20110928T170000Z
 DTEND:20110928T200000Z
 SUMMARY:Vortrag "Single Sign-On mit JAAS und JGSS" - Mario Reichel
@@ -2311,9 +2311,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Vom Single Sign-On zum sicheren Kanal - Au
  thentifizierung und Autorisierung mit JAAS und JGSS (Mario Reichel)</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:94b38668-b4ea-4fa5-aae9-323efc575a16
+UID:5a3203dd-288c-4655-b4f0-659738061d5a
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20110831T170000Z
 DTEND:20110831T200000Z
 SUMMARY:Vortrag "Testen - Patterns und Best Practices" - Marko Modsching
@@ -2324,9 +2324,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Das Thema wird diesmal Testen sein. Marko
  Modsching wird Testpatterns und Best Practices vorstellen</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:7dd54f60-cf40-4772-a473-9d598c6a8910
+UID:08546963-0843-4e33-a350-cd710ef8000e
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20110727T170000Z
 DTEND:20110727T200000Z
 SUMMARY:Vortrag "Scala" - Stefan Bradl
@@ -2339,9 +2339,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Scala - Vorstellung der Sprache\, Demo und
   href="/downloads/code_scala.zip">Beispiel-Code</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:6c941544-5cf2-4e29-8a50-30767f462ac2
+UID:9866fea7-1669-4e95-87c6-3f4beda4898b
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20110727T170000Z
 DTEND:20110727T200000Z
 SUMMARY:Vortrag "TestNG" - Marcus Döring
@@ -2350,9 +2350,9 @@ DESCRIPTION:TestNG (Marcus Döring)
 X-ALT-DESC;FMTTYPE=text/html:<p>TestNG (Marcus Döring)</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:17b44672-06e5-4601-b6a9-907a53c605e4
+UID:cb802640-82db-4221-9fa7-6735f9e04ab3
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20110629T170000Z
 DTEND:20110629T200000Z
 SUMMARY:Vortrag "JavaEE und JBoss" - Michael Förster
@@ -2364,9 +2364,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Diesmal stellt Michael Förster Java EE vo
  ele\ngeben.</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:868c6f7e-d93b-43b5-a0a0-95f11abcad01
+UID:e50c0721-4d77-4f0a-9678-f4b0cc0740ba
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20110527T170000Z
 DTEND:20110527T200000Z
 SUMMARY:Vortrag "Google Guice" - Robert Wirbs
@@ -2377,9 +2377,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Google Guice - Dependency Injection (DI) u
  nd Aspect-Orientierte Programmierung (AOP) von Robert Wirbs</p>
 END:VEVENT
 BEGIN:VEVENT
-UID:4b45a49f-3bfe-4029-ae80-0d13daec8af9
+UID:ea8a1735-3e0b-4a3d-b029-45fbe7dfc028
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20110427T170000Z
 DTEND:20110427T200000Z
 SUMMARY:Vortrag "OSGi mit SpringDM" - Manuel Mauky
@@ -2401,9 +2401,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>Die OSGi beschreibt eine spezifikation\, a
  ing_dm.pdf">Vortragsfolien</a></li>\n</ul>
 END:VEVENT
 BEGIN:VEVENT
-UID:6365a14d-28bf-4d95-85dd-bf5bc54c9734
+UID:e6a58f6d-58c9-4b00-8e1f-a2c269aeae54
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20110427T170000Z
 DTEND:20110427T200000Z
 SUMMARY:Vortrag "GWT - Google Web Toolkit" - Ingo Körner
@@ -2413,24 +2413,9 @@ X-ALT-DESC;FMTTYPE=text/html:<p>GWT - Google Web Toolkit (Ingo Körner)</p
  >
 END:VEVENT
 BEGIN:VEVENT
-UID:165a5806-c394-4ca8-9028-f9eb2d7967a7
+UID:0aa357d8-2283-4823-ae13-050c7d49109e
 SEQUENCE:0
-DTSTAMP:20260610T100537Z
-DTSTART:20110322T180000Z
-DTEND:20110322T210000Z
-SUMMARY:Vortrag "EasyMock" - Richard Hauswald
-LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
-DESCRIPTION:EasyMock - Was ist ein Mock?\, Warum sollte ich mocken? Was is
- t EasyMock? Wie kann ich es\nbenutzen? All diese Fragen werden in der…
-X-ALT-DESC;FMTTYPE=text/html:<p><a href="http://easymock.org/">EasyMock</a
- > - Was ist ein Mock?\, Warum sollte ich mocken? Was ist EasyMock? Wie kan
- n ich es\nbenutzen? All diese Fragen werden in der Präsentation beantwort
- et.</p>
-END:VEVENT
-BEGIN:VEVENT
-UID:c4f2900a-3124-439e-b00a-4069d5d6642b
-SEQUENCE:0
-DTSTAMP:20260610T100537Z
+DTSTAMP:20260610T172203Z
 DTSTART:20110322T180000Z
 DTEND:20110322T210000Z
 SUMMARY:Vortrag "Jenkins/Hudson" - Stefan Scheumann
@@ -2448,5 +2433,20 @@ X-ALT-DESC;FMTTYPE=text/html:<p><a href="http://hudson-ci.org/">Hudson</a>
  ben werden können.</p>\n<p>Im Vortrag werden die Begriffe "Build Manageme
  nt" und "Continuous Integration" näher erleutert und am konkreten Beispie
  l\nvon Jenkins gezeigt\, wie dies in der Praxis umgesetzt werden kann.</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:a3250bbd-3682-4452-aede-47d6694e6528
+SEQUENCE:0
+DTSTAMP:20260610T172203Z
+DTSTART:20110322T180000Z
+DTEND:20110322T210000Z
+SUMMARY:Vortrag "EasyMock" - Richard Hauswald
+LOCATION:Hochschule Zittau/Görlitz\nObermarkt 17\,02826 Görlitz
+DESCRIPTION:EasyMock - Was ist ein Mock?\, Warum sollte ich mocken? Was is
+ t EasyMock? Wie kann ich es\nbenutzen? All diese Fragen werden in der…
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="http://easymock.org/">EasyMock</a
+ > - Was ist ein Mock?\, Warum sollte ich mocken? Was ist EasyMock? Wie kan
+ n ich es\nbenutzen? All diese Fragen werden in der Präsentation beantwort
+ et.</p>
 END:VEVENT
 END:VCALENDAR
