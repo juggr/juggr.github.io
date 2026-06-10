@@ -3,6 +3,7 @@ title: "Was du nicht siehst, wird dich später einholen: Observability für Entw
 date: 2026-06-29
 speaker: [ nora_schoener ]
 tags: [ architektur, infrastructure]
+location: hochschule_campus_r210
 ---
 
 
