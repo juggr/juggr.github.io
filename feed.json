@@ -9,7 +9,7 @@
             "content_html": "<p>Software-Anwendungen sind längst nicht mehr einfach oder überschaubar. Sie sind verteilt, dynamisch und verändern sich\nständig. Damit wächst auch die Herausforderung, ihre Stabilität und Performance zuverlässig sicherzustellen. Ohne\numfassende Observability wird es für Entwickler:innen schwierig, Probleme frühzeitig zu erkennen und gezielt zu beheben.\nIn diesem Vortrag zeige ich dir, warum Observability heute nicht nur ein Thema für den Betrieb, sondern ein zentraler\nBestandteil moderner Softwareentwicklung ist. Anhand praktischer Beispiele erkläre ich, wie Entwickler:innen ihre\nAnwendungen besser verstehen und somit robuster zu machen.\nNeben typischen Fallstricken aus der Praxis gibt's konkrete Tipps, wie sich Observability-Komponenten wie Metriken, Logs\nund Traces integrieren lassen. Am Ende wissen die Teilnehmenden: Wer früh auf Observability setzt, spart später viel\nZeit, Nerven und Ärger.</p>",
             "url": "https://jug-gr.de/talks/2026-06-29-observability/",
             "title": "Was du nicht siehst, wird dich später einholen: Observability für Entwickler:innen",
-            "summary": "\n      <h1>Was du nicht siehst, wird dich später einholen: Observability für Entwickler:innen</h1>\n      <p>Date: June 29, 2026, 19:00 Uhr</p>\n      <p>Speakers: Nora Schöner</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",
+            "summary": "\n      <h1>Was du nicht siehst, wird dich später einholen: Observability für Entwickler:innen</h1>\n      <p>Date: June 29, 2026, 19:00 Uhr</p>\n      <p>Speakers: Nora Schöner</p>\n      <p>Location:</p>\n      <address>\n        Hochschule Zittau/Görlitz\n        <br />\n        Brückenstraße 1\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2026-06-29T00:00:00.000Z"
         },
         {
@@ -465,7 +465,7 @@
             "content_html": "<p>JavaFX ist die neue Java-Technologie im Desktop-Bereich und somit die Ablösung von Swing. Damit ist es möglich\nJava-Anwendungen für Desktop, Browser und mobile Geräte zu entwickeln. Allerdings bietet Oracle keinen direkten Support\nfür mobile Endgeräte an, sondern überlässt dies der Community.</p>\n<p>In dem Vortrag geht es um den Aktuellen Stand der Entwicklung in diesem Bereich. Was muss gemacht werden, um eine\nJavaFX-Anwendung auf einem Smartphone zum laufen zu bekommen und welche Grenzen hat dieser Ansatz für die Entwicklung\nvon mobilen Anwendungen mit JavaFX.</p>\n<p>Einen weiteren Ansatz verfolgt die Firma <a href=\"http://gluonhq.com/\">Gluon</a> zum Erstellen von mobilen Anwendungen auf JavaFX.\nEine gemeinsame Code-Basis für IOS- und Android-Anwendungen basierend auf JavaFX. Was derzeit damit möglich ist wird\nebenfalls Inhalt des Vortrages sein.</p>\n<p>Abschließend wird unser Ansatz für mobile Anwendungen in JavaFX vorgestellt. Mittels des MVVM-Pattern in Kombination mit\nJavaFX-Ports. Vorgestellt wird der aktuelle Entwicklungsstand mit einer offenen Diskussion über Vor- und Nachteile des\nAnsatzes.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_javafx_on_mobile.pdf\">Vortragsfolien</a></li>\n</ul>",
             "url": "https://jug-gr.de/talks/2015-11-25-javafx-mobile/",
             "title": "JavaFX auf Mobile",
-            "summary": "\n      <h1>JavaFX auf Mobile</h1>\n      <p>Date: November 25, 2015, 19:00 Uhr</p>\n      <p>Speakers: Stefan Barth, Stefan Heinze</p>\n      <p>Location:</p>\n      <address>\n        Saxonia Systems AG\n        <br />\n        Berliner Straße 63\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "summary": "\n      <h1>JavaFX auf Mobile</h1>\n      <p>Date: November 25, 2015, 19:00 Uhr</p>\n      <p>Speakers: Stefan Heinze, Stefan Barth</p>\n      <p>Location:</p>\n      <address>\n        Saxonia Systems AG\n        <br />\n        Berliner Straße 63\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2015-11-25T00:00:00.000Z"
         },
         {
@@ -757,19 +757,19 @@
             "date_modified": "2011-05-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-04-27-gwt/",
-            "content_html": "<p>GWT - Google Web Toolkit (Ingo Körner)</p>",
-            "url": "https://jug-gr.de/talks/2011-04-27-gwt/",
-            "title": "GWT - Google Web Toolkit",
-            "summary": "\n      <h1>GWT - Google Web Toolkit</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Ingo Körner</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-04-27T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
             "content_html": "<p>Die OSGi beschreibt eine spezifikation, auf deren Basis Software Modular entwickelt werden kann. Die einzelnen Module\nsind in sich geschlossene Einheiten mit einem klaren Interface, welches einerseits ihre angebotene Funktionalität inf\nForm von Services beschreibt und andererseits die Abhängigkeiten auf Services anderer Module enthält.</p>\n<p>Spring-DM (DM steht für Dynamic Modules) ist eine auf OSGi basierende Plattform, die OSGi mit den Vorteilen von Spring,\nallen voran Dependency Injection, verbindet.</p>\n<p>Im Vortrag wird neben den theoretischen Grundlagen vor allem an praktischen Beispielen inklusive Live-Coding gezeigt,\nwie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch zur Laufzeit getauscht werden können.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_osgi_spring_dm.pdf\">Vortragsfolien</a></li>\n</ul>",
             "url": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
             "title": "OSGi mit SpringDM",
             "summary": "\n      <h1>OSGi mit SpringDM</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-04-27T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-04-27-gwt/",
+            "content_html": "<p>GWT - Google Web Toolkit (Ingo Körner)</p>",
+            "url": "https://jug-gr.de/talks/2011-04-27-gwt/",
+            "title": "GWT - Google Web Toolkit",
+            "summary": "\n      <h1>GWT - Google Web Toolkit</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Ingo Körner</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-04-27T00:00:00.000Z"
         },
         {
