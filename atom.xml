@@ -2,11 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jug-gr.de/</id>
     <title/>
-    <updated>2026-06-10T17:22:03.053Z</updated>
+    <updated>2026-09-02T08:20:53.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jug-gr.de/"/>
     <link rel="self" href="https://jug-gr.de/atom.xml"/>
     <rights>CC-0</rights>
+    <entry>
+        <title type="html"><![CDATA[Walking Skeleton - Softwarearchitektur ohne Fleisch?]]></title>
+        <id>https://jug-gr.de/talks/2026-09-24-walking-skeleton/</id>
+        <link href="https://jug-gr.de/talks/2026-09-24-walking-skeleton/"/>
+        <updated>2026-09-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>Walking Skeleton - Softwarearchitektur ohne Fleisch?</h1>
+      <p>Date: September 24, 2026, 19:00 Uhr</p>
+      <p>Speakers: Falk Sippach</p>
+      <p>Location:</p>
+      wird noch bekannt gegeben
+  ]]></summary>
+        <content type="html"><![CDATA[<p>In den agilen Vorgehensweisen wird Softwarearchitektur iterativ
+inkrementell im Rahmen der Architekturvision entworfen und
+weiterentwickelt. Dabei empfiehlt sich ein risikobasiertes Vorgehen.
+Es wird versucht, die risikoreichen Ansätze möglichst früh zu
+verproben um so wertvolles Feedback zu sammeln und zeitnah
+nachjustieren zu können. Mit dem Walking Skeleton hat Alistair
+Cockburn dazu ein Konzept vorgestellt. Es umfasst es alle
+grundlegenden Elemente, die für die Entwicklung, die Auslieferung und
+den Betrieb eines Softwaresystems erforderlich sind. Dazu zählen neben
+der Entwicklungs- und Betriebsinfrastruktur auch die
+Integrationspunkte und grundlegende Architekturkonzepte.</p>
+<p>Wir diskutieren die Vorteile und die Herausforderungen dieses Patterns
+und erarbeiten die Unterschiede zu einem MVP (Minimum Viable Product),
+Prototyp sowie Durchstich. Außerdem betrachten wir das Zusammenspiel
+mit anderen Vorgehensmustern in der agilen Architekturarbeit wie
+Architekturvision, letzter vernünftiger Moment und qualitative Tests.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Was du nicht siehst, wird dich später einholen: Observability für Entwickler:innen]]></title>
         <id>https://jug-gr.de/talks/2026-06-29-observability/</id>
@@ -2612,6 +2641,26 @@ geben.</p>]]></content>
         <content type="html"><![CDATA[<p>Google Guice - Dependency Injection (DI) und Aspect-Orientierte Programmierung (AOP) von Robert Wirbs</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GWT - Google Web Toolkit]]></title>
+        <id>https://jug-gr.de/talks/2011-04-27-gwt/</id>
+        <link href="https://jug-gr.de/talks/2011-04-27-gwt/"/>
+        <updated>2011-04-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+      <h1>GWT - Google Web Toolkit</h1>
+      <p>Date: April 27, 2011, 19:00 Uhr</p>
+      <p>Speakers: Ingo Körner</p>
+      <p>Location:</p>
+      <address>
+        DSER
+        <br />
+        Steinstraße 11
+        <br />
+        02826 Görlitz
+      </address>
+  ]]></summary>
+        <content type="html"><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OSGi mit SpringDM]]></title>
         <id>https://jug-gr.de/talks/2011-04-27-osgi_springdm/</id>
         <link href="https://jug-gr.de/talks/2011-04-27-osgi_springdm/"/>
@@ -2640,26 +2689,6 @@ wie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch z
 <ul>
 <li><a href="/downloads/juggr_osgi_spring_dm.pdf">Vortragsfolien</a></li>
 </ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GWT - Google Web Toolkit]]></title>
-        <id>https://jug-gr.de/talks/2011-04-27-gwt/</id>
-        <link href="https://jug-gr.de/talks/2011-04-27-gwt/"/>
-        <updated>2011-04-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[
-      <h1>GWT - Google Web Toolkit</h1>
-      <p>Date: April 27, 2011, 19:00 Uhr</p>
-      <p>Speakers: Ingo Körner</p>
-      <p>Location:</p>
-      <address>
-        DSER
-        <br />
-        Steinstraße 11
-        <br />
-        02826 Görlitz
-      </address>
-  ]]></summary>
-        <content type="html"><![CDATA[<p>GWT - Google Web Toolkit (Ingo Körner)</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jenkins/Hudson]]></title>

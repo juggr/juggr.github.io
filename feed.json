@@ -5,6 +5,14 @@
     "feed_url": "https://jug-gr.de/feed.json",
     "items": [
         {
+            "id": "https://jug-gr.de/talks/2026-09-24-walking-skeleton/",
+            "content_html": "<p>In den agilen Vorgehensweisen wird Softwarearchitektur iterativ\ninkrementell im Rahmen der Architekturvision entworfen und\nweiterentwickelt. Dabei empfiehlt sich ein risikobasiertes Vorgehen.\nEs wird versucht, die risikoreichen Ansätze möglichst früh zu\nverproben um so wertvolles Feedback zu sammeln und zeitnah\nnachjustieren zu können. Mit dem Walking Skeleton hat Alistair\nCockburn dazu ein Konzept vorgestellt. Es umfasst es alle\ngrundlegenden Elemente, die für die Entwicklung, die Auslieferung und\nden Betrieb eines Softwaresystems erforderlich sind. Dazu zählen neben\nder Entwicklungs- und Betriebsinfrastruktur auch die\nIntegrationspunkte und grundlegende Architekturkonzepte.</p>\n<p>Wir diskutieren die Vorteile und die Herausforderungen dieses Patterns\nund erarbeiten die Unterschiede zu einem MVP (Minimum Viable Product),\nPrototyp sowie Durchstich. Außerdem betrachten wir das Zusammenspiel\nmit anderen Vorgehensmustern in der agilen Architekturarbeit wie\nArchitekturvision, letzter vernünftiger Moment und qualitative Tests.</p>",
+            "url": "https://jug-gr.de/talks/2026-09-24-walking-skeleton/",
+            "title": "Walking Skeleton - Softwarearchitektur ohne Fleisch?",
+            "summary": "\n      <h1>Walking Skeleton - Softwarearchitektur ohne Fleisch?</h1>\n      <p>Date: September 24, 2026, 19:00 Uhr</p>\n      <p>Speakers: Falk Sippach</p>\n      <p>Location:</p>\n      wird noch bekannt gegeben\n  ",
+            "date_modified": "2026-09-24T00:00:00.000Z"
+        },
+        {
             "id": "https://jug-gr.de/talks/2026-06-29-observability/",
             "content_html": "<p>Software-Anwendungen sind längst nicht mehr einfach oder überschaubar. Sie sind verteilt, dynamisch und verändern sich\nständig. Damit wächst auch die Herausforderung, ihre Stabilität und Performance zuverlässig sicherzustellen. Ohne\numfassende Observability wird es für Entwickler:innen schwierig, Probleme frühzeitig zu erkennen und gezielt zu beheben.\nIn diesem Vortrag zeige ich dir, warum Observability heute nicht nur ein Thema für den Betrieb, sondern ein zentraler\nBestandteil moderner Softwareentwicklung ist. Anhand praktischer Beispiele erkläre ich, wie Entwickler:innen ihre\nAnwendungen besser verstehen und somit robuster zu machen.\nNeben typischen Fallstricken aus der Praxis gibt's konkrete Tipps, wie sich Observability-Komponenten wie Metriken, Logs\nund Traces integrieren lassen. Am Ende wissen die Teilnehmenden: Wer früh auf Observability setzt, spart später viel\nZeit, Nerven und Ärger.</p>",
             "url": "https://jug-gr.de/talks/2026-06-29-observability/",
@@ -757,19 +765,19 @@
             "date_modified": "2011-05-27T00:00:00.000Z"
         },
         {
-            "id": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
-            "content_html": "<p>Die OSGi beschreibt eine spezifikation, auf deren Basis Software Modular entwickelt werden kann. Die einzelnen Module\nsind in sich geschlossene Einheiten mit einem klaren Interface, welches einerseits ihre angebotene Funktionalität inf\nForm von Services beschreibt und andererseits die Abhängigkeiten auf Services anderer Module enthält.</p>\n<p>Spring-DM (DM steht für Dynamic Modules) ist eine auf OSGi basierende Plattform, die OSGi mit den Vorteilen von Spring,\nallen voran Dependency Injection, verbindet.</p>\n<p>Im Vortrag wird neben den theoretischen Grundlagen vor allem an praktischen Beispielen inklusive Live-Coding gezeigt,\nwie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch zur Laufzeit getauscht werden können.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_osgi_spring_dm.pdf\">Vortragsfolien</a></li>\n</ul>",
-            "url": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
-            "title": "OSGi mit SpringDM",
-            "summary": "\n      <h1>OSGi mit SpringDM</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
-            "date_modified": "2011-04-27T00:00:00.000Z"
-        },
-        {
             "id": "https://jug-gr.de/talks/2011-04-27-gwt/",
             "content_html": "<p>GWT - Google Web Toolkit (Ingo Körner)</p>",
             "url": "https://jug-gr.de/talks/2011-04-27-gwt/",
             "title": "GWT - Google Web Toolkit",
             "summary": "\n      <h1>GWT - Google Web Toolkit</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Ingo Körner</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
+            "date_modified": "2011-04-27T00:00:00.000Z"
+        },
+        {
+            "id": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
+            "content_html": "<p>Die OSGi beschreibt eine spezifikation, auf deren Basis Software Modular entwickelt werden kann. Die einzelnen Module\nsind in sich geschlossene Einheiten mit einem klaren Interface, welches einerseits ihre angebotene Funktionalität inf\nForm von Services beschreibt und andererseits die Abhängigkeiten auf Services anderer Module enthält.</p>\n<p>Spring-DM (DM steht für Dynamic Modules) ist eine auf OSGi basierende Plattform, die OSGi mit den Vorteilen von Spring,\nallen voran Dependency Injection, verbindet.</p>\n<p>Im Vortrag wird neben den theoretischen Grundlagen vor allem an praktischen Beispielen inklusive Live-Coding gezeigt,\nwie mit Spring-DM und OSGi lose gekoppelte Module erstellt und diese dynamisch zur Laufzeit getauscht werden können.</p>\n<p><strong>Materialien:</strong></p>\n<ul>\n<li><a href=\"/downloads/juggr_osgi_spring_dm.pdf\">Vortragsfolien</a></li>\n</ul>",
+            "url": "https://jug-gr.de/talks/2011-04-27-osgi_springdm/",
+            "title": "OSGi mit SpringDM",
+            "summary": "\n      <h1>OSGi mit SpringDM</h1>\n      <p>Date: April 27, 2011, 19:00 Uhr</p>\n      <p>Speakers: Manuel Mauky</p>\n      <p>Location:</p>\n      <address>\n        DSER\n        <br />\n        Steinstraße 11\n        <br />\n        02826 Görlitz\n      </address>\n  ",
             "date_modified": "2011-04-27T00:00:00.000Z"
         },
         {
