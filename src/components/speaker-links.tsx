@@ -10,7 +10,7 @@ export function SpeakerLinks({ frontmatter }: { frontmatter: SpeakerFrontMatter 
     <ul className="list-unstyled" style={{ marginLeft: "0" }}>
       {frontmatter.mastodon && (
         <li>
-          <a href={frontmatter.mastodon}>
+          <a target="_blank" href={frontmatter.mastodon}>
             <FontAwesomeIcon icon={faMastodon} /> Mastodon
           </a>
         </li>
@@ -18,7 +18,7 @@ export function SpeakerLinks({ frontmatter }: { frontmatter: SpeakerFrontMatter 
 
       {frontmatter.linkedin && (
         <li>
-          <a href={frontmatter.linkedin}>
+          <a target="_blank" href={frontmatter.linkedin}>
             <FontAwesomeIcon icon={faLinkedin} /> Linkedin
           </a>
         </li>
@@ -26,7 +26,7 @@ export function SpeakerLinks({ frontmatter }: { frontmatter: SpeakerFrontMatter 
 
       {frontmatter.blog && (
         <li>
-          <a href={frontmatter.blog}>
+          <a target="_blank" href={frontmatter.blog}>
             <FontAwesomeIcon icon={faPencil} /> Blog
           </a>
         </li>
@@ -34,7 +34,7 @@ export function SpeakerLinks({ frontmatter }: { frontmatter: SpeakerFrontMatter 
 
       {frontmatter.github && (
         <li>
-          <a href={frontmatter.github}>
+          <a target="_blank" href={frontmatter.github}>
             <FontAwesomeIcon icon={faGithub} /> Github
           </a>
         </li>
