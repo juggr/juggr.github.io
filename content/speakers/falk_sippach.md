@@ -1,5 +1,8 @@
 ---
 name: Falk Sippach
+pic: ../images/persons/falk_sippach.jpg
+mastodon: https://ijug.social/@sippsack
+linkedin: https://linkedin.com/in/falk-sippach
 ---
 
 Falk Sippach ist bei der embarc Software Consulting GmbH als
