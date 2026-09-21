@@ -2,7 +2,10 @@
 title: "Walking Skeleton - Softwarearchitektur ohne Fleisch?"
 date: 2026-09-24
 speaker: [ falk_sippach ]
+poster: ../images/posters/plakat_2026_09.png
+poster_alt: "Poster: Jürgen trägt einen Skelettanzug und eine gruselige Maske, sodass er wie ein laufendes Skelett aussieht."
 tags: [ architektur ]
+location: dza
 ---
 
 In den agilen Vorgehensweisen wird Softwarearchitektur iterativ
