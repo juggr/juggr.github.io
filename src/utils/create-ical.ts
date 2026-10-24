@@ -146,7 +146,7 @@ export const createIcal = ({
       const { excerpt, html } = talk
       const { title, date, time, location, speaker, virtual } = talk.frontmatter
 
-      const speakerNodes = speakers.filter((s) => speaker.includes(s.fields.speakerId))
+      const speakerNodes = speaker ? speakers.filter((s) => speaker.includes(s.fields.speakerId)) : []
 
       const start = createDate(date, time ?? "19:00")
       if (!start.isValid) {

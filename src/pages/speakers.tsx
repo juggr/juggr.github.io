@@ -11,7 +11,7 @@ const SpeakersPage = ({ data }) => {
   const allTalks = data.talks.edges.map((edge) => edge.node)
 
   const speakersWithTalks = speakers.map((speaker) => {
-    const talksOfSpeaker = R.filter((talk) => talk.frontmatter.speaker.includes(speaker.fields.speakerId))(allTalks)
+    const talksOfSpeaker = R.filter((talk) => (talk.frontmatter.speaker ?? []).includes(speaker.fields.speakerId))(allTalks)
 
     return { ...speaker, talks: talksOfSpeaker }
   })
