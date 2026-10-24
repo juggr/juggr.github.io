@@ -80,7 +80,12 @@ const Headline = ({ talk, linkToDetailsPage }) => {
 const TalkContent = ({ talk, speakerList, location, linkToDetailsPage }) => (
   <>
     <Headline talk={talk} linkToDetailsPage={linkToDetailsPage} />
-    <SpeakerHeadline speakerList={speakerList} /> | {formatDate(talk.frontmatter.date)}
+    {speakerList.length > 0 && (
+      <>
+        <SpeakerHeadline speakerList={speakerList} /> |
+      </>
+    )}
+    {formatDate(talk.frontmatter.date)}
     <p>
       <TagsLine tags={talk.frontmatter.tags} />
     </p>
@@ -97,11 +102,15 @@ const TalkContent = ({ talk, speakerList, location, linkToDetailsPage }) => (
         </Link>
       )}
 
-      <hr />
+      {speakerList.length > 0 && (
+        <>
+          <hr />
 
-      {speakerList.map((speaker) => (
-        <SpeakerProfile key={speaker.id} speaker={speaker} />
-      ))}
+          {speakerList.map((speaker) => (
+            <SpeakerProfile key={speaker.id} speaker={speaker} />
+          ))}
+        </>
+      )}
 
       <hr />
 
@@ -119,7 +128,9 @@ const TalkContent = ({ talk, speakerList, location, linkToDetailsPage }) => (
       <br />
       <p>
         Die Veranstaltung wird durch die <i>Java User Group Görlitz</i> (im{" "}
-        <a href="http://www.ijug.eu/">iJUG Verband</a>) organisiert. <br />Die Java User Group Görlitz ist ein Projekt des <a href="https://digitale-oberlausitz.eu">Digitale Oberlausitz e.V.</a>
+        <a href="http://www.ijug.eu/">iJUG Verband</a>) organisiert. <br />
+        Die Java User Group Görlitz ist ein Projekt des{" "}
+        <a href="https://digitale-oberlausitz.eu">Digitale Oberlausitz e.V.</a>
       </p>
     </article>
   </>

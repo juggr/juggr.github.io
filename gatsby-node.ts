@@ -163,7 +163,7 @@ const createTalkPages = async ({ createPage, graphql, createRedirect }) => {
       component: path.resolve("./src/templates/talk-page.tsx"),
       context: {
         slug: node.fields.slug,
-        speakerSlugs: node.frontmatter.speaker.map((speaker) => `/speakers/${speaker}/`),
+        speakerSlugs: (node.frontmatter.speaker ?? []).map((speaker) => `/speakers/${speaker}/`),
         locationSlug: `/locations/${node.frontmatter.location}/`,
       },
     })

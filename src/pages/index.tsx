@@ -44,7 +44,7 @@ const IndexPage = ({ data }) => {
 
     const { speakers, locations } = data
 
-    const allSpeakers = speakers.edges.map((edge) => edge.node)
+    const allSpeakers = speakers.edges.map((edge) => edge.node) ?? []
     const allLocations = locations.edges.map((edge) => edge.node)
 
     const location = R.filter((location) => location.fields.locationId === upcomingEvent.frontmatter.location)(

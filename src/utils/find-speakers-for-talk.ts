@@ -10,6 +10,9 @@ import * as R from "ramda"
  * @param talk a talk object
  */
 export const findSpeakersForTalk = ({ allSpeakers, talk }) => {
+  if(!talk.frontmatter.speaker) {
+    return []
+  }
   return R.innerJoin(
     (speaker, slug) => speaker.fields.slug === `/speakers/${slug}/`,
     allSpeakers,

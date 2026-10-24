@@ -54,7 +54,7 @@ const TalksPage = ({ data }) => {
                 </span>
                 {" | "}
                 <time dateTime={talk.frontmatter.date}>{formatDate(talk.frontmatter.date)}</time>
-                <p>von {speakersLine}</p>
+                {speakersOfTalk.length > 0 && <p>von {speakersLine}</p>}
               </div>
             </li>
           )
