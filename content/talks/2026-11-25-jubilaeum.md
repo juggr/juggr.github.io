@@ -1,6 +1,8 @@
 ---
 title: "Jubiläum - 100. Veranstaltung bei der JUG"
 date: 2026-11-25
+poster: ../images/posters/plakat_2026_11.png
+poster_alt: "Poster: Jürgen trägt einen Partyhut und eine große Geburtstagstorte mit Zahlenkerzen, die eine 100 zeigen."
 location: zeiss
 ---
 
