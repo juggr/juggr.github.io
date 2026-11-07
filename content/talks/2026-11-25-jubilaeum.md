@@ -10,7 +10,7 @@ haben wir deshalb etwas besonderes geplant. Wir wollen feiern, ein bisschen Zur�
 wird ein Quiz zum Mitmachen geben und natürlich Geburtstagskuchen.
 
 **Um besser planen zu können, tragt euch bitte in diese Termin-Umfrage ein:**
-[https://nuudel.digitalcourage.de/4zaIJT4oXsENIoZFLkRTWbCC/admin](https://nuudel.digitalcourage.de/4zaIJT4oXsENIoZF)
+https://nuudel.digitalcourage.de/4zaIJT4oXsENIoZF
 
 
 
